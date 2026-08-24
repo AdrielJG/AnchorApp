@@ -1,0 +1,908 @@
+from_stop,to_stop,line,mode,direction,median_travel_min,min_travel_min,max_travel_min,sample_count,from_node_id,to_node_id,edge_type,est_dist_km,est_fare_inr,canonical_interchange,from_line,to_line,edge_id,daily_trips,freq_per_hour,reliability_proxy
+AIROLI,Digha Gaon,Trans-Harbour Line,CR_Train,Up,3.0,3.0,3.0,131,N0158,N0154,in_vehicle,2.0,5,,,,E00001,131.0,7.28,0.216
+AIROLI,RABALE,Trans-Harbour Line,CR_Train,Down,3.0,3.0,4.0,131,N0158,N0162,in_vehicle,2.0,5,,,,E00002,131.0,7.28,0.216
+ANDHERI,BANDRA,Western Railway,WR_Train,Up,9.0,8.0,11.0,203,N0178,N0176,in_vehicle,6.0,10,,,,E00003,585.0,32.5,0.962
+ANDHERI,BORIVALI,Western Railway,WR_Train,Down,14.0,10.0,1425.0,188,N0178,N0181,in_vehicle,9.33,15,,,,E00004,608.0,33.78,1.0
+ANDHERI,Jogeshwari,Western Railway,WR_Train,Down,3.0,3.0,1437.0,336,N0178,N0190,in_vehicle,2.0,5,,,,E00005,608.0,33.78,1.0
+ANDHERI,Malad,Western Railway,WR_Train,Down,10.0,7.0,12.0,5,N0178,N0180,in_vehicle,6.67,15,,,,E00006,608.0,33.78,1.0
+ANDHERI,Vile Parle,Western Railway,WR_Train,Up,4.0,3.0,893.0,275,N0178,N0189,in_vehicle,2.67,5,,,,E00007,585.0,32.5,0.962
+Aarey (JVLR),Dindoshi,Metro Line 7 (Red),Metro,Up,2.0,2.0,2.0,134,N0148,N0150,in_vehicle,1.17,10,,,,E00008,134.0,7.44,0.22
+Aarey (JVLR),Goregaon East,Metro Line 7 (Red),Metro,Down,3.0,3.0,3.0,134,N0148,N0146,in_vehicle,1.75,10,,,,E00009,134.0,7.44,0.22
+Aarey JVLR,SEEPZ,Metro Line 3 (Aqua),Metro,Down,2.0,2.0,2.0,165,N0114,N0116,in_vehicle,1.17,10,,,,E00010,165.0,9.17,0.271
+Acharya Atre Chowk,Nehru Science Centre,Metro Line 3 (Aqua),Metro,Down,2.0,2.0,2.0,165,N0137,N0135,in_vehicle,1.17,10,,,,E00011,165.0,9.17,0.271
+Acharya Atre Chowk,Worli,Metro Line 3 (Aqua),Metro,Up,2.0,2.0,2.0,165,N0137,N0139,in_vehicle,1.17,10,,,,E00012,165.0,9.17,0.271
+Airport Road,Chakala (J.B. Nagar),Metro Line 1 (Blue),Metro,Up,2.0,2.0,1438.0,202,N0096,N0095,in_vehicle,1.17,10,,,,E00013,202.0,11.22,0.332
+Airport Road,Marol Naka,Metro Line 1 (Blue),Metro,Down,2.0,2.0,2.0,199,N0096,N0094,in_vehicle,1.17,10,,,,E00014,199.0,11.06,0.327
+Akurli,Kurar,Metro Line 7 (Red),Metro,Down,2.0,2.0,2.0,134,N0153,N0152,in_vehicle,1.17,10,,,,E00015,134.0,7.44,0.22
+Akurli,Poisar,Metro Line 7 (Red),Metro,Up,2.0,2.0,2.0,134,N0153,N0151,in_vehicle,1.17,10,,,,E00016,134.0,7.44,0.22
+Ambernath,Badlapur,Central Railway Main,CR_Train,Down,8.0,7.0,10.0,73,N0012,N0017,in_vehicle,5.33,10,,,,E00017,450.0,25.0,0.74
+Ambernath,Ulhas Nagar,Central Railway Main,CR_Train,Up,4.0,4.0,8.0,107,N0012,N0029,in_vehicle,2.67,5,,,,E00018,419.0,23.28,0.689
+Ambivli,Shahad,Central Railway Main,CR_Train,Up,3.0,3.0,4.0,73,N0031,N0030,in_vehicle,2.0,5,,,,E00019,419.0,23.28,0.689
+Ambivli,Titwala,Central Railway Main,CR_Train,Down,7.0,6.0,10.0,76,N0031,N0013,in_vehicle,4.67,10,,,,E00020,450.0,25.0,0.74
+Andheri,Azad Nagar,Metro Line 1 (Blue),Metro,Up,2.0,2.0,2.0,202,N0091,N0089,in_vehicle,1.17,10,,,,E00021,202.0,11.22,0.332
+Andheri,Jogeshwari,Harbour Line CSMT,CR_Train,Down,4.0,4.0,4.0,55,N0081,N0078,in_vehicle,2.67,5,,,,E00022,351.0,19.5,0.577
+Andheri,Vileparle,Harbour Line CSMT,CR_Train,Up,4.0,3.0,5.0,69,N0081,N0083,in_vehicle,2.67,5,,,,E00023,355.0,19.72,0.584
+Andheri,Western Express Highway,Metro Line 1 (Blue),Metro,Down,2.0,2.0,2.0,199,N0091,N0093,in_vehicle,1.17,10,,,,E00024,199.0,11.06,0.327
+Andheri West,Lower Juhu,Metro Line 2A (Yellow),Metro,Down,2.0,2.0,2.0,134,N0102,N0100,in_vehicle,1.17,10,,,,E00025,134.0,7.44,0.22
+Andheri West,Lower Oshiwara,Metro Line 2A (Yellow),Metro,Up,2.0,2.0,2.0,134,N0102,N0104,in_vehicle,1.17,10,,,,E00026,134.0,7.44,0.22
+Asalpha,Jagruti Nagar,Metro Line 1 (Blue),Metro,Down,2.0,2.0,2.0,199,N0090,N0088,in_vehicle,1.17,10,,,,E00027,199.0,11.06,0.327
+Asalpha,Saki Naka,Metro Line 1 (Blue),Metro,Up,2.0,2.0,2.0,202,N0090,N0092,in_vehicle,1.17,10,,,,E00028,202.0,11.22,0.332
+Asangaon,Atgaon,Central Railway Main,CR_Train,Down,9.0,9.0,9.0,18,N0014,N0044,in_vehicle,6.0,10,,,,E00029,450.0,25.0,0.74
+Asangaon,Vasind,Central Railway Main,CR_Train,Up,8.0,6.0,10.0,37,N0014,N0032,in_vehicle,5.33,10,,,,E00030,419.0,23.28,0.689
+Atgaon,Asangaon,Central Railway Main,CR_Train,Up,10.0,9.0,17.0,18,N0044,N0014,in_vehicle,6.67,15,,,,E00031,419.0,23.28,0.689
+Atgaon,Khardi,Central Railway Main,CR_Train,Down,10.0,10.0,10.0,18,N0044,N0015,in_vehicle,6.67,15,,,,E00032,450.0,25.0,0.74
+Azad Nagar,Andheri,Metro Line 1 (Blue),Metro,Down,2.0,2.0,2.0,199,N0089,N0091,in_vehicle,1.17,10,,,,E00033,199.0,11.06,0.327
+Azad Nagar,D.N. Nagar,Metro Line 1 (Blue),Metro,Up,2.0,2.0,2.0,202,N0089,N0087,in_vehicle,1.17,10,,,,E00034,202.0,11.22,0.332
+BANDRA,ANDHERI,Western Railway,WR_Train,Down,9.0,7.0,13.0,194,N0176,N0178,in_vehicle,6.0,10,,,,E00035,608.0,33.78,1.0
+BANDRA,DADAR,Western Railway,WR_Train,Up,6.0,5.0,1434.0,208,N0176,N0175,in_vehicle,4.0,10,,,,E00036,585.0,32.5,0.962
+BANDRA,Goregaon,Western Railway,WR_Train,Down,16.5,15.0,17.0,4,N0176,N0179,in_vehicle,11.0,15,,,,E00037,608.0,33.78,1.0
+BANDRA,Khar Road,Western Railway,WR_Train,Down,3.0,3.0,1436.0,288,N0176,N0177,in_vehicle,2.0,5,,,,E00038,608.0,33.78,1.0
+BANDRA,Mahim Jn.,Western Railway,WR_Train,Up,3.0,3.0,897.0,275,N0176,N0187,in_vehicle,2.0,5,,,,E00039,585.0,32.5,0.962
+Belapur CBD,Kharghar,Trans-Harbour Line,CR_Train,Down,4.0,4.0,4.0,37,N0167,N0164,in_vehicle,2.67,5,,,,E00040,131.0,7.28,0.216
+Belapur CBD,Seawoods-Darave,Trans-Harbour Line,CR_Train,Up,4.0,4.0,4.0,37,N0167,N0168,in_vehicle,2.67,5,,,,E00041,131.0,7.28,0.216
+BORIVALI,ANDHERI,Western Railway,WR_Train,Up,14.0,11.0,1424.0,187,N0181,N0178,in_vehicle,9.33,15,,,,E00042,585.0,32.5,0.962
+BORIVALI,Bhayandar,Western Railway,WR_Train,Down,11.0,8.0,49.0,25,N0181,N0182,in_vehicle,7.33,15,,,,E00043,608.0,33.78,1.0
+BORIVALI,Dahisar,Western Railway,WR_Train,Down,4.0,3.0,1436.0,268,N0181,N0193,in_vehicle,2.67,5,,,,E00044,608.0,33.78,1.0
+BORIVALI,Kandivli,Western Railway,WR_Train,Up,6.0,4.0,1049.0,280,N0181,N0192,in_vehicle,4.0,10,,,,E00045,585.0,32.5,0.962
+BORIVALI,Vasai Road,Western Railway,WR_Train,Down,22.5,18.0,27.0,2,N0181,N0183,in_vehicle,15.0,20,,,,E00046,608.0,33.78,1.0
+Badlapur,Ambernath,Central Railway Main,CR_Train,Up,7.0,7.0,11.0,66,N0017,N0012,in_vehicle,4.67,10,,,,E00047,419.0,23.28,0.689
+Badlapur,Kasara,Central Railway Main,CR_Train,Up,120.0,143.0,163.0,2,N0017,N0016,in_vehicle,102.0,30,,,,E00048,419.0,23.28,0.689
+Badlapur,Khardi,Central Railway Main,CR_Train,Up,94.0,94.0,94.0,1,N0017,N0015,in_vehicle,62.67,30,,,,E00049,419.0,23.28,0.689
+Badlapur,Titwala,Central Railway Main,CR_Train,Up,39.0,39.0,39.0,1,N0017,N0013,in_vehicle,26.0,30,,,,E00050,419.0,23.28,0.689
+Badlapur,Vangani,Central Railway Main,CR_Train,Down,8.0,8.0,9.0,35,N0017,N0045,in_vehicle,5.33,10,,,,E00051,450.0,25.0,0.74
+Bandra,Khar Road,Harbour Line CSMT,CR_Train,Down,4.0,4.0,5.0,56,N0060,N0082,in_vehicle,2.67,5,,,,E00052,351.0,19.5,0.577
+Bandra,Mahim Jn,Harbour Line CSMT,CR_Train,Up,4.0,3.0,1437.0,110,N0060,N0072,in_vehicle,2.67,5,,,,E00053,355.0,19.72,0.584
+Bandra,Santacruz,Harbour Line CSMT,CR_Train,Down,120.0,1432.0,1432.0,1,N0060,N0084,in_vehicle,954.67,30,,,,E00054,351.0,19.5,0.577
+Bandra Colony,Bandra Kurla Complex,Metro Line 3 (Aqua),Metro,Down,2.0,2.0,2.0,165,N0130,N0132,in_vehicle,1.17,10,,,,E00055,165.0,9.17,0.271
+Bandra Colony,Santacruz Metro,Metro Line 3 (Aqua),Metro,Up,2.0,2.0,2.0,165,N0130,N0128,in_vehicle,1.17,10,,,,E00056,165.0,9.17,0.271
+Bandra Kurla Complex,Bandra Colony,Metro Line 3 (Aqua),Metro,Up,2.0,2.0,2.0,165,N0132,N0130,in_vehicle,1.17,10,,,,E00057,165.0,9.17,0.271
+Bandra Kurla Complex,Dharavi,Metro Line 3 (Aqua),Metro,Down,2.0,2.0,2.0,165,N0132,N0134,in_vehicle,1.17,10,,,,E00058,165.0,9.17,0.271
+Belapur CBD,Kharghar,Harbour Line CSMT,CR_Train,Down,4.0,4.0,4.0,179,N0058,N0080,in_vehicle,2.67,5,,,,E00059,351.0,19.5,0.577
+Belapur CBD,Seawoods-Darave,Harbour Line CSMT,CR_Train,Up,4.0,2.0,5.0,225,N0058,N0069,in_vehicle,2.67,5,,,,E00060,355.0,19.72,0.584
+Bhandup,Ghatkopar,Central Railway Main,CR_Train,Up,8.0,6.0,9.0,24,N0038,N0008,in_vehicle,5.33,10,,,,E00061,419.0,23.28,0.689
+Bhandup,Kanjur Marg,Central Railway Main,CR_Train,Up,3.0,3.0,1437.0,240,N0038,N0048,in_vehicle,2.0,5,,,,E00062,419.0,23.28,0.689
+Bhandup,Kurla,Central Railway Main,CR_Train,Up,9.0,9.0,9.0,1,N0038,N0006,in_vehicle,6.0,10,,,,E00063,419.0,23.28,0.689
+Bhandup,Mulund,Central Railway Main,CR_Train,Down,5.0,5.0,5.0,2,N0038,N0025,in_vehicle,3.33,10,,,,E00064,450.0,25.0,0.74
+Bhandup,Nahur,Central Railway Main,CR_Train,Down,3.0,3.0,4.0,260,N0038,N0039,in_vehicle,2.0,5,,,,E00065,450.0,25.0,0.74
+Bhandup,Thane,Central Railway Main,CR_Train,Down,8.0,7.0,11.0,26,N0038,N0009,in_vehicle,5.33,10,,,,E00066,450.0,25.0,0.74
+Bhayandar,BORIVALI,Western Railway,WR_Train,Up,10.0,8.0,14.0,22,N0182,N0181,in_vehicle,6.67,15,,,,E00067,585.0,32.5,0.962
+Bhayandar,Mira Road,Western Railway,WR_Train,Up,5.0,4.0,7.0,266,N0182,N0194,in_vehicle,3.33,10,,,,E00068,585.0,32.5,0.962
+Bhayandar,Naigaon,Western Railway,WR_Train,Down,6.0,5.0,847.0,230,N0182,N0195,in_vehicle,4.0,10,,,,E00069,608.0,33.78,1.0
+Bhayandar,Vasai Road,Western Railway,WR_Train,Down,9.0,7.0,16.0,23,N0182,N0183,in_vehicle,6.0,10,,,,E00070,608.0,33.78,1.0
+Bhivpuri Road,Karjat,Central Railway Main,CR_Train,Down,10.0,8.0,12.0,35,N0034,N0019,in_vehicle,6.67,15,,,,E00071,450.0,25.0,0.74
+Bhivpuri Road,Neral,Central Railway Main,CR_Train,Up,7.0,7.0,7.0,34,N0034,N0018,in_vehicle,4.67,10,,,,E00072,419.0,23.28,0.689
+Borivali West,IC Colony (Mandapeshwar),Metro Line 2A (Yellow),Metro,Up,2.0,2.0,2.0,134,N0107,N0105,in_vehicle,1.17,10,,,,E00073,134.0,7.44,0.22
+Borivali West,Pahadi Eksar (Bangur Nagar),Metro Line 2A (Yellow),Metro,Down,2.0,2.0,2.0,134,N0107,N0109,in_vehicle,1.17,10,,,,E00074,134.0,7.44,0.22
+Byculla,CSMT,Central Railway Main,CR_Train,Up,9.0,8.0,14.0,125,N0003,N0001,in_vehicle,6.0,10,,,,E00075,419.0,23.28,0.689
+Byculla,Chinchpokli,Central Railway Main,CR_Train,Down,2.0,2.0,1438.0,238,N0003,N0047,in_vehicle,1.33,5,,,,E00076,450.0,25.0,0.74
+Byculla,Dadar,Central Railway Main,CR_Train,Down,6.0,5.0,9.0,117,N0003,N0005,in_vehicle,4.0,10,,,,E00077,450.0,25.0,0.74
+Byculla,Parel,Central Railway Main,CR_Train,Down,6.0,6.0,6.0,1,N0003,N0004,in_vehicle,4.0,10,,,,E00078,450.0,25.0,0.74
+Byculla,Sandhurst Road,Central Railway Main,CR_Train,Up,3.0,2.0,56.0,225,N0003,N0022,in_vehicle,2.0,5,,,,E00079,419.0,23.28,0.689
+CSIA T1 (Dom. Airport),Sahar Road,Metro Line 3 (Aqua),Metro,Up,2.0,2.0,2.0,165,N0126,N0124,in_vehicle,1.17,10,,,,E00080,165.0,9.17,0.271
+CSIA T1 (Dom. Airport),Santacruz Metro,Metro Line 3 (Aqua),Metro,Down,2.0,2.0,2.0,165,N0126,N0128,in_vehicle,1.17,10,,,,E00081,165.0,9.17,0.271
+CSIA T2 (Int'l Airport),Marol Naka,Metro Line 3 (Aqua),Metro,Up,2.0,2.0,2.0,165,N0122,N0120,in_vehicle,1.17,10,,,,E00082,165.0,9.17,0.271
+CSIA T2 (Int'l Airport),Sahar Road,Metro Line 3 (Aqua),Metro,Down,2.0,2.0,2.0,165,N0122,N0124,in_vehicle,1.17,10,,,,E00083,165.0,9.17,0.271
+CSMT,Byculla,Central Railway Main,CR_Train,Down,7.0,7.0,10.0,63,N0001,N0003,in_vehicle,4.67,10,,,,E00084,450.0,25.0,0.74
+CSMT,Dadar,Central Railway Main,CR_Train,Down,14.5,13.0,16.0,2,N0001,N0005,in_vehicle,9.67,15,,,,E00085,450.0,25.0,0.74
+CSMT,Masjid,Central Railway Main,CR_Train,Down,3.0,3.0,1437.0,140,N0001,N0002,in_vehicle,2.0,5,,,,E00086,450.0,25.0,0.74
+CSMT Metro,Hutatma Chowk,Metro Line 3 (Aqua),Metro,Down,2.0,2.0,2.0,165,N0123,N0121,in_vehicle,1.17,10,,,,E00087,165.0,9.17,0.271
+CSMT Metro,Kalbadevi,Metro Line 3 (Aqua),Metro,Up,2.0,2.0,2.0,165,N0123,N0125,in_vehicle,1.17,10,,,,E00088,165.0,9.17,0.271
+Chakala (J.B. Nagar),Airport Road,Metro Line 1 (Blue),Metro,Down,2.0,2.0,2.0,199,N0095,N0096,in_vehicle,1.17,10,,,,E00089,199.0,11.06,0.327
+Chakala (J.B. Nagar),Western Express Highway,Metro Line 1 (Blue),Metro,Up,2.0,2.0,2.0,202,N0095,N0093,in_vehicle,1.17,10,,,,E00090,202.0,11.22,0.332
+Charni Road,Grant Road,Western Railway,WR_Train,Down,3.0,2.0,1437.0,431,N0171,N0185,in_vehicle,2.0,5,,,,E00091,608.0,33.78,1.0
+Charni Road,Marine Lines,Western Railway,WR_Train,Up,3.0,3.0,4.0,411,N0171,N0199,in_vehicle,2.0,5,,,,E00092,585.0,32.5,0.962
+Chembur,Govandi,Harbour Line CSMT,CR_Train,Down,3.0,3.0,3.0,218,N0054,N0066,in_vehicle,2.0,5,,,,E00093,351.0,19.5,0.577
+Chembur,Tilaknagar,Harbour Line CSMT,CR_Train,Up,3.0,3.0,4.0,214,N0054,N0065,in_vehicle,2.0,5,,,,E00094,355.0,19.72,0.584
+Chinchpokli,Byculla,Central Railway Main,CR_Train,Up,2.0,2.0,51.0,226,N0047,N0003,in_vehicle,1.33,5,,,,E00095,419.0,23.28,0.689
+Chinchpokli,Currey Road,Central Railway Main,CR_Train,Down,2.0,2.0,2.0,238,N0047,N0049,in_vehicle,1.33,5,,,,E00096,450.0,25.0,0.74
+Chunabhatti,GTB Nagar,Harbour Line CSMT,CR_Train,Up,3.0,3.0,3.0,224,N0064,N0063,in_vehicle,2.0,5,,,,E00097,355.0,19.72,0.584
+Chunabhatti,Kurla,Harbour Line CSMT,CR_Train,Down,3.0,3.0,3.0,220,N0064,N0076,in_vehicle,2.0,5,,,,E00098,351.0,19.5,0.577
+Churchgate Metro,Hutatma Chowk,Metro Line 3 (Aqua),Metro,Up,2.0,2.0,2.0,165,N0119,N0121,in_vehicle,1.17,10,,,,E00099,165.0,9.17,0.271
+Churchgate Metro,Vidhan Bhavan,Metro Line 3 (Aqua),Metro,Down,2.0,2.0,2.0,165,N0119,N0117,in_vehicle,1.17,10,,,,E00100,165.0,9.17,0.271
+Cotton Green,Reay Road,Harbour Line CSMT,CR_Train,Up,2.0,2.0,4.0,272,N0062,N0075,in_vehicle,1.33,5,,,,E00101,355.0,19.72,0.584
+Cotton Green,Sewri,Harbour Line CSMT,CR_Train,Down,3.0,3.0,1437.0,267,N0062,N0052,in_vehicle,2.0,5,,,,E00102,351.0,19.5,0.577
+Cuffe Parade,Vidhan Bhavan,Metro Line 3 (Aqua),Metro,Up,2.0,2.0,2.0,165,N0115,N0117,in_vehicle,1.17,10,,,,E00103,165.0,9.17,0.271
+Currey Road,Chinchpokli,Central Railway Main,CR_Train,Up,2.0,2.0,4.0,226,N0049,N0047,in_vehicle,1.33,5,,,,E00104,419.0,23.28,0.689
+Currey Road,Masjid,Central Railway Main,CR_Train,Up,7.0,6.0,8.0,2,N0049,N0002,in_vehicle,4.67,10,,,,E00105,419.0,23.28,0.689
+Currey Road,Parel,Central Railway Main,CR_Train,Down,3.0,3.0,1437.0,238,N0049,N0004,in_vehicle,2.0,5,,,,E00106,450.0,25.0,0.74
+D.N. Nagar,Azad Nagar,Metro Line 1 (Blue),Metro,Down,2.0,2.0,2.0,199,N0087,N0089,in_vehicle,1.17,10,,,,E00107,199.0,11.06,0.327
+D.N. Nagar,Lower Juhu,Metro Line 2A (Yellow),Metro,Up,2.0,2.0,2.0,134,N0098,N0100,in_vehicle,1.17,10,,,,E00108,134.0,7.44,0.22
+D.N. Nagar,Versova,Metro Line 1 (Blue),Metro,Up,2.0,2.0,2.0,202,N0087,N0085,in_vehicle,1.17,10,,,,E00109,202.0,11.22,0.332
+DADAR,BANDRA,Western Railway,WR_Train,Down,6.0,5.0,1435.0,200,N0175,N0176,in_vehicle,4.0,10,,,,E00110,608.0,33.78,1.0
+DADAR,Matunga Road,Western Railway,WR_Train,Down,2.0,2.0,1438.0,290,N0175,N0196,in_vehicle,1.33,5,,,,E00111,608.0,33.78,1.0
+DADAR,Mumbai Central,Western Railway,WR_Train,Up,7.0,7.0,1433.0,185,N0175,N0172,in_vehicle,4.67,10,,,,E00112,585.0,32.5,0.962
+DADAR,Prabhadevi,Western Railway,WR_Train,Up,2.0,2.0,900.0,275,N0175,N0186,in_vehicle,1.33,5,,,,E00113,585.0,32.5,0.962
+Digha Gaon,AIROLI,Trans-Harbour Line,CR_Train,Down,3.0,3.0,4.0,131,N0154,N0158,in_vehicle,2.0,5,,,,E00114,131.0,7.28,0.216
+Digha Gaon,THANE,Trans-Harbour Line,CR_Train,Up,5.0,5.0,7.0,131,N0154,N0169,in_vehicle,3.33,10,,,,E00115,131.0,7.28,0.216
+Dadar,Byculla,Central Railway Main,CR_Train,Up,6.0,5.0,1434.0,123,N0005,N0003,in_vehicle,4.0,10,,,,E00116,419.0,23.28,0.689
+Dadar,Currey Road,Central Railway Main,CR_Train,Up,49.0,49.0,49.0,1,N0005,N0049,in_vehicle,32.67,30,,,,E00117,419.0,23.28,0.689
+Dadar,Ghatkopar,Central Railway Main,CR_Train,Down,11.0,11.0,11.0,2,N0005,N0008,in_vehicle,7.33,15,,,,E00118,450.0,25.0,0.74
+Dadar,Kurla,Central Railway Main,CR_Train,Down,7.0,7.0,9.0,127,N0005,N0006,in_vehicle,4.67,10,,,,E00119,450.0,25.0,0.74
+Dadar,Matunga,Central Railway Main,CR_Train,Down,3.0,2.0,1437.0,273,N0005,N0023,in_vehicle,2.0,5,,,,E00120,450.0,25.0,0.74
+Dadar,Parel,Central Railway Main,CR_Train,Up,3.0,2.0,50.0,247,N0005,N0004,in_vehicle,2.0,5,,,,E00121,419.0,23.28,0.689
+Dadar,Thane,Central Railway Main,CR_Train,Down,23.0,23.0,23.0,1,N0005,N0009,in_vehicle,15.33,20,,,,E00122,450.0,25.0,0.74
+Dadar,Vikhroli,Central Railway Main,CR_Train,Down,14.0,14.0,14.0,1,N0005,N0037,in_vehicle,9.33,15,,,,E00123,450.0,25.0,0.74
+Dadar Metro,Shitala Devi Mandir,Metro Line 3 (Aqua),Metro,Up,2.0,2.0,2.0,165,N0138,N0136,in_vehicle,1.17,10,,,,E00124,165.0,9.17,0.271
+Dadar Metro,Siddhivinayak,Metro Line 3 (Aqua),Metro,Down,2.0,2.0,2.0,165,N0138,N0140,in_vehicle,1.17,10,,,,E00125,165.0,9.17,0.271
+Dahanukarwadi (Kamraj Nagar),Kandivali West,Metro Line 2A (Yellow),Metro,Up,2.0,2.0,2.0,134,N0113,N0111,in_vehicle,1.17,10,,,,E00126,134.0,7.44,0.22
+Dahanukarwadi (Kamraj Nagar),Malad West,Metro Line 2A (Yellow),Metro,Down,2.0,2.0,2.0,134,N0113,N0112,in_vehicle,1.17,10,,,,E00127,134.0,7.44,0.22
+Dahisar,ANDHERI,Western Railway,WR_Train,Up,16.0,16.0,16.0,1,N0193,N0178,in_vehicle,10.67,15,,,,E00128,585.0,32.5,0.962
+Dahisar,BORIVALI,Western Railway,WR_Train,Up,5.0,3.0,1037.0,260,N0193,N0181,in_vehicle,3.33,10,,,,E00129,585.0,32.5,0.962
+Dahisar,Mira Road,Western Railway,WR_Train,Down,5.0,4.0,1435.0,268,N0193,N0194,in_vehicle,3.33,10,,,,E00130,608.0,33.78,1.0
+Dahisar East,Ovaripada,Metro Line 2A (Yellow),Metro,Down,2.0,2.0,2.0,134,N0097,N0099,in_vehicle,1.17,10,,,,E00131,134.0,7.44,0.22
+Dahisar East,Ovaripada,Metro Line 7 (Red),Metro,Down,2.0,2.0,2.0,134,N0141,N0143,in_vehicle,1.17,10,,,,E00132,134.0,7.44,0.22
+Devipada,Magathane,Metro Line 7 (Red),Metro,Down,2.0,2.0,2.0,134,N0147,N0149,in_vehicle,1.17,10,,,,E00133,134.0,7.44,0.22
+Devipada,Rashtriya Udyan (National Park),Metro Line 7 (Red),Metro,Up,2.0,2.0,2.0,134,N0147,N0145,in_vehicle,1.17,10,,,,E00134,134.0,7.44,0.22
+Dharavi,Bandra Kurla Complex,Metro Line 3 (Aqua),Metro,Up,2.0,2.0,2.0,165,N0134,N0132,in_vehicle,1.17,10,,,,E00135,165.0,9.17,0.271
+Dharavi,Shitala Devi Mandir,Metro Line 3 (Aqua),Metro,Down,2.0,2.0,2.0,165,N0134,N0136,in_vehicle,1.17,10,,,,E00136,165.0,9.17,0.271
+Dindoshi,Aarey (JVLR),Metro Line 7 (Red),Metro,Down,2.0,2.0,2.0,134,N0150,N0148,in_vehicle,1.17,10,,,,E00137,134.0,7.44,0.22
+Dindoshi,Kurar,Metro Line 7 (Red),Metro,Up,2.0,2.0,2.0,134,N0150,N0152,in_vehicle,1.17,10,,,,E00138,134.0,7.44,0.22
+Diva,Dombivli,Central Railway Main,CR_Train,Down,5.0,4.0,7.0,26,N0041,N0010,in_vehicle,3.33,10,,,,E00139,450.0,25.0,0.74
+Diva,Kopar,Central Railway Main,CR_Train,Down,5.0,5.0,6.0,215,N0041,N0027,in_vehicle,3.33,10,,,,E00140,450.0,25.0,0.74
+Diva,Mumbra,Central Railway Main,CR_Train,Up,4.0,3.0,46.0,200,N0041,N0040,in_vehicle,2.67,5,,,,E00141,419.0,23.28,0.689
+Diva,Thane,Central Railway Main,CR_Train,Up,11.0,10.0,45.0,27,N0041,N0009,in_vehicle,7.33,15,,,,E00142,419.0,23.28,0.689
+Dockyard Road,Reay Road,Harbour Line CSMT,CR_Train,Down,2.0,2.0,2.0,267,N0079,N0075,in_vehicle,1.33,5,,,,E00143,351.0,19.5,0.577
+Dockyard Road,Sandhurst Road,Harbour Line CSMT,CR_Train,Up,2.0,2.0,1438.0,267,N0079,N0074,in_vehicle,1.33,5,,,,E00144,355.0,19.72,0.584
+Dolavli,Kelavli,Central Railway Main,CR_Train,Up,3.0,3.0,3.0,17,N0046,N0035,in_vehicle,2.0,5,,,,E00145,419.0,23.28,0.689
+Dolavli,Lowjee,Central Railway Main,CR_Train,Down,4.0,4.0,4.0,17,N0046,N0036,in_vehicle,2.67,5,,,,E00146,450.0,25.0,0.74
+Dombivli,Diva,Central Railway Main,CR_Train,Up,5.0,4.0,8.0,27,N0010,N0041,in_vehicle,3.33,10,,,,E00147,419.0,23.28,0.689
+Dombivli,Kalyan,Central Railway Main,CR_Train,Down,8.0,6.0,1429.0,112,N0010,N0011,in_vehicle,5.33,10,,,,E00148,450.0,25.0,0.74
+Dombivli,Kopar,Central Railway Main,CR_Train,Up,3.0,3.0,1437.0,200,N0010,N0027,in_vehicle,2.0,5,,,,E00149,419.0,23.28,0.689
+Dombivli,Thakurli,Central Railway Main,CR_Train,Down,4.0,3.0,5.0,183,N0010,N0028,in_vehicle,2.67,5,,,,E00150,450.0,25.0,0.74
+Dombivli,Thane,Central Railway Main,CR_Train,Up,15.0,15.0,18.0,90,N0010,N0009,in_vehicle,10.0,15,,,,E00151,419.0,23.28,0.689
+Eksar (Shimpoli),Kandarpada,Metro Line 2A (Yellow),Metro,Down,2.0,2.0,2.0,134,N0101,N0103,in_vehicle,1.17,10,,,,E00152,134.0,7.44,0.22
+Eksar (Shimpoli),Ovaripada,Metro Line 2A (Yellow),Metro,Up,2.0,2.0,2.0,134,N0101,N0099,in_vehicle,1.17,10,,,,E00153,134.0,7.44,0.22
+GHANSOLI,KOPAR KHAIRANE,Trans-Harbour Line,CR_Train,Down,3.0,3.0,1437.0,131,N0165,N0166,in_vehicle,2.0,5,,,,E00154,131.0,7.28,0.216
+GHANSOLI,RABALE,Trans-Harbour Line,CR_Train,Up,3.0,3.0,3.0,131,N0165,N0162,in_vehicle,2.0,5,,,,E00155,131.0,7.28,0.216
+GTB Nagar,Andheri,Harbour Line CSMT,CR_Train,Up,3.0,3.0,3.0,14,N0063,N0081,in_vehicle,2.0,5,,,,E00156,355.0,19.72,0.584
+GTB Nagar,Chunabhatti,Harbour Line CSMT,CR_Train,Down,3.0,3.0,3.0,220,N0063,N0064,in_vehicle,2.0,5,,,,E00157,351.0,19.5,0.577
+GTB Nagar,Vadala Road,Harbour Line CSMT,CR_Train,Up,6.0,5.0,8.0,210,N0063,N0053,in_vehicle,4.0,10,,,,E00158,355.0,19.72,0.584
+Ghatkopar,Bhandup,Central Railway Main,CR_Train,Down,8.0,7.0,10.0,26,N0008,N0038,in_vehicle,5.33,10,,,,E00159,450.0,25.0,0.74
+Ghatkopar,Jagruti Nagar,Metro Line 1 (Blue),Metro,Up,2.0,2.0,2.0,202,N0086,N0088,in_vehicle,1.17,10,,,,E00160,202.0,11.22,0.332
+Ghatkopar,Kurla,Central Railway Main,CR_Train,Up,4.0,4.0,5.0,120,N0008,N0006,in_vehicle,2.67,5,,,,E00161,419.0,23.28,0.689
+Ghatkopar,Mulund,Central Railway Main,CR_Train,Down,12.0,8.0,13.0,46,N0008,N0025,in_vehicle,8.0,15,,,,E00162,450.0,25.0,0.74
+Ghatkopar,Thane,Central Railway Main,CR_Train,Down,16.0,12.0,18.0,38,N0008,N0009,in_vehicle,10.67,15,,,,E00163,450.0,25.0,0.74
+Ghatkopar,Vidyavihar,Central Railway Main,CR_Train,Up,3.0,3.0,46.0,243,N0008,N0007,in_vehicle,2.0,5,,,,E00164,419.0,23.28,0.689
+Ghatkopar,Vikhroli,Central Railway Main,CR_Train,Down,4.0,4.0,5.0,266,N0008,N0037,in_vehicle,2.67,5,,,,E00165,450.0,25.0,0.74
+Girgaon,Grant Road Metro,Metro Line 3 (Aqua),Metro,Up,2.0,2.0,2.0,165,N0127,N0129,in_vehicle,1.17,10,,,,E00166,165.0,9.17,0.271
+Girgaon,Kalbadevi,Metro Line 3 (Aqua),Metro,Down,2.0,2.0,2.0,165,N0127,N0125,in_vehicle,1.17,10,,,,E00167,165.0,9.17,0.271
+Goregaon,Jogeshwari,Western Railway,WR_Train,Up,5.0,4.0,5.0,33,N0179,N0190,in_vehicle,3.33,10,,,,E00168,585.0,32.5,0.962
+Goregaon,Malad,Western Railway,WR_Train,Down,4.0,3.0,5.0,291,N0179,N0180,in_vehicle,2.67,5,,,,E00169,608.0,33.78,1.0
+Goregaon,Ram Mandir,Western Railway,WR_Train,Up,2.0,2.0,1438.0,293,N0179,N0191,in_vehicle,1.33,5,,,,E00170,585.0,32.5,0.962
+Goregaon,Ramnagar,Harbour Line CSMT,CR_Train,Up,4.0,3.0,5.0,55,N0061,N0073,in_vehicle,2.67,5,,,,E00171,355.0,19.72,0.584
+Goregaon,Tilaknagar,Harbour Line CSMT,CR_Train,Down,12.0,12.0,12.0,1,N0061,N0065,in_vehicle,8.0,15,,,,E00172,351.0,19.5,0.577
+Goregaon East,Aarey (JVLR),Metro Line 7 (Red),Metro,Up,3.0,3.0,3.0,134,N0146,N0148,in_vehicle,1.75,10,,,,E00173,134.0,7.44,0.22
+Goregaon East,Jogeshwari East (JVLR),Metro Line 7 (Red),Metro,Down,3.0,3.0,3.0,134,N0146,N0144,in_vehicle,1.75,10,,,,E00174,134.0,7.44,0.22
+Goregaon West (Bangur Nagar),Lower Malad,Metro Line 2A (Yellow),Metro,Up,2.0,2.0,2.0,134,N0108,N0110,in_vehicle,1.17,10,,,,E00175,134.0,7.44,0.22
+Goregaon West (Bangur Nagar),Oshiwara,Metro Line 2A (Yellow),Metro,Down,2.0,2.0,2.0,134,N0108,N0106,in_vehicle,1.17,10,,,,E00176,134.0,7.44,0.22
+Govandi,Chembur,Harbour Line CSMT,CR_Train,Up,2.0,2.0,3.0,213,N0066,N0054,in_vehicle,1.33,5,,,,E00177,355.0,19.72,0.584
+Govandi,Mankhurd,Harbour Line CSMT,CR_Train,Down,3.0,3.0,1437.0,218,N0066,N0055,in_vehicle,2.0,5,,,,E00178,351.0,19.5,0.577
+Grant Road,Charni Road,Western Railway,WR_Train,Up,2.0,2.0,1438.0,411,N0185,N0171,in_vehicle,1.33,5,,,,E00179,585.0,32.5,0.962
+Grant Road,Mumbai Central,Western Railway,WR_Train,Down,2.0,2.0,615.0,431,N0185,N0172,in_vehicle,1.33,5,,,,E00180,608.0,33.78,1.0
+Grant Road Metro,Girgaon,Metro Line 3 (Aqua),Metro,Down,2.0,2.0,2.0,165,N0129,N0127,in_vehicle,1.17,10,,,,E00181,165.0,9.17,0.271
+Grant Road Metro,Mumbai Central Metro,Metro Line 3 (Aqua),Metro,Up,2.0,2.0,2.0,165,N0129,N0131,in_vehicle,1.17,10,,,,E00182,165.0,9.17,0.271
+Gundavali (Andheri East),Jogeshwari East (JVLR),Metro Line 7 (Red),Metro,Up,3.0,3.0,3.0,134,N0142,N0144,in_vehicle,1.75,10,,,,E00183,134.0,7.44,0.22
+Hutatma Chowk,CSMT Metro,Metro Line 3 (Aqua),Metro,Up,2.0,2.0,2.0,165,N0121,N0123,in_vehicle,1.17,10,,,,E00184,165.0,9.17,0.271
+Hutatma Chowk,Churchgate Metro,Metro Line 3 (Aqua),Metro,Down,2.0,2.0,2.0,165,N0121,N0119,in_vehicle,1.17,10,,,,E00185,165.0,9.17,0.271
+IC Colony (Mandapeshwar),Borivali West,Metro Line 2A (Yellow),Metro,Down,2.0,2.0,2.0,134,N0105,N0107,in_vehicle,1.17,10,,,,E00186,134.0,7.44,0.22
+IC Colony (Mandapeshwar),Kandarpada,Metro Line 2A (Yellow),Metro,Up,2.0,2.0,2.0,134,N0105,N0103,in_vehicle,1.17,10,,,,E00187,134.0,7.44,0.22
+Juinagar,Nerul,Trans-Harbour Line,CR_Train,Down,5.0,4.0,1436.0,71,N0159,N0155,in_vehicle,3.33,10,,,,E00188,131.0,7.28,0.216
+Juinagar,TURBHE,Trans-Harbour Line,CR_Train,Up,4.0,4.0,6.0,71,N0159,N0163,in_vehicle,2.67,5,,,,E00189,131.0,7.28,0.216
+Jagruti Nagar,Asalpha,Metro Line 1 (Blue),Metro,Up,2.0,2.0,1438.0,202,N0088,N0090,in_vehicle,1.17,10,,,,E00190,202.0,11.22,0.332
+Jagruti Nagar,Ghatkopar,Metro Line 1 (Blue),Metro,Down,2.0,2.0,2.0,199,N0088,N0086,in_vehicle,1.17,10,,,,E00191,199.0,11.06,0.327
+Jogeshwari,ANDHERI,Western Railway,WR_Train,Up,5.0,3.0,1433.0,321,N0190,N0178,in_vehicle,3.33,10,,,,E00192,585.0,32.5,0.962
+Jogeshwari,Andheri,Harbour Line CSMT,CR_Train,Up,4.0,4.0,5.0,55,N0078,N0081,in_vehicle,2.67,5,,,,E00193,355.0,19.72,0.584
+Jogeshwari,BANDRA,Western Railway,WR_Train,Up,12.0,11.0,15.0,5,N0190,N0176,in_vehicle,8.0,15,,,,E00194,585.0,32.5,0.962
+Jogeshwari,Goregaon,Western Railway,WR_Train,Down,5.0,4.0,5.0,26,N0190,N0179,in_vehicle,3.33,10,,,,E00195,608.0,33.78,1.0
+Jogeshwari,Ram Mandir,Western Railway,WR_Train,Down,3.0,3.0,3.0,310,N0190,N0191,in_vehicle,2.0,5,,,,E00196,608.0,33.78,1.0
+Jogeshwari,Ramnagar,Harbour Line CSMT,CR_Train,Down,3.0,3.0,3.0,55,N0078,N0073,in_vehicle,2.0,5,,,,E00197,351.0,19.5,0.577
+Jogeshwari East (JVLR),Goregaon East,Metro Line 7 (Red),Metro,Up,3.0,3.0,3.0,134,N0144,N0146,in_vehicle,1.75,10,,,,E00198,134.0,7.44,0.22
+Jogeshwari East (JVLR),Gundavali (Andheri East),Metro Line 7 (Red),Metro,Down,3.0,3.0,3.0,134,N0144,N0142,in_vehicle,1.75,10,,,,E00199,134.0,7.44,0.22
+Juinagar,Chunabhatti,Harbour Line CSMT,CR_Train,Up,6.0,6.0,7.0,14,N0057,N0064,in_vehicle,4.0,10,,,,E00200,355.0,19.72,0.584
+Juinagar,Nerul,Harbour Line CSMT,CR_Train,Down,4.0,4.0,5.0,179,N0057,N0068,in_vehicle,2.67,5,,,,E00201,351.0,19.5,0.577
+Juinagar,Sanpada,Harbour Line CSMT,CR_Train,Up,3.0,3.0,1437.0,178,N0057,N0067,in_vehicle,2.0,5,,,,E00202,355.0,19.72,0.584
+Khandeshwar,Mansarovar,Trans-Harbour Line,CR_Train,Up,3.0,3.0,3.0,37,N0156,N0160,in_vehicle,2.0,5,,,,E00203,131.0,7.28,0.216
+Khandeshwar,Panvel,Trans-Harbour Line,CR_Train,Down,5.0,5.0,6.0,37,N0156,N0170,in_vehicle,3.33,10,,,,E00204,131.0,7.28,0.216
+Kharghar,Belapur CBD,Trans-Harbour Line,CR_Train,Up,4.0,4.0,4.0,37,N0164,N0167,in_vehicle,2.67,5,,,,E00205,131.0,7.28,0.216
+Kharghar,Mansarovar,Trans-Harbour Line,CR_Train,Down,3.0,3.0,3.0,37,N0164,N0160,in_vehicle,2.0,5,,,,E00206,131.0,7.28,0.216
+KOPAR KHAIRANE,GHANSOLI,Trans-Harbour Line,CR_Train,Up,3.0,3.0,3.0,131,N0166,N0165,in_vehicle,2.0,5,,,,E00207,131.0,7.28,0.216
+KOPAR KHAIRANE,TURBHE,Trans-Harbour Line,CR_Train,Down,4.0,4.0,4.0,131,N0166,N0163,in_vehicle,2.67,5,,,,E00208,131.0,7.28,0.216
+Kalbadevi,CSMT Metro,Metro Line 3 (Aqua),Metro,Down,2.0,2.0,2.0,165,N0125,N0123,in_vehicle,1.17,10,,,,E00209,165.0,9.17,0.271
+Kalbadevi,Girgaon,Metro Line 3 (Aqua),Metro,Up,2.0,2.0,2.0,165,N0125,N0127,in_vehicle,1.17,10,,,,E00210,165.0,9.17,0.271
+Kalva,Mumbra,Central Railway Main,CR_Train,Down,6.0,6.0,1434.0,215,N0026,N0040,in_vehicle,4.0,10,,,,E00211,450.0,25.0,0.74
+Kalva,Thane,Central Railway Main,CR_Train,Up,5.0,4.0,42.0,200,N0026,N0009,in_vehicle,3.33,10,,,,E00212,419.0,23.28,0.689
+Kalyan,Dombivli,Central Railway Main,CR_Train,Up,6.0,5.0,9.0,116,N0011,N0010,in_vehicle,4.0,10,,,,E00213,419.0,23.28,0.689
+Kalyan,Shahad,Central Railway Main,CR_Train,Down,4.0,4.0,6.0,76,N0011,N0030,in_vehicle,2.67,5,,,,E00214,450.0,25.0,0.74
+Kalyan,Thakurli,Central Railway Main,CR_Train,Up,6.0,3.0,42.0,169,N0011,N0028,in_vehicle,4.0,10,,,,E00215,419.0,23.28,0.689
+Kalyan,Vithalwadi,Central Railway Main,CR_Train,Down,4.0,2.0,1436.0,112,N0011,N0042,in_vehicle,2.67,5,,,,E00216,450.0,25.0,0.74
+Kandarpada,Eksar (Shimpoli),Metro Line 2A (Yellow),Metro,Up,2.0,2.0,2.0,134,N0103,N0101,in_vehicle,1.17,10,,,,E00217,134.0,7.44,0.22
+Kandarpada,IC Colony (Mandapeshwar),Metro Line 2A (Yellow),Metro,Down,2.0,2.0,2.0,134,N0103,N0105,in_vehicle,1.17,10,,,,E00218,134.0,7.44,0.22
+Kandivali West,Dahanukarwadi (Kamraj Nagar),Metro Line 2A (Yellow),Metro,Down,2.0,2.0,2.0,134,N0111,N0113,in_vehicle,1.17,10,,,,E00219,134.0,7.44,0.22
+Kandivali West,Pahadi Eksar (Bangur Nagar),Metro Line 2A (Yellow),Metro,Up,2.0,2.0,2.0,134,N0111,N0109,in_vehicle,1.17,10,,,,E00220,134.0,7.44,0.22
+Kandivli,BORIVALI,Western Railway,WR_Train,Down,6.0,4.0,1434.0,287,N0192,N0181,in_vehicle,4.0,10,,,,E00221,608.0,33.78,1.0
+Kandivli,Malad,Western Railway,WR_Train,Up,3.0,3.0,4.0,280,N0192,N0180,in_vehicle,2.0,5,,,,E00222,585.0,32.5,0.962
+Kanjur Marg,Bhandup,Central Railway Main,CR_Train,Down,3.0,2.0,1437.0,260,N0048,N0038,in_vehicle,2.0,5,,,,E00223,450.0,25.0,0.74
+Kanjur Marg,Vikhroli,Central Railway Main,CR_Train,Up,3.0,3.0,3.0,240,N0048,N0037,in_vehicle,2.0,5,,,,E00224,419.0,23.28,0.689
+Karjat,Bhivpuri Road,Central Railway Main,CR_Train,Up,9.0,9.0,9.0,34,N0019,N0034,in_vehicle,6.0,10,,,,E00225,419.0,23.28,0.689
+Karjat,Dombivli,Central Railway Main,CR_Train,Up,57.0,57.0,57.0,1,N0019,N0010,in_vehicle,38.0,30,,,,E00226,419.0,23.28,0.689
+Karjat,Kalyan,Central Railway Main,CR_Train,Up,120.0,133.0,133.0,1,N0019,N0011,in_vehicle,88.67,30,,,,E00227,419.0,23.28,0.689
+Karjat,Kasara,Central Railway Main,CR_Train,Up,120.0,178.0,178.0,1,N0019,N0016,in_vehicle,118.67,30,,,,E00228,419.0,23.28,0.689
+Karjat,Palasdhari,Central Railway Main,CR_Train,Down,5.0,5.0,1435.0,9,N0019,N0020,in_vehicle,3.33,10,,,,E00229,450.0,25.0,0.74
+Kasara,Khardi,Central Railway Main,CR_Train,Up,17.0,3.0,17.0,26,N0016,N0015,in_vehicle,11.33,15,,,,E00230,419.0,23.28,0.689
+Kelavli,Dolavli,Central Railway Main,CR_Train,Down,3.0,3.0,3.0,17,N0035,N0046,in_vehicle,2.0,5,,,,E00231,450.0,25.0,0.74
+Kelavli,Palasdhari,Central Railway Main,CR_Train,Up,7.0,7.0,7.0,17,N0035,N0020,in_vehicle,4.67,10,,,,E00232,419.0,23.28,0.689
+Khadavli,Titwala,Central Railway Main,CR_Train,Up,7.0,6.0,57.0,37,N0043,N0013,in_vehicle,4.67,10,,,,E00233,419.0,23.28,0.689
+Khadavli,Vasind,Central Railway Main,CR_Train,Down,7.0,7.0,8.0,37,N0043,N0032,in_vehicle,4.67,10,,,,E00234,450.0,25.0,0.74
+Khandeshwar,Mansarovar,Harbour Line CSMT,CR_Train,Up,3.0,2.0,3.0,188,N0070,N0077,in_vehicle,2.0,5,,,,E00235,355.0,19.72,0.584
+Khandeshwar,Panvel,Harbour Line CSMT,CR_Train,Down,5.0,5.0,6.0,179,N0070,N0059,in_vehicle,3.33,10,,,,E00236,351.0,19.5,0.577
+Khar Road,BANDRA,Western Railway,WR_Train,Up,4.0,3.0,1436.0,275,N0177,N0176,in_vehicle,2.67,5,,,,E00237,585.0,32.5,0.962
+Khar Road,Bandra,Harbour Line CSMT,CR_Train,Up,4.0,3.0,7.0,69,N0082,N0060,in_vehicle,2.67,5,,,,E00238,355.0,19.72,0.584
+Khar Road,Santa Cruz,Western Railway,WR_Train,Down,2.0,2.0,4.0,294,N0177,N0188,in_vehicle,1.33,5,,,,E00239,608.0,33.78,1.0
+Khar Road,Santacruz,Harbour Line CSMT,CR_Train,Down,3.0,3.0,3.0,56,N0082,N0084,in_vehicle,2.0,5,,,,E00240,351.0,19.5,0.577
+Khardi,Ambernath,Central Railway Main,CR_Train,Up,118.0,90.0,138.0,3,N0015,N0012,in_vehicle,78.67,30,,,,E00241,419.0,23.28,0.689
+Khardi,Atgaon,Central Railway Main,CR_Train,Up,10.0,10.0,137.0,18,N0015,N0044,in_vehicle,6.67,15,,,,E00242,419.0,23.28,0.689
+Khardi,Dombivli,Central Railway Main,CR_Train,Up,91.0,91.0,91.0,1,N0015,N0010,in_vehicle,60.67,30,,,,E00243,419.0,23.28,0.689
+Khardi,Kalyan,Central Railway Main,CR_Train,Up,120.0,138.0,141.0,2,N0015,N0011,in_vehicle,93.0,30,,,,E00244,419.0,23.28,0.689
+Khardi,Kasara,Central Railway Main,CR_Train,Down,18.0,17.0,1423.0,18,N0015,N0016,in_vehicle,12.0,15,,,,E00245,450.0,25.0,0.74
+Khardi,Shahad,Central Railway Main,CR_Train,Up,107.0,107.0,107.0,1,N0015,N0030,in_vehicle,71.33,30,,,,E00246,419.0,23.28,0.689
+Khardi,Titwala,Central Railway Main,CR_Train,Up,120.0,152.0,152.0,1,N0015,N0013,in_vehicle,101.33,30,,,,E00247,419.0,23.28,0.689
+Khardi,Ulhas Nagar,Central Railway Main,CR_Train,Up,86.5,84.0,89.0,2,N0015,N0029,in_vehicle,57.67,30,,,,E00248,419.0,23.28,0.689
+Khardi,Vithalwadi,Central Railway Main,CR_Train,Up,103.0,103.0,103.0,2,N0015,N0042,in_vehicle,68.67,30,,,,E00249,419.0,23.28,0.689
+Kharghar,Belapur CBD,Harbour Line CSMT,CR_Train,Up,4.0,3.0,1436.0,188,N0080,N0058,in_vehicle,2.67,5,,,,E00250,355.0,19.72,0.584
+Kharghar,Mansarovar,Harbour Line CSMT,CR_Train,Down,3.0,3.0,1437.0,179,N0080,N0077,in_vehicle,2.0,5,,,,E00251,351.0,19.5,0.577
+Khopoli,Lowjee,Central Railway Main,CR_Train,Up,4.0,3.0,4.0,20,N0021,N0036,in_vehicle,2.67,5,,,,E00252,419.0,23.28,0.689
+King's Circle,Mahim Jn,Harbour Line CSMT,CR_Train,Down,3.0,2.0,4.0,101,N0071,N0072,in_vehicle,2.0,5,,,,E00253,351.0,19.5,0.577
+King's Circle,Vadala Road,Harbour Line CSMT,CR_Train,Up,6.0,3.0,8.0,110,N0071,N0053,in_vehicle,4.0,10,,,,E00254,355.0,19.72,0.584
+Kopar,Diva,Central Railway Main,CR_Train,Up,5.0,3.0,37.0,200,N0027,N0041,in_vehicle,3.33,10,,,,E00255,419.0,23.28,0.689
+Kopar,Dombivli,Central Railway Main,CR_Train,Down,3.0,3.0,1437.0,215,N0027,N0010,in_vehicle,2.0,5,,,,E00256,450.0,25.0,0.74
+Kurar,Akurli,Metro Line 7 (Red),Metro,Up,2.0,2.0,2.0,134,N0152,N0153,in_vehicle,1.17,10,,,,E00257,134.0,7.44,0.22
+Kurar,Dindoshi,Metro Line 7 (Red),Metro,Down,2.0,2.0,2.0,134,N0152,N0150,in_vehicle,1.17,10,,,,E00258,134.0,7.44,0.22
+Kurla,Bhandup,Central Railway Main,CR_Train,Down,10.0,10.0,10.0,1,N0006,N0038,in_vehicle,6.67,15,,,,E00259,450.0,25.0,0.74
+Kurla,Chunabhatti,Harbour Line CSMT,CR_Train,Up,3.0,3.0,4.0,214,N0076,N0064,in_vehicle,2.0,5,,,,E00260,355.0,19.72,0.584
+Kurla,Dadar,Central Railway Main,CR_Train,Up,8.0,7.0,11.0,130,N0006,N0005,in_vehicle,5.33,10,,,,E00261,419.0,23.28,0.689
+Kurla,Ghatkopar,Central Railway Main,CR_Train,Down,4.0,4.0,7.0,115,N0006,N0008,in_vehicle,2.67,5,,,,E00262,450.0,25.0,0.74
+Kurla,Matunga,Central Railway Main,CR_Train,Up,4.0,4.0,5.0,3,N0006,N0023,in_vehicle,2.67,5,,,,E00263,419.0,23.28,0.689
+Kurla,Mulund,Central Railway Main,CR_Train,Down,16.0,16.0,16.0,1,N0006,N0025,in_vehicle,10.67,15,,,,E00264,450.0,25.0,0.74
+Kurla,Sion,Central Railway Main,CR_Train,Up,4.0,3.0,1436.0,258,N0006,N0024,in_vehicle,2.67,5,,,,E00265,419.0,23.28,0.689
+Kurla,Thane,Central Railway Main,CR_Train,Down,18.0,18.0,18.0,1,N0006,N0009,in_vehicle,12.0,15,,,,E00266,450.0,25.0,0.74
+Kurla,Tilaknagar,Harbour Line CSMT,CR_Train,Down,3.0,2.0,1437.0,220,N0076,N0065,in_vehicle,2.0,5,,,,E00267,351.0,19.5,0.577
+Kurla,Vidyavihar,Central Railway Main,CR_Train,Down,3.0,3.0,1437.0,249,N0006,N0007,in_vehicle,2.0,5,,,,E00268,450.0,25.0,0.74
+Kurla,Vikhroli,Central Railway Main,CR_Train,Down,8.0,7.0,8.0,10,N0006,N0037,in_vehicle,5.33,10,,,,E00269,450.0,25.0,0.74
+Lower Juhu,Andheri West,Metro Line 2A (Yellow),Metro,Up,2.0,2.0,2.0,134,N0100,N0102,in_vehicle,1.17,10,,,,E00270,134.0,7.44,0.22
+Lower Juhu,D.N. Nagar,Metro Line 2A (Yellow),Metro,Down,2.0,2.0,2.0,134,N0100,N0098,in_vehicle,1.17,10,,,,E00271,134.0,7.44,0.22
+Lower Malad,Goregaon West (Bangur Nagar),Metro Line 2A (Yellow),Metro,Down,2.0,2.0,2.0,134,N0110,N0108,in_vehicle,1.17,10,,,,E00272,134.0,7.44,0.22
+Lower Malad,Malad West,Metro Line 2A (Yellow),Metro,Up,2.0,2.0,2.0,134,N0110,N0112,in_vehicle,1.17,10,,,,E00273,134.0,7.44,0.22
+Lower Oshiwara,Andheri West,Metro Line 2A (Yellow),Metro,Down,2.0,2.0,2.0,134,N0104,N0102,in_vehicle,1.17,10,,,,E00274,134.0,7.44,0.22
+Lower Oshiwara,Oshiwara,Metro Line 2A (Yellow),Metro,Up,2.0,2.0,2.0,134,N0104,N0106,in_vehicle,1.17,10,,,,E00275,134.0,7.44,0.22
+Lower Parel,Mahalakshmi,Western Railway,WR_Train,Up,3.0,3.0,3.0,275,N0174,N0173,in_vehicle,2.0,5,,,,E00276,585.0,32.5,0.962
+Lower Parel,Prabhadevi,Western Railway,WR_Train,Down,3.0,3.0,3.0,290,N0174,N0186,in_vehicle,2.0,5,,,,E00277,608.0,33.78,1.0
+Lowjee,Badlapur,Central Railway Main,CR_Train,Up,71.0,71.0,71.0,1,N0036,N0017,in_vehicle,47.33,30,,,,E00278,419.0,23.28,0.689
+Lowjee,Dolavli,Central Railway Main,CR_Train,Up,4.0,4.0,4.0,17,N0036,N0046,in_vehicle,2.67,5,,,,E00279,419.0,23.28,0.689
+Lowjee,Kasara,Central Railway Main,CR_Train,Up,91.0,91.0,91.0,1,N0036,N0016,in_vehicle,60.67,30,,,,E00280,419.0,23.28,0.689
+Lowjee,Khardi,Central Railway Main,CR_Train,Up,72.0,72.0,72.0,1,N0036,N0015,in_vehicle,48.0,30,,,,E00281,419.0,23.28,0.689
+Lowjee,Khopoli,Central Railway Main,CR_Train,Down,6.0,6.0,8.0,17,N0036,N0021,in_vehicle,4.0,10,,,,E00282,450.0,25.0,0.74
+Mansarovar,Khandeshwar,Trans-Harbour Line,CR_Train,Down,3.0,3.0,1437.0,37,N0160,N0156,in_vehicle,2.0,5,,,,E00283,131.0,7.28,0.216
+Mansarovar,Kharghar,Trans-Harbour Line,CR_Train,Up,3.0,3.0,3.0,37,N0160,N0164,in_vehicle,2.0,5,,,,E00284,131.0,7.28,0.216
+MIDC (Andheri),Marol Naka,Metro Line 3 (Aqua),Metro,Down,2.0,2.0,2.0,165,N0118,N0120,in_vehicle,1.17,10,,,,E00285,165.0,9.17,0.271
+MIDC (Andheri),SEEPZ,Metro Line 3 (Aqua),Metro,Up,2.0,2.0,2.0,165,N0118,N0116,in_vehicle,1.17,10,,,,E00286,165.0,9.17,0.271
+Magathane,Devipada,Metro Line 7 (Red),Metro,Up,2.0,2.0,2.0,134,N0149,N0147,in_vehicle,1.17,10,,,,E00287,134.0,7.44,0.22
+Magathane,Poisar,Metro Line 7 (Red),Metro,Down,2.0,2.0,2.0,134,N0149,N0151,in_vehicle,1.17,10,,,,E00288,134.0,7.44,0.22
+Mahalakshmi,Lower Parel,Western Railway,WR_Train,Down,3.0,3.0,1437.0,289,N0173,N0174,in_vehicle,2.0,5,,,,E00289,608.0,33.78,1.0
+Mahalakshmi,Mumbai Central,Western Railway,WR_Train,Up,3.0,3.0,899.0,275,N0173,N0172,in_vehicle,2.0,5,,,,E00290,585.0,32.5,0.962
+Mahalaxmi,Mumbai Central Metro,Metro Line 3 (Aqua),Metro,Down,2.0,2.0,2.0,165,N0133,N0131,in_vehicle,1.17,10,,,,E00291,165.0,9.17,0.271
+Mahalaxmi,Nehru Science Centre,Metro Line 3 (Aqua),Metro,Up,2.0,2.0,2.0,165,N0133,N0135,in_vehicle,1.17,10,,,,E00292,165.0,9.17,0.271
+Mahim Jn,Bandra,Harbour Line CSMT,CR_Train,Down,4.0,3.0,6.0,101,N0072,N0060,in_vehicle,2.67,5,,,,E00293,351.0,19.5,0.577
+Mahim Jn,King's Circle,Harbour Line CSMT,CR_Train,Up,3.0,2.0,4.0,110,N0072,N0071,in_vehicle,2.0,5,,,,E00294,355.0,19.72,0.584
+Mahim Jn.,BANDRA,Western Railway,WR_Train,Down,4.0,3.0,1435.0,290,N0187,N0176,in_vehicle,2.67,5,,,,E00295,608.0,33.78,1.0
+Mahim Jn.,Matunga Road,Western Railway,WR_Train,Up,3.0,3.0,3.0,275,N0187,N0196,in_vehicle,2.0,5,,,,E00296,585.0,32.5,0.962
+Malad,ANDHERI,Western Railway,WR_Train,Up,10.0,8.0,11.0,5,N0180,N0178,in_vehicle,6.67,15,,,,E00297,585.0,32.5,0.962
+Malad,Goregaon,Western Railway,WR_Train,Up,3.0,3.0,158.0,280,N0180,N0179,in_vehicle,2.0,5,,,,E00298,585.0,32.5,0.962
+Malad,Jogeshwari,Western Railway,WR_Train,Up,8.0,8.0,8.0,1,N0180,N0190,in_vehicle,5.33,10,,,,E00299,585.0,32.5,0.962
+Malad,Kandivli,Western Railway,WR_Train,Down,3.0,3.0,4.0,289,N0180,N0192,in_vehicle,2.0,5,,,,E00300,608.0,33.78,1.0
+Malad West,Dahanukarwadi (Kamraj Nagar),Metro Line 2A (Yellow),Metro,Up,2.0,2.0,2.0,134,N0112,N0113,in_vehicle,1.17,10,,,,E00301,134.0,7.44,0.22
+Malad West,Lower Malad,Metro Line 2A (Yellow),Metro,Down,2.0,2.0,2.0,134,N0112,N0110,in_vehicle,1.17,10,,,,E00302,134.0,7.44,0.22
+Mankhurd,Govandi,Harbour Line CSMT,CR_Train,Up,3.0,3.0,5.0,213,N0055,N0066,in_vehicle,2.0,5,,,,E00303,355.0,19.72,0.584
+Mankhurd,Vashi,Harbour Line CSMT,CR_Train,Down,9.0,9.0,1431.0,218,N0055,N0056,in_vehicle,6.0,10,,,,E00304,351.0,19.5,0.577
+Mansarovar,Khandeshwar,Harbour Line CSMT,CR_Train,Down,3.0,3.0,1437.0,179,N0077,N0070,in_vehicle,2.0,5,,,,E00305,351.0,19.5,0.577
+Mansarovar,Kharghar,Harbour Line CSMT,CR_Train,Up,3.0,2.0,3.0,188,N0077,N0080,in_vehicle,2.0,5,,,,E00306,355.0,19.72,0.584
+Marine Lines,CHURCHGATE,Western Railway,WR_Train,Up,4.0,3.0,7.0,411,N0199,N0198,in_vehicle,2.67,5,,,,E00307,585.0,32.5,0.962
+Marol Naka,Airport Road,Metro Line 1 (Blue),Metro,Up,2.0,2.0,2.0,202,N0094,N0096,in_vehicle,1.17,10,,,,E00308,202.0,11.22,0.332
+Marol Naka,CSIA T2 (Int'l Airport),Metro Line 3 (Aqua),Metro,Down,2.0,2.0,2.0,165,N0120,N0122,in_vehicle,1.17,10,,,,E00309,165.0,9.17,0.271
+Marol Naka,MIDC (Andheri),Metro Line 3 (Aqua),Metro,Up,2.0,2.0,2.0,165,N0120,N0118,in_vehicle,1.17,10,,,,E00310,165.0,9.17,0.271
+Marol Naka,Saki Naka,Metro Line 1 (Blue),Metro,Down,2.0,2.0,2.0,199,N0094,N0092,in_vehicle,1.17,10,,,,E00311,199.0,11.06,0.327
+Masjid,CSMT,Central Railway Main,CR_Train,Up,3.0,3.0,1436.0,225,N0002,N0001,in_vehicle,2.0,5,,,,E00312,419.0,23.28,0.689
+Masjid,Mumbai CSMT,Harbour Line CSMT,CR_Train,Up,3.0,2.0,1437.0,267,N0051,N0050,in_vehicle,2.0,5,,,,E00313,355.0,19.72,0.584
+Masjid,Nerul,Harbour Line CSMT,CR_Train,Down,29.0,29.0,1411.0,38,N0051,N0068,in_vehicle,19.33,20,,,,E00314,351.0,19.5,0.577
+Masjid,Sandhurst Road,Central Railway Main,CR_Train,Down,2.0,2.0,1438.0,238,N0002,N0022,in_vehicle,1.33,5,,,,E00315,450.0,25.0,0.74
+Masjid,Sandhurst Road,Harbour Line CSMT,CR_Train,Down,3.0,3.0,3.0,267,N0051,N0074,in_vehicle,2.0,5,,,,E00316,351.0,19.5,0.577
+Matunga,Currey Road,Central Railway Main,CR_Train,Up,8.0,8.0,8.0,1,N0023,N0049,in_vehicle,5.33,10,,,,E00317,419.0,23.28,0.689
+Matunga,Dadar,Central Railway Main,CR_Train,Up,4.0,3.0,1437.0,260,N0023,N0005,in_vehicle,2.67,5,,,,E00318,419.0,23.28,0.689
+Matunga,Kurla,Central Railway Main,CR_Train,Down,5.0,5.0,5.0,1,N0023,N0006,in_vehicle,3.33,10,,,,E00319,450.0,25.0,0.74
+Matunga,Sion,Central Railway Main,CR_Train,Down,3.0,3.0,3.0,272,N0023,N0024,in_vehicle,2.0,5,,,,E00320,450.0,25.0,0.74
+Matunga Road,DADAR,Western Railway,WR_Train,Up,4.0,3.0,894.0,275,N0196,N0175,in_vehicle,2.67,5,,,,E00321,585.0,32.5,0.962
+Matunga Road,Mahim Jn.,Western Railway,WR_Train,Down,3.0,3.0,4.0,290,N0196,N0187,in_vehicle,2.0,5,,,,E00322,608.0,33.78,1.0
+Mira Road,Bhayandar,Western Railway,WR_Train,Down,5.0,1.0,837.0,268,N0194,N0182,in_vehicle,3.33,10,,,,E00323,608.0,33.78,1.0
+Mira Road,Dahisar,Western Railway,WR_Train,Up,4.0,4.0,1436.0,266,N0194,N0193,in_vehicle,2.67,5,,,,E00324,585.0,32.5,0.962
+Mulund,Ghatkopar,Central Railway Main,CR_Train,Up,12.0,6.0,13.0,45,N0025,N0008,in_vehicle,8.0,15,,,,E00325,419.0,23.28,0.689
+Mulund,Nahur,Central Railway Main,CR_Train,Up,3.0,3.0,39.0,240,N0025,N0039,in_vehicle,2.0,5,,,,E00326,419.0,23.28,0.689
+Mulund,Thane,Central Railway Main,CR_Train,Down,5.0,3.0,1435.0,322,N0025,N0009,in_vehicle,3.33,10,,,,E00327,450.0,25.0,0.74
+Mulund,Vikhroli,Central Railway Main,CR_Train,Up,8.0,7.0,9.0,14,N0025,N0037,in_vehicle,5.33,10,,,,E00328,419.0,23.28,0.689
+Mumbai CSMT,Masjid,Harbour Line CSMT,CR_Train,Down,3.0,2.0,1437.0,267,N0050,N0051,in_vehicle,2.0,5,,,,E00329,351.0,19.5,0.577
+Mumbai Central,ANDHERI,Western Railway,WR_Train,Down,21.0,20.0,21.0,4,N0172,N0178,in_vehicle,14.0,20,,,,E00330,608.0,33.78,1.0
+Mumbai Central,CHURCHGATE,Western Railway,WR_Train,Up,9.0,7.0,11.0,49,N0172,N0198,in_vehicle,6.0,10,,,,E00331,585.0,32.5,0.962
+Mumbai Central,DADAR,Western Railway,WR_Train,Down,7.0,6.0,10.0,179,N0172,N0175,in_vehicle,4.67,10,,,,E00332,608.0,33.78,1.0
+Mumbai Central,Grant Road,Western Railway,WR_Train,Up,2.0,2.0,1438.0,411,N0172,N0185,in_vehicle,1.33,5,,,,E00333,585.0,32.5,0.962
+Mumbai Central,Khar Road,Western Railway,WR_Train,Down,23.0,23.0,23.0,5,N0172,N0177,in_vehicle,15.33,20,,,,E00334,608.0,33.78,1.0
+Mumbai Central,Mahalakshmi,Western Railway,WR_Train,Down,3.0,2.0,1437.0,282,N0172,N0173,in_vehicle,2.0,5,,,,E00335,608.0,33.78,1.0
+Mumbai Central Metro,Grant Road Metro,Metro Line 3 (Aqua),Metro,Down,2.0,2.0,2.0,165,N0131,N0129,in_vehicle,1.17,10,,,,E00336,165.0,9.17,0.271
+Mumbai Central Metro,Mahalaxmi,Metro Line 3 (Aqua),Metro,Up,2.0,2.0,2.0,165,N0131,N0133,in_vehicle,1.17,10,,,,E00337,165.0,9.17,0.271
+Mumbra,Diva,Central Railway Main,CR_Train,Down,4.0,4.0,1436.0,215,N0040,N0041,in_vehicle,2.67,5,,,,E00338,450.0,25.0,0.74
+Mumbra,Kalva,Central Railway Main,CR_Train,Up,6.0,5.0,7.0,200,N0040,N0026,in_vehicle,4.0,10,,,,E00339,419.0,23.28,0.689
+Nerul,Juinagar,Trans-Harbour Line,CR_Train,Up,5.0,4.0,6.0,71,N0155,N0159,in_vehicle,3.33,10,,,,E00340,131.0,7.28,0.216
+Nerul,Seawoods-Darave,Trans-Harbour Line,CR_Train,Down,4.0,3.0,4.0,37,N0155,N0168,in_vehicle,2.67,5,,,,E00341,131.0,7.28,0.216
+Nahur,Bhandup,Central Railway Main,CR_Train,Up,3.0,3.0,6.0,241,N0039,N0038,in_vehicle,2.0,5,,,,E00342,419.0,23.28,0.689
+Nahur,Mulund,Central Railway Main,CR_Train,Down,3.0,3.0,1437.0,260,N0039,N0025,in_vehicle,2.0,5,,,,E00343,450.0,25.0,0.74
+Naigaon,Bhayandar,Western Railway,WR_Train,Up,6.0,5.0,1434.0,225,N0195,N0182,in_vehicle,4.0,10,,,,E00344,585.0,32.5,0.962
+Naigaon,Vasai Road,Western Railway,WR_Train,Down,5.0,1.0,8.0,230,N0195,N0183,in_vehicle,3.33,10,,,,E00345,608.0,33.78,1.0
+Nalla Sopara,VIRAR,Western Railway,WR_Train,Down,7.0,2.0,1434.0,206,N0197,N0184,in_vehicle,4.67,10,,,,E00346,608.0,33.78,1.0
+Nehru Science Centre,Acharya Atre Chowk,Metro Line 3 (Aqua),Metro,Up,2.0,2.0,2.0,165,N0135,N0137,in_vehicle,1.17,10,,,,E00347,165.0,9.17,0.271
+Nehru Science Centre,Mahalaxmi,Metro Line 3 (Aqua),Metro,Down,2.0,2.0,2.0,165,N0135,N0133,in_vehicle,1.17,10,,,,E00348,165.0,9.17,0.271
+Neral,Bhivpuri Road,Central Railway Main,CR_Train,Down,7.0,6.0,8.0,35,N0018,N0034,in_vehicle,4.67,10,,,,E00349,450.0,25.0,0.74
+Neral,Shelu,Central Railway Main,CR_Train,Up,4.0,4.0,9.0,35,N0018,N0033,in_vehicle,2.67,5,,,,E00350,419.0,23.28,0.689
+Nerul,Juinagar,Harbour Line CSMT,CR_Train,Up,3.0,3.0,1437.0,188,N0068,N0057,in_vehicle,2.0,5,,,,E00351,355.0,19.72,0.584
+Nerul,Seawoods-Darave,Harbour Line CSMT,CR_Train,Down,3.0,3.0,5.0,217,N0068,N0069,in_vehicle,2.0,5,,,,E00352,351.0,19.5,0.577
+Oshiwara,Goregaon West (Bangur Nagar),Metro Line 2A (Yellow),Metro,Up,2.0,2.0,2.0,134,N0106,N0108,in_vehicle,1.17,10,,,,E00353,134.0,7.44,0.22
+Oshiwara,Lower Oshiwara,Metro Line 2A (Yellow),Metro,Down,2.0,2.0,2.0,134,N0106,N0104,in_vehicle,1.17,10,,,,E00354,134.0,7.44,0.22
+Ovaripada,Dahisar East,Metro Line 2A (Yellow),Metro,Up,2.0,2.0,2.0,134,N0099,N0097,in_vehicle,1.17,10,,,,E00355,134.0,7.44,0.22
+Ovaripada,Dahisar East,Metro Line 7 (Red),Metro,Up,2.0,2.0,2.0,134,N0143,N0141,in_vehicle,1.17,10,,,,E00356,134.0,7.44,0.22
+Ovaripada,Eksar (Shimpoli),Metro Line 2A (Yellow),Metro,Down,2.0,2.0,2.0,134,N0099,N0101,in_vehicle,1.17,10,,,,E00357,134.0,7.44,0.22
+Ovaripada,Rashtriya Udyan (National Park),Metro Line 7 (Red),Metro,Down,2.0,2.0,2.0,134,N0143,N0145,in_vehicle,1.17,10,,,,E00358,134.0,7.44,0.22
+Pahadi Eksar (Bangur Nagar),Borivali West,Metro Line 2A (Yellow),Metro,Up,2.0,2.0,2.0,134,N0109,N0107,in_vehicle,1.17,10,,,,E00359,134.0,7.44,0.22
+Pahadi Eksar (Bangur Nagar),Kandivali West,Metro Line 2A (Yellow),Metro,Down,2.0,2.0,2.0,134,N0109,N0111,in_vehicle,1.17,10,,,,E00360,134.0,7.44,0.22
+Palasdhari,Karjat,Central Railway Main,CR_Train,Up,7.0,7.0,12.0,17,N0020,N0019,in_vehicle,4.67,10,,,,E00361,419.0,23.28,0.689
+Palasdhari,Kelavli,Central Railway Main,CR_Train,Down,7.0,7.0,7.0,17,N0020,N0035,in_vehicle,4.67,10,,,,E00362,450.0,25.0,0.74
+Panvel,Khandeshwar,Harbour Line CSMT,CR_Train,Up,5.0,3.0,5.0,188,N0059,N0070,in_vehicle,3.33,10,,,,E00363,355.0,19.72,0.584
+Parel,Byculla,Central Railway Main,CR_Train,Up,6.0,6.0,6.0,1,N0004,N0003,in_vehicle,4.0,10,,,,E00364,419.0,23.28,0.689
+Parel,Currey Road,Central Railway Main,CR_Train,Up,3.0,3.0,48.0,226,N0004,N0049,in_vehicle,2.0,5,,,,E00365,419.0,23.28,0.689
+Parel,Dadar,Central Railway Main,CR_Train,Down,3.0,3.0,1437.0,261,N0004,N0005,in_vehicle,2.0,5,,,,E00366,450.0,25.0,0.74
+Poisar,Akurli,Metro Line 7 (Red),Metro,Down,2.0,2.0,2.0,134,N0151,N0153,in_vehicle,1.17,10,,,,E00367,134.0,7.44,0.22
+Poisar,Magathane,Metro Line 7 (Red),Metro,Up,2.0,2.0,2.0,134,N0151,N0149,in_vehicle,1.17,10,,,,E00368,134.0,7.44,0.22
+Prabhadevi,DADAR,Western Railway,WR_Train,Down,2.0,2.0,29.0,290,N0186,N0175,in_vehicle,1.33,5,,,,E00369,608.0,33.78,1.0
+Prabhadevi,Lower Parel,Western Railway,WR_Train,Up,3.0,3.0,3.0,275,N0186,N0174,in_vehicle,2.0,5,,,,E00370,585.0,32.5,0.962
+RABALE,AIROLI,Trans-Harbour Line,CR_Train,Up,3.0,3.0,1437.0,131,N0162,N0158,in_vehicle,2.0,5,,,,E00371,131.0,7.28,0.216
+RABALE,GHANSOLI,Trans-Harbour Line,CR_Train,Down,3.0,3.0,3.0,131,N0162,N0165,in_vehicle,2.0,5,,,,E00372,131.0,7.28,0.216
+Ram Mandir,Goregaon,Western Railway,WR_Train,Down,2.0,2.0,1438.0,310,N0191,N0179,in_vehicle,1.33,5,,,,E00373,608.0,33.78,1.0
+Ram Mandir,Jogeshwari,Western Railway,WR_Train,Up,3.0,2.0,4.0,293,N0191,N0190,in_vehicle,2.0,5,,,,E00374,585.0,32.5,0.962
+Ramnagar,Goregaon,Harbour Line CSMT,CR_Train,Down,4.0,4.0,6.0,55,N0073,N0061,in_vehicle,2.67,5,,,,E00375,351.0,19.5,0.577
+Ramnagar,Jogeshwari,Harbour Line CSMT,CR_Train,Up,3.0,3.0,4.0,55,N0073,N0078,in_vehicle,2.0,5,,,,E00376,355.0,19.72,0.584
+Rashtriya Udyan (National Park),Devipada,Metro Line 7 (Red),Metro,Down,2.0,2.0,2.0,134,N0145,N0147,in_vehicle,1.17,10,,,,E00377,134.0,7.44,0.22
+Rashtriya Udyan (National Park),Ovaripada,Metro Line 7 (Red),Metro,Up,2.0,2.0,2.0,134,N0145,N0143,in_vehicle,1.17,10,,,,E00378,134.0,7.44,0.22
+Reay Road,Cotton Green,Harbour Line CSMT,CR_Train,Down,2.0,2.0,2.0,267,N0075,N0062,in_vehicle,1.33,5,,,,E00379,351.0,19.5,0.577
+Reay Road,Dockyard Road,Harbour Line CSMT,CR_Train,Up,3.0,3.0,4.0,267,N0075,N0079,in_vehicle,2.0,5,,,,E00380,355.0,19.72,0.584
+Sanpada,TURBHE,Trans-Harbour Line,CR_Train,Up,4.0,4.0,5.0,60,N0161,N0163,in_vehicle,2.67,5,,,,E00381,131.0,7.28,0.216
+Sanpada,Vashi,Trans-Harbour Line,CR_Train,Down,4.0,4.0,6.0,60,N0161,N0157,in_vehicle,2.67,5,,,,E00382,131.0,7.28,0.216
+Seawoods-Darave,Belapur CBD,Trans-Harbour Line,CR_Train,Down,4.0,3.0,4.0,37,N0168,N0167,in_vehicle,2.67,5,,,,E00383,131.0,7.28,0.216
+Seawoods-Darave,Nerul,Trans-Harbour Line,CR_Train,Up,4.0,4.0,5.0,37,N0168,N0155,in_vehicle,2.67,5,,,,E00384,131.0,7.28,0.216
+SEEPZ,Aarey JVLR,Metro Line 3 (Aqua),Metro,Up,2.0,2.0,2.0,165,N0116,N0114,in_vehicle,1.17,10,,,,E00385,165.0,9.17,0.271
+SEEPZ,MIDC (Andheri),Metro Line 3 (Aqua),Metro,Down,2.0,2.0,2.0,165,N0116,N0118,in_vehicle,1.17,10,,,,E00386,165.0,9.17,0.271
+Sahar Road,CSIA T1 (Dom. Airport),Metro Line 3 (Aqua),Metro,Down,2.0,2.0,2.0,165,N0124,N0126,in_vehicle,1.17,10,,,,E00387,165.0,9.17,0.271
+Sahar Road,CSIA T2 (Int'l Airport),Metro Line 3 (Aqua),Metro,Up,2.0,2.0,2.0,165,N0124,N0122,in_vehicle,1.17,10,,,,E00388,165.0,9.17,0.271
+Saki Naka,Asalpha,Metro Line 1 (Blue),Metro,Down,2.0,2.0,2.0,199,N0092,N0090,in_vehicle,1.17,10,,,,E00389,199.0,11.06,0.327
+Saki Naka,Marol Naka,Metro Line 1 (Blue),Metro,Up,2.0,2.0,2.0,202,N0092,N0094,in_vehicle,1.17,10,,,,E00390,202.0,11.22,0.332
+Sandhurst Road,Byculla,Central Railway Main,CR_Train,Down,3.0,3.0,4.0,238,N0022,N0003,in_vehicle,2.0,5,,,,E00391,450.0,25.0,0.74
+Sandhurst Road,Dockyard Road,Harbour Line CSMT,CR_Train,Down,2.0,2.0,1438.0,267,N0074,N0079,in_vehicle,1.33,5,,,,E00392,351.0,19.5,0.577
+Sandhurst Road,Masjid,Central Railway Main,CR_Train,Up,3.0,2.0,1437.0,225,N0022,N0002,in_vehicle,2.0,5,,,,E00393,419.0,23.28,0.689
+Sandhurst Road,Masjid,Harbour Line CSMT,CR_Train,Up,2.0,2.0,3.0,267,N0074,N0051,in_vehicle,1.33,5,,,,E00394,355.0,19.72,0.584
+Sanpada,Juinagar,Harbour Line CSMT,CR_Train,Down,3.0,3.0,4.0,179,N0067,N0057,in_vehicle,2.0,5,,,,E00395,351.0,19.5,0.577
+Sanpada,Vashi,Harbour Line CSMT,CR_Train,Up,2.0,2.0,4.0,178,N0067,N0056,in_vehicle,1.33,5,,,,E00396,355.0,19.72,0.584
+Santa Cruz,Khar Road,Western Railway,WR_Train,Up,3.0,3.0,5.0,275,N0188,N0177,in_vehicle,2.0,5,,,,E00397,585.0,32.5,0.962
+Santa Cruz,Vile Parle,Western Railway,WR_Train,Down,3.0,3.0,4.0,294,N0188,N0189,in_vehicle,2.0,5,,,,E00398,608.0,33.78,1.0
+Santacruz,Khar Road,Harbour Line CSMT,CR_Train,Up,3.0,2.0,4.0,69,N0084,N0082,in_vehicle,2.0,5,,,,E00399,355.0,19.72,0.584
+Santacruz,Vileparle,Harbour Line CSMT,CR_Train,Down,3.0,3.0,3.0,57,N0084,N0083,in_vehicle,2.0,5,,,,E00400,351.0,19.5,0.577
+Santacruz Metro,Bandra Colony,Metro Line 3 (Aqua),Metro,Down,2.0,2.0,2.0,165,N0128,N0130,in_vehicle,1.17,10,,,,E00401,165.0,9.17,0.271
+Santacruz Metro,CSIA T1 (Dom. Airport),Metro Line 3 (Aqua),Metro,Up,2.0,2.0,2.0,165,N0128,N0126,in_vehicle,1.17,10,,,,E00402,165.0,9.17,0.271
+Seawoods-Darave,Belapur CBD,Harbour Line CSMT,CR_Train,Down,4.0,3.0,1436.0,217,N0069,N0058,in_vehicle,2.67,5,,,,E00403,351.0,19.5,0.577
+Seawoods-Darave,Nerul,Harbour Line CSMT,CR_Train,Up,3.0,3.0,5.0,225,N0069,N0068,in_vehicle,2.0,5,,,,E00404,355.0,19.72,0.584
+Sewri,Cotton Green,Harbour Line CSMT,CR_Train,Up,3.0,3.0,1437.0,272,N0052,N0062,in_vehicle,2.0,5,,,,E00405,355.0,19.72,0.584
+Sewri,Vadala Road,Harbour Line CSMT,CR_Train,Down,3.0,3.0,1437.0,267,N0052,N0053,in_vehicle,2.0,5,,,,E00406,351.0,19.5,0.577
+Shahad,Ambernath,Central Railway Main,CR_Train,Up,52.0,43.0,83.0,3,N0030,N0012,in_vehicle,34.67,30,,,,E00407,419.0,23.28,0.689
+Shahad,Ambivli,Central Railway Main,CR_Train,Down,3.0,3.0,4.0,76,N0030,N0031,in_vehicle,2.0,5,,,,E00408,450.0,25.0,0.74
+Shahad,Kalyan,Central Railway Main,CR_Train,Up,6.0,5.0,8.0,71,N0030,N0011,in_vehicle,4.0,10,,,,E00409,419.0,23.28,0.689
+Shelu,Neral,Central Railway Main,CR_Train,Down,4.0,4.0,4.0,35,N0033,N0018,in_vehicle,2.67,5,,,,E00410,450.0,25.0,0.74
+Shelu,Vangani,Central Railway Main,CR_Train,Up,4.0,4.0,7.0,35,N0033,N0045,in_vehicle,2.67,5,,,,E00411,419.0,23.28,0.689
+Shitala Devi Mandir,Dadar Metro,Metro Line 3 (Aqua),Metro,Down,2.0,2.0,2.0,165,N0136,N0138,in_vehicle,1.17,10,,,,E00412,165.0,9.17,0.271
+Shitala Devi Mandir,Dharavi,Metro Line 3 (Aqua),Metro,Up,2.0,2.0,2.0,165,N0136,N0134,in_vehicle,1.17,10,,,,E00413,165.0,9.17,0.271
+Siddhivinayak,Dadar Metro,Metro Line 3 (Aqua),Metro,Up,2.0,2.0,2.0,165,N0140,N0138,in_vehicle,1.17,10,,,,E00414,165.0,9.17,0.271
+Siddhivinayak,Worli,Metro Line 3 (Aqua),Metro,Down,2.0,2.0,2.0,165,N0140,N0139,in_vehicle,1.17,10,,,,E00415,165.0,9.17,0.271
+Sion,Kurla,Central Railway Main,CR_Train,Down,4.0,4.0,1436.0,272,N0024,N0006,in_vehicle,2.67,5,,,,E00416,450.0,25.0,0.74
+Sion,Matunga,Central Railway Main,CR_Train,Up,3.0,3.0,1437.0,258,N0024,N0023,in_vehicle,2.0,5,,,,E00417,419.0,23.28,0.689
+TURBHE,Juinagar,Trans-Harbour Line,CR_Train,Down,4.0,4.0,5.0,71,N0163,N0159,in_vehicle,2.67,5,,,,E00418,131.0,7.28,0.216
+TURBHE,KOPAR KHAIRANE,Trans-Harbour Line,CR_Train,Up,4.0,4.0,5.0,131,N0163,N0166,in_vehicle,2.67,5,,,,E00419,131.0,7.28,0.216
+TURBHE,Sanpada,Trans-Harbour Line,CR_Train,Down,4.0,4.0,5.0,60,N0163,N0161,in_vehicle,2.67,5,,,,E00420,131.0,7.28,0.216
+Thakurli,Dombivli,Central Railway Main,CR_Train,Up,3.0,3.0,36.0,169,N0028,N0010,in_vehicle,2.0,5,,,,E00421,419.0,23.28,0.689
+Thakurli,Kalyan,Central Railway Main,CR_Train,Down,6.0,5.0,1434.0,183,N0028,N0011,in_vehicle,4.0,10,,,,E00422,450.0,25.0,0.74
+Thane,Bhandup,Central Railway Main,CR_Train,Up,8.0,6.0,11.0,24,N0009,N0038,in_vehicle,5.33,10,,,,E00423,419.0,23.28,0.689
+Thane,Diva,Central Railway Main,CR_Train,Down,11.0,9.0,12.0,26,N0009,N0041,in_vehicle,7.33,15,,,,E00424,450.0,25.0,0.74
+Thane,Dombivli,Central Railway Main,CR_Train,Down,15.0,14.0,1425.0,87,N0009,N0010,in_vehicle,10.0,15,,,,E00425,450.0,25.0,0.74
+Thane,Ghatkopar,Central Railway Main,CR_Train,Up,15.0,11.0,17.0,47,N0009,N0008,in_vehicle,10.0,15,,,,E00426,419.0,23.28,0.689
+Thane,Kalva,Central Railway Main,CR_Train,Down,5.0,4.0,7.0,215,N0009,N0026,in_vehicle,3.33,10,,,,E00427,450.0,25.0,0.74
+Thane,Mulund,Central Railway Main,CR_Train,Up,5.0,3.0,19.0,299,N0009,N0025,in_vehicle,3.33,10,,,,E00428,419.0,23.28,0.689
+Thane,Nahur,Central Railway Main,CR_Train,Up,60.0,60.0,60.0,1,N0009,N0039,in_vehicle,40.0,30,,,,E00429,419.0,23.28,0.689
+Thane,Vikhroli,Central Railway Main,CR_Train,Up,12.5,12.0,13.0,2,N0009,N0037,in_vehicle,8.33,15,,,,E00430,419.0,23.28,0.689
+Tilaknagar,Chembur,Harbour Line CSMT,CR_Train,Down,2.0,2.0,3.0,220,N0065,N0054,in_vehicle,1.33,5,,,,E00431,351.0,19.5,0.577
+Tilaknagar,Kurla,Harbour Line CSMT,CR_Train,Up,3.0,3.0,1437.0,214,N0065,N0076,in_vehicle,2.0,5,,,,E00432,355.0,19.72,0.584
+Titwala,Ambivli,Central Railway Main,CR_Train,Up,8.0,6.0,9.0,73,N0013,N0031,in_vehicle,5.33,10,,,,E00433,419.0,23.28,0.689
+Titwala,Khadavli,Central Railway Main,CR_Train,Down,7.0,7.0,8.0,37,N0013,N0043,in_vehicle,4.67,10,,,,E00434,450.0,25.0,0.74
+Ulhas Nagar,Ambernath,Central Railway Main,CR_Train,Down,4.0,4.0,8.0,112,N0029,N0012,in_vehicle,2.67,5,,,,E00435,450.0,25.0,0.74
+Ulhas Nagar,Vithalwadi,Central Railway Main,CR_Train,Up,3.0,3.0,8.0,109,N0029,N0042,in_vehicle,2.0,5,,,,E00436,419.0,23.28,0.689
+Vashi,Sanpada,Trans-Harbour Line,CR_Train,Up,4.0,4.0,5.0,60,N0157,N0161,in_vehicle,2.67,5,,,,E00437,131.0,7.28,0.216
+Vadala Road,GTB Nagar,Harbour Line CSMT,CR_Train,Down,5.0,4.0,6.0,220,N0053,N0063,in_vehicle,3.33,10,,,,E00438,351.0,19.5,0.577
+Vadala Road,King's Circle,Harbour Line CSMT,CR_Train,Down,4.0,4.0,1436.0,101,N0053,N0071,in_vehicle,2.67,5,,,,E00439,351.0,19.5,0.577
+Vadala Road,Sewri,Harbour Line CSMT,CR_Train,Up,3.0,3.0,1437.0,270,N0053,N0052,in_vehicle,2.0,5,,,,E00440,355.0,19.72,0.584
+Vangani,Badlapur,Central Railway Main,CR_Train,Up,8.0,4.0,9.0,35,N0045,N0017,in_vehicle,5.33,10,,,,E00441,419.0,23.28,0.689
+Vangani,Shelu,Central Railway Main,CR_Train,Down,4.0,4.0,4.0,35,N0045,N0033,in_vehicle,2.67,5,,,,E00442,450.0,25.0,0.74
+Vasai Road,Bhayandar,Western Railway,WR_Train,Up,8.0,8.0,10.0,23,N0183,N0182,in_vehicle,5.33,10,,,,E00443,585.0,32.5,0.962
+Vasai Road,Naigaon,Western Railway,WR_Train,Up,5.0,4.0,7.0,225,N0183,N0195,in_vehicle,3.33,10,,,,E00444,585.0,32.5,0.962
+Vasai Road,Nalla Sopara,Western Railway,WR_Train,Down,5.0,4.0,1434.0,216,N0183,N0197,in_vehicle,3.33,10,,,,E00445,608.0,33.78,1.0
+Vasai Road,VIRAR,Western Railway,WR_Train,Down,11.0,8.0,13.0,18,N0183,N0184,in_vehicle,7.33,15,,,,E00446,608.0,33.78,1.0
+Vashi,Mankhurd,Harbour Line CSMT,CR_Train,Up,8.0,3.0,9.0,215,N0056,N0055,in_vehicle,5.33,10,,,,E00447,355.0,19.72,0.584
+Vashi,Sanpada,Harbour Line CSMT,CR_Train,Down,2.0,2.0,3.0,179,N0056,N0067,in_vehicle,1.33,5,,,,E00448,351.0,19.5,0.577
+Vasind,Asangaon,Central Railway Main,CR_Train,Down,8.0,6.0,10.0,37,N0032,N0014,in_vehicle,5.33,10,,,,E00449,450.0,25.0,0.74
+Vasind,Khadavli,Central Railway Main,CR_Train,Up,7.0,7.0,9.0,37,N0032,N0043,in_vehicle,4.67,10,,,,E00450,419.0,23.28,0.689
+Versova,D.N. Nagar,Metro Line 1 (Blue),Metro,Down,2.0,2.0,2.0,199,N0085,N0087,in_vehicle,1.17,10,,,,E00451,199.0,11.06,0.327
+Vidhan Bhavan,Churchgate Metro,Metro Line 3 (Aqua),Metro,Up,2.0,2.0,2.0,165,N0117,N0119,in_vehicle,1.17,10,,,,E00452,165.0,9.17,0.271
+Vidhan Bhavan,Cuffe Parade,Metro Line 3 (Aqua),Metro,Down,2.0,2.0,2.0,165,N0117,N0115,in_vehicle,1.17,10,,,,E00453,165.0,9.17,0.271
+Vidyavihar,Ghatkopar,Central Railway Main,CR_Train,Down,3.0,3.0,4.0,262,N0007,N0008,in_vehicle,2.0,5,,,,E00454,450.0,25.0,0.74
+Vidyavihar,Kurla,Central Railway Main,CR_Train,Up,3.0,3.0,42.0,243,N0007,N0006,in_vehicle,2.0,5,,,,E00455,419.0,23.28,0.689
+Vikhroli,Bhandup,Central Railway Main,CR_Train,Down,5.0,5.0,5.0,1,N0037,N0038,in_vehicle,3.33,10,,,,E00456,450.0,25.0,0.74
+Vikhroli,Ghatkopar,Central Railway Main,CR_Train,Up,4.0,3.0,1435.0,244,N0037,N0008,in_vehicle,2.67,5,,,,E00457,419.0,23.28,0.689
+Vikhroli,Kanjur Marg,Central Railway Main,CR_Train,Down,3.0,3.0,4.0,260,N0037,N0048,in_vehicle,2.0,5,,,,E00458,450.0,25.0,0.74
+Vikhroli,Kurla,Central Railway Main,CR_Train,Up,8.0,7.0,9.0,12,N0037,N0006,in_vehicle,5.33,10,,,,E00459,419.0,23.28,0.689
+Vikhroli,Mulund,Central Railway Main,CR_Train,Down,8.0,7.0,9.0,13,N0037,N0025,in_vehicle,5.33,10,,,,E00460,450.0,25.0,0.74
+Vikhroli,Thane,Central Railway Main,CR_Train,Down,12.0,9.0,14.0,3,N0037,N0009,in_vehicle,8.0,15,,,,E00461,450.0,25.0,0.74
+Vile Parle,ANDHERI,Western Railway,WR_Train,Down,5.0,3.0,1434.0,292,N0189,N0178,in_vehicle,3.33,10,,,,E00462,608.0,33.78,1.0
+Vile Parle,Santa Cruz,Western Railway,WR_Train,Up,3.0,3.0,1437.0,275,N0189,N0188,in_vehicle,2.0,5,,,,E00463,585.0,32.5,0.962
+Vileparle,Andheri,Harbour Line CSMT,CR_Train,Down,4.0,4.0,15.0,57,N0083,N0081,in_vehicle,2.67,5,,,,E00464,351.0,19.5,0.577
+Vileparle,Santacruz,Harbour Line CSMT,CR_Train,Up,3.0,3.0,4.0,69,N0083,N0084,in_vehicle,2.0,5,,,,E00465,355.0,19.72,0.584
+Vithalwadi,Kalyan,Central Railway Main,CR_Train,Up,6.0,4.0,62.0,111,N0042,N0011,in_vehicle,4.0,10,,,,E00466,419.0,23.28,0.689
+Vithalwadi,Ulhas Nagar,Central Railway Main,CR_Train,Down,3.0,2.0,3.0,112,N0042,N0029,in_vehicle,2.0,5,,,,E00467,450.0,25.0,0.74
+Western Express Highway,Andheri,Metro Line 1 (Blue),Metro,Up,2.0,2.0,2.0,202,N0093,N0091,in_vehicle,1.17,10,,,,E00468,202.0,11.22,0.332
+Western Express Highway,Chakala (J.B. Nagar),Metro Line 1 (Blue),Metro,Down,2.0,2.0,2.0,199,N0093,N0095,in_vehicle,1.17,10,,,,E00469,199.0,11.06,0.327
+Worli,Acharya Atre Chowk,Metro Line 3 (Aqua),Metro,Down,2.0,2.0,2.0,165,N0139,N0137,in_vehicle,1.17,10,,,,E00470,165.0,9.17,0.271
+Worli,Siddhivinayak,Metro Line 3 (Aqua),Metro,Up,2.0,2.0,2.0,165,N0139,N0140,in_vehicle,1.17,10,,,,E00471,165.0,9.17,0.271
+Vashi,Vashi,Harbour Line CSMT ↔ Trans-Harbour Line,Transfer,both,5.0,5.0,5.0,0,N0056,N0157,transfer,0.0,0,Vashi,Harbour Line CSMT,Trans-Harbour Line,E00472,0.0,0.0,0.0
+Vashi,Vashi,Harbour Line CSMT ↔ Trans-Harbour Line,Transfer,both,5.0,5.0,5.0,0,N0157,N0056,transfer,0.0,0,Vashi,Harbour Line CSMT,Trans-Harbour Line,E00473,0.0,0.0,0.0
+Nerul,Nerul,Harbour Line CSMT ↔ Trans-Harbour Line,Transfer,both,5.0,5.0,5.0,0,N0068,N0155,transfer,0.0,0,Nerul,Harbour Line CSMT,Trans-Harbour Line,E00474,0.0,0.0,0.0
+Nerul,Nerul,Harbour Line CSMT ↔ Trans-Harbour Line,Transfer,both,5.0,5.0,5.0,0,N0155,N0068,transfer,0.0,0,Nerul,Harbour Line CSMT,Trans-Harbour Line,E00475,0.0,0.0,0.0
+Panvel,Panvel,Harbour Line CSMT ↔ Trans-Harbour Line,Transfer,both,5.0,5.0,5.0,0,N0059,N0170,transfer,0.0,0,Panvel,Harbour Line CSMT,Trans-Harbour Line,E00476,0.0,0.0,0.0
+Panvel,Panvel,Harbour Line CSMT ↔ Trans-Harbour Line,Transfer,both,5.0,5.0,5.0,0,N0170,N0059,transfer,0.0,0,Panvel,Harbour Line CSMT,Trans-Harbour Line,E00477,0.0,0.0,0.0
+Dadar,Dadar Metro,Central Railway Main ↔ Metro Line 3 (Aqua),Transfer,both,7.0,7.0,7.0,0,N0005,N0138,transfer,0.0,0,Dadar,Central Railway Main,Metro Line 3 (Aqua),E00478,0.0,0.0,0.0
+Dadar Metro,Dadar,Central Railway Main ↔ Metro Line 3 (Aqua),Transfer,both,7.0,7.0,7.0,0,N0138,N0005,transfer,0.0,0,Dadar,Central Railway Main,Metro Line 3 (Aqua),E00479,0.0,0.0,0.0
+Dadar,DADAR,Central Railway Main ↔ Western Railway,Transfer,both,8.0,8.0,8.0,0,N0005,N0175,transfer,0.0,0,Dadar,Central Railway Main,Western Railway,E00480,0.0,0.0,0.0
+DADAR,Dadar,Central Railway Main ↔ Western Railway,Transfer,both,8.0,8.0,8.0,0,N0175,N0005,transfer,0.0,0,Dadar,Central Railway Main,Western Railway,E00481,0.0,0.0,0.0
+Dadar Metro,DADAR,Metro Line 3 (Aqua) ↔ Western Railway,Transfer,both,7.0,7.0,7.0,0,N0138,N0175,transfer,0.0,0,Dadar,Metro Line 3 (Aqua),Western Railway,E00482,0.0,0.0,0.0
+DADAR,Dadar Metro,Metro Line 3 (Aqua) ↔ Western Railway,Transfer,both,7.0,7.0,7.0,0,N0175,N0138,transfer,0.0,0,Dadar,Metro Line 3 (Aqua),Western Railway,E00483,0.0,0.0,0.0
+Goregaon,Goregaon West (Bangur Nagar),Harbour Line CSMT ↔ Metro Line 2A (Yellow),Transfer,both,7.0,7.0,7.0,0,N0061,N0108,transfer,0.0,0,Goregaon,Harbour Line CSMT,Metro Line 2A (Yellow),E00484,0.0,0.0,0.0
+Goregaon West (Bangur Nagar),Goregaon,Harbour Line CSMT ↔ Metro Line 2A (Yellow),Transfer,both,7.0,7.0,7.0,0,N0108,N0061,transfer,0.0,0,Goregaon,Harbour Line CSMT,Metro Line 2A (Yellow),E00485,0.0,0.0,0.0
+Goregaon,Goregaon,Harbour Line CSMT ↔ Western Railway,Transfer,both,8.0,8.0,8.0,0,N0061,N0179,transfer,0.0,0,Goregaon,Harbour Line CSMT,Western Railway,E00488,0.0,0.0,0.0
+Goregaon,Goregaon,Harbour Line CSMT ↔ Western Railway,Transfer,both,8.0,8.0,8.0,0,N0179,N0061,transfer,0.0,0,Goregaon,Harbour Line CSMT,Western Railway,E00489,0.0,0.0,0.0
+Goregaon West (Bangur Nagar),Goregaon East,Metro Line 2A (Yellow) ↔ Metro Line 7 (Red),Transfer,both,5.0,5.0,5.0,0,N0108,N0146,transfer,0.0,0,Goregaon,Metro Line 2A (Yellow),Metro Line 7 (Red),E00490,0.0,0.0,0.0
+Goregaon East,Goregaon West (Bangur Nagar),Metro Line 2A (Yellow) ↔ Metro Line 7 (Red),Transfer,both,5.0,5.0,5.0,0,N0146,N0108,transfer,0.0,0,Goregaon,Metro Line 2A (Yellow),Metro Line 7 (Red),E00491,0.0,0.0,0.0
+Goregaon West (Bangur Nagar),Goregaon,Metro Line 2A (Yellow) ↔ Western Railway,Transfer,both,7.0,7.0,7.0,0,N0108,N0179,transfer,0.0,0,Goregaon,Metro Line 2A (Yellow),Western Railway,E00492,0.0,0.0,0.0
+Goregaon,Goregaon West (Bangur Nagar),Metro Line 2A (Yellow) ↔ Western Railway,Transfer,both,7.0,7.0,7.0,0,N0179,N0108,transfer,0.0,0,Goregaon,Metro Line 2A (Yellow),Western Railway,E00493,0.0,0.0,0.0
+Marol Naka,Marol Naka,Metro Line 1 (Blue) ↔ Metro Line 3 (Aqua),Transfer,both,5.0,5.0,5.0,0,N0094,N0120,transfer,0.0,0,Marol Naka,Metro Line 1 (Blue),Metro Line 3 (Aqua),E00496,0.0,0.0,0.0
+Marol Naka,Marol Naka,Metro Line 1 (Blue) ↔ Metro Line 3 (Aqua),Transfer,both,5.0,5.0,5.0,0,N0120,N0094,transfer,0.0,0,Marol Naka,Metro Line 1 (Blue),Metro Line 3 (Aqua),E00497,0.0,0.0,0.0
+Andheri,Andheri,Harbour Line CSMT ↔ Metro Line 1 (Blue),Transfer,both,7.0,7.0,7.0,0,N0081,N0091,transfer,0.0,0,Andheri,Harbour Line CSMT,Metro Line 1 (Blue),E00498,0.0,0.0,0.0
+Andheri,Andheri,Harbour Line CSMT ↔ Metro Line 1 (Blue),Transfer,both,7.0,7.0,7.0,0,N0091,N0081,transfer,0.0,0,Andheri,Harbour Line CSMT,Metro Line 1 (Blue),E00499,0.0,0.0,0.0
+Andheri,Andheri West,Harbour Line CSMT ↔ Metro Line 2A (Yellow),Transfer,both,7.0,7.0,7.0,0,N0081,N0102,transfer,0.0,0,Andheri,Harbour Line CSMT,Metro Line 2A (Yellow),E00500,0.0,0.0,0.0
+Andheri West,Andheri,Harbour Line CSMT ↔ Metro Line 2A (Yellow),Transfer,both,7.0,7.0,7.0,0,N0102,N0081,transfer,0.0,0,Andheri,Harbour Line CSMT,Metro Line 2A (Yellow),E00501,0.0,0.0,0.0
+Andheri,MIDC (Andheri),Harbour Line CSMT ↔ Metro Line 3 (Aqua),Transfer,both,7.0,7.0,7.0,0,N0081,N0118,transfer,0.0,0,Andheri,Harbour Line CSMT,Metro Line 3 (Aqua),E00502,0.0,0.0,0.0
+MIDC (Andheri),Andheri,Harbour Line CSMT ↔ Metro Line 3 (Aqua),Transfer,both,7.0,7.0,7.0,0,N0118,N0081,transfer,0.0,0,Andheri,Harbour Line CSMT,Metro Line 3 (Aqua),E00503,0.0,0.0,0.0
+Andheri,ANDHERI,Harbour Line CSMT ↔ Western Railway,Transfer,both,8.0,8.0,8.0,0,N0081,N0178,transfer,0.0,0,Andheri,Harbour Line CSMT,Western Railway,E00504,0.0,0.0,0.0
+ANDHERI,Andheri,Harbour Line CSMT ↔ Western Railway,Transfer,both,8.0,8.0,8.0,0,N0178,N0081,transfer,0.0,0,Andheri,Harbour Line CSMT,Western Railway,E00505,0.0,0.0,0.0
+Andheri,Andheri West,Metro Line 1 (Blue) ↔ Metro Line 2A (Yellow),Transfer,both,5.0,5.0,5.0,0,N0091,N0102,transfer,0.0,0,Andheri,Metro Line 1 (Blue),Metro Line 2A (Yellow),E00506,0.0,0.0,0.0
+Andheri West,Andheri,Metro Line 1 (Blue) ↔ Metro Line 2A (Yellow),Transfer,both,5.0,5.0,5.0,0,N0102,N0091,transfer,0.0,0,Andheri,Metro Line 1 (Blue),Metro Line 2A (Yellow),E00507,0.0,0.0,0.0
+Andheri,MIDC (Andheri),Metro Line 1 (Blue) ↔ Metro Line 3 (Aqua),Transfer,both,5.0,5.0,5.0,0,N0091,N0118,transfer,0.0,0,Andheri,Metro Line 1 (Blue),Metro Line 3 (Aqua),E00508,0.0,0.0,0.0
+MIDC (Andheri),Andheri,Metro Line 1 (Blue) ↔ Metro Line 3 (Aqua),Transfer,both,5.0,5.0,5.0,0,N0118,N0091,transfer,0.0,0,Andheri,Metro Line 1 (Blue),Metro Line 3 (Aqua),E00509,0.0,0.0,0.0
+Andheri,ANDHERI,Metro Line 1 (Blue) ↔ Western Railway,Transfer,both,7.0,7.0,7.0,0,N0091,N0178,transfer,0.0,0,Andheri,Metro Line 1 (Blue),Western Railway,E00510,0.0,0.0,0.0
+ANDHERI,Andheri,Metro Line 1 (Blue) ↔ Western Railway,Transfer,both,7.0,7.0,7.0,0,N0178,N0091,transfer,0.0,0,Andheri,Metro Line 1 (Blue),Western Railway,E00511,0.0,0.0,0.0
+Andheri West,MIDC (Andheri),Metro Line 2A (Yellow) ↔ Metro Line 3 (Aqua),Transfer,both,5.0,5.0,5.0,0,N0102,N0118,transfer,0.0,0,Andheri,Metro Line 2A (Yellow),Metro Line 3 (Aqua),E00512,0.0,0.0,0.0
+MIDC (Andheri),Andheri West,Metro Line 2A (Yellow) ↔ Metro Line 3 (Aqua),Transfer,both,5.0,5.0,5.0,0,N0118,N0102,transfer,0.0,0,Andheri,Metro Line 2A (Yellow),Metro Line 3 (Aqua),E00513,0.0,0.0,0.0
+Andheri West,ANDHERI,Metro Line 2A (Yellow) ↔ Western Railway,Transfer,both,7.0,7.0,7.0,0,N0102,N0178,transfer,0.0,0,Andheri,Metro Line 2A (Yellow),Western Railway,E00514,0.0,0.0,0.0
+ANDHERI,Andheri West,Metro Line 2A (Yellow) ↔ Western Railway,Transfer,both,7.0,7.0,7.0,0,N0178,N0102,transfer,0.0,0,Andheri,Metro Line 2A (Yellow),Western Railway,E00515,0.0,0.0,0.0
+MIDC (Andheri),ANDHERI,Metro Line 3 (Aqua) ↔ Western Railway,Transfer,both,7.0,7.0,7.0,0,N0118,N0178,transfer,0.0,0,Andheri,Metro Line 3 (Aqua),Western Railway,E00516,0.0,0.0,0.0
+ANDHERI,MIDC (Andheri),Metro Line 3 (Aqua) ↔ Western Railway,Transfer,both,7.0,7.0,7.0,0,N0178,N0118,transfer,0.0,0,Andheri,Metro Line 3 (Aqua),Western Railway,E00517,0.0,0.0,0.0
+Thane,THANE,Central Railway Main ↔ Trans-Harbour Line,Transfer,both,5.0,5.0,5.0,0,N0009,N0169,transfer,0.0,0,Thane,Central Railway Main,Trans-Harbour Line,E00518,0.0,0.0,0.0
+THANE,Thane,Central Railway Main ↔ Trans-Harbour Line,Transfer,both,5.0,5.0,5.0,0,N0169,N0009,transfer,0.0,0,Thane,Central Railway Main,Trans-Harbour Line,E00519,0.0,0.0,0.0
+Grant Road Metro,Grant Road,Metro Line 3 (Aqua) ↔ Western Railway,Transfer,both,7.0,7.0,7.0,0,N0129,N0185,transfer,0.0,0,Grant Road,Metro Line 3 (Aqua),Western Railway,E00520,0.0,0.0,0.0
+Grant Road,Grant Road Metro,Metro Line 3 (Aqua) ↔ Western Railway,Transfer,both,7.0,7.0,7.0,0,N0185,N0129,transfer,0.0,0,Grant Road,Metro Line 3 (Aqua),Western Railway,E00521,0.0,0.0,0.0
+CSMT,Mumbai CSMT,Central Railway Main ↔ Harbour Line CSMT,Transfer,both,5.0,5.0,5.0,0,N0001,N0050,transfer,0.0,0,CSMT / Mumbai CSMT,Central Railway Main,Harbour Line CSMT,E00522,0.0,0.0,0.0
+Mumbai CSMT,CSMT,Central Railway Main ↔ Harbour Line CSMT,Transfer,both,5.0,5.0,5.0,0,N0050,N0001,transfer,0.0,0,CSMT / Mumbai CSMT,Central Railway Main,Harbour Line CSMT,E00523,0.0,0.0,0.0
+CSMT,CSMT Metro,Central Railway Main ↔ Metro Line 3 (Aqua),Transfer,both,7.0,7.0,7.0,0,N0001,N0123,transfer,0.0,0,CSMT / Mumbai CSMT,Central Railway Main,Metro Line 3 (Aqua),E00524,0.0,0.0,0.0
+CSMT Metro,CSMT,Central Railway Main ↔ Metro Line 3 (Aqua),Transfer,both,7.0,7.0,7.0,0,N0123,N0001,transfer,0.0,0,CSMT / Mumbai CSMT,Central Railway Main,Metro Line 3 (Aqua),E00525,0.0,0.0,0.0
+Mumbai CSMT,CSMT Metro,Harbour Line CSMT ↔ Metro Line 3 (Aqua),Transfer,both,7.0,7.0,7.0,0,N0050,N0123,transfer,0.0,0,CSMT / Mumbai CSMT,Harbour Line CSMT,Metro Line 3 (Aqua),E00526,0.0,0.0,0.0
+CSMT Metro,Mumbai CSMT,Harbour Line CSMT ↔ Metro Line 3 (Aqua),Transfer,both,7.0,7.0,7.0,0,N0123,N0050,transfer,0.0,0,CSMT / Mumbai CSMT,Harbour Line CSMT,Metro Line 3 (Aqua),E00527,0.0,0.0,0.0
+Ghatkopar,Ghatkopar,Central Railway Main ↔ Metro Line 1 (Blue),Transfer,both,7.0,7.0,7.0,0,N0008,N0086,transfer,0.0,0,Ghatkopar,Central Railway Main,Metro Line 1 (Blue),E00528,0.0,0.0,0.0
+Ghatkopar,Ghatkopar,Central Railway Main ↔ Metro Line 1 (Blue),Transfer,both,7.0,7.0,7.0,0,N0086,N0008,transfer,0.0,0,Ghatkopar,Central Railway Main,Metro Line 1 (Blue),E00529,0.0,0.0,0.0
+Churchgate Metro,CHURCHGATE,Metro Line 3 (Aqua) ↔ Western Railway,Transfer,both,7.0,7.0,7.0,0,N0119,N0198,transfer,0.0,0,Churchgate,Metro Line 3 (Aqua),Western Railway,E00530,0.0,0.0,0.0
+CHURCHGATE,Churchgate Metro,Metro Line 3 (Aqua) ↔ Western Railway,Transfer,both,7.0,7.0,7.0,0,N0198,N0119,transfer,0.0,0,Churchgate,Metro Line 3 (Aqua),Western Railway,E00531,0.0,0.0,0.0
+Kurla,Kurla,Central Railway Main ↔ Harbour Line CSMT,Transfer,both,5.0,5.0,5.0,0,N0006,N0076,transfer,0.0,0,Kurla,Central Railway Main,Harbour Line CSMT,E00532,0.0,0.0,0.0
+Kurla,Kurla,Central Railway Main ↔ Harbour Line CSMT,Transfer,both,5.0,5.0,5.0,0,N0076,N0006,transfer,0.0,0,Kurla,Central Railway Main,Harbour Line CSMT,E00533,0.0,0.0,0.0
+Borivali West,BORIVALI,Metro Line 2A (Yellow) ↔ Western Railway,Transfer,both,7.0,7.0,7.0,0,N0107,N0181,transfer,0.0,0,Borivali,Metro Line 2A (Yellow),Western Railway,E00534,0.0,0.0,0.0
+BORIVALI,Borivali West,Metro Line 2A (Yellow) ↔ Western Railway,Transfer,both,7.0,7.0,7.0,0,N0181,N0107,transfer,0.0,0,Borivali,Metro Line 2A (Yellow),Western Railway,E00535,0.0,0.0,0.0
+Dahisar East,Dahisar East,Metro Line 2A (Yellow) ↔ Metro Line 7 (Red),Transfer,both,5.0,5.0,5.0,0,N0097,N0141,transfer,0.0,0,Dahisar East,Metro Line 2A (Yellow),Metro Line 7 (Red),E00536,0.0,0.0,0.0
+Dahisar East,Dahisar East,Metro Line 2A (Yellow) ↔ Metro Line 7 (Red),Transfer,both,5.0,5.0,5.0,0,N0141,N0097,transfer,0.0,0,Dahisar East,Metro Line 2A (Yellow),Metro Line 7 (Red),E00537,0.0,0.0,0.0
+Masjid,Masjid,Central Railway Main ↔ Harbour Line CSMT,Transfer,both,5.0,5.0,5.0,0,N0002,N0051,transfer,0.0,0,Masjid,Central Railway Main,Harbour Line CSMT,E00538,0.0,0.0,0.0
+Masjid,Masjid,Central Railway Main ↔ Harbour Line CSMT,Transfer,both,5.0,5.0,5.0,0,N0051,N0002,transfer,0.0,0,Masjid,Central Railway Main,Harbour Line CSMT,E00539,0.0,0.0,0.0
+Parel,Lower Parel,Central Railway Main ↔ Western Railway,Transfer,both,8.0,8.0,8.0,0,N0004,N0174,transfer,0.0,0,Parel / Lower Parel,Central Railway Main,Western Railway,E00540,0.0,0.0,0.0
+Lower Parel,Parel,Central Railway Main ↔ Western Railway,Transfer,both,8.0,8.0,8.0,0,N0174,N0004,transfer,0.0,0,Parel / Lower Parel,Central Railway Main,Western Railway,E00541,0.0,0.0,0.0
+Sandhurst Road,Sandhurst Road,Central Railway Main ↔ Harbour Line CSMT,Transfer,both,5.0,5.0,5.0,0,N0022,N0074,transfer,0.0,0,Sandhurst Road,Central Railway Main,Harbour Line CSMT,E00542,0.0,0.0,0.0
+Sandhurst Road,Sandhurst Road,Central Railway Main ↔ Harbour Line CSMT,Transfer,both,5.0,5.0,5.0,0,N0074,N0022,transfer,0.0,0,Sandhurst Road,Central Railway Main,Harbour Line CSMT,E00543,0.0,0.0,0.0
+Belapur CBD,Belapur CBD,Harbour Line CSMT ↔ Trans-Harbour Line,Transfer,both,5.0,5.0,5.0,0,N0058,N0167,transfer,0.0,0,Belapur CBD,Harbour Line CSMT,Trans-Harbour Line,E00544,0.0,0.0,0.0
+Belapur CBD,Belapur CBD,Harbour Line CSMT ↔ Trans-Harbour Line,Transfer,both,5.0,5.0,5.0,0,N0167,N0058,transfer,0.0,0,Belapur CBD,Harbour Line CSMT,Trans-Harbour Line,E00545,0.0,0.0,0.0
+Khar Road,Khar Road,Harbour Line CSMT ↔ Western Railway,Transfer,both,8.0,8.0,8.0,0,N0082,N0177,transfer,0.0,0,Khar Road,Harbour Line CSMT,Western Railway,E00546,0.0,0.0,0.0
+Khar Road,Khar Road,Harbour Line CSMT ↔ Western Railway,Transfer,both,8.0,8.0,8.0,0,N0177,N0082,transfer,0.0,0,Khar Road,Harbour Line CSMT,Western Railway,E00547,0.0,0.0,0.0
+Bandra,Bandra Colony,Harbour Line CSMT ↔ Metro Line 3 (Aqua),Transfer,both,7.0,7.0,7.0,0,N0060,N0130,transfer,0.0,0,Bandra,Harbour Line CSMT,Metro Line 3 (Aqua),E00548,0.0,0.0,0.0
+Bandra Colony,Bandra,Harbour Line CSMT ↔ Metro Line 3 (Aqua),Transfer,both,7.0,7.0,7.0,0,N0130,N0060,transfer,0.0,0,Bandra,Harbour Line CSMT,Metro Line 3 (Aqua),E00549,0.0,0.0,0.0
+Bandra,BANDRA,Harbour Line CSMT ↔ Western Railway,Transfer,both,8.0,8.0,8.0,0,N0060,N0176,transfer,0.0,0,Bandra,Harbour Line CSMT,Western Railway,E00550,0.0,0.0,0.0
+BANDRA,Bandra,Harbour Line CSMT ↔ Western Railway,Transfer,both,8.0,8.0,8.0,0,N0176,N0060,transfer,0.0,0,Bandra,Harbour Line CSMT,Western Railway,E00551,0.0,0.0,0.0
+Bandra Colony,BANDRA,Metro Line 3 (Aqua) ↔ Western Railway,Transfer,both,7.0,7.0,7.0,0,N0130,N0176,transfer,0.0,0,Bandra,Metro Line 3 (Aqua),Western Railway,E00552,0.0,0.0,0.0
+BANDRA,Bandra Colony,Metro Line 3 (Aqua) ↔ Western Railway,Transfer,both,7.0,7.0,7.0,0,N0176,N0130,transfer,0.0,0,Bandra,Metro Line 3 (Aqua),Western Railway,E00553,0.0,0.0,0.0
+Santacruz,Santacruz Metro,Harbour Line CSMT ↔ Metro Line 3 (Aqua),Transfer,both,7.0,7.0,7.0,0,N0084,N0128,transfer,0.0,0,Santacruz,Harbour Line CSMT,Metro Line 3 (Aqua),E00554,0.0,0.0,0.0
+Santacruz Metro,Santacruz,Harbour Line CSMT ↔ Metro Line 3 (Aqua),Transfer,both,7.0,7.0,7.0,0,N0128,N0084,transfer,0.0,0,Santacruz,Harbour Line CSMT,Metro Line 3 (Aqua),E00555,0.0,0.0,0.0
+Santacruz,Santa Cruz,Harbour Line CSMT ↔ Western Railway,Transfer,both,8.0,8.0,8.0,0,N0084,N0188,transfer,0.0,0,Santacruz,Harbour Line CSMT,Western Railway,E00556,0.0,0.0,0.0
+Santa Cruz,Santacruz,Harbour Line CSMT ↔ Western Railway,Transfer,both,8.0,8.0,8.0,0,N0188,N0084,transfer,0.0,0,Santacruz,Harbour Line CSMT,Western Railway,E00557,0.0,0.0,0.0
+Santacruz Metro,Santa Cruz,Metro Line 3 (Aqua) ↔ Western Railway,Transfer,both,7.0,7.0,7.0,0,N0128,N0188,transfer,0.0,0,Santacruz,Metro Line 3 (Aqua),Western Railway,E00558,0.0,0.0,0.0
+Santa Cruz,Santacruz Metro,Metro Line 3 (Aqua) ↔ Western Railway,Transfer,both,7.0,7.0,7.0,0,N0188,N0128,transfer,0.0,0,Santacruz,Metro Line 3 (Aqua),Western Railway,E00559,0.0,0.0,0.0
+Jogeshwari,Jogeshwari East (JVLR),Harbour Line CSMT ↔ Metro Line 7 (Red),Transfer,both,7.0,7.0,7.0,0,N0078,N0144,transfer,0.0,0,Jogeshwari,Harbour Line CSMT,Metro Line 7 (Red),E00560,0.0,0.0,0.0
+Jogeshwari East (JVLR),Jogeshwari,Harbour Line CSMT ↔ Metro Line 7 (Red),Transfer,both,7.0,7.0,7.0,0,N0144,N0078,transfer,0.0,0,Jogeshwari,Harbour Line CSMT,Metro Line 7 (Red),E00561,0.0,0.0,0.0
+Jogeshwari,Jogeshwari,Harbour Line CSMT ↔ Western Railway,Transfer,both,8.0,8.0,8.0,0,N0078,N0190,transfer,0.0,0,Jogeshwari,Harbour Line CSMT,Western Railway,E00562,0.0,0.0,0.0
+Jogeshwari,Jogeshwari,Harbour Line CSMT ↔ Western Railway,Transfer,both,8.0,8.0,8.0,0,N0190,N0078,transfer,0.0,0,Jogeshwari,Harbour Line CSMT,Western Railway,E00563,0.0,0.0,0.0
+Jogeshwari East (JVLR),Jogeshwari,Metro Line 7 (Red) ↔ Western Railway,Transfer,both,7.0,7.0,7.0,0,N0144,N0190,transfer,0.0,0,Jogeshwari,Metro Line 7 (Red),Western Railway,E00564,0.0,0.0,0.0
+Jogeshwari,Jogeshwari East (JVLR),Metro Line 7 (Red) ↔ Western Railway,Transfer,both,7.0,7.0,7.0,0,N0190,N0144,transfer,0.0,0,Jogeshwari,Metro Line 7 (Red),Western Railway,E00565,0.0,0.0,0.0
+Ovaripada,Ovaripada,Metro Line 2A (Yellow) ↔ Metro Line 7 (Red),Transfer,both,5.0,5.0,5.0,0,N0099,N0143,transfer,0.0,0,Ovaripada,Metro Line 2A (Yellow),Metro Line 7 (Red),E00566,0.0,0.0,0.0
+Ovaripada,Ovaripada,Metro Line 2A (Yellow) ↔ Metro Line 7 (Red),Transfer,both,5.0,5.0,5.0,0,N0143,N0099,transfer,0.0,0,Ovaripada,Metro Line 2A (Yellow),Metro Line 7 (Red),E00567,0.0,0.0,0.0
+D.N. Nagar,D.N. Nagar,Metro Line 1 (Blue) ↔ Metro Line 2A (Yellow),Transfer,both,5.0,5.0,5.0,0,N0087,N0098,transfer,0.0,0,D.N. Nagar,Metro Line 1 (Blue),Metro Line 2A (Yellow),E00568,0.0,0.0,0.0
+D.N. Nagar,D.N. Nagar,Metro Line 1 (Blue) ↔ Metro Line 2A (Yellow),Transfer,both,5.0,5.0,5.0,0,N0098,N0087,transfer,0.0,0,D.N. Nagar,Metro Line 1 (Blue),Metro Line 2A (Yellow),E00569,0.0,0.0,0.0
+Mahalaxmi,Mahalakshmi,Metro Line 3 (Aqua) ↔ Western Railway,Transfer,both,7.0,7.0,7.0,0,N0133,N0173,transfer,0.0,0,Mahalaxmi,Metro Line 3 (Aqua),Western Railway,E00570,0.0,0.0,0.0
+Mahalakshmi,Mahalaxmi,Metro Line 3 (Aqua) ↔ Western Railway,Transfer,both,7.0,7.0,7.0,0,N0173,N0133,transfer,0.0,0,Mahalaxmi,Metro Line 3 (Aqua),Western Railway,E00571,0.0,0.0,0.0
+Mumbai Central Metro,Mumbai Central,Metro Line 3 (Aqua) ↔ Western Railway,Transfer,both,7.0,7.0,7.0,0,N0131,N0172,transfer,0.0,0,Mumbai Central,Metro Line 3 (Aqua),Western Railway,E00572,0.0,0.0,0.0
+Mumbai Central,Mumbai Central Metro,Metro Line 3 (Aqua) ↔ Western Railway,Transfer,both,7.0,7.0,7.0,0,N0172,N0131,transfer,0.0,0,Mumbai Central,Metro Line 3 (Aqua),Western Railway,E00573,0.0,0.0,0.0
+Aarey JVLR,Aarey (JVLR),Metro Line 3 (Aqua) ↔ Metro Line 7 (Red),Transfer,both,5.0,5.0,5.0,0,N0114,N0148,transfer,0.0,0,Aarey JVLR,Metro Line 3 (Aqua),Metro Line 7 (Red),E00570,0.0,0.0,0.5
+Aarey (JVLR),Aarey JVLR,Metro Line 3 (Aqua) ↔ Metro Line 7 (Red),Transfer,both,5.0,5.0,5.0,0,N0148,N0114,transfer,0.0,0,Aarey JVLR,Metro Line 7 (Red),Metro Line 3 (Aqua),E00571,0.0,0.0,0.5
+Backbay Depot,Dahisar Bus Station,A-13E,BEST_Bus,Down,70.0,70.0,70.0,21,B0200,B0201,in_vehicle,29.2,30,,A-13E,A-13E,E00574,21.0,1.17,0.3
+Dahisar East,Dahisar Bus Station,Rail ↔ A-13E,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,A-13E,E00575,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ A-13E,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,A-13E,E00576,0.0,0.0,0.5
+Hiranandani Estate,Dahisar Bus Station,A-13E,BEST_Bus,Down,70.0,70.0,70.0,21,B0202,B0201,in_vehicle,29.2,30,,A-13E,A-13E,E00577,21.0,1.17,0.3
+Dahisar East,Dahisar Bus Station,Rail ↔ A-13E,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,A-13E,E00578,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ A-13E,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,A-13E,E00579,0.0,0.0,0.5
+Lodha Paradise,Dahisar Bus Station,A-13E,BEST_Bus,Down,70.0,70.0,70.0,21,B0203,B0201,in_vehicle,29.2,30,,A-13E,A-13E,E00580,21.0,1.17,0.3
+Dahisar East,Dahisar Bus Station,Rail ↔ A-13E,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,A-13E,E00581,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ A-13E,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,A-13E,E00582,0.0,0.0,0.5
+Mithagar (Mulund),Dahisar Bus Station,A-13E,BEST_Bus,Down,70.0,70.0,70.0,21,B0204,B0201,in_vehicle,29.2,30,,A-13E,A-13E,E00583,21.0,1.17,0.3
+Mulund,Mithagar (Mulund),Rail ↔ A-13E,Transfer,both,5.0,5.0,5.0,0,N0025,B0204,transfer,0.0,0,Mulund,,A-13E,E00584,0.0,0.0,0.5
+Mithagar (Mulund),Mulund,Rail ↔ A-13E,Transfer,both,5.0,5.0,5.0,0,B0204,N0025,transfer,0.0,0,Mulund,,A-13E,E00585,0.0,0.0,0.5
+Dahisar East,Dahisar Bus Station,Rail ↔ A-13E,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,A-13E,E00586,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ A-13E,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,A-13E,E00587,0.0,0.0,0.5
+Anik Depot,Thane,AS-1,BEST_Bus,Down,65.0,65.0,65.0,20,B0205,B0206,in_vehicle,27.1,30,,AS-1,AS-1,E00588,20.0,1.11,0.3
+Dadar,Anik Depot,Rail ↔ AS-1,Transfer,both,5.0,5.0,5.0,0,N0005,B0205,transfer,0.0,0,Dadar,,AS-1,E00589,0.0,0.0,0.5
+Anik Depot,Dadar,Rail ↔ AS-1,Transfer,both,5.0,5.0,5.0,0,B0205,N0005,transfer,0.0,0,Dadar,,AS-1,E00590,0.0,0.0,0.5
+Thane,Thane,Rail ↔ AS-1,Transfer,both,5.0,5.0,5.0,0,N0009,B0206,transfer,0.0,0,Thane,,AS-1,E00591,0.0,0.0,0.5
+Thane,Thane,Rail ↔ AS-1,Transfer,both,5.0,5.0,5.0,0,B0206,N0009,transfer,0.0,0,Thane,,AS-1,E00592,0.0,0.0,0.5
+Anik Depot,Backbay Depot,AS-1,BEST_Bus,Down,65.0,65.0,65.0,20,B0205,B0200,in_vehicle,27.1,30,,AS-1,AS-1,E00593,20.0,1.11,0.3
+Dadar,Anik Depot,Rail ↔ AS-1,Transfer,both,5.0,5.0,5.0,0,N0005,B0205,transfer,0.0,0,Dadar,,AS-1,E00594,0.0,0.0,0.5
+Anik Depot,Dadar,Rail ↔ AS-1,Transfer,both,5.0,5.0,5.0,0,B0205,N0005,transfer,0.0,0,Dadar,,AS-1,E00595,0.0,0.0,0.5
+Anik Depot,Anik Depot,AS-1,BEST_Bus,Down,65.0,65.0,65.0,20,B0205,B0205,in_vehicle,27.1,30,,AS-1,AS-1,E00596,20.0,1.11,0.3
+Dadar,Anik Depot,Rail ↔ AS-1,Transfer,both,5.0,5.0,5.0,0,N0005,B0205,transfer,0.0,0,Dadar,,AS-1,E00597,0.0,0.0,0.5
+Anik Depot,Dadar,Rail ↔ AS-1,Transfer,both,5.0,5.0,5.0,0,B0205,N0005,transfer,0.0,0,Dadar,,AS-1,E00598,0.0,0.0,0.5
+Dadar,Anik Depot,Rail ↔ AS-1,Transfer,both,5.0,5.0,5.0,0,N0005,B0205,transfer,0.0,0,Dadar,,AS-1,E00599,0.0,0.0,0.5
+Anik Depot,Dadar,Rail ↔ AS-1,Transfer,both,5.0,5.0,5.0,0,B0205,N0005,transfer,0.0,0,Dadar,,AS-1,E00600,0.0,0.0,0.5
+Backbay Depot,Thane,AS-1,BEST_Bus,Down,65.0,65.0,65.0,20,B0200,B0206,in_vehicle,27.1,30,,AS-1,AS-1,E00601,20.0,1.11,0.3
+Thane,Thane,Rail ↔ AS-1,Transfer,both,5.0,5.0,5.0,0,N0009,B0206,transfer,0.0,0,Thane,,AS-1,E00602,0.0,0.0,0.5
+Thane,Thane,Rail ↔ AS-1,Transfer,both,5.0,5.0,5.0,0,B0206,N0009,transfer,0.0,0,Thane,,AS-1,E00603,0.0,0.0,0.5
+Backbay Depot,Backbay Depot,AS-1,BEST_Bus,Down,65.0,65.0,65.0,20,B0200,B0200,in_vehicle,27.1,30,,AS-1,AS-1,E00604,20.0,1.11,0.3
+Backbay Depot,Anik Depot,AS-1,BEST_Bus,Down,65.0,65.0,65.0,20,B0200,B0205,in_vehicle,27.1,30,,AS-1,AS-1,E00605,20.0,1.11,0.3
+Dadar,Anik Depot,Rail ↔ AS-1,Transfer,both,5.0,5.0,5.0,0,N0005,B0205,transfer,0.0,0,Dadar,,AS-1,E00606,0.0,0.0,0.5
+Anik Depot,Dadar,Rail ↔ AS-1,Transfer,both,5.0,5.0,5.0,0,B0205,N0005,transfer,0.0,0,Dadar,,AS-1,E00607,0.0,0.0,0.5
+Cadbury Junction,Thane,AS-1,BEST_Bus,Down,65.0,65.0,65.0,20,B0207,B0206,in_vehicle,27.1,30,,AS-1,AS-1,E00608,20.0,1.11,0.3
+Thane,Thane,Rail ↔ AS-1,Transfer,both,5.0,5.0,5.0,0,N0009,B0206,transfer,0.0,0,Thane,,AS-1,E00609,0.0,0.0,0.5
+Thane,Thane,Rail ↔ AS-1,Transfer,both,5.0,5.0,5.0,0,B0206,N0009,transfer,0.0,0,Thane,,AS-1,E00610,0.0,0.0,0.5
+Cadbury Junction,Backbay Depot,AS-1,BEST_Bus,Down,65.0,65.0,65.0,20,B0207,B0200,in_vehicle,27.1,30,,AS-1,AS-1,E00611,20.0,1.11,0.3
+Cadbury Junction,Anik Depot,AS-1,BEST_Bus,Down,65.0,65.0,65.0,20,B0207,B0205,in_vehicle,27.1,30,,AS-1,AS-1,E00612,20.0,1.11,0.3
+Dadar,Anik Depot,Rail ↔ AS-1,Transfer,both,5.0,5.0,5.0,0,N0005,B0205,transfer,0.0,0,Dadar,,AS-1,E00613,0.0,0.0,0.5
+Anik Depot,Dadar,Rail ↔ AS-1,Transfer,both,5.0,5.0,5.0,0,B0205,N0005,transfer,0.0,0,Dadar,,AS-1,E00614,0.0,0.0,0.5
+Backbay Depot,Dahisar Bus Station,AS-2,BEST_Bus,Down,60.0,60.0,60.0,26,B0200,B0201,in_vehicle,25.0,30,,AS-2,AS-2,E00615,26.0,1.44,0.3
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-2,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-2,E00616,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-2,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-2,E00617,0.0,0.0,0.5
+Backbay Depot,Backbay Depot,AS-2,BEST_Bus,Down,60.0,60.0,60.0,26,B0200,B0200,in_vehicle,25.0,30,,AS-2,AS-2,E00618,26.0,1.44,0.3
+Backbay Depot,Magathane Depot,AS-2,BEST_Bus,Down,60.0,60.0,60.0,26,B0200,B0208,in_vehicle,25.0,30,,AS-2,AS-2,E00619,26.0,1.44,0.3
+Backbay Depot,National Park Borivali,AS-2,BEST_Bus,Down,60.0,60.0,60.0,26,B0200,B0209,in_vehicle,25.0,30,,AS-2,AS-2,E00620,26.0,1.44,0.3
+Borivali West,National Park Borivali,Rail ↔ AS-2,Transfer,both,5.0,5.0,5.0,0,N0107,B0209,transfer,0.0,0,Borivali,,AS-2,E00621,0.0,0.0,0.5
+National Park Borivali,Borivali West,Rail ↔ AS-2,Transfer,both,5.0,5.0,5.0,0,B0209,N0107,transfer,0.0,0,Borivali,,AS-2,E00622,0.0,0.0,0.5
+Backbay Depot,NSCI (Worli),AS-2,BEST_Bus,Down,60.0,60.0,60.0,26,B0200,B0210,in_vehicle,25.0,30,,AS-2,AS-2,E00623,26.0,1.44,0.3
+Worli,NSCI (Worli),Rail ↔ AS-2,Transfer,both,5.0,5.0,5.0,0,N0139,B0210,transfer,0.0,0,Worli,,AS-2,E00624,0.0,0.0,0.5
+NSCI (Worli),Worli,Rail ↔ AS-2,Transfer,both,5.0,5.0,5.0,0,B0210,N0139,transfer,0.0,0,Worli,,AS-2,E00625,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar Bus Station,AS-2,BEST_Bus,Down,60.0,60.0,60.0,26,B0201,B0201,in_vehicle,25.0,30,,AS-2,AS-2,E00626,26.0,1.44,0.3
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-2,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-2,E00627,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-2,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-2,E00628,0.0,0.0,0.5
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-2,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-2,E00629,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-2,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-2,E00630,0.0,0.0,0.5
+Dahisar Bus Station,Backbay Depot,AS-2,BEST_Bus,Down,60.0,60.0,60.0,26,B0201,B0200,in_vehicle,25.0,30,,AS-2,AS-2,E00631,26.0,1.44,0.3
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-2,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-2,E00632,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-2,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-2,E00633,0.0,0.0,0.5
+Dahisar Bus Station,Magathane Depot,AS-2,BEST_Bus,Down,60.0,60.0,60.0,26,B0201,B0208,in_vehicle,25.0,30,,AS-2,AS-2,E00634,26.0,1.44,0.3
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-2,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-2,E00635,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-2,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-2,E00636,0.0,0.0,0.5
+Dahisar Bus Station,National Park Borivali,AS-2,BEST_Bus,Down,60.0,60.0,60.0,26,B0201,B0209,in_vehicle,25.0,30,,AS-2,AS-2,E00637,26.0,1.44,0.3
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-2,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-2,E00638,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-2,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-2,E00639,0.0,0.0,0.5
+Borivali West,National Park Borivali,Rail ↔ AS-2,Transfer,both,5.0,5.0,5.0,0,N0107,B0209,transfer,0.0,0,Borivali,,AS-2,E00640,0.0,0.0,0.5
+National Park Borivali,Borivali West,Rail ↔ AS-2,Transfer,both,5.0,5.0,5.0,0,B0209,N0107,transfer,0.0,0,Borivali,,AS-2,E00641,0.0,0.0,0.5
+Dahisar Bus Station,NSCI (Worli),AS-2,BEST_Bus,Down,60.0,60.0,60.0,26,B0201,B0210,in_vehicle,25.0,30,,AS-2,AS-2,E00642,26.0,1.44,0.3
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-2,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-2,E00643,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-2,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-2,E00644,0.0,0.0,0.5
+Worli,NSCI (Worli),Rail ↔ AS-2,Transfer,both,5.0,5.0,5.0,0,N0139,B0210,transfer,0.0,0,Worli,,AS-2,E00645,0.0,0.0,0.5
+NSCI (Worli),Worli,Rail ↔ AS-2,Transfer,both,5.0,5.0,5.0,0,B0210,N0139,transfer,0.0,0,Worli,,AS-2,E00646,0.0,0.0,0.5
+NSCI (Worli),Dahisar Bus Station,AS-2,BEST_Bus,Down,60.0,60.0,60.0,26,B0210,B0201,in_vehicle,25.0,30,,AS-2,AS-2,E00647,26.0,1.44,0.3
+Worli,NSCI (Worli),Rail ↔ AS-2,Transfer,both,5.0,5.0,5.0,0,N0139,B0210,transfer,0.0,0,Worli,,AS-2,E00648,0.0,0.0,0.5
+NSCI (Worli),Worli,Rail ↔ AS-2,Transfer,both,5.0,5.0,5.0,0,B0210,N0139,transfer,0.0,0,Worli,,AS-2,E00649,0.0,0.0,0.5
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-2,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-2,E00650,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-2,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-2,E00651,0.0,0.0,0.5
+NSCI (Worli),Backbay Depot,AS-2,BEST_Bus,Down,60.0,60.0,60.0,26,B0210,B0200,in_vehicle,25.0,30,,AS-2,AS-2,E00652,26.0,1.44,0.3
+Worli,NSCI (Worli),Rail ↔ AS-2,Transfer,both,5.0,5.0,5.0,0,N0139,B0210,transfer,0.0,0,Worli,,AS-2,E00653,0.0,0.0,0.5
+NSCI (Worli),Worli,Rail ↔ AS-2,Transfer,both,5.0,5.0,5.0,0,B0210,N0139,transfer,0.0,0,Worli,,AS-2,E00654,0.0,0.0,0.5
+NSCI (Worli),Magathane Depot,AS-2,BEST_Bus,Down,60.0,60.0,60.0,26,B0210,B0208,in_vehicle,25.0,30,,AS-2,AS-2,E00655,26.0,1.44,0.3
+Worli,NSCI (Worli),Rail ↔ AS-2,Transfer,both,5.0,5.0,5.0,0,N0139,B0210,transfer,0.0,0,Worli,,AS-2,E00656,0.0,0.0,0.5
+NSCI (Worli),Worli,Rail ↔ AS-2,Transfer,both,5.0,5.0,5.0,0,B0210,N0139,transfer,0.0,0,Worli,,AS-2,E00657,0.0,0.0,0.5
+NSCI (Worli),National Park Borivali,AS-2,BEST_Bus,Down,60.0,60.0,60.0,26,B0210,B0209,in_vehicle,25.0,30,,AS-2,AS-2,E00658,26.0,1.44,0.3
+Worli,NSCI (Worli),Rail ↔ AS-2,Transfer,both,5.0,5.0,5.0,0,N0139,B0210,transfer,0.0,0,Worli,,AS-2,E00659,0.0,0.0,0.5
+NSCI (Worli),Worli,Rail ↔ AS-2,Transfer,both,5.0,5.0,5.0,0,B0210,N0139,transfer,0.0,0,Worli,,AS-2,E00660,0.0,0.0,0.5
+Borivali West,National Park Borivali,Rail ↔ AS-2,Transfer,both,5.0,5.0,5.0,0,N0107,B0209,transfer,0.0,0,Borivali,,AS-2,E00661,0.0,0.0,0.5
+National Park Borivali,Borivali West,Rail ↔ AS-2,Transfer,both,5.0,5.0,5.0,0,B0209,N0107,transfer,0.0,0,Borivali,,AS-2,E00662,0.0,0.0,0.5
+NSCI (Worli),NSCI (Worli),AS-2,BEST_Bus,Down,60.0,60.0,60.0,26,B0210,B0210,in_vehicle,25.0,30,,AS-2,AS-2,E00663,26.0,1.44,0.3
+Worli,NSCI (Worli),Rail ↔ AS-2,Transfer,both,5.0,5.0,5.0,0,N0139,B0210,transfer,0.0,0,Worli,,AS-2,E00664,0.0,0.0,0.5
+NSCI (Worli),Worli,Rail ↔ AS-2,Transfer,both,5.0,5.0,5.0,0,B0210,N0139,transfer,0.0,0,Worli,,AS-2,E00665,0.0,0.0,0.5
+Worli,NSCI (Worli),Rail ↔ AS-2,Transfer,both,5.0,5.0,5.0,0,N0139,B0210,transfer,0.0,0,Worli,,AS-2,E00666,0.0,0.0,0.5
+NSCI (Worli),Worli,Rail ↔ AS-2,Transfer,both,5.0,5.0,5.0,0,B0210,N0139,transfer,0.0,0,Worli,,AS-2,E00667,0.0,0.0,0.5
+National Park (Borivali),Dahisar Bus Station,AS-2,BEST_Bus,Down,60.0,60.0,60.0,26,B0211,B0201,in_vehicle,25.0,30,,AS-2,AS-2,E00668,26.0,1.44,0.3
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-2,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-2,E00669,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-2,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-2,E00670,0.0,0.0,0.5
+National Park (Borivali),Backbay Depot,AS-2,BEST_Bus,Down,60.0,60.0,60.0,26,B0211,B0200,in_vehicle,25.0,30,,AS-2,AS-2,E00671,26.0,1.44,0.3
+National Park (Borivali),Magathane Depot,AS-2,BEST_Bus,Down,60.0,60.0,60.0,26,B0211,B0208,in_vehicle,25.0,30,,AS-2,AS-2,E00672,26.0,1.44,0.3
+National Park (Borivali),National Park Borivali,AS-2,BEST_Bus,Down,60.0,60.0,60.0,26,B0211,B0209,in_vehicle,25.0,30,,AS-2,AS-2,E00673,26.0,1.44,0.3
+Borivali West,National Park Borivali,Rail ↔ AS-2,Transfer,both,5.0,5.0,5.0,0,N0107,B0209,transfer,0.0,0,Borivali,,AS-2,E00674,0.0,0.0,0.5
+National Park Borivali,Borivali West,Rail ↔ AS-2,Transfer,both,5.0,5.0,5.0,0,B0209,N0107,transfer,0.0,0,Borivali,,AS-2,E00675,0.0,0.0,0.5
+National Park (Borivali),NSCI (Worli),AS-2,BEST_Bus,Down,60.0,60.0,60.0,26,B0211,B0210,in_vehicle,25.0,30,,AS-2,AS-2,E00676,26.0,1.44,0.3
+Worli,NSCI (Worli),Rail ↔ AS-2,Transfer,both,5.0,5.0,5.0,0,N0139,B0210,transfer,0.0,0,Worli,,AS-2,E00677,0.0,0.0,0.5
+NSCI (Worli),Worli,Rail ↔ AS-2,Transfer,both,5.0,5.0,5.0,0,B0210,N0139,transfer,0.0,0,Worli,,AS-2,E00678,0.0,0.0,0.5
+Cadbury Junction,Dahisar Bus Station,AS-3,BEST_Bus,Down,55.0,55.0,55.0,60,B0207,B0201,in_vehicle,22.9,30,,AS-3,AS-3,E00679,60.0,3.33,0.3
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-3,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-3,E00680,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-3,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-3,E00681,0.0,0.0,0.5
+Anik Depot,Dahisar Bus Station,AS-3,BEST_Bus,Down,55.0,55.0,55.0,60,B0205,B0201,in_vehicle,22.9,30,,AS-3,AS-3,E00682,60.0,3.33,0.3
+Dadar,Anik Depot,Rail ↔ AS-3,Transfer,both,5.0,5.0,5.0,0,N0005,B0205,transfer,0.0,0,Dadar,,AS-3,E00683,0.0,0.0,0.5
+Anik Depot,Dadar,Rail ↔ AS-3,Transfer,both,5.0,5.0,5.0,0,B0205,N0005,transfer,0.0,0,Dadar,,AS-3,E00684,0.0,0.0,0.5
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-3,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-3,E00685,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-3,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-3,E00686,0.0,0.0,0.5
+Ashtvinayak Chowk,Dahisar Bus Station,AS-302,BEST_Bus,Down,50.0,50.0,50.0,23,B0212,B0201,in_vehicle,20.8,30,,AS-302,AS-302,E00687,23.0,1.28,0.3
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-302,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-302,E00688,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-302,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-302,E00689,0.0,0.0,0.5
+Dharavi Depot,Dahisar Bus Station,AS-302,BEST_Bus,Down,50.0,50.0,50.0,23,B0213,B0201,in_vehicle,20.8,30,,AS-302,AS-302,E00690,23.0,1.28,0.3
+Dharavi,Dharavi Depot,Rail ↔ AS-302,Transfer,both,5.0,5.0,5.0,0,N0134,B0213,transfer,0.0,0,Dharavi,,AS-302,E00691,0.0,0.0,0.5
+Dharavi Depot,Dharavi,Rail ↔ AS-302,Transfer,both,5.0,5.0,5.0,0,B0213,N0134,transfer,0.0,0,Dharavi,,AS-302,E00692,0.0,0.0,0.5
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-302,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-302,E00693,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-302,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-302,E00694,0.0,0.0,0.5
+Ghatkopar Depot,Dahisar Bus Station,AS-388,BEST_Bus,Down,45.0,45.0,45.0,16,B0214,B0201,in_vehicle,18.8,30,,AS-388,AS-388,E00695,16.0,0.89,0.3
+Ghatkopar,Ghatkopar Depot,Rail ↔ AS-388,Transfer,both,5.0,5.0,5.0,0,N0008,B0214,transfer,0.0,0,Ghatkopar,,AS-388,E00696,0.0,0.0,0.5
+Ghatkopar Depot,Ghatkopar,Rail ↔ AS-388,Transfer,both,5.0,5.0,5.0,0,B0214,N0008,transfer,0.0,0,Ghatkopar,,AS-388,E00697,0.0,0.0,0.5
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-388,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-388,E00698,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-388,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-388,E00699,0.0,0.0,0.5
+Poisar Depot,Dahisar Bus Station,AS-388,BEST_Bus,Down,45.0,45.0,45.0,16,B0215,B0201,in_vehicle,18.8,30,,AS-388,AS-388,E00700,16.0,0.89,0.3
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-388,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-388,E00701,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-388,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-388,E00702,0.0,0.0,0.5
+Backbay Depot,Dahisar Bus Station,AS-4,BEST_Bus,Down,60.0,60.0,60.0,14,B0200,B0201,in_vehicle,25.0,30,,AS-4,AS-4,E00703,14.0,0.78,0.3
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-4,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-4,E00704,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-4,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-4,E00705,0.0,0.0,0.5
+Oshiwara Depot,Dahisar Bus Station,AS-4,BEST_Bus,Down,60.0,60.0,60.0,14,B0216,B0201,in_vehicle,25.0,30,,AS-4,AS-4,E00706,14.0,0.78,0.3
+Oshiwara,Oshiwara Depot,Rail ↔ AS-4,Transfer,both,5.0,5.0,5.0,0,N0106,B0216,transfer,0.0,0,Oshiwara,,AS-4,E00707,0.0,0.0,0.5
+Oshiwara Depot,Oshiwara,Rail ↔ AS-4,Transfer,both,5.0,5.0,5.0,0,B0216,N0106,transfer,0.0,0,Oshiwara,,AS-4,E00708,0.0,0.0,0.5
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-4,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-4,E00709,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-4,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-4,E00710,0.0,0.0,0.5
+Agarkar Chowk,Dahisar Bus Station,AS-422,BEST_Bus,Down,55.0,55.0,55.0,36,B0217,B0201,in_vehicle,22.9,30,,AS-422,AS-422,E00711,36.0,2.0,0.3
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-422,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-422,E00712,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-422,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-422,E00713,0.0,0.0,0.5
+Mulund Bus Station,Dahisar Bus Station,AS-422,BEST_Bus,Down,55.0,55.0,55.0,36,B0218,B0201,in_vehicle,22.9,30,,AS-422,AS-422,E00714,36.0,2.0,0.3
+Mulund,Mulund Bus Station,Rail ↔ AS-422,Transfer,both,5.0,5.0,5.0,0,N0025,B0218,transfer,0.0,0,Mulund,,AS-422,E00715,0.0,0.0,0.5
+Mulund Bus Station,Mulund,Rail ↔ AS-422,Transfer,both,5.0,5.0,5.0,0,B0218,N0025,transfer,0.0,0,Mulund,,AS-422,E00716,0.0,0.0,0.5
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-422,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-422,E00717,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-422,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-422,E00718,0.0,0.0,0.5
+Borivali Station (East),Dahisar Bus Station,AS-440,BEST_Bus,Down,40.0,40.0,40.0,16,B0219,B0201,in_vehicle,16.7,30,,AS-440,AS-440,E00719,16.0,0.89,0.3
+Borivali West,Borivali Station (East),Rail ↔ AS-440,Transfer,both,5.0,5.0,5.0,0,N0107,B0219,transfer,0.0,0,Borivali,,AS-440,E00720,0.0,0.0,0.5
+Borivali Station (East),Borivali West,Rail ↔ AS-440,Transfer,both,5.0,5.0,5.0,0,B0219,N0107,transfer,0.0,0,Borivali,,AS-440,E00721,0.0,0.0,0.5
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-440,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-440,E00722,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-440,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-440,E00723,0.0,0.0,0.5
+Wadala Depot,Dahisar Bus Station,AS-440,BEST_Bus,Down,40.0,40.0,40.0,16,B0220,B0201,in_vehicle,16.7,30,,AS-440,AS-440,E00724,16.0,0.89,0.3
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-440,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-440,E00725,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-440,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-440,E00726,0.0,0.0,0.5
+Gorai Depot,Dahisar Bus Station,AS-458,BEST_Bus,Down,55.0,55.0,55.0,20,B0221,B0201,in_vehicle,22.9,30,,AS-458,AS-458,E00727,20.0,1.11,0.3
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-458,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-458,E00728,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-458,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-458,E00729,0.0,0.0,0.5
+Mulund Bus Station,Dahisar Bus Station,AS-458,BEST_Bus,Down,55.0,55.0,55.0,20,B0218,B0201,in_vehicle,22.9,30,,AS-458,AS-458,E00730,20.0,1.11,0.3
+Mulund,Mulund Bus Station,Rail ↔ AS-458,Transfer,both,5.0,5.0,5.0,0,N0025,B0218,transfer,0.0,0,Mulund,,AS-458,E00731,0.0,0.0,0.5
+Mulund Bus Station,Mulund,Rail ↔ AS-458,Transfer,both,5.0,5.0,5.0,0,B0218,N0025,transfer,0.0,0,Mulund,,AS-458,E00732,0.0,0.0,0.5
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-458,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-458,E00733,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-458,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-458,E00734,0.0,0.0,0.5
+Majas Depot,Dahisar Bus Station,AS-461,BEST_Bus,Down,50.0,50.0,50.0,35,B0222,B0201,in_vehicle,20.8,30,,AS-461,AS-461,E00735,35.0,1.94,0.3
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-461,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-461,E00736,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-461,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-461,E00737,0.0,0.0,0.5
+Mulund Bus Station,Dahisar Bus Station,AS-461,BEST_Bus,Down,50.0,50.0,50.0,35,B0218,B0201,in_vehicle,20.8,30,,AS-461,AS-461,E00738,35.0,1.94,0.3
+Mulund,Mulund Bus Station,Rail ↔ AS-461,Transfer,both,5.0,5.0,5.0,0,N0025,B0218,transfer,0.0,0,Mulund,,AS-461,E00739,0.0,0.0,0.5
+Mulund Bus Station,Mulund,Rail ↔ AS-461,Transfer,both,5.0,5.0,5.0,0,B0218,N0025,transfer,0.0,0,Mulund,,AS-461,E00740,0.0,0.0,0.5
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-461,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-461,E00741,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-461,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-461,E00742,0.0,0.0,0.5
+Borivali Station (West),Dahisar Bus Station,AS-461,BEST_Bus,Down,50.0,50.0,50.0,35,B0223,B0201,in_vehicle,20.8,30,,AS-461,AS-461,E00743,35.0,1.94,0.3
+Borivali West,Borivali Station (West),Rail ↔ AS-461,Transfer,both,5.0,5.0,5.0,0,N0107,B0223,transfer,0.0,0,Borivali,,AS-461,E00744,0.0,0.0,0.5
+Borivali Station (West),Borivali West,Rail ↔ AS-461,Transfer,both,5.0,5.0,5.0,0,B0223,N0107,transfer,0.0,0,Borivali,,AS-461,E00745,0.0,0.0,0.5
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-461,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-461,E00746,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-461,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-461,E00747,0.0,0.0,0.5
+Magathane Depot,Dahisar Bus Station,AS-461,BEST_Bus,Down,50.0,50.0,50.0,35,B0208,B0201,in_vehicle,20.8,30,,AS-461,AS-461,E00748,35.0,1.94,0.3
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-461,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-461,E00749,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-461,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-461,E00750,0.0,0.0,0.5
+SEEPZ,Dahisar Bus Station,AS-461,BEST_Bus,Down,50.0,50.0,50.0,35,B0224,B0201,in_vehicle,20.8,30,,AS-461,AS-461,E00751,35.0,1.94,0.3
+SEEPZ,SEEPZ,Rail ↔ AS-461,Transfer,both,5.0,5.0,5.0,0,N0116,B0224,transfer,0.0,0,SEEPZ,,AS-461,E00752,0.0,0.0,0.5
+SEEPZ,SEEPZ,Rail ↔ AS-461,Transfer,both,5.0,5.0,5.0,0,B0224,N0116,transfer,0.0,0,SEEPZ,,AS-461,E00753,0.0,0.0,0.5
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-461,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-461,E00754,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-461,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-461,E00755,0.0,0.0,0.5
+Cadbury Junction,Dahisar Bus Station,AS-5,BEST_Bus,Down,55.0,55.0,55.0,28,B0207,B0201,in_vehicle,22.9,30,,AS-5,AS-5,E00756,28.0,1.56,0.3
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-5,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-5,E00757,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-5,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-5,E00758,0.0,0.0,0.5
+Kurla Tel.Stores,Dahisar Bus Station,AS-5,BEST_Bus,Down,55.0,55.0,55.0,28,B0225,B0201,in_vehicle,22.9,30,,AS-5,AS-5,E00759,28.0,1.56,0.3
+Kurla,Kurla Tel.Stores,Rail ↔ AS-5,Transfer,both,5.0,5.0,5.0,0,N0006,B0225,transfer,0.0,0,Kurla,,AS-5,E00760,0.0,0.0,0.5
+Kurla Tel.Stores,Kurla,Rail ↔ AS-5,Transfer,both,5.0,5.0,5.0,0,B0225,N0006,transfer,0.0,0,Kurla,,AS-5,E00761,0.0,0.0,0.5
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-5,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-5,E00762,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-5,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-5,E00763,0.0,0.0,0.5
+Kurla Telephone Stores (BKC),Dahisar Bus Station,AS-5,BEST_Bus,Down,55.0,55.0,55.0,28,B0226,B0201,in_vehicle,22.9,30,,AS-5,AS-5,E00764,28.0,1.56,0.3
+Kurla,Kurla Telephone Stores (BKC),Rail ↔ AS-5,Transfer,both,5.0,5.0,5.0,0,N0006,B0226,transfer,0.0,0,Kurla,,AS-5,E00765,0.0,0.0,0.5
+Kurla Telephone Stores (BKC),Kurla,Rail ↔ AS-5,Transfer,both,5.0,5.0,5.0,0,B0226,N0006,transfer,0.0,0,Kurla,,AS-5,E00766,0.0,0.0,0.5
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-5,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-5,E00767,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-5,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-5,E00768,0.0,0.0,0.5
+Mithagar (Mulund),Dahisar Bus Station,AS-5,BEST_Bus,Down,55.0,55.0,55.0,28,B0204,B0201,in_vehicle,22.9,30,,AS-5,AS-5,E00769,28.0,1.56,0.3
+Mulund,Mithagar (Mulund),Rail ↔ AS-5,Transfer,both,5.0,5.0,5.0,0,N0025,B0204,transfer,0.0,0,Mulund,,AS-5,E00770,0.0,0.0,0.5
+Mithagar (Mulund),Mulund,Rail ↔ AS-5,Transfer,both,5.0,5.0,5.0,0,B0204,N0025,transfer,0.0,0,Mulund,,AS-5,E00771,0.0,0.0,0.5
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-5,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-5,E00772,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-5,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-5,E00773,0.0,0.0,0.5
+Kalamboli,Dahisar Bus Station,AS-503,BEST_Bus,Down,70.0,70.0,70.0,12,B0227,B0201,in_vehicle,29.2,30,,AS-503,AS-503,E00774,12.0,0.67,0.3
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-503,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-503,E00775,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-503,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-503,E00776,0.0,0.0,0.5
+Wadala Depot,Dahisar Bus Station,AS-503,BEST_Bus,Down,70.0,70.0,70.0,12,B0220,B0201,in_vehicle,29.2,30,,AS-503,AS-503,E00777,12.0,0.67,0.3
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-503,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-503,E00778,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-503,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-503,E00779,0.0,0.0,0.5
+C.B.D.Belapur,Dahisar Bus Station,AS-505,BEST_Bus,Down,75.0,75.0,75.0,45,B0228,B0201,in_vehicle,31.2,30,,AS-505,AS-505,E00780,45.0,2.5,0.3
+Belapur CBD,C.B.D.Belapur,Rail ↔ AS-505,Transfer,both,5.0,5.0,5.0,0,N0058,B0228,transfer,0.0,0,Belapur CBD,,AS-505,E00781,0.0,0.0,0.5
+C.B.D.Belapur,Belapur CBD,Rail ↔ AS-505,Transfer,both,5.0,5.0,5.0,0,B0228,N0058,transfer,0.0,0,Belapur CBD,,AS-505,E00782,0.0,0.0,0.5
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-505,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-505,E00783,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-505,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-505,E00784,0.0,0.0,0.5
+CBD Belapur,Dahisar Bus Station,AS-505,BEST_Bus,Down,75.0,75.0,75.0,45,B0229,B0201,in_vehicle,31.2,30,,AS-505,AS-505,E00785,45.0,2.5,0.3
+Belapur CBD,CBD Belapur,Rail ↔ AS-505,Transfer,both,5.0,5.0,5.0,0,N0058,B0229,transfer,0.0,0,Belapur CBD,,AS-505,E00786,0.0,0.0,0.5
+CBD Belapur,Belapur CBD,Rail ↔ AS-505,Transfer,both,5.0,5.0,5.0,0,B0229,N0058,transfer,0.0,0,Belapur CBD,,AS-505,E00787,0.0,0.0,0.5
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-505,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-505,E00788,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-505,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-505,E00789,0.0,0.0,0.5
+Santacruz Depot,Dahisar Bus Station,AS-505,BEST_Bus,Down,75.0,75.0,75.0,45,B0230,B0201,in_vehicle,31.2,30,,AS-505,AS-505,E00790,45.0,2.5,0.3
+Santacruz,Santacruz Depot,Rail ↔ AS-505,Transfer,both,5.0,5.0,5.0,0,N0084,B0230,transfer,0.0,0,Santacruz,,AS-505,E00791,0.0,0.0,0.5
+Santacruz Depot,Santacruz,Rail ↔ AS-505,Transfer,both,5.0,5.0,5.0,0,B0230,N0084,transfer,0.0,0,Santacruz,,AS-505,E00792,0.0,0.0,0.5
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-505,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-505,E00793,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-505,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-505,E00794,0.0,0.0,0.5
+C.B.D.Belapur,Dahisar Bus Station,AS-505E,BEST_Bus,Down,65.0,65.0,65.0,6,B0228,B0201,in_vehicle,27.1,30,,AS-505E,AS-505E,E00795,6.0,0.33,0.3
+Belapur CBD,C.B.D.Belapur,Rail ↔ AS-505E,Transfer,both,5.0,5.0,5.0,0,N0058,B0228,transfer,0.0,0,Belapur CBD,,AS-505E,E00796,0.0,0.0,0.5
+C.B.D.Belapur,Belapur CBD,Rail ↔ AS-505E,Transfer,both,5.0,5.0,5.0,0,B0228,N0058,transfer,0.0,0,Belapur CBD,,AS-505E,E00797,0.0,0.0,0.5
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-505E,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-505E,E00798,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-505E,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-505E,E00799,0.0,0.0,0.5
+Kurla Tele Stores,Dahisar Bus Station,AS-505E,BEST_Bus,Down,65.0,65.0,65.0,6,B0231,B0201,in_vehicle,27.1,30,,AS-505E,AS-505E,E00800,6.0,0.33,0.3
+Kurla,Kurla Tele Stores,Rail ↔ AS-505E,Transfer,both,5.0,5.0,5.0,0,N0006,B0231,transfer,0.0,0,Kurla,,AS-505E,E00801,0.0,0.0,0.5
+Kurla Tele Stores,Kurla,Rail ↔ AS-505E,Transfer,both,5.0,5.0,5.0,0,B0231,N0006,transfer,0.0,0,Kurla,,AS-505E,E00802,0.0,0.0,0.5
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-505E,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-505E,E00803,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-505E,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-505E,E00804,0.0,0.0,0.5
+APMC Sector-19 Vashi,Dahisar Bus Station,AS-524,BEST_Bus,Down,65.0,65.0,65.0,14,B0232,B0201,in_vehicle,27.1,30,,AS-524,AS-524,E00805,14.0,0.78,0.3
+Vashi,APMC Sector-19 Vashi,Rail ↔ AS-524,Transfer,both,5.0,5.0,5.0,0,N0056,B0232,transfer,0.0,0,Vashi,,AS-524,E00806,0.0,0.0,0.5
+APMC Sector-19 Vashi,Vashi,Rail ↔ AS-524,Transfer,both,5.0,5.0,5.0,0,B0232,N0056,transfer,0.0,0,Vashi,,AS-524,E00807,0.0,0.0,0.5
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-524,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-524,E00808,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-524,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-524,E00809,0.0,0.0,0.5
+Borivali Station (East),Dahisar Bus Station,AS-524,BEST_Bus,Down,65.0,65.0,65.0,14,B0219,B0201,in_vehicle,27.1,30,,AS-524,AS-524,E00810,14.0,0.78,0.3
+Borivali West,Borivali Station (East),Rail ↔ AS-524,Transfer,both,5.0,5.0,5.0,0,N0107,B0219,transfer,0.0,0,Borivali,,AS-524,E00811,0.0,0.0,0.5
+Borivali Station (East),Borivali West,Rail ↔ AS-524,Transfer,both,5.0,5.0,5.0,0,B0219,N0107,transfer,0.0,0,Borivali,,AS-524,E00812,0.0,0.0,0.5
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-524,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-524,E00813,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-524,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-524,E00814,0.0,0.0,0.5
+Omkareshwar Mandir,Dahisar Bus Station,AS-524,BEST_Bus,Down,65.0,65.0,65.0,14,B0233,B0201,in_vehicle,27.1,30,,AS-524,AS-524,E00815,14.0,0.78,0.3
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-524,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-524,E00816,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-524,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-524,E00817,0.0,0.0,0.5
+(MHAPE),Dahisar Bus Station,AS-525,BEST_Bus,Down,60.0,60.0,60.0,31,B0234,B0201,in_vehicle,25.0,30,,AS-525,AS-525,E00818,31.0,1.72,0.3
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-525,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-525,E00819,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-525,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-525,E00820,0.0,0.0,0.5
+L & T Infotech,Dahisar Bus Station,AS-525,BEST_Bus,Down,60.0,60.0,60.0,31,B0235,B0201,in_vehicle,25.0,30,,AS-525,AS-525,E00821,31.0,1.72,0.3
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-525,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-525,E00822,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-525,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-525,E00823,0.0,0.0,0.5
+Marol Depot,Dahisar Bus Station,AS-551,BEST_Bus,Down,55.0,55.0,55.0,47,B0236,B0201,in_vehicle,22.9,30,,AS-551,AS-551,E00824,47.0,2.61,0.3
+Marol Naka,Marol Depot,Rail ↔ AS-551,Transfer,both,5.0,5.0,5.0,0,N0094,B0236,transfer,0.0,0,Marol Naka,,AS-551,E00825,0.0,0.0,0.5
+Marol Depot,Marol Naka,Rail ↔ AS-551,Transfer,both,5.0,5.0,5.0,0,B0236,N0094,transfer,0.0,0,Marol Naka,,AS-551,E00826,0.0,0.0,0.5
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-551,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-551,E00827,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-551,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-551,E00828,0.0,0.0,0.5
+Nerul Railway Station,Dahisar Bus Station,AS-551,BEST_Bus,Down,55.0,55.0,55.0,47,B0237,B0201,in_vehicle,22.9,30,,AS-551,AS-551,E00829,47.0,2.61,0.3
+Nerul,Nerul Railway Station,Rail ↔ AS-551,Transfer,both,5.0,5.0,5.0,0,N0068,B0237,transfer,0.0,0,Nerul,,AS-551,E00830,0.0,0.0,0.5
+Nerul Railway Station,Nerul,Rail ↔ AS-551,Transfer,both,5.0,5.0,5.0,0,B0237,N0068,transfer,0.0,0,Nerul,,AS-551,E00831,0.0,0.0,0.5
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-551,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-551,E00832,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-551,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-551,E00833,0.0,0.0,0.5
+SEEPZ Village,Dahisar Bus Station,AS-551,BEST_Bus,Down,55.0,55.0,55.0,47,B0238,B0201,in_vehicle,22.9,30,,AS-551,AS-551,E00834,47.0,2.61,0.3
+SEEPZ,SEEPZ Village,Rail ↔ AS-551,Transfer,both,5.0,5.0,5.0,0,N0116,B0238,transfer,0.0,0,SEEPZ,,AS-551,E00835,0.0,0.0,0.5
+SEEPZ Village,SEEPZ,Rail ↔ AS-551,Transfer,both,5.0,5.0,5.0,0,B0238,N0116,transfer,0.0,0,SEEPZ,,AS-551,E00836,0.0,0.0,0.5
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-551,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-551,E00837,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-551,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-551,E00838,0.0,0.0,0.5
+Deonar Depot,Dahisar Bus Station,AS-592,BEST_Bus,Down,60.0,60.0,60.0,70,B0239,B0201,in_vehicle,25.0,30,,AS-592,AS-592,E00839,70.0,3.89,0.3
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-592,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-592,E00840,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-592,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-592,E00841,0.0,0.0,0.5
+Extension,Dahisar Bus Station,AS-592,BEST_Bus,Down,60.0,60.0,60.0,70,B0240,B0201,in_vehicle,25.0,30,,AS-592,AS-592,E00842,70.0,3.89,0.3
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-592,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-592,E00843,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-592,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-592,E00844,0.0,0.0,0.5
+Kopar Khairane,Dahisar Bus Station,AS-592,BEST_Bus,Down,60.0,60.0,60.0,70,B0241,B0201,in_vehicle,25.0,30,,AS-592,AS-592,E00845,70.0,3.89,0.3
+KOPAR KHAIRANE,Kopar Khairane,Rail ↔ AS-592,Transfer,both,5.0,5.0,5.0,0,N0166,B0241,transfer,0.0,0,KOPAR KHAIRANE,,AS-592,E00846,0.0,0.0,0.5
+Kopar Khairane,KOPAR KHAIRANE,Rail ↔ AS-592,Transfer,both,5.0,5.0,5.0,0,B0241,N0166,transfer,0.0,0,KOPAR KHAIRANE,,AS-592,E00847,0.0,0.0,0.5
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-592,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-592,E00848,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-592,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-592,E00849,0.0,0.0,0.5
+Kopar Khairane Ext,Dahisar Bus Station,AS-592,BEST_Bus,Down,60.0,60.0,60.0,70,B0242,B0201,in_vehicle,25.0,30,,AS-592,AS-592,E00850,70.0,3.89,0.3
+KOPAR KHAIRANE,Kopar Khairane Ext,Rail ↔ AS-592,Transfer,both,5.0,5.0,5.0,0,N0166,B0242,transfer,0.0,0,KOPAR KHAIRANE,,AS-592,E00851,0.0,0.0,0.5
+Kopar Khairane Ext,KOPAR KHAIRANE,Rail ↔ AS-592,Transfer,both,5.0,5.0,5.0,0,B0242,N0166,transfer,0.0,0,KOPAR KHAIRANE,,AS-592,E00852,0.0,0.0,0.5
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-592,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-592,E00853,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-592,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-592,E00854,0.0,0.0,0.5
+V.Naik Chowk,Dahisar Bus Station,AS-592,BEST_Bus,Down,60.0,60.0,60.0,70,B0243,B0201,in_vehicle,25.0,30,,AS-592,AS-592,E00855,70.0,3.89,0.3
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-592,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-592,E00856,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-592,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-592,E00857,0.0,0.0,0.5
+K'Khairane,Dahisar Bus Station,AS-592,BEST_Bus,Down,60.0,60.0,60.0,70,B0244,B0201,in_vehicle,25.0,30,,AS-592,AS-592,E00858,70.0,3.89,0.3
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-592,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-592,E00859,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-592,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-592,E00860,0.0,0.0,0.5
+Borivali Station (East),Dahisar Bus Station,AS-700,BEST_Bus,Down,50.0,50.0,50.0,22,B0219,B0201,in_vehicle,20.8,30,,AS-700,AS-700,E00861,22.0,1.22,0.3
+Borivali West,Borivali Station (East),Rail ↔ AS-700,Transfer,both,5.0,5.0,5.0,0,N0107,B0219,transfer,0.0,0,Borivali,,AS-700,E00862,0.0,0.0,0.5
+Borivali Station (East),Borivali West,Rail ↔ AS-700,Transfer,both,5.0,5.0,5.0,0,B0219,N0107,transfer,0.0,0,Borivali,,AS-700,E00863,0.0,0.0,0.5
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-700,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-700,E00864,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-700,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-700,E00865,0.0,0.0,0.5
+Kopari - Thane (East),Dahisar Bus Station,AS-700,BEST_Bus,Down,50.0,50.0,50.0,22,B0245,B0201,in_vehicle,20.8,30,,AS-700,AS-700,E00866,22.0,1.22,0.3
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-700,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-700,E00867,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-700,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-700,E00868,0.0,0.0,0.5
+Marathon Chowk,Dahisar Bus Station,AS-700,BEST_Bus,Down,50.0,50.0,50.0,22,B0246,B0201,in_vehicle,20.8,30,,AS-700,AS-700,E00869,22.0,1.22,0.3
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-700,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-700,E00870,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-700,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-700,E00871,0.0,0.0,0.5
+(Mira Road),Dahisar Bus Station,AS-707,BEST_Bus,Down,45.0,45.0,45.0,36,B0247,B0201,in_vehicle,18.8,30,,AS-707,AS-707,E00872,36.0,2.0,0.3
+Mira Road,(Mira Road),Rail ↔ AS-707,Transfer,both,5.0,5.0,5.0,0,N0194,B0247,transfer,0.0,0,Mira Road,,AS-707,E00873,0.0,0.0,0.5
+(Mira Road),Mira Road,Rail ↔ AS-707,Transfer,both,5.0,5.0,5.0,0,B0247,N0194,transfer,0.0,0,Mira Road,,AS-707,E00874,0.0,0.0,0.5
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-707,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-707,E00875,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-707,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-707,E00876,0.0,0.0,0.5
+Golden Nest,Dahisar Bus Station,AS-707,BEST_Bus,Down,45.0,45.0,45.0,36,B0248,B0201,in_vehicle,18.8,30,,AS-707,AS-707,E00877,36.0,2.0,0.3
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-707,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-707,E00878,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-707,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-707,E00879,0.0,0.0,0.5
+S'Cruz Depot,Dahisar Bus Station,AS-707,BEST_Bus,Down,45.0,45.0,45.0,36,B0249,B0201,in_vehicle,18.8,30,,AS-707,AS-707,E00880,36.0,2.0,0.3
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-707,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-707,E00881,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-707,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-707,E00882,0.0,0.0,0.5
+Colaba Depot,Dahisar Bus Station,AS-9,BEST_Bus,Down,75.0,75.0,75.0,6,B0250,B0201,in_vehicle,31.2,30,,AS-9,AS-9,E00883,6.0,0.33,0.3
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-9,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-9,E00884,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-9,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-9,E00885,0.0,0.0,0.5
+Ghatkopar Stn (E),Dahisar Bus Station,AS-9,BEST_Bus,Down,75.0,75.0,75.0,6,B0251,B0201,in_vehicle,31.2,30,,AS-9,AS-9,E00886,6.0,0.33,0.3
+Ghatkopar,Ghatkopar Stn (E),Rail ↔ AS-9,Transfer,both,5.0,5.0,5.0,0,N0008,B0251,transfer,0.0,0,Ghatkopar,,AS-9,E00887,0.0,0.0,0.5
+Ghatkopar Stn (E),Ghatkopar,Rail ↔ AS-9,Transfer,both,5.0,5.0,5.0,0,B0251,N0008,transfer,0.0,0,Ghatkopar,,AS-9,E00888,0.0,0.0,0.5
+Dahisar East,Dahisar Bus Station,Rail ↔ AS-9,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,AS-9,E00889,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ AS-9,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,AS-9,E00890,0.0,0.0,0.5
+Magathane Depot,Dahisar Bus Station,Unknown/Special,BEST_Bus,Down,60.0,60.0,60.0,25,B0208,B0201,in_vehicle,25.0,30,,Unknown/Special,Unknown/Special,E00891,25.0,1.39,0.3
+Dahisar East,Dahisar Bus Station,Rail ↔ Unknown/Special,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,Unknown/Special,E00892,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ Unknown/Special,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,Unknown/Special,E00893,0.0,0.0,0.5
+Mira Road Station,Dahisar Bus Station,Unknown/Special,BEST_Bus,Down,60.0,60.0,60.0,25,B0252,B0201,in_vehicle,25.0,30,,Unknown/Special,Unknown/Special,E00894,25.0,1.39,0.3
+Mira Road,Mira Road Station,Rail ↔ Unknown/Special,Transfer,both,5.0,5.0,5.0,0,N0194,B0252,transfer,0.0,0,Mira Road,,Unknown/Special,E00895,0.0,0.0,0.5
+Mira Road Station,Mira Road,Rail ↔ Unknown/Special,Transfer,both,5.0,5.0,5.0,0,B0252,N0194,transfer,0.0,0,Mira Road,,Unknown/Special,E00896,0.0,0.0,0.5
+Dahisar East,Dahisar Bus Station,Rail ↔ Unknown/Special,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,Unknown/Special,E00897,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ Unknown/Special,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,Unknown/Special,E00898,0.0,0.0,0.5
+NSCI (Worli),Dahisar Bus Station,Unknown/Special,BEST_Bus,Down,60.0,60.0,60.0,25,B0210,B0201,in_vehicle,25.0,30,,Unknown/Special,Unknown/Special,E00899,25.0,1.39,0.3
+Worli,NSCI (Worli),Rail ↔ Unknown/Special,Transfer,both,5.0,5.0,5.0,0,N0139,B0210,transfer,0.0,0,Worli,,Unknown/Special,E00900,0.0,0.0,0.5
+NSCI (Worli),Worli,Rail ↔ Unknown/Special,Transfer,both,5.0,5.0,5.0,0,B0210,N0139,transfer,0.0,0,Worli,,Unknown/Special,E00901,0.0,0.0,0.5
+Dahisar East,Dahisar Bus Station,Rail ↔ Unknown/Special,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,Unknown/Special,E00902,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ Unknown/Special,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,Unknown/Special,E00903,0.0,0.0,0.5
+Colaba Depot,Dahisar Bus Station,Unknown/Special,BEST_Bus,Down,60.0,60.0,60.0,25,B0250,B0201,in_vehicle,25.0,30,,Unknown/Special,Unknown/Special,E00904,25.0,1.39,0.3
+Dahisar East,Dahisar Bus Station,Rail ↔ Unknown/Special,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,Unknown/Special,E00905,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ Unknown/Special,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,Unknown/Special,E00906,0.0,0.0,0.5
+Hiranandani (Powai),Dahisar Bus Station,Unknown/Special,BEST_Bus,Down,60.0,60.0,60.0,25,B0253,B0201,in_vehicle,25.0,30,,Unknown/Special,Unknown/Special,E00907,25.0,1.39,0.3
+Dahisar East,Dahisar Bus Station,Rail ↔ Unknown/Special,Transfer,both,5.0,5.0,5.0,0,N0097,B0201,transfer,0.0,0,Dahisar East,,Unknown/Special,E00908,0.0,0.0,0.5
+Dahisar Bus Station,Dahisar East,Rail ↔ Unknown/Special,Transfer,both,5.0,5.0,5.0,0,B0201,N0097,transfer,0.0,0,Dahisar East,,Unknown/Special,E00909,0.0,0.0,0.5

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_blue">#1A56DB</color>
+    <color name="accent_blue_bg">#EFF4FF</color>
+    <color name="amber">#B45309</color>
+    <color name="bg_primary">#F5F4F1</color>
+    <color name="border">#E2E0DA</color>
+    <color name="colorAccent">#1A56DB</color>
+    <color name="colorPrimary">#1A56DB</color>
+    <color name="colorPrimaryDark">#1240A8</color>
+    <color name="green">#0A7C42</color>
+    <color name="purple">#6D28D9</color>
+    <color name="red">#9B1C1C</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_hint">#9E9B93</color>
+    <color name="text_muted">#6B6860</color>
+    <color name="text_primary">#1A1A18</color>
+    <string name="app_name">Anchor</string>
+    <string name="find_routes">Find Routes</string>
+    <string name="from_hint">From — tap to search</string>
+    <string name="loading">Loading transit data…</string>
+    <string name="mri_title">Line Reliability (MRI)</string>
+    <string name="no_routes">No routes found between these locations.</string>
+    <string name="outside_mumbai">Location must be within the Mumbai area.</string>
+    <string name="to_hint">To — tap to search</string>
+    <style name="Theme.MumbaiTransit" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@color/bg_primary</item>
+        <item name="android:statusBarColor">@color/surface</item>
+        <item name="android:navigationBarColor">@color/surface</item>
+    </style>
+    <style name="Theme.MumbaiTransit.Splash" parent="Theme.MumbaiTransit">
+        <item name="android:windowBackground">@color/bg_primary</item>
+    </style>
+</resources>

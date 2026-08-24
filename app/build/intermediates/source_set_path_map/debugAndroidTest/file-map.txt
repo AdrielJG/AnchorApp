@@ -1,0 +1,6 @@
+com.example.mumbaitransit.test.app-androidTest-0 C:\Users\asus tuf gaming\Downloads\MumbaiTransit-saved\app\build\generated\res\resValues\androidTest\debug
+com.example.mumbaitransit.test.app-mergeDebugAndroidTestResources-1 C:\Users\asus tuf gaming\Downloads\MumbaiTransit-saved\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.mumbaitransit.test.app-mergeDebugAndroidTestResources-2 C:\Users\asus tuf gaming\Downloads\MumbaiTransit-saved\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.mumbaitransit.test.app-merged_res-3 C:\Users\asus tuf gaming\Downloads\MumbaiTransit-saved\app\build\intermediates\merged_res\debugAndroidTest
+com.example.mumbaitransit.test.app-jetified-core-1.5.0-4 D:\Adriel\CS\GradleCache\caches\transforms-3\1ea189953ae42253e7bcb004e3101252\transformed\jetified-core-1.5.0\res
+com.example.mumbaitransit.test.app-jetified-annotation-experimental-1.3.0-5 D:\Adriel\CS\GradleCache\caches\transforms-3\55ad8ab1556954c38d621789326c4ac1\transformed\jetified-annotation-experimental-1.3.0\res

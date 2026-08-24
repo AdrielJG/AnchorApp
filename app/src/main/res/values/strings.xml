@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Anchor</string>
+    <string name="find_routes">Find Routes</string>
+    <string name="from_hint">From — tap to search</string>
+    <string name="to_hint">To — tap to search</string>
+    <string name="mri_title">Line Reliability (MRI)</string>
+    <string name="loading">Loading transit data…</string>
+    <string name="no_routes">No routes found between these locations.</string>
+    <string name="outside_mumbai">Location must be within the Mumbai area.</string>
+</resources>
