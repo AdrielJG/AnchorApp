@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_primary">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@color/surface"
+            app:title="Anchor"
+            app:titleTextColor="@color/text_primary"/>
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardElevation="2dp"
+                app:cardCornerRadius="12dp"
+                android:layout_marginBottom="16dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="16dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="JOURNEY"
+                        android:textSize="10sp"
+                        android:letterSpacing="0.12"
+                        android:textColor="@color/text_hint"
+                        android:textStyle="bold"
+                        android:layout_marginBottom="12dp"/>
+
+                    <!-- ORIGIN field -->
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:gravity="center_vertical"
+                        android:layout_marginBottom="4dp">
+
+                        <TextView
+                            android:layout_width="22dp"
+                            android:layout_height="22dp"
+                            android:text="A"
+                            android:textSize="9sp"
+                            android:textStyle="bold"
+                            android:textColor="#1e40af"
+                            android:background="@drawable/dot_origin"
+                            android:gravity="center"
+                            android:layout_marginEnd="10dp"/>
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="From — any landmark, area, or address"
+                                android:textSize="9sp"
+                                android:textColor="@color/text_hint"
+                                android:layout_marginBottom="2dp"/>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="44dp"
+                                android:orientation="horizontal"
+                                android:background="@drawable/bg_input"
+                                android:gravity="center_vertical">
+
+                                <TextView
+                                    android:id="@+id/etOrigin"
+                                    android:layout_width="0dp"
+                                    android:layout_height="wrap_content"
+                                    android:layout_weight="1"
+                                    android:hint="Tap to search…"
+                                    android:textSize="13sp"
+                                    android:paddingStart="12dp"
+                                    android:singleLine="true"
+                                    android:ellipsize="end"
+                                    android:textColor="@color/text_primary"
+                                    android:textColorHint="@color/text_hint"
+                                    android:clickable="true"
+                                    android:focusable="false"/>
+
+                                <ImageButton
+                                    android:id="@+id/btnClearOrigin"
+                                    android:layout_width="36dp"
+                                    android:layout_height="36dp"
+                                    android:src="@android:drawable/ic_menu_close_clear_cancel"
+                                    android:background="?attr/selectableItemBackgroundBorderless"
+                                    android:visibility="gone"
+                                    android:contentDescription="Clear"/>
+                            </LinearLayout>
+                        </LinearLayout>
+
+                        <ImageButton
+                            android:id="@+id/btnMyLocation"
+                            android:layout_width="40dp"
+                            android:layout_height="40dp"
+                            android:src="@android:drawable/ic_menu_mylocation"
+                            android:background="?attr/selectableItemBackgroundBorderless"
+                            android:contentDescription="My location"
+                            android:layout_marginStart="4dp"/>
+                    </LinearLayout>
+
+                    <!-- ORIGIN nearby stations panel -->
+                    <LinearLayout
+                        android:id="@+id/panelOriginStations"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:background="@drawable/panel_bg"
+                        android:padding="10dp"
+                        android:layout_marginStart="32dp"
+                        android:layout_marginBottom="6dp"
+                        android:visibility="gone">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="NEARBY STATIONS — TAP TO SELECT &amp; REROUTE"
+                            android:textSize="9sp"
+                            android:letterSpacing="0.06"
+                            android:textStyle="bold"
+                            android:textColor="@color/text_hint"
+                            android:layout_marginBottom="8dp"/>
+
+                        <LinearLayout
+                            android:id="@+id/rowOriginRail"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical"
+                            android:visibility="gone">
+
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:orientation="horizontal"
+                                android:gravity="center_vertical"
+                                android:layout_marginBottom="4dp">
+                                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                                    android:text="🚆 " android:textSize="11sp"/>
+                                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                                    android:text="RAILWAY" android:textSize="9sp" android:textStyle="bold"
+                                    android:letterSpacing="0.05" android:textColor="@color/text_muted"/>
+                            </LinearLayout>
+
+                            <com.google.android.material.chip.ChipGroup
+                                android:id="@+id/chipGroupOriginRail"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                app:singleSelection="true"
+                                android:layout_marginBottom="6dp"/>
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:id="@+id/rowOriginMetro"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical"
+                            android:visibility="gone">
+
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:orientation="horizontal"
+                                android:gravity="center_vertical"
+                                android:layout_marginBottom="4dp">
+                                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                                    android:text="🚇 " android:textSize="11sp"/>
+                                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                                    android:text="METRO" android:textSize="9sp" android:textStyle="bold"
+                                    android:letterSpacing="0.05" android:textColor="@color/text_muted"/>
+                            </LinearLayout>
+
+                            <com.google.android.material.chip.ChipGroup
+                                android:id="@+id/chipGroupOriginMetro"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                app:singleSelection="true"/>
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <!-- SWAP -->
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:gravity="center_horizontal"
+                        android:layout_marginVertical="2dp">
+                        <com.google.android.material.button.MaterialButton
+                            android:id="@+id/btnSwap"
+                            style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+                            android:layout_width="40dp"
+                            android:layout_height="40dp"
+                            android:text="⇅"
+                            android:textSize="18sp"
+                            android:insetTop="0dp"
+                            android:insetBottom="0dp"
+                            android:paddingHorizontal="0dp"/>
+                    </LinearLayout>
+
+                    <!-- DESTINATION field -->
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:gravity="center_vertical"
+                        android:layout_marginBottom="4dp">
+
+                        <TextView
+                            android:layout_width="22dp"
+                            android:layout_height="22dp"
+                            android:text="B"
+                            android:textSize="9sp"
+                            android:textStyle="bold"
+                            android:textColor="#166534"
+                            android:background="@drawable/dot_dest"
+                            android:gravity="center"
+                            android:layout_marginEnd="10dp"/>
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="To — any landmark, area, or address"
+                                android:textSize="9sp"
+                                android:textColor="@color/text_hint"
+                                android:layout_marginBottom="2dp"/>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="44dp"
+                                android:orientation="horizontal"
+                                android:background="@drawable/bg_input"
+                                android:gravity="center_vertical">
+
+                                <TextView
+                                    android:id="@+id/etDest"
+                                    android:layout_width="0dp"
+                                    android:layout_height="wrap_content"
+                                    android:layout_weight="1"
+                                    android:hint="Tap to search…"
+                                    android:textSize="13sp"
+                                    android:paddingStart="12dp"
+                                    android:singleLine="true"
+                                    android:ellipsize="end"
+                                    android:textColor="@color/text_primary"
+                                    android:textColorHint="@color/text_hint"
+                                    android:clickable="true"
+                                    android:focusable="false"/>
+
+                                <ImageButton
+                                    android:id="@+id/btnClearDest"
+                                    android:layout_width="36dp"
+                                    android:layout_height="36dp"
+                                    android:src="@android:drawable/ic_menu_close_clear_cancel"
+                                    android:background="?attr/selectableItemBackgroundBorderless"
+                                    android:visibility="gone"
+                                    android:contentDescription="Clear"/>
+                            </LinearLayout>
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <!-- DESTINATION nearby stations panel -->
+                    <LinearLayout
+                        android:id="@+id/panelDestStations"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:background="@drawable/panel_bg"
+                        android:padding="10dp"
+                        android:layout_marginStart="32dp"
+                        android:layout_marginBottom="12dp"
+                        android:visibility="gone">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="NEARBY STATIONS — TAP TO SELECT &amp; REROUTE"
+                            android:textSize="9sp"
+                            android:letterSpacing="0.06"
+                            android:textStyle="bold"
+                            android:textColor="@color/text_hint"
+                            android:layout_marginBottom="8dp"/>
+
+                        <LinearLayout
+                            android:id="@+id/rowDestRail"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical"
+                            android:visibility="gone">
+
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:orientation="horizontal"
+                                android:gravity="center_vertical"
+                                android:layout_marginBottom="4dp">
+                                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                                    android:text="🚆 " android:textSize="11sp"/>
+                                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                                    android:text="RAILWAY" android:textSize="9sp" android:textStyle="bold"
+                                    android:letterSpacing="0.05" android:textColor="@color/text_muted"/>
+                            </LinearLayout>
+
+                            <com.google.android.material.chip.ChipGroup
+                                android:id="@+id/chipGroupDestRail"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                app:singleSelection="true"
+                                android:layout_marginBottom="6dp"/>
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:id="@+id/rowDestMetro"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical"
+                            android:visibility="gone">
+
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:orientation="horizontal"
+                                android:gravity="center_vertical"
+                                android:layout_marginBottom="4dp">
+                                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                                    android:text="🚇 " android:textSize="11sp"/>
+                                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                                    android:text="METRO" android:textSize="9sp" android:textStyle="bold"
+                                    android:letterSpacing="0.05" android:textColor="@color/text_muted"/>
+                            </LinearLayout>
+
+                            <com.google.android.material.chip.ChipGroup
+                                android:id="@+id/chipGroupDestMetro"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                app:singleSelection="true"/>
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <!-- TRAINS FROM — departure time -->
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:layout_marginStart="32dp"
+                        android:layout_marginTop="6dp"
+                        android:layout_marginBottom="16dp">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="TRAINS FROM"
+                            android:textSize="9sp"
+                            android:letterSpacing="0.06"
+                            android:textStyle="bold"
+                            android:textColor="@color/text_hint"
+                            android:layout_marginBottom="4dp"/>
+
+                        <LinearLayout
+                            android:id="@+id/rowDepartTime"
+                            android:layout_width="match_parent"
+                            android:layout_height="44dp"
+                            android:orientation="horizontal"
+                            android:background="@drawable/bg_input"
+                            android:gravity="center_vertical"
+                            android:clickable="true"
+                            android:focusable="true">
+
+                            <ImageView
+                                android:layout_width="16dp"
+                                android:layout_height="16dp"
+                                android:src="@drawable/ic_train_time"
+                                android:layout_marginStart="12dp"
+                                android:contentDescription="Departure time"/>
+
+                            <TextView
+                                android:id="@+id/tvDepartTime"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:text="Now"
+                                android:textSize="13sp"
+                                android:paddingStart="10dp"
+                                android:singleLine="true"
+                                android:ellipsize="end"
+                                android:textColor="@color/text_primary"/>
+
+                            <ImageView
+                                android:layout_width="18dp"
+                                android:layout_height="18dp"
+                                android:src="@drawable/ic_chevron_down"
+                                android:layout_marginEnd="12dp"
+                                android:contentDescription="Change time"/>
+                        </LinearLayout>
+
+                        <TextView
+                            android:id="@+id/tvDepartHint"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Trains leaving in the next 2 hours will be shown."
+                            android:textSize="10sp"
+                            android:lineSpacingExtra="2dp"
+                            android:textColor="@color/text_hint"
+                            android:layout_marginTop="6dp"/>
+                    </LinearLayout>
+
+                    <!-- Find Routes -->
+                    <com.google.android.material.button.MaterialButton
+                        android:id="@+id/btnSearch"
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:text="Find Routes"
+                        android:textSize="15sp"
+                        android:textStyle="bold"
+                        android:backgroundTint="@color/accent_blue"/>
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnMri"
+                style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:text="📊 Line Reliability (MRI)"
+                android:layout_marginTop="16dp"/>
+
+            <!-- ── Nearby Stops Section ── -->
+            <LinearLayout
+                android:id="@+id/sectionNearbyStops"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginTop="24dp"
+                android:visibility="gone">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical"
+                    android:layout_marginBottom="4dp">
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Nearby Stops"
+                        android:textSize="18sp"
+                        android:textStyle="bold"
+                        android:textColor="@color/text_primary"/>
+
+                    <TextView
+                        android:id="@+id/tvNearbySubtitle"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Based on your current location"
+                        android:textSize="11sp"
+                        android:textColor="@color/text_hint"/>
+                </LinearLayout>
+
+                <!-- Loading state -->
+                <TextView
+                    android:id="@+id/tvNearbyLoading"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Fetching your location…"
+                    android:textSize="13sp"
+                    android:textColor="@color/text_hint"
+                    android:layout_marginTop="8dp"
+                    android:visibility="gone"/>
+
+                <!-- Stops list container -->
+                <LinearLayout
+                    android:id="@+id/containerNearbyStops"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_marginTop="8dp"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+
+    <!-- ── Floating actions (bottom-right), chat stacked above auth ── -->
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="20dp"
+        android:orientation="vertical"
+        android:gravity="end">
+
+        <com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
+            android:id="@+id/fabChat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="12dp"
+            android:text="Line Chat"
+            app:icon="@drawable/ic_chat"
+            android:textColor="@android:color/white"
+            app:iconTint="@android:color/white"
+            android:backgroundTint="#6D28D9"
+            app:elevation="6dp"/>
+
+        <com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
+            android:id="@+id/fabAuth"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sign In"
+            app:icon="@drawable/ic_person"
+            android:textColor="@android:color/white"
+            app:iconTint="@android:color/white"
+            android:backgroundTint="#1A56DB"
+            app:elevation="6dp"/>
+    </LinearLayout>
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

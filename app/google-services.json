@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "927004848535",
+    "firebase_url": "https://anchor-f84eb-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "anchor-f84eb",
+    "storage_bucket": "anchor-f84eb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927004848535:android:86f329f94819b919f5d4d2",
+        "android_client_info": {
+          "package_name": "com.example.mumbaitransit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa09416Bipy49JnF_fLTvgbqbTug6wy5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

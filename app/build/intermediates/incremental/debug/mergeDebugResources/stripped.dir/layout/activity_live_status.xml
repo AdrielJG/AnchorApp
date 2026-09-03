@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Live train status. Reached from "View live status" on a train timing card.
+
+  Deliberately flatter than a typical tracking screen: status, tracking mode and
+  update time collapse into one line, and only stops near the train are shown
+  until the user asks for the whole route.
+-->
+<androidx.coordinatorlayout.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_primary">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@color/surface"
+            app:navigationIcon="@drawable/ic_back"
+            app:title="Live train status"
+            app:titleTextColor="@color/text_primary" />
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <!-- ── Tracking view ──────────────────────────────────────────── -->
+            <LinearLayout
+                android:id="@+id/stateContent"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="16dp"
+                android:visibility="gone">
+
+                <!-- Train identity -->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:background="@drawable/bg_train_card"
+                    android:paddingHorizontal="14dp"
+                    android:paddingVertical="12dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:gravity="center_vertical">
+
+                        <TextView
+                            android:id="@+id/tvTrainNumber"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="17sp"
+                            android:textStyle="bold"
+                            android:textColor="@color/text_primary"
+                            tools:text="91045" />
+
+                        <TextView
+                            android:id="@+id/tvLiveBadge"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="10dp"
+                            android:paddingHorizontal="9dp"
+                            android:paddingVertical="3dp"
+                            android:textSize="10sp"
+                            android:textStyle="bold"
+                            android:letterSpacing="0.06"
+                            tools:text="LIVE" />
+
+                        <View
+                            android:layout_width="0dp"
+                            android:layout_height="1dp"
+                            android:layout_weight="1" />
+
+                        <TextView
+                            android:id="@+id/btnChangeTrain"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Change"
+                            android:textSize="12sp"
+                            android:textColor="@color/accent_blue"
+                            android:paddingHorizontal="6dp"
+                            android:paddingVertical="4dp"
+                            android:background="?attr/selectableItemBackground"
+                            android:clickable="true"
+                            android:focusable="true" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:id="@+id/tvTrainName"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        android:textSize="13sp"
+                        android:textColor="@color/text_primary"
+                        tools:text="Bhayandar Mumbai EMU" />
+
+                    <TextView
+                        android:id="@+id/tvTrainRoute"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="3dp"
+                        android:textSize="12sp"
+                        android:textColor="@color/text_muted"
+                        tools:text="Church Gate (CCG) → Bhayandar (BYR)" />
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:layout_marginTop="10dp"
+                        android:background="@color/border" />
+
+                    <!-- Status, tracking mode and freshness on one line -->
+                    <TextView
+                        android:id="@+id/tvStatusLine"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="9dp"
+                        android:textSize="12sp"
+                        android:lineSpacingExtra="2dp"
+                        android:textColor="@color/text_muted"
+                        tools:text="Running · real-time · updated 12s ago" />
+
+                    <!-- Only appears when the position is projected, not observed -->
+                    <TextView
+                        android:id="@+id/tvEstimateNotice"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8dp"
+                        android:padding="9dp"
+                        android:background="@drawable/bg_notice"
+                        android:textSize="11.5sp"
+                        android:lineSpacingExtra="2dp"
+                        android:textColor="@color/amber"
+                        android:visibility="gone"
+                        tools:text="No live feed for this train. Times below are projected from the timetable." />
+                </LinearLayout>
+
+                <!-- Where the train is now -->
+                <LinearLayout
+                    android:id="@+id/cardPosition"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="12dp"
+                    android:orientation="vertical"
+                    android:background="@drawable/bg_train_card"
+                    android:paddingHorizontal="14dp"
+                    android:paddingVertical="13dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:gravity="center_vertical">
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:id="@+id/tvPositionLabel"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textSize="10sp"
+                                android:textStyle="bold"
+                                android:letterSpacing="0.07"
+                                android:textColor="@color/text_hint"
+                                tools:text="AT STATION" />
+
+                            <TextView
+                                android:id="@+id/tvPositionStation"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="2dp"
+                                android:textSize="16sp"
+                                android:textStyle="bold"
+                                android:textColor="@color/text_primary"
+                                tools:text="Khar Road" />
+                        </LinearLayout>
+
+                        <TextView
+                            android:id="@+id/tvDelayChip"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:paddingHorizontal="10dp"
+                            android:paddingVertical="5dp"
+                            android:textSize="12sp"
+                            android:textStyle="bold"
+                            tools:text="2 min late" />
+                    </LinearLayout>
+
+                    <!-- Progress between the halts on either side -->
+                    <LinearLayout
+                        android:id="@+id/rowProgress"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="14dp"
+                        android:orientation="horizontal"
+                        android:gravity="center_vertical">
+
+                        <View
+                            android:id="@+id/trackDone"
+                            android:layout_width="0dp"
+                            android:layout_height="3dp"
+                            android:layout_weight="1"
+                            android:background="@drawable/bg_track_done" />
+
+                        <View
+                            android:id="@+id/dotTrain"
+                            android:layout_width="11dp"
+                            android:layout_height="11dp"
+                            android:layout_marginHorizontal="3dp"
+                            android:background="@drawable/dot_live_current" />
+
+                        <View
+                            android:id="@+id/trackRemaining"
+                            android:layout_width="0dp"
+                            android:layout_height="3dp"
+                            android:layout_weight="1"
+                            android:background="@drawable/bg_track_remaining" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/rowHalts"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="7dp"
+                        android:orientation="horizontal">
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:id="@+id/tvPrevHalt"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:maxLines="1"
+                                android:ellipsize="end"
+                                android:textSize="12sp"
+                                android:textColor="@color/text_primary"
+                                tools:text="Bandra" />
+
+                            <TextView
+                                android:id="@+id/tvPrevDist"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textSize="11sp"
+                                android:textColor="@color/text_hint"
+                                tools:text="14.7 km back" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:orientation="vertical"
+                            android:gravity="end">
+
+                            <TextView
+                                android:id="@+id/tvNextHalt"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:maxLines="1"
+                                android:ellipsize="end"
+                                android:textSize="12sp"
+                                android:textColor="@color/text_primary"
+                                tools:text="Santa Cruz" />
+
+                            <TextView
+                                android:id="@+id/tvNextDist"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textSize="11sp"
+                                android:textColor="@color/text_hint"
+                                tools:text="17.8 km ahead" />
+                        </LinearLayout>
+                    </LinearLayout>
+                </LinearLayout>
+
+                <!-- Route section -->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="18dp"
+                    android:layout_marginBottom="10dp"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical">
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Route"
+                        android:textSize="14sp"
+                        android:textStyle="bold"
+                        android:textColor="@color/text_primary" />
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:padding="2dp"
+                        android:background="@drawable/bg_segment_group">
+
+                        <TextView
+                            android:id="@+id/segNearby"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:paddingHorizontal="12dp"
+                            android:paddingVertical="5dp"
+                            android:text="Nearby"
+                            android:textSize="12sp"
+                            android:clickable="true"
+                            android:focusable="true" />
+
+                        <TextView
+                            android:id="@+id/segAll"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:paddingHorizontal="12dp"
+                            android:paddingVertical="5dp"
+                            android:text="All stops"
+                            android:textSize="12sp"
+                            android:clickable="true"
+                            android:focusable="true" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/llStops"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:background="@drawable/bg_train_card"
+                    android:paddingVertical="4dp" />
+
+                <TextView
+                    android:id="@+id/tvFooter"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="12dp"
+                    android:gravity="center"
+                    android:textSize="11sp"
+                    android:lineSpacingExtra="2dp"
+                    android:textColor="@color/text_hint"
+                    tools:text="Refreshing every 60s · 47 of 3000 monthly checks used" />
+            </LinearLayout>
+
+            <!-- ── Ask for the train number ───────────────────────────────── -->
+            <LinearLayout
+                android:id="@+id/stateAsk"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="16dp"
+                android:visibility="gone">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:background="@drawable/bg_train_card"
+                    android:paddingHorizontal="14dp"
+                    android:paddingVertical="14dp">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Which train is this?"
+                        android:textSize="15sp"
+                        android:textStyle="bold"
+                        android:textColor="@color/text_primary" />
+
+                    <TextView
+                        android:id="@+id/tvAskContext"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="5dp"
+                        android:textSize="12.5sp"
+                        android:lineSpacingExtra="3dp"
+                        android:textColor="@color/text_muted"
+                        tools:text="Enter the number on the indicator board for the 19:58 Ambernath — CSMT. It's saved, so you only do this once for this train." />
+
+                    <EditText
+                        android:id="@+id/etTrainNumber"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="14dp"
+                        android:background="@drawable/bg_input"
+                        android:paddingHorizontal="14dp"
+                        android:paddingVertical="13dp"
+                        android:hint="e.g. 91045"
+                        android:inputType="number"
+                        android:maxLength="5"
+                        android:textSize="16sp"
+                        android:letterSpacing="0.12"
+                        android:imeOptions="actionGo"
+                        android:textColor="@color/text_primary"
+                        android:textColorHint="@color/text_hint"
+                        android:importantForAutofill="no" />
+
+                    <TextView
+                        android:id="@+id/tvRecentsLabel"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="14dp"
+                        android:text="Recently tracked"
+                        android:textSize="10sp"
+                        android:textStyle="bold"
+                        android:letterSpacing="0.07"
+                        android:textColor="@color/text_hint"
+                        android:visibility="gone" />
+
+                    <com.google.android.material.chip.ChipGroup
+                        android:id="@+id/chipsRecent"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="6dp"
+                        app:chipSpacingVertical="0dp"
+                        android:visibility="gone" />
+
+                    <TextView
+                        android:id="@+id/btnTrack"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="16dp"
+                        android:background="@drawable/pill_bg"
+                        android:gravity="center"
+                        android:paddingVertical="13dp"
+                        android:text="Track this train"
+                        android:textSize="14sp"
+                        android:textStyle="bold"
+                        android:textColor="@color/surface"
+                        android:clickable="true"
+                        android:focusable="true" />
+                </LinearLayout>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="14dp"
+                    android:paddingHorizontal="4dp"
+                    android:text="This service has no train number on file. Enter it once and it's saved against this departure."
+                    android:textSize="11.5sp"
+                    android:lineSpacingExtra="3dp"
+                    android:textColor="@color/text_hint" />
+            </LinearLayout>
+
+            <!-- ── Loading ────────────────────────────────────────────────── -->
+            <LinearLayout
+                android:id="@+id/stateLoading"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:gravity="center_horizontal"
+                android:paddingTop="90dp"
+                android:visibility="gone">
+
+                <ProgressBar
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:id="@+id/tvLoading"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="16dp"
+                    android:textSize="13sp"
+                    android:textColor="@color/text_muted"
+                    tools:text="Asking RailRadar where 91045 is" />
+            </LinearLayout>
+
+            <!-- ── Error ──────────────────────────────────────────────────── -->
+            <LinearLayout
+                android:id="@+id/stateError"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:gravity="center_horizontal"
+                android:padding="32dp"
+                android:paddingTop="80dp"
+                android:visibility="gone">
+
+                <TextView
+                    android:id="@+id/tvError"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:textSize="13.5sp"
+                    android:lineSpacingExtra="4dp"
+                    android:textColor="@color/text_muted"
+                    tools:text="RailRadar has no train 99999." />
+
+                <TextView
+                    android:id="@+id/btnRetry"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:background="@drawable/pill_outline_bg"
+                    android:paddingHorizontal="24dp"
+                    android:paddingVertical="10dp"
+                    android:text="Try again"
+                    android:textSize="13sp"
+                    android:textColor="@color/accent_blue"
+                    android:clickable="true"
+                    android:focusable="true" />
+
+                <TextView
+                    android:id="@+id/btnChangeNumber"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="6dp"
+                    android:paddingHorizontal="16dp"
+                    android:paddingVertical="10dp"
+                    android:text="Use a different number"
+                    android:textSize="13sp"
+                    android:textColor="@color/text_muted"
+                    android:background="?attr/selectableItemBackground"
+                    android:clickable="true"
+                    android:focusable="true" />
+            </LinearLayout>
+        </FrameLayout>
+    </androidx.core.widget.NestedScrollView>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

@@ -1,0 +1,54 @@
+com.example.mumbaitransit.app-pngs-0 C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\build\generated\res\pngs\debug
+com.example.mumbaitransit.app-res-1 C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\build\generated\res\processDebugGoogleServices
+com.example.mumbaitransit.app-resValues-2 C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\build\generated\res\resValues\debug
+com.example.mumbaitransit.app-updated_navigation_xml-3 C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\build\generated\updated_navigation_xml\debug
+com.example.mumbaitransit.app-packageDebugResources-4 C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.mumbaitransit.app-packageDebugResources-5 C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.mumbaitransit.app-debug-6 C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.mumbaitransit.app-debug-7 C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\debug\res
+com.example.mumbaitransit.app-main-8 C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\res
+com.example.mumbaitransit.app-browser-1.4.0-9 D:\Adriel\CS\GradleCache\caches\8.13\transforms\097fb13f13c2851f3d7025246cdac255\transformed\browser-1.4.0\res
+com.example.mumbaitransit.app-jetified-room-ktx-2.6.1-10 D:\Adriel\CS\GradleCache\caches\8.13\transforms\0bb47359ca3cda1845bbd69f749429f3\transformed\jetified-room-ktx-2.6.1\res
+com.example.mumbaitransit.app-jetified-viewpager2-1.1.0-beta02-11 D:\Adriel\CS\GradleCache\caches\8.13\transforms\0cef19a9332ab0bce3e6ce5ed021a658\transformed\jetified-viewpager2-1.1.0-beta02\res
+com.example.mumbaitransit.app-cardview-1.0.0-12 D:\Adriel\CS\GradleCache\caches\8.13\transforms\0f0aa4b9e1dac7eedda14ae94992db30\transformed\cardview-1.0.0\res
+com.example.mumbaitransit.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-13 D:\Adriel\CS\GradleCache\caches\8.13\transforms\12fb04dc2ff7163514424acbc05e31ad\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.example.mumbaitransit.app-core-runtime-2.2.0-14 D:\Adriel\CS\GradleCache\caches\8.13\transforms\2356f39da3ff4ed5d18004337ea5cc95\transformed\core-runtime-2.2.0\res
+com.example.mumbaitransit.app-appcompat-1.6.1-15 D:\Adriel\CS\GradleCache\caches\8.13\transforms\29d33dde25e81af3a14a6d4b4b062157\transformed\appcompat-1.6.1\res
+com.example.mumbaitransit.app-lifecycle-viewmodel-2.7.0-16 D:\Adriel\CS\GradleCache\caches\8.13\transforms\2ed3f058b6a4dc919634aab4b695d887\transformed\lifecycle-viewmodel-2.7.0\res
+com.example.mumbaitransit.app-material-1.11.0-17 D:\Adriel\CS\GradleCache\caches\8.13\transforms\328164b93cf05abb8f2fc6b4adb7ab18\transformed\material-1.11.0\res
+com.example.mumbaitransit.app-transition-1.2.0-18 D:\Adriel\CS\GradleCache\caches\8.13\transforms\39206b26a509e9b204bfd93528fb9533\transformed\transition-1.2.0\res
+com.example.mumbaitransit.app-fragment-1.6.2-19 D:\Adriel\CS\GradleCache\caches\8.13\transforms\510982adb392121aa59e117c461463a6\transformed\fragment-1.6.2\res
+com.example.mumbaitransit.app-lifecycle-livedata-2.7.0-20 D:\Adriel\CS\GradleCache\caches\8.13\transforms\533a89b3df384fd639f75059bbd79b60\transformed\lifecycle-livedata-2.7.0\res
+com.example.mumbaitransit.app-coordinatorlayout-1.1.0-21 D:\Adriel\CS\GradleCache\caches\8.13\transforms\565a571e76d878b02ae1a348afd99873\transformed\coordinatorlayout-1.1.0\res
+com.example.mumbaitransit.app-jetified-profileinstaller-1.3.0-22 D:\Adriel\CS\GradleCache\caches\8.13\transforms\56ab295daabf3845204e16e6d363b595\transformed\jetified-profileinstaller-1.3.0\res
+com.example.mumbaitransit.app-jetified-emoji2-views-helper-1.2.0-23 D:\Adriel\CS\GradleCache\caches\8.13\transforms\5ca47adb646a4654f0ed73f1b98bc85f\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.example.mumbaitransit.app-sqlite-2.4.0-24 D:\Adriel\CS\GradleCache\caches\8.13\transforms\5e9b9fa53b2739ee093eeaf710067d5b\transformed\sqlite-2.4.0\res
+com.example.mumbaitransit.app-core-1.12.0-25 D:\Adriel\CS\GradleCache\caches\8.13\transforms\6d7e1439fa705cef42110a9e8900f01d\transformed\core-1.12.0\res
+com.example.mumbaitransit.app-jetified-lifecycle-runtime-ktx-2.7.0-26 D:\Adriel\CS\GradleCache\caches\8.13\transforms\73c0d61923b6ca3ec63a575d4c6dc38c\transformed\jetified-lifecycle-runtime-ktx-2.7.0\res
+com.example.mumbaitransit.app-jetified-play-services-maps-18.2.0-27 D:\Adriel\CS\GradleCache\caches\8.13\transforms\7580d6dd53ea319d008a550a60c41031\transformed\jetified-play-services-maps-18.2.0\res
+com.example.mumbaitransit.app-jetified-fragment-ktx-1.6.2-28 D:\Adriel\CS\GradleCache\caches\8.13\transforms\77d793d2dadf8aa44f1dd6d091f11cae\transformed\jetified-fragment-ktx-1.6.2\res
+com.example.mumbaitransit.app-sqlite-framework-2.4.0-29 D:\Adriel\CS\GradleCache\caches\8.13\transforms\7e09cd8247359195a21ebe1e7fc035a3\transformed\sqlite-framework-2.4.0\res
+com.example.mumbaitransit.app-jetified-lifecycle-viewmodel-ktx-2.7.0-30 D:\Adriel\CS\GradleCache\caches\8.13\transforms\7f516c639a435b650e33fa43f61831b4\transformed\jetified-lifecycle-viewmodel-ktx-2.7.0\res
+com.example.mumbaitransit.app-constraintlayout-2.1.4-31 D:\Adriel\CS\GradleCache\caches\8.13\transforms\7fa1f79059fd0c28db6811707eb3a08b\transformed\constraintlayout-2.1.4\res
+com.example.mumbaitransit.app-jetified-places-3.3.0-32 D:\Adriel\CS\GradleCache\caches\8.13\transforms\81745835c9bf715935d260eb6167e103\transformed\jetified-places-3.3.0\res
+com.example.mumbaitransit.app-jetified-lifecycle-process-2.7.0-33 D:\Adriel\CS\GradleCache\caches\8.13\transforms\86957f0f2b511089df4affaf154cb6ab\transformed\jetified-lifecycle-process-2.7.0\res
+com.example.mumbaitransit.app-jetified-customview-poolingcontainer-1.0.0-34 D:\Adriel\CS\GradleCache\caches\8.13\transforms\874fd294f5aea4695d444a5d44edb9cf\transformed\jetified-customview-poolingcontainer-1.0.0\res
+com.example.mumbaitransit.app-jetified-startup-runtime-1.1.1-35 D:\Adriel\CS\GradleCache\caches\8.13\transforms\8aac529acb4ab11bda6e29ac1cec90e0\transformed\jetified-startup-runtime-1.1.1\res
+com.example.mumbaitransit.app-lifecycle-livedata-core-2.7.0-36 D:\Adriel\CS\GradleCache\caches\8.13\transforms\98960717b6ff9d6e3fa05379d23a8ef4\transformed\lifecycle-livedata-core-2.7.0\res
+com.example.mumbaitransit.app-recyclerview-1.3.2-37 D:\Adriel\CS\GradleCache\caches\8.13\transforms\9ff85495ede972876734c704c6863f46\transformed\recyclerview-1.3.2\res
+com.example.mumbaitransit.app-jetified-firebase-common-20.4.2-38 D:\Adriel\CS\GradleCache\caches\8.13\transforms\a1ffc0d349a45a3a7e7111f8a8443de5\transformed\jetified-firebase-common-20.4.2\res
+com.example.mumbaitransit.app-jetified-emoji2-1.2.0-39 D:\Adriel\CS\GradleCache\caches\8.13\transforms\a76754fde0ce246ec7bd208c523d12b3\transformed\jetified-emoji2-1.2.0\res
+com.example.mumbaitransit.app-jetified-annotation-experimental-1.3.0-40 D:\Adriel\CS\GradleCache\caches\8.13\transforms\a87eb5925e0197f780670e48bb9c3c34\transformed\jetified-annotation-experimental-1.3.0\res
+com.example.mumbaitransit.app-jetified-lifecycle-livedata-core-ktx-2.7.0-41 D:\Adriel\CS\GradleCache\caches\8.13\transforms\a8cb3cd7c57f36507ab5bc48b4ef28e3\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.example.mumbaitransit.app-jetified-savedstate-1.2.1-42 D:\Adriel\CS\GradleCache\caches\8.13\transforms\ad771c44a9682edb3cf48fa96d59b099\transformed\jetified-savedstate-1.2.1\res
+com.example.mumbaitransit.app-jetified-appcompat-resources-1.6.1-43 D:\Adriel\CS\GradleCache\caches\8.13\transforms\af62eb3a618d53db046eb86f837bf37b\transformed\jetified-appcompat-resources-1.6.1\res
+com.example.mumbaitransit.app-jetified-savedstate-ktx-1.2.1-44 D:\Adriel\CS\GradleCache\caches\8.13\transforms\afe67792ce819cbbbbe613a3da9196fa\transformed\jetified-savedstate-ktx-1.2.1\res
+com.example.mumbaitransit.app-jetified-activity-1.8.2-45 D:\Adriel\CS\GradleCache\caches\8.13\transforms\b9dcf21177950b4fbf5bb5ffe7663127\transformed\jetified-activity-1.8.2\res
+com.example.mumbaitransit.app-jetified-activity-ktx-1.8.2-46 D:\Adriel\CS\GradleCache\caches\8.13\transforms\bb3f41ff5859a21202b94085ab2d0147\transformed\jetified-activity-ktx-1.8.2\res
+com.example.mumbaitransit.app-room-runtime-2.6.1-47 D:\Adriel\CS\GradleCache\caches\8.13\transforms\c057ee2b54b85841ef56d34dea053b9d\transformed\room-runtime-2.6.1\res
+com.example.mumbaitransit.app-jetified-core-ktx-1.12.0-48 D:\Adriel\CS\GradleCache\caches\8.13\transforms\c9689101cad39b1589006d211989320e\transformed\jetified-core-ktx-1.12.0\res
+com.example.mumbaitransit.app-jetified-play-services-base-18.1.0-49 D:\Adriel\CS\GradleCache\caches\8.13\transforms\cda2cf179a33d18ca6035cfcd87a68c7\transformed\jetified-play-services-base-18.1.0\res
+com.example.mumbaitransit.app-jetified-play-services-basement-18.3.0-50 D:\Adriel\CS\GradleCache\caches\8.13\transforms\e450988f0afdfbe0c6dccefb0ae11e0b\transformed\jetified-play-services-basement-18.3.0\res
+com.example.mumbaitransit.app-drawerlayout-1.1.1-51 D:\Adriel\CS\GradleCache\caches\8.13\transforms\eebbe46e42d598c4eeae166ba5215847\transformed\drawerlayout-1.1.1\res
+com.example.mumbaitransit.app-lifecycle-runtime-2.7.0-52 D:\Adriel\CS\GradleCache\caches\8.13\transforms\f44abebd53d232bf25420e00e0a0a972\transformed\lifecycle-runtime-2.7.0\res
+com.example.mumbaitransit.app-jetified-lifecycle-livedata-ktx-2.7.0-53 D:\Adriel\CS\GradleCache\caches\8.13\transforms\fbd3c8d7eea09c6f9a38f7c0b6b71a84\transformed\jetified-lifecycle-livedata-ktx-2.7.0\res

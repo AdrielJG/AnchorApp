@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  One node in the share card's journey timeline. The marker is either a coloured
+  dot (a station) or a glyph (walk / auto / transfer), so the reader can tell at
+  a glance which parts of the journey are on foot.
+-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <!-- Marker + connecting rail -->
+    <LinearLayout
+        android:layout_width="24dp"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center_horizontal">
+
+        <View
+            android:id="@+id/viewStepLineTop"
+            android:layout_width="2dp"
+            android:layout_height="9dp"
+            android:background="@color/border"/>
+
+        <FrameLayout
+            android:layout_width="20dp"
+            android:layout_height="20dp">
+
+            <View
+                android:id="@+id/viewStepDot"
+                android:layout_width="11dp"
+                android:layout_height="11dp"
+                android:layout_gravity="center"/>
+
+            <TextView
+                android:id="@+id/tvStepIcon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:textSize="14sp"
+                android:includeFontPadding="false"
+                android:visibility="gone"/>
+        </FrameLayout>
+
+        <View
+            android:id="@+id/viewStepLineBottom"
+            android:layout_width="2dp"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="@color/border"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:paddingStart="12dp"
+        android:paddingTop="6dp"
+        android:paddingBottom="14dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical">
+
+            <TextView
+                android:id="@+id/tvStepTitle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textSize="14.5sp"
+                android:textStyle="bold"
+                android:textColor="@color/text_primary"/>
+
+            <TextView
+                android:id="@+id/tvStepPill"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:paddingStart="9dp"
+                android:paddingEnd="9dp"
+                android:paddingTop="3dp"
+                android:paddingBottom="3dp"
+                android:textSize="10.5sp"
+                android:textStyle="bold"
+                android:textColor="#FFFFFF"
+                android:visibility="gone"/>
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tvStepSub"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:textSize="11.5sp"
+            android:textColor="@color/text_muted"
+            android:visibility="gone"/>
+
+        <!-- Holds the boarding train block, when there is one -->
+        <LinearLayout
+            android:id="@+id/llStepTrain"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginTop="8dp"
+            android:visibility="gone"/>
+    </LinearLayout>
+</LinearLayout>

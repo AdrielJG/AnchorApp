@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "com.example.mumbaitransit.app-mergeDebugResources-4:/layout/item_train_timing_row.xml",
+        "source": "com.example.mumbaitransit.app-main-7:/layout/item_train_timing_row.xml"
+    },
+    {
+        "merged": "com.example.mumbaitransit.app-mergeDebugResources-4:/layout/item_saved_route.xml",
+        "source": "com.example.mumbaitransit.app-main-7:/layout/item_saved_route.xml"
+    },
+    {
+        "merged": "com.example.mumbaitransit.app-mergeDebugResources-4:/layout/item_chat_room.xml",
+        "source": "com.example.mumbaitransit.app-main-7:/layout/item_chat_room.xml"
+    },
+    {
+        "merged": "com.example.mumbaitransit.app-mergeDebugResources-4:/layout/activity_chat_room.xml",
+        "source": "com.example.mumbaitransit.app-main-7:/layout/activity_chat_room.xml"
+    },
+    {
+        "merged": "com.example.mumbaitransit.app-mergeDebugResources-4:/layout/sheet_report_composer.xml",
+        "source": "com.example.mumbaitransit.app-main-7:/layout/sheet_report_composer.xml"
+    },
+    {
+        "merged": "com.example.mumbaitransit.app-mergeDebugResources-4:/layout/activity_chat_rooms.xml",
+        "source": "com.example.mumbaitransit.app-main-7:/layout/activity_chat_rooms.xml"
+    },
+    {
+        "merged": "com.example.mumbaitransit.app-mergeDebugResources-4:/layout/item_route_card.xml",
+        "source": "com.example.mumbaitransit.app-main-7:/layout/item_route_card.xml"
+    },
+    {
+        "merged": "com.example.mumbaitransit.app-mergeDebugResources-4:/layout/share_route_card.xml",
+        "source": "com.example.mumbaitransit.app-main-7:/layout/share_route_card.xml"
+    },
+    {
+        "merged": "com.example.mumbaitransit.app-mergeDebugResources-4:/layout/item_share_train.xml",
+        "source": "com.example.mumbaitransit.app-main-7:/layout/item_share_train.xml"
+    },
+    {
+        "merged": "com.example.mumbaitransit.app-mergeDebugResources-4:/layout/item_share_step.xml",
+        "source": "com.example.mumbaitransit.app-main-7:/layout/item_share_step.xml"
+    },
+    {
+        "merged": "com.example.mumbaitransit.app-mergeDebugResources-4:/layout/item_journey_station.xml",
+        "source": "com.example.mumbaitransit.app-main-7:/layout/item_journey_station.xml"
+    },
+    {
+        "merged": "com.example.mumbaitransit.app-mergeDebugResources-4:/layout/activity_main.xml",
+        "source": "com.example.mumbaitransit.app-main-7:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.mumbaitransit.app-mergeDebugResources-4:/layout/item_live_stop.xml",
+        "source": "com.example.mumbaitransit.app-main-7:/layout/item_live_stop.xml"
+    },
+    {
+        "merged": "com.example.mumbaitransit.app-mergeDebugResources-4:/layout/sheet_option_picker.xml",
+        "source": "com.example.mumbaitransit.app-main-7:/layout/sheet_option_picker.xml"
+    },
+    {
+        "merged": "com.example.mumbaitransit.app-mergeDebugResources-4:/layout/item_train_timing_card.xml",
+        "source": "com.example.mumbaitransit.app-main-7:/layout/item_train_timing_card.xml"
+    },
+    {
+        "merged": "com.example.mumbaitransit.app-mergeDebugResources-4:/layout/bottom_sheet_auth.xml",
+        "source": "com.example.mumbaitransit.app-main-7:/layout/bottom_sheet_auth.xml"
+    },
+    {
+        "merged": "com.example.mumbaitransit.app-mergeDebugResources-4:/layout/activity_routes_result.xml",
+        "source": "com.example.mumbaitransit.app-main-7:/layout/activity_routes_result.xml"
+    },
+    {
+        "merged": "com.example.mumbaitransit.app-mergeDebugResources-4:/layout/activity_mri.xml",
+        "source": "com.example.mumbaitransit.app-main-7:/layout/activity_mri.xml"
+    },
+    {
+        "merged": "com.example.mumbaitransit.app-mergeDebugResources-4:/layout/activity_route_preview.xml",
+        "source": "com.example.mumbaitransit.app-main-7:/layout/activity_route_preview.xml"
+    },
+    {
+        "merged": "com.example.mumbaitransit.app-mergeDebugResources-4:/layout/item_chat_message.xml",
+        "source": "com.example.mumbaitransit.app-main-7:/layout/item_chat_message.xml"
+    },
+    {
+        "merged": "com.example.mumbaitransit.app-mergeDebugResources-4:/layout/item_route_detail_card.xml",
+        "source": "com.example.mumbaitransit.app-main-7:/layout/item_route_detail_card.xml"
+    },
+    {
+        "merged": "com.example.mumbaitransit.app-mergeDebugResources-4:/layout/activity_route_detail.xml",
+        "source": "com.example.mumbaitransit.app-main-7:/layout/activity_route_detail.xml"
+    },
+    {
+        "merged": "com.example.mumbaitransit.app-mergeDebugResources-4:/layout/item_timetable_header.xml",
+        "source": "com.example.mumbaitransit.app-main-7:/layout/item_timetable_header.xml"
+    },
+    {
+        "merged": "com.example.mumbaitransit.app-mergeDebugResources-4:/layout/activity_splash.xml",
+        "source": "com.example.mumbaitransit.app-main-7:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.mumbaitransit.app-mergeDebugResources-4:/layout/item_picker_option.xml",
+        "source": "com.example.mumbaitransit.app-main-7:/layout/item_picker_option.xml"
+    },
+    {
+        "merged": "com.example.mumbaitransit.app-mergeDebugResources-4:/layout/activity_live_status.xml",
+        "source": "com.example.mumbaitransit.app-main-7:/layout/activity_live_status.xml"
+    },
+    {
+        "merged": "com.example.mumbaitransit.app-mergeDebugResources-4:/layout/activity_saved_routes.xml",
+        "source": "com.example.mumbaitransit.app-main-7:/layout/activity_saved_routes.xml"
+    },
+    {
+        "merged": "com.example.mumbaitransit.app-mergeDebugResources-4:/layout/item_nearby_stop.xml",
+        "source": "com.example.mumbaitransit.app-main-7:/layout/item_nearby_stop.xml"
+    },
+    {
+        "merged": "com.example.mumbaitransit.app-mergeDebugResources-4:/layout/item_mri_row.xml",
+        "source": "com.example.mumbaitransit.app-main-7:/layout/item_mri_row.xml"
+    },
+    {
+        "merged": "com.example.mumbaitransit.app-mergeDebugResources-4:/layout/item_timetable_row.xml",
+        "source": "com.example.mumbaitransit.app-main-7:/layout/item_timetable_row.xml"
+    },
+    {
+        "merged": "com.example.mumbaitransit.app-mergeDebugResources-4:/layout/item_path_step.xml",
+        "source": "com.example.mumbaitransit.app-main-7:/layout/item_path_step.xml"
+    },
+    {
+        "merged": "com.example.mumbaitransit.app-mergeDebugResources-4:/layout/item_mri_line.xml",
+        "source": "com.example.mumbaitransit.app-main-7:/layout/item_mri_line.xml"
+    }
+]

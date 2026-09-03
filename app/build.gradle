@@ -1,0 +1,127 @@
+plugins {
+    id 'com.android.application'
+    id 'org.jetbrains.kotlin.android'
+    id 'kotlin-kapt'
+}
+
+def localProperties = new Properties()
+def localPropertiesFile = rootProject.file('local.properties')
+if (localPropertiesFile.exists()) {
+    localProperties.load(new FileInputStream(localPropertiesFile))
+}
+
+android {
+    namespace 'com.example.mumbaitransit'
+    compileSdk 34
+
+    defaultConfig {
+        applicationId "com.example.mumbaitransit"
+        minSdk 26
+        targetSdk 34
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+
+        // Maps API key is loaded from local.properties (not committed to VCS)
+        manifestPlaceholders = [
+            mapsApiKey: localProperties.getProperty('MAPS_API_KEY', '')
+        ]
+
+        // RailRadar live-status keys, comma separated. Each allows 1,000 requests
+        // a month; ApiKeyPool spends them one at a time and fails over on refusal.
+        // Override in local.properties with RAILRADAR_KEYS=key1,key2,key3
+        def railRadarKeys = localProperties.getProperty(
+            'RAILRADAR_KEYS',
+            'rg_557ceeec8874410391e0af871b3c1a02,' +
+            'rg_780794944bd04561896846f8e9481c85,' +
+            'rg_19be427b323642ddbf2d6a81c369db3e'
+        )
+        buildConfigField "String", "RAILRADAR_KEYS", "\"${railRadarKeys}\"" 
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    kotlinOptions {
+        jvmTarget = '1.8'
+    }
+
+    buildFeatures {
+        viewBinding true
+        buildConfig true
+    }
+    androidResources {
+        noCompress 'csv', 'json'
+    }
+
+    // Allow large data files to be packaged
+}
+
+dependencies {
+    implementation 'androidx.core:core-ktx:1.12.0'
+    implementation 'androidx.appcompat:appcompat:1.6.1'
+    implementation 'com.google.android.material:material:1.11.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+    implementation 'androidx.recyclerview:recyclerview:1.3.2'
+    implementation 'androidx.cardview:cardview:1.0.0'
+    implementation 'androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0'
+    implementation 'androidx.lifecycle:lifecycle-runtime-ktx:2.7.0'
+    implementation 'androidx.lifecycle:lifecycle-livedata-ktx:2.7.0'
+    implementation 'androidx.activity:activity-ktx:1.8.2'
+    implementation 'androidx.fragment:fragment-ktx:1.6.2'
+
+    // Google Maps + Places autocomplete
+    implementation 'com.google.android.gms:play-services-maps:18.2.0'
+    implementation 'com.google.android.gms:play-services-location:21.1.0'
+    implementation 'com.google.android.libraries.places:places:3.3.0'
+
+    // Coroutines
+    implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3'
+
+    // JSON parsing
+    implementation 'com.google.code.gson:gson:2.10.1'
+
+    // CSV parsing
+    implementation 'com.opencsv:opencsv:5.7.1'
+
+    // Room (SQLite ORM for auth)
+    def room_version = '2.6.1'
+    implementation "androidx.room:room-runtime:$room_version"
+    implementation "androidx.room:room-ktx:$room_version"
+    kapt "androidx.room:room-compiler:$room_version"
+
+    // Firebase: real accounts (Auth) and live chat (Realtime Database).
+    // These compile without google-services.json; the SDK simply never
+    // initializes, and Backend.isCloud() falls the app back to on-device
+    // storage. See FIREBASE_SETUP.md.
+    implementation platform('com.google.firebase:firebase-bom:32.7.4')
+    implementation 'com.google.firebase:firebase-auth-ktx'
+    implementation 'com.google.firebase:firebase-database-ktx'
+
+    // Lets us await() a Firebase Task inside a coroutine.
+    implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-play-services:1.7.3'
+
+    testImplementation 'junit:junit:4.13.2'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.5'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
+}
+
+// The google-services plugin hard-fails the build when app/google-services.json
+// is missing. Applying it only when the file is there means the project keeps
+// building before Firebase is set up, and picks it up automatically once the
+// file is dropped in — no gradle edit needed at that point.
+if (file('google-services.json').exists()) {
+    apply plugin: 'com.google.gms.google-services'
+} else {
+    logger.lifecycle('Anchor: no app/google-services.json — building without Firebase. ' +
+                     'Accounts and chat will stay on-device. See FIREBASE_SETUP.md')
+}

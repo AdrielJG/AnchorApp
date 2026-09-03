@@ -1,0 +1,794 @@
+-- Merging decision tree log ---
+meta-data#com.google.android.geo.API_KEY
+INJECTED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:17:9-19:45
+	android:value
+		INJECTED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:19:13-42
+	android:name
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:18:13-58
+provider#androidx.core.content.FileProvider
+INJECTED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:81:9-89:20
+	android:grantUriPermissions
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:85:13-47
+	android:authorities
+		INJECTED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:83:13-64
+	android:exported
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:84:13-37
+	android:name
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:82:13-62
+manifest
+ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:2:1-92:12
+INJECTED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:2:1-92:12
+INJECTED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:2:1-92:12
+INJECTED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:2:1-92:12
+MERGED from [androidx.databinding:viewbinding:8.13.2] D:\Adriel\CS\GradleCache\caches\8.13\transforms\2edfb88a7988b638083593dcb879296c\transformed\jetified-viewbinding-8.13.2\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.11.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\328164b93cf05abb8f2fc6b4adb7ab18\transformed\material-1.11.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7fa1f79059fd0c28db6811707eb3a08b\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.libraries.places:places:3.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\81745835c9bf715935d260eb6167e103\transformed\jetified-places-3.3.0\AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\af62eb3a618d53db046eb86f837bf37b\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\29d33dde25e81af3a14a6d4b4b062157\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7580d6dd53ea319d008a550a60c41031\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:17:1-44:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] D:\Adriel\CS\GradleCache\caches\8.13\transforms\9ff85495ede972876734c704c6863f46\transformed\recyclerview-1.3.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] D:\Adriel\CS\GradleCache\caches\8.13\transforms\0cef19a9332ab0bce3e6ce5ed021a658\transformed\jetified-viewpager2-1.1.0-beta02\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-location:21.1.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\836bc7e001ca20bb7b4b2baaa002adc6\transformed\jetified-play-services-location-21.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database-ktx:20.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\9429413fcd2b03a88d4a0a3624f7bae7\transformed\jetified-firebase-database-ktx-20.3.1\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-database:20.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\307a2b23363eb54f4208c5b49f2b9157\transformed\jetified-firebase-database-20.3.1\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-auth-ktx:22.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\b497eba65768a4391cf57e8dd78a19a2\transformed\jetified-firebase-auth-ktx-22.3.1\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-auth:22.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e26db733f66a83230aa5e8bf9a64002d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:17:1-75:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\1566990f403959300b84a966ff2c81b2\transformed\jetified-firebase-appcheck-interop-17.1.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\12b06947d49fb785cbab7af9d3b23123\transformed\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\cf45fdd968b2d643c1f2729a628e3c88\transformed\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\cda2cf179a33d18ca6035cfcd87a68c7\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] D:\Adriel\CS\GradleCache\caches\8.13\transforms\a6e32e35275b764469086eba4dd57c01\transformed\jetified-firebase-common-ktx-20.4.2\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\3ea8502a7ed24ee26022ef748c1ec9bb\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:20.4.2] D:\Adriel\CS\GradleCache\caches\8.13\transforms\a1ffc0d349a45a3a7e7111f8a8443de5\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:15:1-41:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\5ca47adb646a4654f0ed73f1b98bc85f\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\a76754fde0ce246ec7bd208c523d12b3\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\eebbe46e42d598c4eeae166ba5215847\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\565a571e76d878b02ae1a348afd99873\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7fd8de0b3a701f18f9f4df7df82dbc0b\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\39206b26a509e9b204bfd93528fb9533\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\2ee13b8e5825fa94e3d152732b0e527b\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\ea61f14d4b66d0d0607229e24702d745\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.2] D:\Adriel\CS\GradleCache\caches\8.13\transforms\b9dcf21177950b4fbf5bb5ffe7663127\transformed\jetified-activity-1.8.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\a6783db20c1e212afb4ff0225930ecd6\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\9a6f7846d57a07954cda85497e525d46\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\cb662d96f28223b8f4309ea7f64e1927\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e0ce8438a21a2eb91a1ea827872d76e2\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.4.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\097fb13f13c2851f3d7025246cdac255\transformed\browser-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.12.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\6d7e1439fa705cef42110a9e8900f01d\transformed\core-1.12.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\12fb04dc2ff7163514424acbc05e31ad\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\98960717b6ff9d6e3fa05379d23a8ef4\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\afe67792ce819cbbbbe613a3da9196fa\transformed\jetified-savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\ad771c44a9682edb3cf48fa96d59b099\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\86957f0f2b511089df4affaf154cb6ab\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\a8cb3cd7c57f36507ab5bc48b4ef28e3\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\533a89b3df384fd639f75059bbd79b60\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\f44abebd53d232bf25420e00e0a0a972\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\2ed3f058b6a4dc919634aab4b695d887\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.7.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\fbd3c8d7eea09c6f9a38f7c0b6b71a84\transformed\jetified-lifecycle-livedata-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\73c0d61923b6ca3ec63a575d4c6dc38c\transformed\jetified-lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7f516c639a435b650e33fa43f61831b4\transformed\jetified-lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-runtime:2.6.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\c057ee2b54b85841ef56d34dea053b9d\transformed\room-runtime-2.6.1\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.room:room-ktx:2.6.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\0bb47359ca3cda1845bbd69f749429f3\transformed\jetified-room-ktx-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\91dd8bf62dfc00558e11837547077c12\transformed\jetified-recaptcha-18.4.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.play:integrity:1.2.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7263d92b7fadaaf00eba9adf687543d1\transformed\jetified-integrity-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\aab47d90f74ed74c99c33c25f2fa5344\transformed\jetified-play-services-tasks-18.1.0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e450988f0afdfbe0c6dccefb0ae11e0b\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.6.2] D:\Adriel\CS\GradleCache\caches\8.13\transforms\510982adb392121aa59e117c461463a6\transformed\fragment-1.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] D:\Adriel\CS\GradleCache\caches\8.13\transforms\77d793d2dadf8aa44f1dd6d091f11cae\transformed\jetified-fragment-ktx-1.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.8.2] D:\Adriel\CS\GradleCache\caches\8.13\transforms\bb3f41ff5859a21202b94085ab2d0147\transformed\jetified-activity-ktx-1.8.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\874fd294f5aea4695d444a5d44edb9cf\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.12.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\c9689101cad39b1589006d211989320e\transformed\jetified-core-ktx-1.12.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7e09cd8247359195a21ebe1e7fc035a3\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.4.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\5e9b9fa53b2739ee093eeaf710067d5b\transformed\sqlite-2.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\a87eb5925e0197f780670e48bb9c3c34\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\0f0aa4b9e1dac7eedda14ae94992db30\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e4685cfd5ea26d4d39dfe5619cadc96d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7077c1193bf0d61949eef6d008d1e3c5\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.3] D:\Adriel\CS\GradleCache\caches\8.13\transforms\39928a009987561c41e07e82b2b3624d\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:15:1-41:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\2356f39da3ff4ed5d18004337ea5cc95\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.1.5] D:\Adriel\CS\GradleCache\caches\8.13\transforms\79a6743d91d4bbcf48bfdf191696e1a0\transformed\jetified-firebase-components-17.1.5\AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\4055e0d675be6291dc5ca15c15657342\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\10c74f69456fb9aa6e0b6866c3546437\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\56ab295daabf3845204e16e6d363b595\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\8aac529acb4ab11bda6e29ac1cec90e0\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\4304181126d0257625504e0ad0bfa453\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-encoders-json:16.1.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\3f2d02d458ba11f7ec475c87d626d7e1\transformed\jetified-firebase-encoders-json-16.1.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\089597a905a765279b5518d7cd4a94b9\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\ddad69804a3c002e7721cd6efe516fc6\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\3fc5c87a8a0dcdbdcd7ba64d313fe053\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.2.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\1ac32278421860dbc5171c1ef30518c7\transformed\jetified-volley-1.2.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\0718bc258757a011f937953c62681842\transformed\jetified-transport-api-2.2.0\AndroidManifest.xml:15:1-22:12
+	package
+		INJECTED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [com.google.android.libraries.places:places:3.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\81745835c9bf715935d260eb6167e103\transformed\jetified-places-3.3.0\AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.libraries.places:places:3.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\81745835c9bf715935d260eb6167e103\transformed\jetified-places-3.3.0\AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7580d6dd53ea319d008a550a60c41031\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7580d6dd53ea319d008a550a60c41031\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-database:20.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\307a2b23363eb54f4208c5b49f2b9157\transformed\jetified-firebase-database-20.3.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:20.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\307a2b23363eb54f4208c5b49f2b9157\transformed\jetified-firebase-database-20.3.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:22.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e26db733f66a83230aa5e8bf9a64002d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-auth:22.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e26db733f66a83230aa5e8bf9a64002d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\91dd8bf62dfc00558e11837547077c12\transformed\jetified-recaptcha-18.4.0\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\91dd8bf62dfc00558e11837547077c12\transformed\jetified-recaptcha-18.4.0\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7077c1193bf0d61949eef6d008d1e3c5\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7077c1193bf0d61949eef6d008d1e3c5\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:5:5-79
+MERGED from [com.google.android.libraries.places:places:3.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\81745835c9bf715935d260eb6167e103\transformed\jetified-places-3.3.0\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.libraries.places:places:3.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\81745835c9bf715935d260eb6167e103\transformed\jetified-places-3.3.0\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:6:5-81
+MERGED from [com.google.android.libraries.places:places:3.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\81745835c9bf715935d260eb6167e103\transformed\jetified-places-3.3.0\AndroidManifest.xml:9:5-81
+MERGED from [com.google.android.libraries.places:places:3.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\81745835c9bf715935d260eb6167e103\transformed\jetified-places-3.3.0\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:6:22-78
+application
+ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:8:5-91:19
+INJECTED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:8:5-91:19
+MERGED from [com.google.android.material:material:1.11.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\328164b93cf05abb8f2fc6b4adb7ab18\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.11.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\328164b93cf05abb8f2fc6b4adb7ab18\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7fa1f79059fd0c28db6811707eb3a08b\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7fa1f79059fd0c28db6811707eb3a08b\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.libraries.places:places:3.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\81745835c9bf715935d260eb6167e103\transformed\jetified-places-3.3.0\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.android.libraries.places:places:3.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\81745835c9bf715935d260eb6167e103\transformed\jetified-places-3.3.0\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7580d6dd53ea319d008a550a60c41031\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7580d6dd53ea319d008a550a60c41031\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-location:21.1.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\836bc7e001ca20bb7b4b2baaa002adc6\transformed\jetified-play-services-location-21.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:21.1.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\836bc7e001ca20bb7b4b2baaa002adc6\transformed\jetified-play-services-location-21.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-database-ktx:20.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\9429413fcd2b03a88d4a0a3624f7bae7\transformed\jetified-firebase-database-ktx-20.3.1\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-database-ktx:20.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\9429413fcd2b03a88d4a0a3624f7bae7\transformed\jetified-firebase-database-ktx-20.3.1\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-database:20.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\307a2b23363eb54f4208c5b49f2b9157\transformed\jetified-firebase-database-20.3.1\AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.firebase:firebase-database:20.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\307a2b23363eb54f4208c5b49f2b9157\transformed\jetified-firebase-database-20.3.1\AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.firebase:firebase-auth-ktx:22.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\b497eba65768a4391cf57e8dd78a19a2\transformed\jetified-firebase-auth-ktx-22.3.1\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-auth-ktx:22.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\b497eba65768a4391cf57e8dd78a19a2\transformed\jetified-firebase-auth-ktx-22.3.1\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-auth:22.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e26db733f66a83230aa5e8bf9a64002d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-auth:22.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e26db733f66a83230aa5e8bf9a64002d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\1566990f403959300b84a966ff2c81b2\transformed\jetified-firebase-appcheck-interop-17.1.0\AndroidManifest.xml:21:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\1566990f403959300b84a966ff2c81b2\transformed\jetified-firebase-appcheck-interop-17.1.0\AndroidManifest.xml:21:5-20
+MERGED from [com.google.android.gms:play-services-base:18.1.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\cda2cf179a33d18ca6035cfcd87a68c7\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\cda2cf179a33d18ca6035cfcd87a68c7\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] D:\Adriel\CS\GradleCache\caches\8.13\transforms\a6e32e35275b764469086eba4dd57c01\transformed\jetified-firebase-common-ktx-20.4.2\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] D:\Adriel\CS\GradleCache\caches\8.13\transforms\a6e32e35275b764469086eba4dd57c01\transformed\jetified-firebase-common-ktx-20.4.2\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\3ea8502a7ed24ee26022ef748c1ec9bb\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\3ea8502a7ed24ee26022ef748c1ec9bb\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] D:\Adriel\CS\GradleCache\caches\8.13\transforms\a1ffc0d349a45a3a7e7111f8a8443de5\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] D:\Adriel\CS\GradleCache\caches\8.13\transforms\a1ffc0d349a45a3a7e7111f8a8443de5\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:22:5-39:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\a76754fde0ce246ec7bd208c523d12b3\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\a76754fde0ce246ec7bd208c523d12b3\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.12.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\6d7e1439fa705cef42110a9e8900f01d\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\6d7e1439fa705cef42110a9e8900f01d\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\86957f0f2b511089df4affaf154cb6ab\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\86957f0f2b511089df4affaf154cb6ab\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.room:room-runtime:2.6.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\c057ee2b54b85841ef56d34dea053b9d\transformed\room-runtime-2.6.1\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime:2.6.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\c057ee2b54b85841ef56d34dea053b9d\transformed\room-runtime-2.6.1\AndroidManifest.xml:23:5-29:19
+MERGED from [com.google.android.play:integrity:1.2.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7263d92b7fadaaf00eba9adf687543d1\transformed\jetified-integrity-1.2.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.play:integrity:1.2.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7263d92b7fadaaf00eba9adf687543d1\transformed\jetified-integrity-1.2.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\aab47d90f74ed74c99c33c25f2fa5344\transformed\jetified-play-services-tasks-18.1.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\aab47d90f74ed74c99c33c25f2fa5344\transformed\jetified-play-services-tasks-18.1.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e450988f0afdfbe0c6dccefb0ae11e0b\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e450988f0afdfbe0c6dccefb0ae11e0b\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7077c1193bf0d61949eef6d008d1e3c5\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7077c1193bf0d61949eef6d008d1e3c5\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.3] D:\Adriel\CS\GradleCache\caches\8.13\transforms\39928a009987561c41e07e82b2b3624d\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.3] D:\Adriel\CS\GradleCache\caches\8.13\transforms\39928a009987561c41e07e82b2b3624d\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:25:5-39:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\10c74f69456fb9aa6e0b6866c3546437\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\10c74f69456fb9aa6e0b6866c3546437\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\56ab295daabf3845204e16e6d363b595\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\56ab295daabf3845204e16e6d363b595\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\8aac529acb4ab11bda6e29ac1cec90e0\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\8aac529acb4ab11bda6e29ac1cec90e0\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\6d7e1439fa705cef42110a9e8900f01d\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:12:9-54
+	android:largeHeap
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:15:9-33
+	android:icon
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:14:9-44
+activity#com.example.mumbaitransit.ui.SplashActivity
+ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:21:9-29:20
+	android:exported
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:23:13-36
+	android:theme
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:24:13-55
+	android:name
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:22:13-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:25:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:27:27-74
+activity#com.example.mumbaitransit.ui.MainActivity
+ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:31:9-34:58
+	android:windowSoftInputMode
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:34:13-55
+	android:exported
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:32:13-44
+activity#com.example.mumbaitransit.ui.RouteDetailActivity
+ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:36:9-39:61
+	android:parentActivityName
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:39:13-58
+	android:exported
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:37:13-51
+activity#com.example.mumbaitransit.ui.RoutePreviewActivity
+ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:41:9-44:61
+	android:parentActivityName
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:44:13-58
+	android:exported
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:43:13-37
+	android:name
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:42:13-52
+activity#com.example.mumbaitransit.ui.RoutesResultActivity
+ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:46:9-49:61
+	android:parentActivityName
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:49:13-58
+	android:exported
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:48:13-37
+	android:name
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:47:13-52
+activity#com.example.mumbaitransit.ui.MriActivity
+ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:51:9-54:61
+	android:parentActivityName
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:54:13-58
+	android:exported
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:53:13-37
+	android:name
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:52:13-43
+activity#com.example.mumbaitransit.ui.LiveStatusActivity
+ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:56:9-59:69
+	android:parentActivityName
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:59:13-66
+	android:exported
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:58:13-37
+	android:name
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:57:13-50
+activity#com.example.mumbaitransit.ui.SavedRoutesActivity
+ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:61:9-64:69
+	android:parentActivityName
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:64:13-66
+	android:exported
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:63:13-37
+	android:name
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:62:13-51
+activity#com.example.mumbaitransit.ui.ChatRoomsActivity
+ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:66:9-69:61
+	android:parentActivityName
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:69:13-58
+	android:exported
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:68:13-37
+	android:name
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:67:13-49
+activity#com.example.mumbaitransit.ui.ChatRoomActivity
+ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:71:9-75:66
+	android:parentActivityName
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:75:13-63
+	android:windowSoftInputMode
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:74:13-55
+	android:exported
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:73:13-37
+	android:name
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:72:13-48
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:86:13-88:54
+	android:resource
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:88:17-51
+	android:name
+		ADDED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml:87:17-67
+uses-sdk
+INJECTED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.13.2] D:\Adriel\CS\GradleCache\caches\8.13\transforms\2edfb88a7988b638083593dcb879296c\transformed\jetified-viewbinding-8.13.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.13.2] D:\Adriel\CS\GradleCache\caches\8.13\transforms\2edfb88a7988b638083593dcb879296c\transformed\jetified-viewbinding-8.13.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.11.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\328164b93cf05abb8f2fc6b4adb7ab18\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.11.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\328164b93cf05abb8f2fc6b4adb7ab18\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7fa1f79059fd0c28db6811707eb3a08b\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7fa1f79059fd0c28db6811707eb3a08b\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.libraries.places:places:3.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\81745835c9bf715935d260eb6167e103\transformed\jetified-places-3.3.0\AndroidManifest.xml:7:5-44
+MERGED from [com.google.android.libraries.places:places:3.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\81745835c9bf715935d260eb6167e103\transformed\jetified-places-3.3.0\AndroidManifest.xml:7:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\af62eb3a618d53db046eb86f837bf37b\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\af62eb3a618d53db046eb86f837bf37b\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\29d33dde25e81af3a14a6d4b4b062157\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\29d33dde25e81af3a14a6d4b4b062157\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7580d6dd53ea319d008a550a60c41031\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7580d6dd53ea319d008a550a60c41031\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] D:\Adriel\CS\GradleCache\caches\8.13\transforms\9ff85495ede972876734c704c6863f46\transformed\recyclerview-1.3.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] D:\Adriel\CS\GradleCache\caches\8.13\transforms\9ff85495ede972876734c704c6863f46\transformed\recyclerview-1.3.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] D:\Adriel\CS\GradleCache\caches\8.13\transforms\0cef19a9332ab0bce3e6ce5ed021a658\transformed\jetified-viewpager2-1.1.0-beta02\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] D:\Adriel\CS\GradleCache\caches\8.13\transforms\0cef19a9332ab0bce3e6ce5ed021a658\transformed\jetified-viewpager2-1.1.0-beta02\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:21.1.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\836bc7e001ca20bb7b4b2baaa002adc6\transformed\jetified-play-services-location-21.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:21.1.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\836bc7e001ca20bb7b4b2baaa002adc6\transformed\jetified-play-services-location-21.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-ktx:20.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\9429413fcd2b03a88d4a0a3624f7bae7\transformed\jetified-firebase-database-ktx-20.3.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-ktx:20.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\9429413fcd2b03a88d4a0a3624f7bae7\transformed\jetified-firebase-database-ktx-20.3.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database:20.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\307a2b23363eb54f4208c5b49f2b9157\transformed\jetified-firebase-database-20.3.1\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-database:20.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\307a2b23363eb54f4208c5b49f2b9157\transformed\jetified-firebase-database-20.3.1\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-auth-ktx:22.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\b497eba65768a4391cf57e8dd78a19a2\transformed\jetified-firebase-auth-ktx-22.3.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-ktx:22.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\b497eba65768a4391cf57e8dd78a19a2\transformed\jetified-firebase-auth-ktx-22.3.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:22.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e26db733f66a83230aa5e8bf9a64002d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:21:5-23:64
+MERGED from [com.google.firebase:firebase-auth:22.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e26db733f66a83230aa5e8bf9a64002d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:21:5-23:64
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\1566990f403959300b84a966ff2c81b2\transformed\jetified-firebase-appcheck-interop-17.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\1566990f403959300b84a966ff2c81b2\transformed\jetified-firebase-appcheck-interop-17.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\12b06947d49fb785cbab7af9d3b23123\transformed\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\12b06947d49fb785cbab7af9d3b23123\transformed\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\cf45fdd968b2d643c1f2729a628e3c88\transformed\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\cf45fdd968b2d643c1f2729a628e3c88\transformed\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.1.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\cda2cf179a33d18ca6035cfcd87a68c7\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\cda2cf179a33d18ca6035cfcd87a68c7\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] D:\Adriel\CS\GradleCache\caches\8.13\transforms\a6e32e35275b764469086eba4dd57c01\transformed\jetified-firebase-common-ktx-20.4.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] D:\Adriel\CS\GradleCache\caches\8.13\transforms\a6e32e35275b764469086eba4dd57c01\transformed\jetified-firebase-common-ktx-20.4.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\3ea8502a7ed24ee26022ef748c1ec9bb\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\3ea8502a7ed24ee26022ef748c1ec9bb\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:20.4.2] D:\Adriel\CS\GradleCache\caches\8.13\transforms\a1ffc0d349a45a3a7e7111f8a8443de5\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:20.4.2] D:\Adriel\CS\GradleCache\caches\8.13\transforms\a1ffc0d349a45a3a7e7111f8a8443de5\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:19:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\5ca47adb646a4654f0ed73f1b98bc85f\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\5ca47adb646a4654f0ed73f1b98bc85f\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\a76754fde0ce246ec7bd208c523d12b3\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\a76754fde0ce246ec7bd208c523d12b3\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\eebbe46e42d598c4eeae166ba5215847\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\eebbe46e42d598c4eeae166ba5215847\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\565a571e76d878b02ae1a348afd99873\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\565a571e76d878b02ae1a348afd99873\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7fd8de0b3a701f18f9f4df7df82dbc0b\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7fd8de0b3a701f18f9f4df7df82dbc0b\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\39206b26a509e9b204bfd93528fb9533\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\39206b26a509e9b204bfd93528fb9533\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\2ee13b8e5825fa94e3d152732b0e527b\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\2ee13b8e5825fa94e3d152732b0e527b\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\ea61f14d4b66d0d0607229e24702d745\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\ea61f14d4b66d0d0607229e24702d745\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.2] D:\Adriel\CS\GradleCache\caches\8.13\transforms\b9dcf21177950b4fbf5bb5ffe7663127\transformed\jetified-activity-1.8.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.2] D:\Adriel\CS\GradleCache\caches\8.13\transforms\b9dcf21177950b4fbf5bb5ffe7663127\transformed\jetified-activity-1.8.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\a6783db20c1e212afb4ff0225930ecd6\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\a6783db20c1e212afb4ff0225930ecd6\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\9a6f7846d57a07954cda85497e525d46\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\9a6f7846d57a07954cda85497e525d46\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\cb662d96f28223b8f4309ea7f64e1927\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\cb662d96f28223b8f4309ea7f64e1927\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e0ce8438a21a2eb91a1ea827872d76e2\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e0ce8438a21a2eb91a1ea827872d76e2\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.4.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\097fb13f13c2851f3d7025246cdac255\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\097fb13f13c2851f3d7025246cdac255\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.12.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\6d7e1439fa705cef42110a9e8900f01d\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\6d7e1439fa705cef42110a9e8900f01d\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\12fb04dc2ff7163514424acbc05e31ad\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\12fb04dc2ff7163514424acbc05e31ad\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\98960717b6ff9d6e3fa05379d23a8ef4\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\98960717b6ff9d6e3fa05379d23a8ef4\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\afe67792ce819cbbbbe613a3da9196fa\transformed\jetified-savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\afe67792ce819cbbbbe613a3da9196fa\transformed\jetified-savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\ad771c44a9682edb3cf48fa96d59b099\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\ad771c44a9682edb3cf48fa96d59b099\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\86957f0f2b511089df4affaf154cb6ab\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\86957f0f2b511089df4affaf154cb6ab\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\a8cb3cd7c57f36507ab5bc48b4ef28e3\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\a8cb3cd7c57f36507ab5bc48b4ef28e3\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\533a89b3df384fd639f75059bbd79b60\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\533a89b3df384fd639f75059bbd79b60\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\f44abebd53d232bf25420e00e0a0a972\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\f44abebd53d232bf25420e00e0a0a972\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\2ed3f058b6a4dc919634aab4b695d887\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\2ed3f058b6a4dc919634aab4b695d887\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.7.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\fbd3c8d7eea09c6f9a38f7c0b6b71a84\transformed\jetified-lifecycle-livedata-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.7.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\fbd3c8d7eea09c6f9a38f7c0b6b71a84\transformed\jetified-lifecycle-livedata-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\73c0d61923b6ca3ec63a575d4c6dc38c\transformed\jetified-lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\73c0d61923b6ca3ec63a575d4c6dc38c\transformed\jetified-lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7f516c639a435b650e33fa43f61831b4\transformed\jetified-lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7f516c639a435b650e33fa43f61831b4\transformed\jetified-lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\c057ee2b54b85841ef56d34dea053b9d\transformed\room-runtime-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\c057ee2b54b85841ef56d34dea053b9d\transformed\room-runtime-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\0bb47359ca3cda1845bbd69f749429f3\transformed\jetified-room-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\0bb47359ca3cda1845bbd69f749429f3\transformed\jetified-room-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\91dd8bf62dfc00558e11837547077c12\transformed\jetified-recaptcha-18.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\91dd8bf62dfc00558e11837547077c12\transformed\jetified-recaptcha-18.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:integrity:1.2.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7263d92b7fadaaf00eba9adf687543d1\transformed\jetified-integrity-1.2.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.play:integrity:1.2.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7263d92b7fadaaf00eba9adf687543d1\transformed\jetified-integrity-1.2.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\aab47d90f74ed74c99c33c25f2fa5344\transformed\jetified-play-services-tasks-18.1.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\aab47d90f74ed74c99c33c25f2fa5344\transformed\jetified-play-services-tasks-18.1.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e450988f0afdfbe0c6dccefb0ae11e0b\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e450988f0afdfbe0c6dccefb0ae11e0b\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.6.2] D:\Adriel\CS\GradleCache\caches\8.13\transforms\510982adb392121aa59e117c461463a6\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.2] D:\Adriel\CS\GradleCache\caches\8.13\transforms\510982adb392121aa59e117c461463a6\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] D:\Adriel\CS\GradleCache\caches\8.13\transforms\77d793d2dadf8aa44f1dd6d091f11cae\transformed\jetified-fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] D:\Adriel\CS\GradleCache\caches\8.13\transforms\77d793d2dadf8aa44f1dd6d091f11cae\transformed\jetified-fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.2] D:\Adriel\CS\GradleCache\caches\8.13\transforms\bb3f41ff5859a21202b94085ab2d0147\transformed\jetified-activity-ktx-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.2] D:\Adriel\CS\GradleCache\caches\8.13\transforms\bb3f41ff5859a21202b94085ab2d0147\transformed\jetified-activity-ktx-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\874fd294f5aea4695d444a5d44edb9cf\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\874fd294f5aea4695d444a5d44edb9cf\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.12.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\c9689101cad39b1589006d211989320e\transformed\jetified-core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\c9689101cad39b1589006d211989320e\transformed\jetified-core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7e09cd8247359195a21ebe1e7fc035a3\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7e09cd8247359195a21ebe1e7fc035a3\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\5e9b9fa53b2739ee093eeaf710067d5b\transformed\sqlite-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\5e9b9fa53b2739ee093eeaf710067d5b\transformed\sqlite-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\a87eb5925e0197f780670e48bb9c3c34\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\a87eb5925e0197f780670e48bb9c3c34\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\0f0aa4b9e1dac7eedda14ae94992db30\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\0f0aa4b9e1dac7eedda14ae94992db30\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e4685cfd5ea26d4d39dfe5619cadc96d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e4685cfd5ea26d4d39dfe5619cadc96d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7077c1193bf0d61949eef6d008d1e3c5\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7077c1193bf0d61949eef6d008d1e3c5\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.3] D:\Adriel\CS\GradleCache\caches\8.13\transforms\39928a009987561c41e07e82b2b3624d\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.3] D:\Adriel\CS\GradleCache\caches\8.13\transforms\39928a009987561c41e07e82b2b3624d\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\2356f39da3ff4ed5d18004337ea5cc95\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\2356f39da3ff4ed5d18004337ea5cc95\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.1.5] D:\Adriel\CS\GradleCache\caches\8.13\transforms\79a6743d91d4bbcf48bfdf191696e1a0\transformed\jetified-firebase-components-17.1.5\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:17.1.5] D:\Adriel\CS\GradleCache\caches\8.13\transforms\79a6743d91d4bbcf48bfdf191696e1a0\transformed\jetified-firebase-components-17.1.5\AndroidManifest.xml:18:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\4055e0d675be6291dc5ca15c15657342\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\4055e0d675be6291dc5ca15c15657342\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\10c74f69456fb9aa6e0b6866c3546437\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\10c74f69456fb9aa6e0b6866c3546437\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\56ab295daabf3845204e16e6d363b595\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\56ab295daabf3845204e16e6d363b595\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\8aac529acb4ab11bda6e29ac1cec90e0\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\8aac529acb4ab11bda6e29ac1cec90e0\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\4304181126d0257625504e0ad0bfa453\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\4304181126d0257625504e0ad0bfa453\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-encoders-json:16.1.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\3f2d02d458ba11f7ec475c87d626d7e1\transformed\jetified-firebase-encoders-json-16.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:16.1.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\3f2d02d458ba11f7ec475c87d626d7e1\transformed\jetified-firebase-encoders-json-16.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\089597a905a765279b5518d7cd4a94b9\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\089597a905a765279b5518d7cd4a94b9\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\ddad69804a3c002e7721cd6efe516fc6\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\ddad69804a3c002e7721cd6efe516fc6\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\3fc5c87a8a0dcdbdcd7ba64d313fe053\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\3fc5c87a8a0dcdbdcd7ba64d313fe053\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.2.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\1ac32278421860dbc5171c1ef30518c7\transformed\jetified-volley-1.2.1\AndroidManifest.xml:5:5-43
+MERGED from [com.android.volley:volley:1.2.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\1ac32278421860dbc5171c1ef30518c7\transformed\jetified-volley-1.2.1\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\0718bc258757a011f937953c62681842\transformed\jetified-transport-api-2.2.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\0718bc258757a011f937953c62681842\transformed\jetified-transport-api-2.2.0\AndroidManifest.xml:18:5-20:41
+	tools:overrideLibrary
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e26db733f66a83230aa5e8bf9a64002d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:23:9-61
+	android:targetSdkVersion
+		INJECTED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\asus tuf gaming\Downloads\new project\Anchor-chat-fix\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.google.android.libraries.places:places:3.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\81745835c9bf715935d260eb6167e103\transformed\jetified-places-3.3.0\AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from [com.google.android.libraries.places:places:3.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\81745835c9bf715935d260eb6167e103\transformed\jetified-places-3.3.0\AndroidManifest.xml:11:22-73
+activity#com.google.android.libraries.places.widget.AutocompleteActivity
+ADDED from [com.google.android.libraries.places:places:3.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\81745835c9bf715935d260eb6167e103\transformed\jetified-places-3.3.0\AndroidManifest.xml:15:9-21:20
+	android:label
+		ADDED from [com.google.android.libraries.places:places:3.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\81745835c9bf715935d260eb6167e103\transformed\jetified-places-3.3.0\AndroidManifest.xml:18:13-62
+	android:windowSoftInputMode
+		ADDED from [com.google.android.libraries.places:places:3.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\81745835c9bf715935d260eb6167e103\transformed\jetified-places-3.3.0\AndroidManifest.xml:20:13-55
+	android:exported
+		ADDED from [com.google.android.libraries.places:places:3.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\81745835c9bf715935d260eb6167e103\transformed\jetified-places-3.3.0\AndroidManifest.xml:17:13-37
+	android:theme
+		ADDED from [com.google.android.libraries.places:places:3.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\81745835c9bf715935d260eb6167e103\transformed\jetified-places-3.3.0\AndroidManifest.xml:19:13-61
+	android:name
+		ADDED from [com.google.android.libraries.places:places:3.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\81745835c9bf715935d260eb6167e103\transformed\jetified-places-3.3.0\AndroidManifest.xml:16:13-91
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7580d6dd53ea319d008a550a60c41031\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-database:20.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\307a2b23363eb54f4208c5b49f2b9157\transformed\jetified-firebase-database-20.3.1\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-database:20.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\307a2b23363eb54f4208c5b49f2b9157\transformed\jetified-firebase-database-20.3.1\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-auth:22.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e26db733f66a83230aa5e8bf9a64002d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-auth:22.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e26db733f66a83230aa5e8bf9a64002d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\91dd8bf62dfc00558e11837547077c12\transformed\jetified-recaptcha-18.4.0\AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\91dd8bf62dfc00558e11837547077c12\transformed\jetified-recaptcha-18.4.0\AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7077c1193bf0d61949eef6d008d1e3c5\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7077c1193bf0d61949eef6d008d1e3c5\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.3] D:\Adriel\CS\GradleCache\caches\8.13\transforms\39928a009987561c41e07e82b2b3624d\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.3] D:\Adriel\CS\GradleCache\caches\8.13\transforms\39928a009987561c41e07e82b2b3624d\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7580d6dd53ea319d008a550a60c41031\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7580d6dd53ea319d008a550a60c41031\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7580d6dd53ea319d008a550a60c41031\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7580d6dd53ea319d008a550a60c41031\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:28:9-32
+queries
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7580d6dd53ea319d008a550a60c41031\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:30:5-34:15
+package#com.google.android.apps.maps
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7580d6dd53ea319d008a550a60c41031\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:33:9-64
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7580d6dd53ea319d008a550a60c41031\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:33:18-61
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7580d6dd53ea319d008a550a60c41031\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:39:9-41:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7580d6dd53ea319d008a550a60c41031\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7580d6dd53ea319d008a550a60c41031\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:40:13-50
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-database-ktx:20.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\9429413fcd2b03a88d4a0a3624f7bae7\transformed\jetified-firebase-database-ktx-20.3.1\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-database:20.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\307a2b23363eb54f4208c5b49f2b9157\transformed\jetified-firebase-database-20.3.1\AndroidManifest.xml:26:9-35:19
+MERGED from [com.google.firebase:firebase-database:20.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\307a2b23363eb54f4208c5b49f2b9157\transformed\jetified-firebase-database-20.3.1\AndroidManifest.xml:26:9-35:19
+MERGED from [com.google.firebase:firebase-auth-ktx:22.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\b497eba65768a4391cf57e8dd78a19a2\transformed\jetified-firebase-auth-ktx-22.3.1\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-auth-ktx:22.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\b497eba65768a4391cf57e8dd78a19a2\transformed\jetified-firebase-auth-ktx-22.3.1\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-auth:22.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e26db733f66a83230aa5e8bf9a64002d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-auth:22.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e26db733f66a83230aa5e8bf9a64002d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] D:\Adriel\CS\GradleCache\caches\8.13\transforms\a6e32e35275b764469086eba4dd57c01\transformed\jetified-firebase-common-ktx-20.4.2\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] D:\Adriel\CS\GradleCache\caches\8.13\transforms\a6e32e35275b764469086eba4dd57c01\transformed\jetified-firebase-common-ktx-20.4.2\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] D:\Adriel\CS\GradleCache\caches\8.13\transforms\a1ffc0d349a45a3a7e7111f8a8443de5\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] D:\Adriel\CS\GradleCache\caches\8.13\transforms\a1ffc0d349a45a3a7e7111f8a8443de5\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:30:9-38:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-database-ktx:20.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\9429413fcd2b03a88d4a0a3624f7bae7\transformed\jetified-firebase-database-ktx-20.3.1\AndroidManifest.xml:11:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.4.2] D:\Adriel\CS\GradleCache\caches\8.13\transforms\a1ffc0d349a45a3a7e7111f8a8443de5\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.4.2] D:\Adriel\CS\GradleCache\caches\8.13\transforms\a1ffc0d349a45a3a7e7111f8a8443de5\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-database-ktx:20.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\9429413fcd2b03a88d4a0a3624f7bae7\transformed\jetified-firebase-database-ktx-20.3.1\AndroidManifest.xml:10:13-84
+meta-data#com.google.firebase.components:com.google.firebase.database.ktx.FirebaseDatabaseLegacyRegistrar
+ADDED from [com.google.firebase:firebase-database-ktx:20.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\9429413fcd2b03a88d4a0a3624f7bae7\transformed\jetified-firebase-database-ktx-20.3.1\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database-ktx:20.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\9429413fcd2b03a88d4a0a3624f7bae7\transformed\jetified-firebase-database-ktx-20.3.1\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database-ktx:20.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\9429413fcd2b03a88d4a0a3624f7bae7\transformed\jetified-firebase-database-ktx-20.3.1\AndroidManifest.xml:13:17-127
+meta-data#com.google.firebase.components:com.google.firebase.database.FirebaseDatabaseKtxRegistrar
+ADDED from [com.google.firebase:firebase-database:20.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\307a2b23363eb54f4208c5b49f2b9157\transformed\jetified-firebase-database-20.3.1\AndroidManifest.xml:29:13-31:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:20.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\307a2b23363eb54f4208c5b49f2b9157\transformed\jetified-firebase-database-20.3.1\AndroidManifest.xml:31:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\307a2b23363eb54f4208c5b49f2b9157\transformed\jetified-firebase-database-20.3.1\AndroidManifest.xml:30:17-120
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:20.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\307a2b23363eb54f4208c5b49f2b9157\transformed\jetified-firebase-database-20.3.1\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:20.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\307a2b23363eb54f4208c5b49f2b9157\transformed\jetified-firebase-database-20.3.1\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\307a2b23363eb54f4208c5b49f2b9157\transformed\jetified-firebase-database-20.3.1\AndroidManifest.xml:33:17-109
+meta-data#com.google.firebase.components:com.google.firebase.auth.ktx.FirebaseAuthLegacyRegistrar
+ADDED from [com.google.firebase:firebase-auth-ktx:22.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\b497eba65768a4391cf57e8dd78a19a2\transformed\jetified-firebase-auth-ktx-22.3.1\AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth-ktx:22.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\b497eba65768a4391cf57e8dd78a19a2\transformed\jetified-firebase-auth-ktx-22.3.1\AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth-ktx:22.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\b497eba65768a4391cf57e8dd78a19a2\transformed\jetified-firebase-auth-ktx-22.3.1\AndroidManifest.xml:12:17-119
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:22.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e26db733f66a83230aa5e8bf9a64002d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:29:9-46:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e26db733f66a83230aa5e8bf9a64002d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:31:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e26db733f66a83230aa5e8bf9a64002d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:33:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e26db733f66a83230aa5e8bf9a64002d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:32:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e26db733f66a83230aa5e8bf9a64002d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e26db733f66a83230aa5e8bf9a64002d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:30:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:22.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e26db733f66a83230aa5e8bf9a64002d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:35:13-45:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:22.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e26db733f66a83230aa5e8bf9a64002d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e26db733f66a83230aa5e8bf9a64002d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:22.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e26db733f66a83230aa5e8bf9a64002d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e26db733f66a83230aa5e8bf9a64002d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:38:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:22.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e26db733f66a83230aa5e8bf9a64002d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:39:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e26db733f66a83230aa5e8bf9a64002d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:39:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:22.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e26db733f66a83230aa5e8bf9a64002d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:41:17-44:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e26db733f66a83230aa5e8bf9a64002d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:43:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e26db733f66a83230aa5e8bf9a64002d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:42:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e26db733f66a83230aa5e8bf9a64002d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:44:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:22.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e26db733f66a83230aa5e8bf9a64002d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:47:9-64:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e26db733f66a83230aa5e8bf9a64002d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:49:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e26db733f66a83230aa5e8bf9a64002d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:51:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e26db733f66a83230aa5e8bf9a64002d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:50:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e26db733f66a83230aa5e8bf9a64002d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:52:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e26db733f66a83230aa5e8bf9a64002d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:48:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:22.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e26db733f66a83230aa5e8bf9a64002d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:53:13-63:29
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:22.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e26db733f66a83230aa5e8bf9a64002d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:69:13-71:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e26db733f66a83230aa5e8bf9a64002d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:71:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e26db733f66a83230aa5e8bf9a64002d\transformed\jetified-firebase-auth-22.3.1\AndroidManifest.xml:70:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\cda2cf179a33d18ca6035cfcd87a68c7\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\cda2cf179a33d18ca6035cfcd87a68c7\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\cda2cf179a33d18ca6035cfcd87a68c7\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\cda2cf179a33d18ca6035cfcd87a68c7\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] D:\Adriel\CS\GradleCache\caches\8.13\transforms\a6e32e35275b764469086eba4dd57c01\transformed\jetified-firebase-common-ktx-20.4.2\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] D:\Adriel\CS\GradleCache\caches\8.13\transforms\a6e32e35275b764469086eba4dd57c01\transformed\jetified-firebase-common-ktx-20.4.2\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] D:\Adriel\CS\GradleCache\caches\8.13\transforms\a6e32e35275b764469086eba4dd57c01\transformed\jetified-firebase-common-ktx-20.4.2\AndroidManifest.xml:13:17-116
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.4.2] D:\Adriel\CS\GradleCache\caches\8.13\transforms\a1ffc0d349a45a3a7e7111f8a8443de5\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.4.2] D:\Adriel\CS\GradleCache\caches\8.13\transforms\a1ffc0d349a45a3a7e7111f8a8443de5\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.4.2] D:\Adriel\CS\GradleCache\caches\8.13\transforms\a1ffc0d349a45a3a7e7111f8a8443de5\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.4.2] D:\Adriel\CS\GradleCache\caches\8.13\transforms\a1ffc0d349a45a3a7e7111f8a8443de5\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.4.2] D:\Adriel\CS\GradleCache\caches\8.13\transforms\a1ffc0d349a45a3a7e7111f8a8443de5\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.4.2] D:\Adriel\CS\GradleCache\caches\8.13\transforms\a1ffc0d349a45a3a7e7111f8a8443de5\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:20.4.2] D:\Adriel\CS\GradleCache\caches\8.13\transforms\a1ffc0d349a45a3a7e7111f8a8443de5\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:20.4.2] D:\Adriel\CS\GradleCache\caches\8.13\transforms\a1ffc0d349a45a3a7e7111f8a8443de5\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.4.2] D:\Adriel\CS\GradleCache\caches\8.13\transforms\a1ffc0d349a45a3a7e7111f8a8443de5\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:36:17-109
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\a76754fde0ce246ec7bd208c523d12b3\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\86957f0f2b511089df4affaf154cb6ab\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\86957f0f2b511089df4affaf154cb6ab\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\56ab295daabf3845204e16e6d363b595\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\56ab295daabf3845204e16e6d363b595\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\8aac529acb4ab11bda6e29ac1cec90e0\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\8aac529acb4ab11bda6e29ac1cec90e0\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\a76754fde0ce246ec7bd208c523d12b3\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\a76754fde0ce246ec7bd208c523d12b3\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\a76754fde0ce246ec7bd208c523d12b3\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\a76754fde0ce246ec7bd208c523d12b3\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\a76754fde0ce246ec7bd208c523d12b3\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\a76754fde0ce246ec7bd208c523d12b3\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\a76754fde0ce246ec7bd208c523d12b3\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\6d7e1439fa705cef42110a9e8900f01d\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\6d7e1439fa705cef42110a9e8900f01d\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\6d7e1439fa705cef42110a9e8900f01d\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+permission#com.example.mumbaitransit.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\6d7e1439fa705cef42110a9e8900f01d\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\6d7e1439fa705cef42110a9e8900f01d\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\6d7e1439fa705cef42110a9e8900f01d\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\6d7e1439fa705cef42110a9e8900f01d\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\6d7e1439fa705cef42110a9e8900f01d\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.mumbaitransit.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\6d7e1439fa705cef42110a9e8900f01d\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\6d7e1439fa705cef42110a9e8900f01d\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\86957f0f2b511089df4affaf154cb6ab\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\86957f0f2b511089df4affaf154cb6ab\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\86957f0f2b511089df4affaf154cb6ab\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:30:17-78
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.6.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\c057ee2b54b85841ef56d34dea053b9d\transformed\room-runtime-2.6.1\AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.6.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\c057ee2b54b85841ef56d34dea053b9d\transformed\room-runtime-2.6.1\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime:2.6.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\c057ee2b54b85841ef56d34dea053b9d\transformed\room-runtime-2.6.1\AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.6.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\c057ee2b54b85841ef56d34dea053b9d\transformed\room-runtime-2.6.1\AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.6.1] D:\Adriel\CS\GradleCache\caches\8.13\transforms\c057ee2b54b85841ef56d34dea053b9d\transformed\room-runtime-2.6.1\AndroidManifest.xml:25:13-74
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [com.google.android.recaptcha:recaptcha:18.4.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\91dd8bf62dfc00558e11837547077c12\transformed\jetified-recaptcha-18.4.0\AndroidManifest.xml:9:5-98
+	android:name
+		ADDED from [com.google.android.recaptcha:recaptcha:18.4.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\91dd8bf62dfc00558e11837547077c12\transformed\jetified-recaptcha-18.4.0\AndroidManifest.xml:9:22-95
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e450988f0afdfbe0c6dccefb0ae11e0b\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e450988f0afdfbe0c6dccefb0ae11e0b\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\e450988f0afdfbe0c6dccefb0ae11e0b\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:22:13-58
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7077c1193bf0d61949eef6d008d1e3c5\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.3] D:\Adriel\CS\GradleCache\caches\8.13\transforms\39928a009987561c41e07e82b2b3624d\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.3] D:\Adriel\CS\GradleCache\caches\8.13\transforms\39928a009987561c41e07e82b2b3624d\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7077c1193bf0d61949eef6d008d1e3c5\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7077c1193bf0d61949eef6d008d1e3c5\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7077c1193bf0d61949eef6d008d1e3c5\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7077c1193bf0d61949eef6d008d1e3c5\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\7077c1193bf0d61949eef6d008d1e3c5\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.3] D:\Adriel\CS\GradleCache\caches\8.13\transforms\39928a009987561c41e07e82b2b3624d\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.3] D:\Adriel\CS\GradleCache\caches\8.13\transforms\39928a009987561c41e07e82b2b3624d\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.3] D:\Adriel\CS\GradleCache\caches\8.13\transforms\39928a009987561c41e07e82b2b3624d\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.3] D:\Adriel\CS\GradleCache\caches\8.13\transforms\39928a009987561c41e07e82b2b3624d\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.3] D:\Adriel\CS\GradleCache\caches\8.13\transforms\39928a009987561c41e07e82b2b3624d\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.3] D:\Adriel\CS\GradleCache\caches\8.13\transforms\39928a009987561c41e07e82b2b3624d\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.3] D:\Adriel\CS\GradleCache\caches\8.13\transforms\39928a009987561c41e07e82b2b3624d\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:33:13-132
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\56ab295daabf3845204e16e6d363b595\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\56ab295daabf3845204e16e6d363b595\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\56ab295daabf3845204e16e6d363b595\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\56ab295daabf3845204e16e6d363b595\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\56ab295daabf3845204e16e6d363b595\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\56ab295daabf3845204e16e6d363b595\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\56ab295daabf3845204e16e6d363b595\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\56ab295daabf3845204e16e6d363b595\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\56ab295daabf3845204e16e6d363b595\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\56ab295daabf3845204e16e6d363b595\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\56ab295daabf3845204e16e6d363b595\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\56ab295daabf3845204e16e6d363b595\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\56ab295daabf3845204e16e6d363b595\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\56ab295daabf3845204e16e6d363b595\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\56ab295daabf3845204e16e6d363b595\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\56ab295daabf3845204e16e6d363b595\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\56ab295daabf3845204e16e6d363b595\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\56ab295daabf3845204e16e6d363b595\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\56ab295daabf3845204e16e6d363b595\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\56ab295daabf3845204e16e6d363b595\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\Adriel\CS\GradleCache\caches\8.13\transforms\56ab295daabf3845204e16e6d363b595\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:25-92

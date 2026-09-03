@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.mumbaitransit.app-mergeDebugResources-3:/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "D:\\Adriel\\CS\\GradleCache\\caches\\8.13\\transforms\\29d33dde25e81af3a14a6d4b4b062157\\transformed\\appcompat-1.6.1\\res\\values-watch-v21\\values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}

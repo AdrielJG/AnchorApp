@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+
+    <!-- Ring at top of anchor -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#1A56DB"
+        android:strokeWidth="5"
+        android:pathData="M48,10 m-10,0 a10,10 0 1,0 20,0 a10,10 0 1,0 -20,0"/>
+
+    <!-- Crossbar (horizontal bar) -->
+    <path
+        android:fillColor="#1A56DB"
+        android:pathData="M22,28 L74,28 L74,33 L22,33 Z"/>
+    <!-- Crossbar end caps (rounded) -->
+    <path
+        android:fillColor="#1A56DB"
+        android:pathData="M22,28 m0,2.5 a3,3 0 1,1 0,0.01"/>
+    <path
+        android:fillColor="#1A56DB"
+        android:pathData="M74,28 m0,2.5 a3,3 0 1,1 0,0.01"/>
+
+    <!-- Vertical shaft -->
+    <path
+        android:fillColor="#1A56DB"
+        android:pathData="M45.5,20 L50.5,20 L50.5,80 L45.5,80 Z"/>
+
+    <!-- Left curve of anchor flukes -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#1A56DB"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:pathData="M48,80 Q20,80 20,60 L20,50"/>
+
+    <!-- Right curve of anchor flukes -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#1A56DB"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:pathData="M48,80 Q76,80 76,60 L76,50"/>
+
+    <!-- Left fluke tip -->
+    <path
+        android:fillColor="#1A56DB"
+        android:pathData="M10,52 L30,44 L26,58 Z"/>
+
+    <!-- Right fluke tip -->
+    <path
+        android:fillColor="#1A56DB"
+        android:pathData="M86,52 L66,44 L70,58 Z"/>
+
+</vector>
