@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <!--
+      Live journey sharing keeps tracking with the screen off; a plain
+      background job would be throttled to nothing within minutes and strand
+      the person following without either side being told. FOREGROUND_SERVICE_
+      LOCATION is required from API 34, POST_NOTIFICATIONS from API 33 — the
+      ongoing notification is both the disclosure that location is leaving the
+      device and the one-tap way to stop it.
+    -->
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_LOCATION" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Anchor"
+        android:largeHeap="true">
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="${mapsApiKey}" />
+
+        <activity
+            android:name=".ui.SplashActivity"
+            android:exported="true"
+            android:theme="@style/Theme.Anchor.Splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".ui.MainActivity"
+            android:exported="false"
+            android:windowSoftInputMode="adjustResize" />
+
+        <activity
+            android:name=".ui.RouteDetailActivity"
+            android:exported="false"
+            android:parentActivityName=".ui.MainActivity" />
+
+        <activity
+            android:name=".ui.RouteMapActivity"
+            android:exported="false"
+            android:parentActivityName=".ui.RouteListActivity" />
+
+        <activity
+            android:name=".ui.RoutesResultActivity"
+            android:exported="false"
+            android:parentActivityName=".ui.MainActivity" />
+
+        <!--
+          The results half of the old Route Options screen. Its parent is
+          Route Options, so Up always goes back to the selectors that produced
+          the list rather than all the way home.
+        -->
+        <activity
+            android:name=".ui.RouteListActivity"
+            android:exported="false"
+            android:parentActivityName=".ui.RoutesResultActivity" />
+
+        <activity
+            android:name=".ui.MriActivity"
+            android:exported="false"
+            android:parentActivityName=".ui.MainActivity" />
+
+        <activity
+            android:name=".ui.LiveStatusActivity"
+            android:exported="false"
+            android:parentActivityName=".ui.RouteListActivity" />
+
+        <activity
+            android:name=".ui.ProfileActivity"
+            android:exported="false"
+            android:parentActivityName=".ui.MainActivity" />
+
+        <activity
+            android:name=".ui.CustomAddressesActivity"
+            android:exported="false"
+            android:parentActivityName=".ui.MainActivity" />
+
+        <activity
+            android:name=".ui.SavedRoutesActivity"
+            android:exported="false"
+            android:parentActivityName=".ui.RouteListActivity" />
+
+        <activity
+            android:name=".ui.ChatRoomsActivity"
+            android:exported="false"
+            android:parentActivityName=".ui.MainActivity" />
+
+        <activity
+            android:name=".ui.ChatRoomActivity"
+            android:exported="false"
+            android:windowSoftInputMode="adjustResize"
+            android:parentActivityName=".ui.ChatRoomsActivity" />
+
+        <activity
+            android:name=".ui.LiveJourneyActivity"
+            android:exported="false"
+            android:launchMode="singleTop"
+            android:parentActivityName=".ui.RouteListActivity" />
+
+        <activity
+            android:name=".ui.NavigationActivity"
+            android:exported="false"
+            android:launchMode="singleTop"
+            android:parentActivityName=".ui.RouteListActivity" />
+
+        <!--
+          Opened by a shared link. exported=true is the whole point: the
+          recipient taps a link from a chat app that has no relationship with
+          Anchor. It carries nothing but a six-character code, and the code is
+          the only thing that resolves a journey.
+        -->
+        <activity
+            android:name=".ui.JourneyViewerActivity"
+            android:exported="true"
+            android:launchMode="singleTop"
+            android:parentActivityName=".ui.MainActivity">
+
+            <intent-filter android:autoVerify="false">
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="https" android:host="anchor.app" android:pathPrefix="/j/" />
+            </intent-filter>
+
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="anchor" android:host="journey" />
+            </intent-filter>
+        </activity>
+
+        <service
+            android:name=".journey.LiveJourneyService"
+            android:exported="false"
+            android:foregroundServiceType="location" />
+
+        <!--
+          Hands out content:// URIs for the route cards RouteSharer renders into
+          cacheDir/shared_routes/. Sharing a file:// URI throws on API 24+.
+        -->
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="${applicationId}.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+        </provider>
+
+    </application>
+</manifest>

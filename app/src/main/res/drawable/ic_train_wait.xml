@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Stopwatch — "In" (wait time) row -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="16dp"
+    android:height="16dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeColor="#6B6860"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M12,5.5a8,8 0 1,0 0,16a8,8 0 1,0 0,-16"/>
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeColor="#6B6860"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M12,9.5v4h2.8"/>
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeColor="#6B6860"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:pathData="M9.6,2.5h4.8M12,2.5v3"/>
+</vector>

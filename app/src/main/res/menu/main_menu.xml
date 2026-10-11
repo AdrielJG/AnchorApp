@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_profile"
+        android:title="My Account"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_mri"
+        android:title="Line Reliability (MRI)"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_follow_journey"
+        android:title="Follow a journey"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_my_journey"
+        android:title="My live journey"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_saved_routes"
+        android:title="Saved Routes"
+        app:showAsAction="never"/>
+</menu>

@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/bg_primary">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/surface"
+        android:elevation="1dp"/>
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <!-- Route header -->
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardCornerRadius="12dp"
+                app:cardElevation="1dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="16dp">
+
+                    <TextView
+                        android:id="@+id/tvJourneyRoute"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textSize="15sp"
+                        android:textStyle="bold"
+                        android:textColor="@color/text_primary"/>
+
+                    <TextView
+                        android:id="@+id/tvJourneySummary"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="3dp"
+                        android:textSize="12.5sp"
+                        android:textColor="@color/text_muted"/>
+
+                    <!-- Live block, visible only once sharing has started -->
+                    <LinearLayout
+                        android:id="@+id/panelLive"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:visibility="gone">
+
+                        <View
+                            android:layout_width="match_parent"
+                            android:layout_height="1dp"
+                            android:layout_marginTop="14dp"
+                            android:layout_marginBottom="12dp"
+                            android:background="@color/border"/>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:gravity="center_vertical">
+
+                            <TextView
+                                android:id="@+id/tvLiveBadge"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingHorizontal="9dp"
+                                android:paddingVertical="3dp"
+                                android:textSize="10.5sp"
+                                android:textStyle="bold"
+                                android:letterSpacing="0.06"/>
+
+                            <TextView
+                                android:id="@+id/tvLiveUpdated"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:layout_marginStart="10dp"
+                                android:textSize="11.5sp"
+                                android:textColor="@color/text_hint"/>
+                        </LinearLayout>
+
+                        <TextView
+                            android:id="@+id/tvLiveWhere"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="10dp"
+                            android:textSize="14sp"
+                            android:textStyle="bold"
+                            android:textColor="@color/text_primary"/>
+
+                        <TextView
+                            android:id="@+id/tvLiveNext"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="2dp"
+                            android:textSize="12.5sp"
+                            android:textColor="@color/text_muted"/>
+
+                        <ProgressBar
+                            android:id="@+id/progressJourney"
+                            style="?android:attr/progressBarStyleHorizontal"
+                            android:layout_width="match_parent"
+                            android:layout_height="6dp"
+                            android:layout_marginTop="12dp"
+                            android:max="100"/>
+
+                        <TextView
+                            android:id="@+id/tvLiveEta"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="8dp"
+                            android:textSize="12.5sp"
+                            android:textColor="@color/text_muted"/>
+                    </LinearLayout>
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <!-- Share code, shown once sharing starts -->
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cardShareCode"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="12dp"
+                app:cardCornerRadius="12dp"
+                app:cardElevation="1dp"
+                android:visibility="gone">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="16dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="SHARE CODE"
+                        android:textSize="10sp"
+                        android:letterSpacing="0.08"
+                        android:textStyle="bold"
+                        android:textColor="@color/text_hint"/>
+
+                    <TextView
+                        android:id="@+id/tvShareCode"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="6dp"
+                        android:textSize="26sp"
+                        android:textStyle="bold"
+                        android:letterSpacing="0.18"
+                        android:textColor="@color/accent_blue"/>
+
+                    <TextView
+                        android:id="@+id/tvShareCodeHint"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="4dp"
+                        android:textSize="11.5sp"
+                        android:textColor="@color/text_muted"/>
+
+                    <com.google.android.material.button.MaterialButton
+                        android:id="@+id/btnShareAgain"
+                        style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="12dp"
+                        android:text="Send the link again"
+                        android:textSize="12.5sp"
+                        android:textAllCaps="false"
+                        android:letterSpacing="0"/>
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <!-- Leg list -->
+            <TextView
+                android:id="@+id/tvLegsHeader"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="18dp"
+                android:layout_marginBottom="8dp"
+                android:text="YOUR JOURNEY"
+                android:textSize="10sp"
+                android:letterSpacing="0.08"
+                android:textStyle="bold"
+                android:textColor="@color/text_hint"/>
+
+            <TextView
+                android:id="@+id/tvLegsHint"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="12dp"
+                android:background="@drawable/bg_notice"
+                android:paddingHorizontal="12dp"
+                android:paddingVertical="9dp"
+                android:textSize="11.5sp"
+                android:textColor="@color/text_muted"/>
+
+            <LinearLayout
+                android:id="@+id/containerLegs"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"/>
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+
+    <!-- Action bar pinned to the bottom so Start is always in reach -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@color/surface"
+        android:elevation="8dp"
+        android:paddingHorizontal="16dp"
+        android:paddingTop="12dp"
+        android:paddingBottom="14dp">
+
+        <TextView
+            android:id="@+id/tvPrivacyNote"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:textSize="11sp"
+            android:textColor="@color/text_hint"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnStartSharing"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Start live sharing"
+            android:textSize="14sp"
+            android:textAllCaps="false"
+            android:letterSpacing="0"
+            app:cornerRadius="10dp"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnStopSharing"
+            style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="Stop sharing"
+            android:textSize="13.5sp"
+            android:textAllCaps="false"
+            android:letterSpacing="0"
+            android:textColor="@color/red"
+            app:strokeColor="@color/red"
+            app:cornerRadius="10dp"
+            android:visibility="gone"/>
+    </LinearLayout>
+</LinearLayout>

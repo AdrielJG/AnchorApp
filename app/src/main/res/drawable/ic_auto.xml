@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Auto-rickshaw — walk/auto/cab choice on routes and in navigation -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:fillColor="#B45309"
+        android:fillType="evenOdd"
+        android:pathData="M3,16V9.5C3,7.57 4.57,6 6.5,6H14.5L19,11.5H20C20.55,11.5 21,11.95 21,12.5V16H3ZM5,9.5V11.5H9V8H6.5C5.67,8 5,8.67 5,9.5ZM11,8V11.5H16.4L13.6,8H11Z"/>
+    <path
+        android:fillColor="#B45309"
+        android:pathData="M6.5,15.5m-2.5,0a2.5,2.5 0,1 1,5 0a2.5,2.5 0,1 1,-5 0"/>
+    <path
+        android:fillColor="#B45309"
+        android:pathData="M17.5,15.5m-2.5,0a2.5,2.5 0,1 1,5 0a2.5,2.5 0,1 1,-5 0"/>
+</vector>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Dotted rail between the origin and destination markers on the Route Options
+  journey card. Drawn as stacked dots rather than a dashed stroke so it keeps
+  its spacing at any height.
+-->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <size android:width="3dp" android:height="3dp"/>
+            <solid android:color="#C7C4BC"/>
+            <corners android:radius="2dp"/>
+        </shape>
+    </item>
+</layer-list>

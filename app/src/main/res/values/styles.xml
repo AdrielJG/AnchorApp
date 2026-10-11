@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  MERGE this into your existing res/values/styles.xml (create the file if
+  you don't have one). This is what activity_routes_result.xml's toolbar
+  points to via app:titleTextAppearance.
+-->
+<resources>
+
+    <style name="RouteOptionsTitle" parent="TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+</resources>

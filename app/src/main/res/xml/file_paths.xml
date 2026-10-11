@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!--
+      Route cards are rendered to PNG and dropped in cacheDir/shared_routes/.
+      FileProvider hands WhatsApp / Gmail / Drive a content:// URI for them,
+      which is the only way to attach a file to an ACTION_SEND on API 24+.
+    -->
+    <cache-path name="shared_routes" path="shared_routes/" />
+</paths>

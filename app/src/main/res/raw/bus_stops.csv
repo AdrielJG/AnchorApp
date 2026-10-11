@@ -1,0 +1,3897 @@
+stop_id,name,lat,lon
+1000001,Afghan Church,18.907188,72.816978
+1000002,Ins Ashwini Hospital,18.901522,72.814677
+1000003,Ballard Pier,18.933911,72.842237
+1000004,Bhuleshwar,18.952134,72.829634
+1000005,Carnac Bunder,18.949964,72.840953
+1000006,Central Railway Goods,18.960617,72.843567
+1000007,Chakala Market,18.950222,72.834506
+1000008,Chhatrapati Shivaji Maharaj Terminus(Csmt),18.940646,72.83477
+1000009,Colaba Bus Station,18.912116,72.821986
+1000010,Electric House; Colaba Depot,18.921084,72.830617
+1000011,Holy Name School (Colaba),18.923081,72.831603
+1000012,Colaba Bus Station; Post Office,18.91113,72.820933
+1000013,Dhobi Ghat (Navy Nagar),18.906932,72.812916
+1000014,Dongri,18.95735,72.834055
+1000015,Dr. Shyamaprasad Mukherjee Chowk(Museum),18.92627,72.831553
+1000016,Dr. Shyamaprasad Mukherjee Chowk(Museum),18.924066,72.832048
+1000017,Ferry Wharf,18.957034,72.849428
+1000018,G.T.Hospital,18.946082,72.831718
+1000019,Gate Way Of India,18.923471,72.833729
+1000020,Chhatrapati Shivaji Maharaj Terminus (Gpo),18.938533,72.836414
+1000021,Hutatma Chowk,18.931275,72.83135
+1000022,Johar Chowk (Bhendi Bazaar),18.959751,72.831632
+1000023,Kalbadevi,18.946929,72.828898
+1000024,Khadi Bhandar,18.937682,72.834364
+1000025,Khadi Bhandar,18.93703,72.831564
+1000026,Lion S Gate,18.926796,72.833926
+1000027,Mahatma Phule Market (Crawford Market),18.945479,72.834035
+1000028,Mahatma Phule Market (Crawford Market),18.948207,72.834555
+1000029,Railway Crossing (Mandvi),18.95911,72.846074
+1000030,Mallet Bunder; Railway Crossing,18.958929,72.846065
+1000031,Mandvi Post Office,18.956129,72.832631
+1000032,Mandvi Post Office; Minara Masjid,18.955723,72.832879
+1000033,New Custom House,18.934063,72.839655
+1000034,Old Custom House,18.929769,72.834854
+1000035,Pilot Bunder,18.904648,72.815803
+1000036,Princess Dock,18.955286,72.84208
+1000037,Reserve Bank Of India (Fort),18.932624,72.836172
+1000038,Sandhurst Road Station,18.961265,72.838799
+1000039,Sasoon Dock; Colaba Fire Station,18.915913,72.826255
+1000040,Horniman Circle,18.93153,72.834131
+1000041,Strand Cinema,18.917215,72.82745
+1000042,Strand Cinema,18.919312,72.829413
+1000043,Swadeshi Market,18.949658,72.82882
+1000044,Swami Dayanand Saraswati Chowk (Fort),18.937079,72.836956
+1000045,Mallet Bunder,18.957982,72.84729
+1000046,Vasudeo Balwant Phadke Chowk (Dhobi Talao),18.944997,72.830371
+1000047,Swami Dayanand Saraswati Chowk (Fort),18.934351,72.838211
+1000048,Vijay Vallabh Chowk (Pydhonie),18.954629,72.832215
+1000049,Wadi Bunder,18.956533,72.842553
+1000050,Wood House (Colaba),18.915279,72.824205
+1000051,Zakeria Masjid,18.953419,72.833583
+1000052,R.C.Church (Colaba),18.900067,72.813805
+1000053,M.T.Park,18.907473,72.811738
+1000054,Ganeshmurti Nagar Police Chowky,18.91013,72.813217
+1000055,Geeta Nagar (Colaba),18.913885,72.808543
+1000056,Navy Nagar (Colaba),18.907479,72.808663
+1000057,Sasoon Dock,18.914765,72.824737
+1000058,Chinch Bunder,18.958933,72.838402
+1000059,Hutatma Chowk,18.933587,72.830199
+1000060,Anjeerwadi,18.973236,72.840301
+1000061,Azad Nagar (Wadala),19.013709,72.855459
+1000062,Best Colony (Bhoiwada),19.005393,72.848009
+1000063,Bharatmata Cinema; Mahadeo Palav Marg,18.995231,72.83528
+1000064,Bharatmata Cinema,18.996406,72.836846
+1000065,Bhoiwada; Mane Master Chowk,19.005664,72.846413
+1000066,Busa Udhyog Bhavan,18.999713,72.850767
+1000067,Byculla Station (E) Police Station,18.973521,72.834441
+1000068,Byculla Station (E),18.976158,72.83348
+1000069,Byculla Station (East); Gloria Church,18.97559,72.834668
+1000070,Chitra Cinema,19.013866,72.844755
+1000071,Dadar Fire Brigade,19.014218,72.845267
+1000072,Khodadad Circle (Dadar Tt),19.019433,72.848826
+1000073,Khodadad Circle (Dadar Tt),19.016749,72.846823
+1000074,Khodadad Circle (Dadar Tt),19.016768,72.849587
+1000075,Darukhana,18.972037,72.84522
+1000076,Dnyaneshwar Nagar,19.005406,72.854068
+1000077,Azad Flour Mill,18.985369,72.841052
+1000078,Five Gardens,19.019753,72.854515
+1000079,Gadi Adda,18.9948,72.853914
+1000080,Ganesh Talkies (Lalbaug),18.989656,72.834572
+1000081,Ghodapdev,18.979679,72.843477
+1000082,Ghodapdev,18.982073,72.842839
+1000083,Haffkine Institute,19.001353,72.844592
+1000084,Hakoba,18.988304,72.838637
+1000085,Hindmata Cinema (Parel),19.009943,72.842098
+1000086,Hindu Cemetary(Reay Road),18.977549,72.846964
+1000087,Jackeria Bunder,18.990342,72.847981
+1000088,Jaihind Cinema,18.984652,72.835269
+1000089,Jijamata Udyan (Byculla),18.981119,72.834616
+1000090,Robert Gomes Chowk (Byculla-E),18.980686,72.836297
+1000091,K.E.M.Hospital,19.00154,72.840746
+1000092,K.E.M Hospital; Nurses Quarters,19.000837,72.843101
+1000093,Shrawan Yashwante Chowk (Kala Chowky),18.987113,72.841668
+1000094,Kala Chowky Police Station,18.98808,72.842047
+1000095,Saibaba Road (Lalbaug),18.994693,72.841263
+1000096,Mint Colony,18.994424,72.844322
+1000097,Parsiwada (Chakala),18.99295,72.842822
+1000098,Ambewadi (Kalchowky),18.990447,72.84138
+1000099,Best Power House (Kussara),18.970104,72.845507
+1000100,Kidwai Nagar,19.008767,72.854209
+1000101,Lal Bahadur Shastri College,18.980619,72.858918
+1000102,Sant Jagnade Chowk (Lalbaug),18.993145,72.836364
+1000103,Madkebuwa Chowk (Parel),19.004883,72.840382
+1000104,Madhav Nagar (Wadala-W),19.011766,72.854549
+1000105,Maharana Pratap Chowk; Mazgaon Post Office,18.971384,72.840416
+1000106,Mazgaon Post Office,18.970996,72.840521
+1000107,Mazgaon Telephone Exchange,18.971753,72.838156
+1000108,Mustafa Bazar; Savlya Tandel Chowk,18.975865,72.840603
+1000109,Naigaon Police Colony,19.007489,72.847171
+1000110,Phoenix Chemicals (Byculla-E),18.985268,72.837414
+1000111,Madkebuwa Chowk (Parel),19.001864,72.838314
+1000112,Parel Village; St.Gora Kumbhar Chowk,19.000758,72.845704
+1000113,Parel Workshop,19.000771,72.837935
+1000114,Reay Road Station,18.977069,72.844058
+1000115,Reay Road Bridge,18.977493,72.84383
+1000116,Ruia College (Matunga-E),19.021873,72.850638
+1000117,Masina Hospital; Rustom Baug,18.975899,72.837402
+1000118,Shantaram Pujare Chowk (Kala Chowky),18.990028,72.83591
+1000119,Shantaram Pujare Chowk (Kala Chowky),18.987525,72.83558
+1000120,Sahakar Nagar (Wadala-W),19.012063,72.851243
+1000121,Sewree Court,18.996407,72.852963
+1000122,Sewree Naka,18.99786,72.849923
+1000123,Sewree Phatak,18.99291,72.850809
+1000124,Sewree Railway Phatak,18.992684,72.85079
+1000125,Sewree Police Station; Darukhana,18.97962,72.849052
+1000126,Sewree Station (W),18.998522,72.853379
+1000127,Sharda Cinema,19.014255,72.84616
+1000128,Shindewadi (Dadar-E),19.011299,72.843142
+1000129,Dr.Shirodkar High School,18.999507,72.839835
+1000130,Shivaji Nagar (Sewree),19.001277,72.853919
+1000131,Shivaji Nagar (Parel),19.001277,72.853653
+1000132,Spring Mill,19.010073,72.848119
+1000133,Swan Mills,18.994761,72.848776
+1000134,T.B.Hospital (Kidwai Nagar),19.005007,72.851571
+1000135,Albert Road; Tanaji Malusare Chowk,18.984566,72.842344
+1000136,Tank Bunder,18.988887,72.846101
+1000137,Tata Hospital (Bhoiwada),19.004098,72.842605
+1000138,Vitthal Mandir; Wadala Market,19.016454,72.852484
+1000139,Wadala Bus Depot,19.01481,72.85259
+1000140,Wadala Station; P&T Quarters,19.016141,72.857642
+1000141,Wadala Station (W),19.016304,72.858212
+1000142,Wadia Maternity Hospital,19.002879,72.842654
+1000143,Dadar Station (E),19.017488,72.844182
+1000144,Dadasaheb Sarfare Chowk,19.012748,72.848859
+1000145,Indira Nagar (Sewree),18.992614,72.854732
+1000146,Sewree Store,18.987583,72.856862
+1000147,Coal Bunder,18.98332,72.858384
+1000148,Tata Oil Mill; Hindustan Lever Limited,18.980907,72.857379
+1000149,Hindustan Petroleum (Reay Road),18.98125,72.85585
+1000150,Canteen Stores Department,18.9817,72.853656
+1000151,Canteen Stores,18.981619,72.853685
+1000152,Ordnance Depot; Reay Road (E),18.981356,72.852355
+1000153,I.C.I. (Sewree),18.980994,72.851624
+1000154,Jijamata Municipal School(Byculla-E),18.980283,72.840182
+1000155,New Hind Mill Mhada Colony,18.983779,72.841015
+1000156,Mahatma Gandhi Hospital (Parel),18.998333,72.84089
+1000157,Wadala Station (W),19.018545,72.860196
+1000158,Prabodhankar Thackeray Udyan Bus Station (Sewree),18.998196,72.852591
+1000159,Rashtriya Mill Mazdoor Sangh,19.003721,72.846405
+1000160,Parel Village / Sant Gora Kumbhar Chowk,18.999231,72.846237
+1000161,Mint Colony Mono Rail Stn,18.994135,72.844702
+1000162,Parsiwada,18.992968,72.842756
+1000163,Ambewadi,18.990483,72.841361
+1000164,Mumbai Veterinary College,18.997596,72.845848
+1000165,Parel Village / Sant Gora Kumbhr Chowk,18.99933,72.846284
+1000166,Mumbai Veterinary College,19.005211,72.845701
+1000167,Mhada Colony (Bhoiwada) Bldg.No.5E,19.008449,72.851312
+1000168,Bhoiwada/Mane Master Chk,19.00541,72.844779
+1000169,A.H.Ansari Chowk (Nagpada),18.970809,72.831623
+1000170,A.H.Ansari Chowk (Nagpada),18.973998,72.83238
+1000171,Nagpada Police Hospital,18.965885,72.831579
+1000172,Agripada Police Station,18.977416,72.824031
+1000173,Air Condition Market,18.973109,72.814472
+1000174,Alankar Cinema,18.958147,72.825138
+1000175,Maharashtra College; Alexandra Cinema,18.967292,72.827353
+1000176,Anjuman College,18.961779,72.82562
+1000177,August Kranti Maidan,18.963005,72.810568
+1000178,Bhatia Hospital,18.965311,72.813026
+1000179,Breach Candy Hospital,18.972243,72.804976
+1000180,Byculla Station (W),18.97698,72.832169
+1000181,Christ Church School,18.969751,72.83
+1000182,Cumbala Hill Post Office,18.969843,72.809366
+1000183,Darya Mahal,18.952966,72.797436
+1000184,Dockyard Road Railway Station,18.968116,72.844065
+1000185,Dr.Bhadkamkar Road,18.96031,72.817227
+1000186,Novelty Cinema; Dr.Bhadkamkar Road,18.961919,72.818697
+1000187,Dr.M.Iqbal Chowk (J J Hospital),18.962101,72.832769
+1000188,Garlic Company,18.979163,72.828255
+1000189,Godrej Chowk (Kemps Corner),18.964032,72.807045
+1000190,Gol Mandir (Bhuleshwar),18.958087,72.828832
+1000191,Alankar Cinema,18.958032,72.827569
+1000192,Nana Chowk,18.961925,72.8147
+1000193,Grant Road Station (W),18.96291,72.815496
+1000194,Prarthana Samaj; Harkishandas Hospital,18.958965,72.819849
+1000195,Hasrat Mohani Chowk,18.966326,72.828768
+1000196,J.Mehta Marg (Napean Sea Road),18.951086,72.796223
+1000197,Jaslok Hospital,18.973078,72.809325
+1000198,Kasturba Gandhi Chowk (C.P.Tank),18.954381,72.825863
+1000199,Khambata Lane,18.960523,72.824149
+1000200,Khetwadi (Girgaon),18.958164,72.823249
+1000201,Lala Lajpatrai Collage,18.982098,72.814673
+1000202,Lala Lajpatrai College,18.982053,72.814407
+1000203,Maharana Pratap Chowk (Mazgaon),18.968348,72.840466
+1000204,Mafatlal Park,18.974665,72.80619
+1000205,Mahalaxmi Temple,18.976446,72.808287
+1000206,Petrol Pump; Maheshwari Mansion (Napean Sea Road),18.961146,72.801407
+1000207,Mastan Talao,18.964981,72.830536
+1000208,Mazgaon Court,18.968754,72.838452
+1000209,Mukesh Chowk (Kemps Corner),18.964418,72.804063
+1000210,Mumbai Central Depot,18.96831,72.823582
+1000211,Mumbai Central Station,18.968804,72.820429
+1000212,Mumbai Central Station; Reserve Bank,18.969898,72.82115
+1000213,Nagpada Police Station,18.966652,72.829765
+1000214,Nair Hospital,18.973901,72.822713
+1000215,Nalanda (Cumballa Hill),18.967195,72.807925
+1000216,Nana Chowk,18.96214,72.812316
+1000217,Nana Chowk; Shastri Hall,18.963469,72.813521
+1000218,Navjeevan Society (Tardeo),18.965154,72.819739
+1000219,A.H.Ansari Chowk; New Nagpada,18.968687,72.833182
+1000220,A.H.Ansari Chowk; New Nagpada,18.966401,72.832624
+1000221,Noorbaug,18.9626,72.836966
+1000222,Cafe Paradise,18.961837,72.829968
+1000223,Parsi Dharmashala; Om Chambers,18.964582,72.805487
+1000224,Petit Hall,18.95444,72.798223
+1000225,Play House,18.962166,72.822619
+1000226,Prarthana Samaj,18.957087,72.820325
+1000227,Priyadarshini Park (Napean Sea Road),18.956265,72.799218
+1000228,Pt.Paluskar Chowk (Opera House)- Marwadi Vidyalaya,18.957374,72.817381
+1000229,Railway Hotel; Charni Road Junction,18.96145,72.819999
+1000230,Sant Gadge Maharaj Chowk (Saatrasta),18.98087,72.82757
+1000231,Shuklaji Street,18.966124,72.824391
+1000232,Sikka Nagar; Ganpati Mandir,18.956339,72.822899
+1000233,Simplex Mill,18.980087,72.831151
+1000234,Sonawala Building,18.967293,72.816813
+1000235,St.Mary S High School (Mazgaon),18.96989,72.83508
+1000236,Sundar Galli (Byculla-W),18.976463,72.830346
+1000237,Tardeo Bus Station; Rusi Mehta Chowk,18.963881,72.82087
+1000238,Mukesh Chowk (Umar Park; Tata Garden),18.966216,72.803567
+1000239,Two Tanks,18.961763,72.82825
+1000240,Umarkhadi,18.962509,72.835618
+1000241,Vasantrao Naik Chowk (Tardeo),18.968764,72.815368
+1000242,Vasantrao Naik Chowk,18.97039,72.815015
+1000243,Gulal Wadi; Yadnik Chowk,18.956424,72.828188
+1000244,Parsi General Hospital,18.968203,72.803432
+1000245,Saidham,18.957978,72.816925
+1000246,Saidham (Grant Road),18.957825,72.816906
+1000247,Vatsalabai Desai Chowk (Haji Ali),18.978148,72.812036
+1000248,Government Colony; Indian Medical Association Chowk,18.978838,72.81573
+1000249,Grant Road Bridge,18.961835,72.815687
+1000250,Minerva Cinema,18.963653,72.817784
+1000251,Grant Road Station (E),18.963164,72.816522
+1000252,Jambli Mohalla,18.955982,72.829622
+1000253,Minerva Talkies,18.964584,72.818562
+1000254,Dongri Jail,18.959104,72.836513
+1000255,Tadwadi (Mazgaon),18.966152,72.839214
+1000256,Ferry Wharf Ropax Terminal,18.957476,72.847319
+1000257,Domestic Cruise Terminal,18.954991,72.846742
+1000258,Wadala Fly Over Bridge,19.018798,72.860671
+1000259,South-North Marg No.9 (Vile Parle-W),19.107107,72.831242
+1000260,Abhishek Apartments,19.121377,72.826108
+1000261,Andheri Fire Brigade,19.11192,72.841351
+1000262,Bharatiya Arogya Nidhi Hospital,19.111613,72.828521
+1000263,Arya Samaj Mandir,19.079212,72.834504
+1000264,Vile Parle (W); Ashoka Hall,19.099334,72.839544
+1000265,Balkanji Bari School,19.084758,72.832837
+1000266,Dr.Cooper Hospital,19.107662,72.836782
+1000267,Gagandeep,19.113588,72.836873
+1000268,Golden Tobacco (Vile Parle-W),19.104845,72.839578
+1000269,Hare Ram Hare Krishna (Iskcon),19.113003,72.826086
+1000270,Erla,19.109263,72.840687
+1000271,Erla,19.106643,72.839919
+1000272,Erla Masjid,19.111719,72.83734
+1000273,J.V.P.D.Bus Station,19.116033,72.831387
+1000274,Juhu Koliwada,19.085992,72.828104
+1000275,Juhu Bus Station,19.106661,72.826918
+1000276,Juhu Beach,19.096471,72.827839
+1000277,Juhu Hotel,19.103445,72.826873
+1000278,Juhu Prabhat (Andheri-E),19.118326,72.828819
+1000279,Juhu Shopping Centre (Jvpd),19.115466,72.834971
+1000280,Juhu Tara Road,19.090066,72.827597
+1000281,Vesava Link Road,19.123011,72.824643
+1000282,J.V.P.D.Bus Station,19.116157,72.828736
+1000283,Sahakari Bhandar (Juhu),19.103603,72.832347
+1000284,Santacruz Station (W) Road; Kashibai Hospital,19.084137,72.837351
+1000285,Khira Nagar (Santacruz-W),19.086948,72.8381
+1000286,Parasmani; Madhukunj Society,19.107982,72.829949
+1000287,Manekji Cooper School,19.088295,72.827199
+1000288,Mano-Bina Apartments,19.11622,72.840996
+1000289,Mora Village,19.117832,72.821435
+1000290,Nanavati Hospital,19.096317,72.839518
+1000291,New D.N.Nagar,19.118471,72.829808
+1000292,New India Quarters (Andheri-W),19.11406,72.839477
+1000293,Parsi Colony (Juhu),19.09976,72.827551
+1000294,Ramkrishna Mission (Khar-W),19.074686,72.834241
+1000295,Vile Parle (W),19.101637,72.838754
+1000296,Royal Hotel(Juhu),19.092135,72.828175
+1000297,J.V.P.D; Saurashtra Society,19.114812,72.83002
+1000298,St.Teresa Convent School (Santacruz-W),19.077181,72.83766
+1000299,Santacruz Depot,19.089702,72.836264
+1000300,Santacruz Depot,19.091248,72.838381
+1000301,Santacruz Police Station,19.083277,72.834586
+1000302,Santacruz Station (W),19.082071,72.841362
+1000303,Santacruz Station (W) Road,19.083198,72.838026
+1000304,Santacruz Station (W) Road,19.080226,72.837829
+1000305,Shastri Nagar (Juhu),19.08699,72.834574
+1000306,Shastri Nagar (Juhu),19.089917,72.834629
+1000307,Shoppers Stop (Andheri-W),19.115435,72.843087
+1000308,S.N.D.T. (Juhu),19.085325,72.83066
+1000309,Sompuri Market,19.081003,72.838665
+1000310,State Bank (Vile Parle-W),19.110015,72.829947
+1000311,Sukhmani Society,19.113231,72.829859
+1000312,Sumati School,19.113471,72.824356
+1000313,Utpal Sanghavi School,19.112625,72.828235
+1000314,Vaikunth Dham,19.115277,72.823176
+1000315,Chandan Cinema,19.114349,72.826294
+1000316,Mithibai College,19.103307,72.836833
+1000317,Bharat Nagar (Vesave),19.125476,72.822522
+1000318,New India Quarters (Andheri-W),19.11601,72.837936
+1000319,D.N.Nagar; Barfiwala Vidyalaya,19.124136,72.830478
+1000320,Esic Nagar,19.121443,72.829824
+1000321,Natasha Tower,19.126451,72.821257
+1000322,Azad Nagar (Kalina),19.078653,72.866688
+1000323,Air India Quarters,19.081401,72.870135
+1000324,Air India Quarters,19.079801,72.86834
+1000325,Amar Brass & Steel Company,19.07232,72.866045
+1000326,Anjanabai Magar Chowk; Swatantra Sainik Surve Chowk,19.071466,72.875604
+1000327,Bail Bazar,19.086131,72.881032
+1000328,Buddha Nagar (Kurla-W),19.073456,72.880326
+1000329,Chirag Nagar,19.08658,72.898117
+1000330,Kurla (W) Level Crossing,19.058274,72.871203
+1000331,Datta Mandir (Vakola),19.083,72.85323
+1000332,Diamond Park (Vakola),19.083469,72.851918
+1000333,St.Joseph Technical School,19.08093,72.888712
+1000334,Dr.Ambedkar Bhavan (Vidya Nagari),19.072169,72.854653
+1000335,D Souza Nagar,19.0958,72.887689
+1000336,Gaondevi Junction (Vakola),19.082404,72.853563
+1000337,Gol Building (Kurla-W),19.067446,72.874998
+1000338,Guru Nanak Nagar (Ghatkopar-W),19.085097,72.892882
+1000339,Health Centre (Vidyanagari),19.072886,72.860249
+1000340,Holy Cross School (Kurla-W),19.08242,72.885747
+1000341,Indira Nagar (Kamani); Khalai Village,19.08208,72.894242
+1000342,Jarimari (Sakinaka),19.092952,72.882844
+1000343,Kalina,19.077232,72.862118
+1000344,Kalina Village,19.077812,72.865805
+1000345,Kalpana Cinema,19.077285,72.878528
+1000346,Kamani,19.084669,72.885489
+1000347,Kapilvastu Buddha Vihar (Kalina),19.074955,72.860656
+1000348,Krishna Nagar (Saki Naka),19.099929,72.887953
+1000349,Kunchi Kurve Nagar,19.077245,72.869938
+1000350,Kurla Station (W),19.067393,72.879093
+1000351,Kurla Depot,19.074863,72.876581
+1000352,Kurla Depot,19.076951,72.878138
+1000353,Rajmata Ahilyabai Holkar Udyan; Kurla Lion S Park,19.060804,72.872702
+1000354,Laxmanrao Yadav Market (Kurla Market),19.070375,72.879377
+1000355,Sant Rohidas Sabhagurha; Kurla Post Office,19.064464,72.874439
+1000356,Mahatma Phule Bhavan (Vidya Nagari),19.069198,72.856954
+1000357,Vakola Pipe Line,19.080587,72.852072
+1000358,Metro Playing Cards,19.073785,72.869028
+1000359,A.D.Modi Institute (Vidya Nagari),19.069371,72.859301
+1000360,Milan Subway,19.090439,72.844008
+1000361,Military Outpost (Kalina),19.080582,72.859085
+1000362,Mohammad Estate,19.073632,72.871242
+1000363,Mukund Company; P.W.D.Office (Kamani),19.08468,72.888929
+1000364,Municipal Dispensary (Vakola),19.082429,72.850418
+1000365,Nafa,19.071126,72.863281
+1000366,Narayan Nagar (Ghatkopar-E),19.085947,72.895286
+1000367,Navapada (Vidyavihar-W),19.082611,72.889985
+1000368,Navsena Gate; Kirol Village,19.082451,72.895477
+1000369,New Agripada (Santacruz-E),19.085444,72.846007
+1000370,New Agripada (Santacruz-E),19.08724,72.84401
+1000371,New Air India Quarters,19.080733,72.872274
+1000372,Old Agra Road (Kurla-W),19.079789,72.880427
+1000373,Vile Parle Subway,19.091876,72.846325
+1000374,Phatak Technical School,19.080902,72.850219
+1000375,Military Camp (Kalina),19.081882,72.858001
+1000376,Vidya Vihar S.T.Workshop,19.080868,72.890822
+1000377,Safed Pool (Saki Naka),19.096521,72.883707
+1000378,Santacruz Station (E),19.081403,72.842399
+1000379,Shanti Nagar (Kalina),19.074253,72.84972
+1000380,Shanti Nagar,19.079163,72.875686
+1000381,Sheetal Cinema (Kurla-W),19.081957,72.881899
+1000382,Shethiya Nagar,19.097995,72.887935
+1000383,St.Mary School (Kalina),19.078274,72.868531
+1000384,State Bank (Kamani),19.08409,72.883618
+1000385,Sundar Baug (Kamani),19.086684,72.887133
+1000386,Uma Maheshwari Mandir,19.093604,72.886407
+1000387,Vakola Police Station,19.08026,72.849545
+1000388,Vakola Masjid,19.081737,72.855559
+1000389,Vakola Police Station (Hanuman Mandir),19.079175,72.847246
+1000390,Vakola Police Station,19.081849,72.846427
+1000391,Vidya Nagari (Kalina),19.072516,72.861266
+1000392,Vidya Nagari (Kalina) Nehru Library,19.071132,72.85892
+1000393,Vidya Nagari (Canteen),19.07097,72.859414
+1000394,Vidya Nagari (Kalina) North Gate,19.074047,72.852058
+1000395,Vidya Vihar Bus Station (W),19.080418,72.896523
+1000396,Vijay Printing Press,19.10149,72.88457
+1000397,Vijay Printing Press (Saki Naka),19.101879,72.884798
+1000398,Acharya Vinoba Bhave Nagar (Kurla-W),19.073718,72.881513
+1000399,Nehru Nagar  (Kurla-E); Tilak Nagar Junction,19.068337,72.888138
+1000400,Acharya Atre Chowk (Worli Naka),18.997268,72.81672
+1000401,Acharya Atre Chowk (Worli Naka),18.999672,72.817896
+1000402,Adarsh Nagar (Worli Village),19.016434,72.822004
+1000403,Agar Bazar,19.018638,72.83397
+1000404,Babasaheb Worlikar Chowk (Century Bazaar),19.012778,72.825873
+1000405,Babasaheb Worlikar Chowk (Century Bazaar),19.014032,72.823668
+1000406,Bawla Masjid,18.994786,72.831453
+1000407,Bombay Dyeing,19.006285,72.82963
+1000408,S Bridge; Mandlik Chowk,18.981036,72.831986
+1000409,Catering College; Suryavanshi Hall,19.024059,72.835163
+1000410,Century Mill,19.006246,72.826429
+1000411,Citylight Cinema,19.030053,72.84178
+1000412,Comrade P.K.Kurne Chowk (Worli ),19.00627,72.821974
+1000413,Kabutarkhana (Dadar-W),19.018443,72.839841
+1000414,Dadar Stn (W),19.018209,72.841417
+1000415,Dadar Police Station,19.014176,72.835322
+1000416,Deepak Cinema,19.00587,72.830732
+1000417,Dhairyavan Chowk,19.031345,72.842757
+1000418,Dhanmill Naka,19.008264,72.830787
+1000419,Doordarshan (Worli),19.005933,72.818156
+1000420,Dawn Mill,18.998153,72.828515
+1000421,Prabhadevi Station (W),19.007237,72.835337
+1000422,Famous Studio,18.985918,72.824014
+1000423,Flora Hotel; Watumal Engg.College,19.003455,72.814483
+1000424,Comrade Gulabrao Ganacharya Chowk,18.98595,72.831868
+1000425,Gammon House,19.014784,72.826403
+1000426,Gandhi Maidan (Worli),19.00167,72.819053
+1000427,Dainik Shivner,18.996116,72.822705
+1000428,Dainik Shivner,18.993189,72.822527
+1000429,Gopal Nagar (Worli),19.006235,72.823352
+1000430,National (Hinduja) Hospital,19.032129,72.839555
+1000431,Jakhadevi; Dadar Police Station,19.014771,72.834391
+1000432,Jijamata Nagar (Worli),18.993269,72.820105
+1000433,Kasturba Gandhi Hospital (Saatrasta),18.983048,72.828413
+1000434,Samrat Hotel (Matunga-E),19.030886,72.844876
+1000435,Khedgalli; Siddhivinayak Mandir (Prabhadevi),19.014689,72.83272
+1000436,Kirti College; India United Mill,19.021691,72.833844
+1000437,Lower Parel Workshop,19.002275,72.831019
+1000438,Municipal Garage (Worli),18.995499,72.819058
+1000439,N.M.Joshi Marg Police Station,18.991,72.831636
+1000440,Nehru Planetarium (Worli),18.989054,72.813973
+1000441,Nehru Planetarium (Worli),18.984754,72.814765
+1000442,Nehru Planetarium; N.S.C.I (Worli),18.986868,72.814298
+1000443,Narayan Pujari Nagar (Worli),18.994763,72.813949
+1000444,National Association For Blind (Nab),19.011018,72.816234
+1000445,Comrade P.K.Kurne Chowk (Worli ),19.004273,72.82058
+1000446,Passport Office (Worli),19.011338,72.821068
+1000447,Gopikrishna Piramal Hospital,18.998332,72.825324
+1000448,Poddar Hospital (Worli); Siddharth Nagar,19.003185,72.81587
+1000449,Poddar Hospital (Worli); Siddharth Nagar,19.000845,72.816109
+1000450,Police Camp (Worli),19.008252,72.814697
+1000451,Police Colony (Worli),19.004387,72.8168
+1000452,Prabhadevi,19.013729,72.829548
+1000453,Prabhadevi,19.015969,72.828359
+1000454,Prabodhankar Thackeray Chowk (Dadar-W),19.019805,72.836487
+1000455,Prabodhankar Thackeray Chowk (Dadar-W),19.017699,72.835434
+1000456,Ranade Road (Dadar-W),19.021567,72.837578
+1000457,Dr.Ravindra Kulkarni Chowk; Sasmira (Worli),19.010009,72.820224
+1000458,Mahalaxmi Race Course; Zenith House,18.979917,72.820819
+1000459,Ambika Mill Bus Station; H.U.Rakhangi Chowk,18.988013,72.822816
+1000460,Ram Ganesh Gadkari Chowk (Dadar-W),19.025824,72.84089
+1000461,Ram Ganesh Gadkari Chowk,19.024549,72.837879
+1000462,Prabhadevi; Ravindra Natya Mandir,19.014859,72.830164
+1000463,Parel S.T.Depot; Sant Rohidas Chowk,19.010731,72.832248
+1000464,Jarimari Mata Mandir; S.T.Office (Worli),18.995027,72.81564
+1000465,Parel S.T.Depot; Sant Rohidas Chowk,19.00832,72.832734
+1000466,Sasmira Marg; Municipal Colony,19.011834,72.820232
+1000467,Satyam Building,19.0056,72.832831
+1000468,Sayani Marg,19.010613,72.831516
+1000469,Shardashram Vidyamandir,19.016309,72.837676
+1000470,Veer Hutatma Bhai Kotwal Udyan (Plaza),19.023404,72.841718
+1000471,Mahapour Niwas; Shivaji Park,19.028831,72.837667
+1000472,Shivraj Bhavan,19.006315,72.834635
+1000473,Siddhivinayak Mandir (Prabhadevi),19.017886,72.832071
+1000474,Shree Ram Mill,18.998491,72.821344
+1000475,Standard Mill,19.012634,72.826652
+1000476,Vanita Samaj; Chaityabhoomi,19.027113,72.836776
+1000477,Veer Hutatma Bhai Kotwal Udyan (Plaza),19.020974,72.842555
+1000478,Venus Building; Watumal Engg.College,19.00207,72.811948
+1000479,Worli Dairy,18.997653,72.811829
+1000480,Worli Depot,19.013921,72.819888
+1000481,Worli Sea Face (N),19.016205,72.818376
+1000482,Worli Sea Face (N),19.013918,72.817019
+1000483,Worli Sea Face (S),19.005424,72.813769
+1000484,Worli Village,19.016785,72.820085
+1000485,Mahalaxmi Station,18.982124,72.824587
+1000486,Hanuman Mandir (Dadar-W); D Silva School,19.020106,72.841036
+1000487,Worli Sea Face Post Office,19.016504,72.81885
+1000488,Best Receiving Centre (Worli),18.998429,72.822513
+1000489,Ram Ganesh Gadkari Chowk (Dadar-W),19.024449,72.83787
+1000490,Poddar Hospital (Worli),19.003248,72.815927
+1000491,Police Camp,19.0112,72.817753
+1000492,Traffic Police H.Q (Worli),19.009329,72.816662
+1000493,Adhya Shankaracharya Udyan,19.008154,72.816008
+1000494,Saibaba Mandir (Worli),19.006319,72.815383
+1000495,Worli Post Office,19.005108,72.814956
+1000496,Durga Parmeshwari Mandir,19.219293,72.833571
+1000497,Ankur Palace,19.222737,72.849517
+1000498,Balbharati (Kandivali-W),19.200386,72.848761
+1000499,Rana & Sons,19.210417,72.826835
+1000500,Prabodhankar Thackeray Nagar Market (Charkop),19.215667,72.82859
+1000501,Charkop Naka,19.209502,72.822652
+1000502,Charkop Police Station,19.214487,72.820898
+1000503,Charkop Sector 9; Akshara Vidyalaya,19.219753,72.819514
+1000504,Charkop Village,19.208886,72.821017
+1000505,Chikoowadi,19.219514,72.839467
+1000506,Aditya Apartment; Chikoowadi,19.220129,72.840741
+1000507,Dahanukar Wadi,19.207236,72.837336
+1000508,Datta Mandir (Shimpavali),19.22352,72.844675
+1000509,Datta Mandir,19.209955,72.837733
+1000510,Charkop Ekdant Society,19.217983,72.820267
+1000511,Ekta Bhoomi Complex,19.212675,72.838587
+1000512,Ekta Nagar (Kandivali-W),19.213677,72.836941
+1000513,Ganesh Chowk,19.2154,72.834353
+1000514,Ganesh Mandir (Kandivali-W),19.215635,72.822152
+1000515,Ganesh Society (Kandivali-W),19.2193,72.830794
+1000516,Gokhale High School (Borivali -W),19.223623,72.850686
+1000517,Goverdhan Nagar; Borsapada,19.212301,72.846918
+1000518,Haridas Nagar,19.22166,72.847796
+1000519,Hindustan Naka; C.Charansingh Chowk,19.207402,72.830004
+1000520,Indian Education School (Kandivali-W),19.213586,72.824179
+1000521,Jay Ganga,19.212084,72.820852
+1000522,Jain Mandir (Kandivali-W),19.201949,72.849103
+1000523,Mahatma Gandhi Swimming Pool (Kandivali-W),19.205415,72.844279
+1000524,Kaala Hanuman Mandir,19.20483,72.846914
+1000525,Kamala Vihar Sports Complex (Poisar),19.212804,72.843371
+1000526,Kamraj Nagar (Kandivali-W),19.208625,72.834996
+1000527,Kandivali Industrial Estate; Ganesh Nagar,19.204176,72.828314
+1000528,Kandivali Station (W),19.205221,72.85125
+1000529,Kandivli Station (W),19.20626,72.851353
+1000530,Kandivali Station Road (W),19.205888,72.849984
+1000531,Kandivali Telephone Exchange,19.211283,72.851797
+1000532,Kandivali Village,19.205377,72.841788
+1000533,Ganesh Mandir; Kastur Park,19.223658,72.848689
+1000534,Kora Kendra,19.220109,72.852467
+1000535,Laljipada Police Chowky,19.203846,72.834334
+1000536,Bank Of Maharashtra (Kandivali-W),19.212596,72.82845
+1000537,Maharashtra Nagar (Kandivali-W); Yadav Nagar,19.207098,72.833903
+1000538,Mahavir Nagar (Kandivli-W),19.211953,72.839634
+1000539,Mahavir Nagar -Extension (Kandivli-W),19.215665,72.838813
+1000540,Mahavir Nagar (Kandivli-W),19.215122,72.83715
+1000541,Merchant Brothers,19.20757,72.824812
+1000542,Dena Bank (Kandivali-W),19.204244,72.848759
+1000543,Milap Talkies,19.196085,72.847452
+1000544,Padmaja Society,19.204581,72.826003
+1000545,More Mall,19.21479,72.839993
+1000546,Netaji Subhashchandra Bose Sports Complex,19.2123,72.845235
+1000547,New Link Road Junction (Kandivali-W),19.212583,72.836743
+1000548,Bhavishya Nidhi Bhavan (Charkop),19.215335,72.831035
+1000549,Prabodhankar Thackeray Nagar Bus Station (Charkop),19.219959,72.828787
+1000550,Charkop Sector 2,19.215538,72.824435
+1000551,Charkop Sector 5,19.215457,72.825852
+1000552,Charkop Sector 8,19.214942,72.813061
+1000553,Prabodhankar Thackeray Nagar Bus Station (Charkop),19.215451,72.829237
+1000554,Bhabrekar Nagar,19.205402,72.824281
+1000555,Bhabrekar Nagar No.1,19.205447,72.824034
+1000556,Punchasheel Apartments,19.213399,72.841383
+1000557,Dr.Ambedkar Hospital; Parekh Nagar,19.208436,72.850534
+1000558,Mahavir Nagar Extension (Kandivli-W); Parijat Society,19.214455,72.839537
+1000559,Poisar Depot,19.214498,72.850863
+1000560,Prapti Society,19.220716,72.839494
+1000561,Ram Mandir (Borivali -W),19.219059,72.847969
+1000562,Rashmi Rathi Society,19.215446,72.835865
+1000563,Renuka Nagar,19.211471,72.835659
+1000564,Sahyadri Nagar (Charkop),19.210347,72.829251
+1000565,Sai Chitra Society (Kandivali-W),19.216285,72.820963
+1000566,Sai Siddhi Society (Kandivali-W),19.215215,72.816142
+1000567,Saibaba Mandir (Kandivali-W),19.218061,72.828712
+1000568,Saibaba Mandir (Kandivali-W),19.21717,72.847362
+1000569,Saibaba Nagar (Borivali -W),19.217214,72.845041
+1000570,Satya Nagar,19.216471,72.841295
+1000571,Charkop Sector 6,19.216656,72.833953
+1000572,Shanti Nagar (Kandivali-W),19.206321,72.834693
+1000573,Shastri Nagar (Borivali -W),19.218067,72.851593
+1000574,Shimpavali Naka,19.223335,72.853349
+1000575,Shimpavali Village,19.222751,72.843925
+1000576,Shripal Nagar,19.218369,72.842625
+1000577,Hanuman Mandir (Kandivali-W),19.210478,72.824096
+1000578,Suvarna Hospital (Borivali -W),19.223845,72.845702
+1000579,Vaishali Bhavan (Kandivali-W),19.205068,72.838964
+1000580,Mhada Colony (Shimpavali),19.219792,72.836119
+1000581,Yashkripa Building,19.221368,72.841995
+1000582,Charkop Police Station,19.215252,72.816684
+1000583,Brimco,19.207587,72.822996
+1000584,Kamraj Nagar,19.207966,72.834711
+1000585,Mulji Nagar,19.208182,72.834435
+1000586,Dyaneshwar Vidyalaya,19.209925,72.832893
+1000587,Bunder Pakhadi Village,19.212932,72.831265
+1000588,Shimpavali Telephone Exchange,19.223228,72.840805
+1000589,Agarkar Chowk (Andheri-E),19.119332,72.847903
+1000590,Ambassador Hotel (Sahar),19.103221,72.875198
+1000591,Amrut Shakti; Calilio Building,19.107702,72.897169
+1000592,Amrut Shakti,19.107873,72.897102
+1000593,Asalpha Village,19.096083,72.895501
+1000594,Ashirwad Society,19.112661,72.896482
+1000595,Ashok Nagar (Marol Maroshi),19.118529,72.885284
+1000596,Ashok Vihar,19.117717,72.887185
+1000597,B Cross Road,19.114582,72.868198
+1000598,Bahar Cinema,19.108196,72.853765
+1000599,Bamandaya Pada,19.122938,72.886888
+1000600,Baman Pada (Chakala),19.104531,72.858833
+1000601,Baman Pada,19.104378,72.858548
+1000602,Bela Nivas,19.114534,72.86163
+1000603,Best Quarries (Chandivali),19.11175,72.900969
+1000604,Bhutta College,19.10813,72.848415
+1000605,Bahar Cinema,19.112217,72.854637
+1000606,Blossom Company,19.117082,72.880884
+1000607,Borosil Glass Factory,19.117399,72.883317
+1000608,C-Cross Road (Seepz ),19.122787,72.87208
+1000609,Chakala,19.11492,72.858427
+1000610,Chakala,19.115952,72.861316
+1000611,Chakala Cigarette Factory,19.106736,72.859687
+1000612,Marol Bhavan,19.112448,72.882749
+1000613,Chandivali Junction,19.111736,72.888262
+1000614,Chandivali Studio; Petrol Pump,19.114639,72.896016
+1000615,Chandivali Village,19.114125,72.899191
+1000616,Charat Singh Colony,19.111382,72.864303
+1000617,Chhatrapati Shivaji International Airport (Sahar),19.101152,72.874686
+1000618,Check Post No.2; Marol Police Camp,19.123848,72.879883
+1000619,Darpan Cinema; Sai Service,19.116979,72.85547
+1000620,Darpan Cinema; Sai Service,19.114584,72.854588
+1000621,Vile Parle Station (E); Dinanath Natyagruh,19.100747,72.844713
+1000622,Divine Child High School,19.113198,72.864235
+1000623,Domestic Airport Junction,19.097681,72.85361
+1000624,Domestic Airport Junction,19.093632,72.851693
+1000625,Dr.Datta Samant Chowk; Sakinaka,19.10524,72.885946
+1000626,Ekta Society,19.106609,72.875064
+1000627,Ganesh Pada,19.12151,72.885777
+1000628,Garware Chowk; Koldongri No.2,19.109325,72.852092
+1000629,Gautam Nagar (Midc-Marol),19.118603,72.870096
+1000630,Gujrat Society; Dayaldas Road,19.096984,72.851054
+1000631,Matruchaya (Guruprasad Society),19.103533,72.850356
+1000632,Shri Swami Samarth Mutt; Hanuman Road (Vile Parle-E),19.103696,72.851383
+1000633,Hanuman Road (Vile Parle -E),19.105306,72.854033
+1000634,Hanuman Society Building No.5 (Vile Parle-E),19.104916,72.852142
+1000635,Hindustan Dorr-Oliver Limited,19.112137,72.857507
+1000636,Hindustan Oil Mill,19.107004,72.891182
+1000637,Icici Bank  (Chandivli); Sinhagad College,19.113519,72.896596
+1000638,Indian Oil (Sahar),19.103201,72.871103
+1000639,I.R.B.Complex (Powai),19.113575,72.901339
+1000640,J.B.Nagar (Andheri-E),19.111927,72.868693
+1000641,Marol Village; Lokbharthi,19.113495,72.880116
+1000642,Jama Masjid (Powai),19.113332,72.90265
+1000643,Jambhulpada,19.094061,72.898894
+1000644,Jambhulpada; Shivsena Office,19.093726,72.898941
+1000645,Jungleshwar Mahadeo Mandir,19.100881,72.898587
+1000646,Jumbo Darshan (Andheri-E),19.114212,72.852469
+1000647,Kalyan Nagar,19.114835,72.887301
+1000648,Kamani Oil Industries (Chandivli),19.113282,72.890533
+1000649,Kherani Baug,19.103338,72.897636
+1000650,Kulkarni Wadi,19.098523,72.897799
+1000651,Lucky Hotel (Khairani Marg),19.105162,72.895316
+1000652,Mahant Road; Vile Parle (E),19.100282,72.852088
+1000653,Maharashtra Kata (Saki Naka),19.103046,72.888864
+1000654,Marol Bhavan,19.102477,72.888266
+1000655,Mahila Sangh (Vile Parle-E),19.107003,72.851922
+1000656,Marol Depot,19.117788,72.86447
+1000657,Marol Lions Club,19.109572,72.875243
+1000658,Marol Maroshi Bus Station,19.118066,72.880152
+1000659,Marol Pipeline,19.110989,72.87221
+1000660,Marol Village,19.112103,72.87891
+1000661,Marva Industrial Estate,19.111727,72.886599
+1000662,Marol Naka; Mata Ramabai Ambedkar Chowk,19.107966,72.880452
+1000663,Marol Naka; Mata Ramabai Ambedkar Chowk,19.108733,72.877515
+1000664,Mhada Colony (Chandivali),19.111234,72.896882
+1000665,E.S.I.S Hospital; Midc Police Station,19.117834,72.867882
+1000666,Mittal Estate (Marol),19.10747,72.883379
+1000667,Mittal Estate (Marol),19.107496,72.88067
+1000668,Mohili Village,19.098575,72.892658
+1000669,Shopping Plaza (Powai),19.111035,72.897481
+1000670,Natraj Studio,19.117177,72.854263
+1000671,Marolnaka; Mata Ramabai Ambedkar Chowk,19.108544,72.880926
+1000672,Nelco,19.117172,72.862845
+1000673,New Quarters; Maharshi Valmiki Chowk,19.103239,72.857456
+1000674,Oberoi Garden (Chandivli),19.114602,72.892718
+1000675,Sahar P & T Colony No.1,19.103738,72.862017
+1000676,Sahar P & T Colony No.2,19.10148,72.863377
+1000677,Sahar P & T Colony No.2,19.103576,72.862008
+1000678,Sahar P & T Colony No.1,19.101453,72.863235
+1000679,Parle Tilak Vidyalaya,19.103288,72.84857
+1000680,Parleshwar Mandir,19.102979,72.845795
+1000681,Shree Parleshwar Society,19.105934,72.846686
+1000682,Parsiwada (Chakala),19.108821,72.855922
+1000683,Post Office (Powai),19.106009,72.888892
+1000684,Sakinaka Post Office,19.105982,72.889053
+1000685,R.B.I. Colony (Andheri-E),19.111119,72.862117
+1000686,Sahar Cargo Complex,19.097407,72.865423
+1000687,Sahar Police Station,19.102101,72.876282
+1000688,Sahar Village,19.098446,72.865052
+1000689,Sainath Nagar (Midc -Marol),19.121,72.875503
+1000690,Dr.Datta Samant Chowk; Saki Naka,19.102783,72.885709
+1000691,Sambhaji Nagar (Vile Parle-E),19.101873,72.854662
+1000692,Sangharsh Nagar (Chandivali),19.10857,72.901331
+1000693,Chakala (Satamwadi),19.111687,72.860216
+1000694,Sathaye College (Vile Parle-E),19.097633,72.848982
+1000695,Shivpremi Nagar,19.09565,72.897829
+1000696,Shivaji Chowk (Andheri-E),19.11197,72.849296
+1000697,St.Anthony Church,19.10639,72.89371
+1000698,State Bank (Saki Naka),19.106415,72.887865
+1000699,State Bank (Marol),19.11522,72.879792
+1000700,Subhash Nagar (Khairani Road),19.096807,72.8978
+1000701,Sumer House; Suraj Diamond,19.121514,72.873754
+1000702,Domestic Airport Terminal 1-A,19.093499,72.855884
+1000703,Domestic Airport Terminal 1-B,19.093362,72.852672
+1000704,Lokmanya Tilak Nagar (Asalpha),19.101899,72.890376
+1000705,Vijay Nagar (Marol Maroshi),19.121707,72.879998
+1000706,Vijay Nagar Society (Andheri-E),19.114164,72.847479
+1000707,Vile Parle Police Station (E),19.096163,72.854267
+1000708,Vile Parle Station (E),19.098678,72.8448
+1000709,Vishal Hall; Prakash Studio,19.118512,72.852086
+1000710,Warehouse (Sahar),19.102982,72.866864
+1000711,Nahar Estate,19.106446,72.899127
+1000712,Marwah Road Junction (Saki Vihar Road),19.109207,72.887693
+1000713,Agarkar Chowk,19.118916,72.84797
+1000714,Chandvali Studio; Petrol Pump,19.114486,72.897147
+1000715,Savitribai Phule Nagar,19.100577,72.863919
+1000716,Raj Paradise,19.116794,72.883945
+1000717,B.M.C. Parking / Vasant Oasis,19.114129,72.883357
+1000718,Shemaraoo Institute,19.110633,72.883777
+1000719,Shitaladevi Temple (Mahim),19.110768,72.883606
+1000720,Kankia Seven Times Square,19.108609,72.884481
+1000721,Amarnath Patil Sport Complex; Banganga,19.050819,72.914348
+1000722,Acharya Garden; Diamond Garden,19.052603,72.899137
+1000723,Acharya Garden; Diamond Garden,19.052044,72.901446
+1000724,Samaj Mandir Hall (Vashi); Sector 21,19.082367,73.00023
+1000725,Samaj Mandir Hall (Vashi); Sector 11,19.082837,73.000439
+1000726,Adarsh Market,19.013098,73.017842
+1000727,Agarwadi (Mankhurd),19.045401,72.925883
+1000728,Aniruddha Bhavan,19.053029,73.01664
+1000729,Anushakti Nagar,19.042953,72.926206
+1000730,Anushakti Nagar Bus Station,19.042763,72.92651
+1000731,A.P.M.C Sector 26,19.086945,73.010646
+1000732,Apna Bazar (Vashi),19.070876,72.9975
+1000733,Dharan Talao; Ashtagandha Society,19.010831,73.016417
+1000734,B.A.P.Market,19.07344,73.008485
+1000735,Balbharati Vidyalaya (Kharghar),19.034083,73.062829
+1000736,Banubai Tandel Market,19.014182,73.01657
+1000737,B.A.R.C Gate No.6,19.042222,72.933018
+1000738,Basant Talkies,19.045711,72.903776
+1000739,Belpada Village,19.02804,73.059966
+1000740,Deonar Best Staff Quarters,19.047467,72.914254
+1000741,Bharati Vidyapith,19.026434,73.056764
+1000742,Samata Nagar; Bonkode,19.094932,73.005764
+1000743,C.B.D.Belapur; Konkan Bhavan,19.024202,73.03956
+1000744,C.B.D. Belapur Bus Station,19.024671,73.041546
+1000745,Canara Bank (Kharghar),19.035455,73.064113
+1000746,Y.B.Chavan Marg Junction (Vashi),19.067796,72.997281
+1000747,Cheeta Camp,19.038501,72.944703
+1000748,Mega Mart,19.086619,73.011995
+1000749,Childrens Home,19.042872,72.9286
+1000750,Chincholi Talao (Navi Mumbai),19.046407,73.01754
+1000751,Arogya Hospital; D Mart,19.019494,73.016248
+1000752,Dana Bazar,19.083684,73.008621
+1000753,Dattaguru Co-Operative Housing Society,19.047929,72.920201
+1000754,Deonar Depot,19.04556,72.910787
+1000755,Deonar Village,19.050215,72.919925
+1000756,Don Bosco Vidyalaya (Nerul),19.01758,73.014424
+1000757,A.P.M.C. Fruit And Vegetable Market,19.076583,73.009797
+1000758,Gandhi Market (Chembur),19.045736,72.896071
+1000759,Gavdevi Chowk (Sarsole),19.043137,73.014784
+1000760,Ghansoli Village,19.122696,72.999451
+1000761,Gharkul,19.042226,73.072306
+1000762,R.C.F.Colony (Chembur); Golf Club,19.046026,72.898636
+1000763,Govandi Station (E); Patwardhan School,19.053854,72.913359
+1000764,Govandi Station Road (E),19.052662,72.914186
+1000765,Helan Kellar Institute (Mahape),19.11355,73.012307
+1000766,Hiranandani Complex Junction (Kharghar),19.031786,73.065431
+1000767,I.C.L.School (Vashi),19.073186,73.012485
+1000768,Jalvayu Vihar (Kharghar),19.049653,73.070316
+1000769,Juhu Village (Navi Mumbai),19.086811,73.003196
+1000770,Juhu Nagar (Vashi),19.084797,73.001874
+1000771,Jui Nagar Railway Station,19.056073,73.019187
+1000772,Jui Nagar; Gaondevi Chowk,19.049208,73.017218
+1000773,Jui Nagar Railway Station,19.055387,73.015957
+1000774,Juipada Village,19.051484,73.016877
+1000775,Kalamboli Bus Station,19.027426,73.101192
+1000776,Kalamboli Colony,19.02206,73.10057
+1000777,Kalamboli Fire Brigade,19.02633,73.1052
+1000778,Kalamboli,19.026251,73.102017
+1000779,Kalamboli Naka,19.022544,73.105928
+1000780,Kamothe Village; Mansarovar,19.025596,73.095596
+1000781,Kachwadi,19.052247,72.916932
+1000782,Kendriya Vihar (Sector 12),19.037469,73.0657
+1000783,Kharghar Railway Station (Subway),19.027237,73.057886
+1000784,Teen Taki (Kopar Khairane),19.104988,73.0032
+1000785,Kopar Khairane,19.109424,73.001824
+1000786,Kopara Village,19.036841,73.072825
+1000787,Vashi Sector 29,19.089395,73.004916
+1000788,Mega Mart,19.091753,73.005364
+1000789,Nerul Naka,19.047127,73.024181
+1000790,Mahatma Gandhi Hospital; Panvel Naka,19.018958,73.104927
+1000791,M.S.E.B.Office (Kopar Khairane),19.106858,73.002602
+1000792,Mahalaxmi Mandir (Deonar),19.046863,72.91965
+1000793,Maharashtra State Co-Operative Bank,19.070162,73.002355
+1000794,Maitri Park,19.050211,72.904781
+1000795,Mandala,19.041798,72.935336
+1000796,Mankhurd Octroi Naka,19.057257,72.955276
+1000797,Mankhurd Station (North),19.049196,72.931696
+1000798,Mankhurd Station (North),19.050353,72.933995
+1000799,Mankhurd Station (South),19.045618,72.929873
+1000800,Mankhurd Station (South),19.042718,72.930405
+1000801,Mathadi Bhavan; Commodity Exchange,19.078959,73.00917
+1000802,Narmadeshwar Mandir,19.040868,72.93963
+1000803,Nathu Joma Patil Chowk,19.060655,73.01402
+1000804,Navrang Hotel,19.039365,73.067383
+1000805,Nerul Bus Station,19.040136,73.019856
+1000806,Nerul Village,19.036732,73.015133
+1000807,Nerul Gymkhana,19.026306,73.015833
+1000808,Nerul Railway Station,19.034274,73.017194
+1000809,Onion Potato Market (Vashi),19.073675,73.005739
+1000810,Panchavati,19.116633,73.002747
+1000811,Panjarapol,19.045767,72.907785
+1000812,Parsik Bank (Nerul),19.040633,73.02112
+1000813,Raghunath Vihar,19.045722,73.072859
+1000814,Punjab Wadi (Deonar),19.045344,72.914824
+1000815,R.F.Naik School (Kopar Khairane),19.0987,73.005118
+1000816,R.K.Studio,19.047781,72.907053
+1000817,Raj Kapoor Chowk |Anushakti Nagar|,19.043611,72.921228
+1000818,R.B.I.Colony (C.B.D.Belapur),19.022616,73.049467
+1000819,R.B.I Colony (Chembur-E),19.051385,72.903004
+1000820,Saidham Society (Nerul),19.011689,73.014793
+1000821,Sanduwadi (Chembur-E),19.053307,72.897151
+1000822,Sanpada Police Chowky,19.062905,73.010296
+1000823,Turbhe Police Station,19.062993,73.019018
+1000824,Sanpada Telephone Exchange (Sant Nirankari Bhavan),19.058839,73.014067
+1000825,Sarsole Bus Station,19.039993,73.014697
+1000826,Seawood Darave Railway Phatak,19.023443,73.015138
+1000827,Seawood Darave Railway Station,19.021382,73.017313
+1000828,Kopar Khairane; Sector 15,19.102115,73.004055
+1000829,Kamothe Junction,19.023634,73.098301
+1000830,Nerul Sector 42,19.015691,73.014984
+1000831,Nerul Sector 46; 48,19.008066,73.016473
+1000832,Vashi Sector 10;15,19.080931,72.999251
+1000833,Vashi Sector 9;16; Juhu Nagar Market,19.078555,72.998196
+1000834,Nerul Sector 2,19.044618,73.017777
+1000835,Shamrao Vithal Bank (Jui Nagar),19.059628,73.003284
+1000836,Shamrao Vithal Bank (Chembur),19.059799,73.003274
+1000837,Shantaram Patil Chowk (Vashi),19.072492,73.002603
+1000838,Shilp Chowk,19.047765,73.070077
+1000839,Shiravane Village,19.049513,73.022006
+1000840,Shivaji Chowk (Nerul),19.044219,73.022935
+1000841,Ganesh Society (Nerul),19.028239,73.016517
+1000842,Siddheshwar Society; Gharonda,19.118748,72.999535
+1000843,Ssc Board Office; St.Lawrence School (Vashi),19.074083,73.001216
+1000844,Sant Rajinder Singh Ashram,19.112956,73.00229
+1000845,Saurashtra Bank; State Bank (Vashi),19.079682,73.007698
+1000846,Taloja Phata,19.032063,73.086215
+1000847,Tata Press (Nerul),19.039103,73.028671
+1000848,Telecom Factory,19.044405,72.918416
+1000849,Terna Vidyalaya (Nerul),19.038431,73.014649
+1000850,Terna Engineering College (Nerul),19.030218,73.017117
+1000851,Terna Engineering College (Kopar Khairane),19.111023,73.003563
+1000852,Trombay,19.033939,72.949871
+1000853,Turbhe Naka (Janata Market),19.069534,73.019068
+1000854,Uran Phata,19.034071,73.029363
+1000855,Vadavali Village; Borla Society,19.046045,72.900812
+1000856,Vashi Bus Station,19.072945,72.997757
+1000857,Vashi Bus Station,19.075863,72.997967
+1000858,Vashi Village,19.069351,72.988948
+1000859,Vivekanand Nagar (Belapur),19.023648,73.044433
+1000860,Vivekanand School (Jui Nagar),19.062995,73.013261
+1000861,Yashwantrao Chavan Marg Junction(Vashi),19.0686,72.996112
+1000862,Yerala Medical Centre,19.031599,73.060766
+1000863,Dhobi Ghat (Trombay),19.035484,72.946736
+1000864,Maharashtra Nagar (Mankhurd),19.05076,72.93618
+1000865,Konkan Railvihar,19.022051,73.016392
+1000866,Vashi Sector 19,19.083936,73.011861
+1000867,S.I.E.S College (Nerul),19.042566,73.022194
+1000868,Millennium Business Park (Mahape),19.113919,73.016394
+1000869,Ghansoli Sector 3,19.114754,73.003307
+1000870,Mankhurd Station (South) Extn,19.047028,72.930043
+1000871,Amrut Nagar (Vikhroli-W),19.101265,72.911901
+1000872,Asha Usha Company,19.107808,72.923902
+1000873,Ashok Kedare Chowk,19.147812,72.928533
+1000874,Asian Paints,19.159286,72.937524
+1000875,Babu Genu Market,19.09567,72.904148
+1000876,Barve Nagar,19.097991,72.902066
+1000877,Bayer House,19.119577,72.912371
+1000878,Bhandup Peoples School,19.140024,72.925616
+1000879,Bhandup Police Station,19.150813,72.937629
+1000880,Bhandup Station (W),19.144299,72.93782
+1000881,Suncity Complex,19.125993,72.921703
+1000882,Bhandup Station (W) Road,19.146006,72.935862
+1000883,Khot Road; Bhatipada,19.150876,72.935947
+1000884,Birla Company,19.136772,72.929761
+1000885,Mhada Colony (Hiranandani-Powai),19.115229,72.905149
+1000886,Ciba Company,19.134767,72.928725
+1000887,Cipla Company; Military Canteen,19.113491,72.926201
+1000888,Hind Rectifier Corporation; Colour Cartons,19.157344,72.934463
+1000889,Crisil House,19.117318,72.91069
+1000890,Damodar Park,19.095511,72.914469
+1000891,Dargah (Vikhroli-W),19.096622,72.915419
+1000892,Dockyard Colony (Kanjurmarg-W),19.130972,72.926711
+1000893,Dr.Ambedkar Udyan; Powai,19.12557,72.894757
+1000894,Dr.K.B.Hedgewar Chowk Bhandup Sonapur,19.161437,72.937704
+1000895,Ekta Nagar Police Chowky- Bhandup-W,19.14072,72.92669
+1000896,Ishwar Nagar; Bhandup (W),19.143928,72.934132
+1000897,Forest Club (Powai),19.114399,72.906936
+1000898,Forest Street (Powai),19.114896,72.908552
+1000899,Ganesh Mandir (Barve Nagar),19.095949,72.90087
+1000900,Ganesh Mandir (Asalpha),19.095534,72.900632
+1000901,Gaondevi Naka (Bhandup-W); Madhukun Building,19.154967,72.932115
+1000902,Gelda Nagar,19.09727,72.907797
+1000903,Ghatkopar Pipe Line,19.087458,72.902887
+1000904,Ghatkopar Police Station,19.086915,72.899799
+1000905,Ghatkopar Post Office,19.087468,72.905909
+1000906,Hiranandani; Powai Bus Station,19.117687,72.905643
+1000907,Godrej Company (Vikhroli-W),19.104357,72.921423
+1000908,Gopal Bhavan (Ghatkopar-W),19.09045,72.909738
+1000909,Guru Nanak School (Vikhroli-W),19.10413,72.917621
+1000910,Hanuman Mandir (Bhandup-W),19.151706,72.933247
+1000911,Hanuman Mandir (Barve Nagar),19.09371,72.903864
+1000912,Hanuman Nagar (Bhandup-W),19.139752,72.921747
+1000913,Hindustan Company (Vikhroli-W),19.121504,72.925572
+1000914,Hiranandani (Powai),19.120479,72.906716
+1000915,Hiranandani Garden (Powai),19.116215,72.909302
+1000916,Huma Cinema (Kanjurmarg-W),19.129183,72.925818
+1000917,I.I.T.Main Gate (Powai),19.125748,72.917122
+1000918,I.I.T.Market (Powai),19.128757,72.919659
+1000919,Industrial Estate (Vikhroli-W),19.099847,72.914496
+1000920,Jagruti Nagar (Ghatkopar-W),19.092047,72.901745
+1000921,Jain Mandir (Bhandup-W),19.149792,72.937763
+1000922,Jalvayu Vihar (Powai),19.117696,72.905462
+1000923,Jungal Mangal Road (Bhandup-W),19.150586,72.933837
+1000924,Janata Market (Bhandup-W),19.1426,72.933134
+1000925,K.C.Company (Bhandup-W),19.158897,72.933436
+1000926,Kailas Industrial Estate,19.112206,72.917952
+1000927,Kanjur Marg Station (W),19.130756,72.92865
+1000928,Kingston Sez (Powai),19.112765,72.910748
+1000929,Kingston Sez (Powai),19.115963,72.911669
+1000930,Kokan Nagar (Bhandup-W),19.146132,72.92878
+1000931,Krupa Building,19.094036,72.907884
+1000932,Meenatai Thackeray Maidan (Anacin Company),19.098637,72.9171
+1000933,Shivaji Maidan; Madina Masjid,19.104111,72.914523
+1000934,Municipal Garden (Vikhroli-W),19.109993,72.917801
+1000935,Maharashtra Nagar (Bhandup-W),19.139898,72.928297
+1000936,Mangatram Petrolpump,19.140097,72.931386
+1000937,Maneklal Municipal School,19.089915,72.902582
+1000938,Hanuman Mandir (Bhandup-W),19.154914,72.935024
+1000939,Milind Nagar (Bhandup-W),19.158446,72.932077
+1000940,Jagdusha Nagar,19.099583,72.908471
+1000941,Miniland Society (Bhandup-W),19.146864,72.933552
+1000942,Sant Muktabai Hospital,19.097432,72.904499
+1000943,Municipal Colony (Vikhroli-W),19.103606,72.916139
+1000944,Nagbaba Mandir (Kailas Complex),19.114194,72.91759
+1000945,Nardas Nagar,19.151597,72.928551
+1000946,North Bombay School,19.09662,72.907778
+1000947,B.M.C.Office-Vikhroli,19.117032,72.926153
+1000948,Patkar Compound (Bhandup-W),19.159394,72.930936
+1000949,Powai Vihar Complex,19.119448,72.904026
+1000950,Tembipada Pipe Line (Bhandup),19.15531,72.929263
+1000951,Tembipada Pipe Line; Police Station (Bhandup),19.155075,72.929159
+1000952,Punchkutir; Ganesh Mandir (Powai),19.124003,72.909652
+1000953,Ramashram (Powai),19.120134,72.900557
+1000954,Ram Bhavan,19.090449,72.904198
+1000955,Sahyadri Nagar (Bhandup-W),19.143539,72.928134
+1000956,Saibaba Mandir (Amrut Nagar),19.098734,72.907768
+1000957,Sarvodaya Nagar (Bhandup-W),19.148517,72.930823
+1000958,Sarvodaya Hospital (Ghatkopar-W),19.08848,72.906726
+1000959,Shangrila Company,19.154218,72.937553
+1000960,Shetty Vidyalaya (Powai),19.11607,72.905919
+1000961,Shipping Corporation (Powai),19.123096,72.898284
+1000962,Shiv Darshan; Teresa Road (Bhandup-W),19.149329,72.92724
+1000963,Shivaji Talao (Bhandup-W),19.147667,72.929635
+1000964,Shreyas Cinema,19.092872,72.912284
+1000965,Tank Road (Bhandup-W),19.147217,72.936347
+1000966,Telephone Exchange (Barve Nagar),19.088976,72.904141
+1000967,Tembipada,19.156151,72.929843
+1000968,Tulshetpada,19.160885,72.93123
+1000969,Tembipada Naka; Vaibhav Chowk,19.154353,72.929853
+1000970,Varsha Nagar,19.106912,72.917279
+1000971,Vikhroli Depot,19.100941,72.918924
+1000972,Vikhroli Park Site,19.105077,72.913145
+1000973,Vikhroli Station Road (W),19.110193,72.925318
+1000974,Vikhroli Station (W),19.110718,72.927532
+1000975,Pratap Nagar (Bhandup-W),19.139129,72.923677
+1000976,Bhatwadi,19.095679,72.902732
+1000977,Navjeevan Vidyamandir (Bhandup-W),19.151633,72.92992
+1000978,Ghatkopar Station (W),19.086385,72.908703
+1000979,Gate Way Plaza (Powai),19.123895,72.911933
+1000980,Tata Power House (Powai),19.116055,72.91624
+1000981,Hiranandani Telephone Exchange (Powai),19.118232,72.915204
+1000982,Adarsh Vidyalaya (Kanjurmarg-E),19.137035,72.934666
+1000983,Amar Mahal,19.066968,72.89992
+1000984,Ankur Hospital,19.131199,72.93556
+1000985,Bhandup Pumping Centre,19.153768,72.956642
+1000986,Bhandup Station (E),19.143351,72.93975
+1000987,Bhandup Village (E),19.144399,72.950644
+1000988,Bhandup Village (E) Junction,19.155728,72.94916
+1000989,Bhandup Village (E),19.150054,72.943932
+1000990,Kannamwar Nagar; Building No.150,19.114523,72.938813
+1000991,Kannamwar Nagar; Building No.188,19.118742,72.940685
+1000992,C.B.I.Quarters (Ghatkopar-E),19.081841,72.910729
+1000993,C.G.S.Colony (Bhandup-E),19.141986,72.938401
+1000994,Chheda Nagar,19.068911,72.904709
+1000995,Crompton Greaves,19.134451,72.934885
+1000996,D.A.V.College,19.13868,72.935692
+1000997,Gandhi Market (Ghatkopar-E),19.081595,72.904438
+1000998,Gandhi Nagar (Kanjurmarg),19.12528,72.926113
+1000999,Garodia Palace,19.074549,72.906417
+1001000,Garodia Nagar; R.T.O,19.072318,72.90808
+1001001,Kamraj Nagar (Ghatkopar-E),19.073222,72.909277
+1001002,Ghatkopar Bus Station,19.088094,72.918338
+1001003,Ghatkopar Depot,19.085782,72.919897
+1001004,Ghatkopar Station (E),19.085111,72.907991
+1001005,Ghatkopar Station (E),19.083908,72.90572
+1001006,Pestom Sagar; Glass Factory,19.069497,72.900927
+1001007,Godrej Company (Vikhroli-E),19.101323,72.929131
+1001008,Godrej Soap Company (Vikhroli-E),19.093173,72.926082
+1001009,Hema Park (Bhandup-E),19.148031,72.942383
+1001010,R.C.F.Colony (Shrikrishna Society),19.148031,72.948048
+1001011,Derasar Lane,19.081804,72.907631
+1001012,Jain Mandir (Ghatkopar-E),19.083114,72.909151
+1001013,Janata Market (Vikhroli-E),19.121298,72.940038
+1001014,Kanjur Village,19.132545,72.936244
+1001015,Kanjur Marg Village (Eeh),19.129926,72.941814
+1001016,Kannamwar Nagar; Building No.124,19.12241,72.940314
+1001017,Kannamwar Nagar No.1,19.113827,72.935591
+1001018,Kannamwar Nagar No.2,19.120359,72.938308
+1001019,Kannamwar Nagar; Pravin Hotel,19.1166,72.935638
+1001020,Keni Vidyalaya,19.147335,72.945301
+1001021,Kinnari Hall (Kannamwar Nagar),19.11127,72.934346
+1001022,Kurla Nagrik Sahakari Bank,19.149015,72.944132
+1001023,Laxmi Nagar (Ghatkopar-E),19.089675,72.916266
+1001024,Mansukh Dyeing Company,19.129483,72.933602
+1001025,Marathi Vidyalaya (Ghatkopar-E),19.088103,72.917017
+1001026,Kannamwar Nagar Hospital,19.114233,72.937321
+1001027,Nahur Station (E),19.154373,72.94704
+1001028,Nalanda Society (Ghatkopar-E),19.074759,72.91304
+1001029,Nityanand Nagar,19.091815,72.912664
+1001030,Odeon Cinema,19.079438,72.910682
+1001031,Pant Nagar,19.08354,72.914035
+1001032,Police Station (Pant Nagar),19.085971,72.914747
+1001033,Railway Police Ground (Ghatkopar-E),19.077289,72.913742
+1001034,Raliway Police Ground,19.07718,72.913714
+1001035,R.B.I.Colony (Bhandup Village-E),19.151319,72.947031
+1001036,R.C.F.Colony (Bhandup Village E),19.149702,72.948904
+1001037,Rajawadi Hospital,19.079644,72.903954
+1001038,Ramabai Nagar (Ghatkopar-E),19.077723,72.915595
+1001039,Saibaba Mandir (Ghatkopar),19.078345,72.910958
+1001040,Shankeshwar Building,19.074307,72.910892
+1001041,Shanti Sudha Park (Jain Mandir),19.075743,72.912564
+1001042,Shivai Vidyalaya (Bhandup-E),19.152738,72.946356
+1001043,Shivner Chowk; Ganesh Mandir (Ghatkopar-E),19.082103,72.912676
+1001044,Kannamwar Nagar; Building No.175,19.115833,72.940742
+1001045,Sindhuwadi,19.077738,72.903907
+1001046,Sommaiya College (Vidyavihar-E),19.074819,72.903224
+1001047,Ghatkopar Sonapur,19.073807,72.902807
+1001048,State Bank (Bhandup Village),19.151653,72.945567
+1001049,Swami Narayan Mandir (Ghatkopar-E),19.077125,72.909333
+1001050,Tagore Nagar Junction (Kanjurmarg-E),19.124288,72.932757
+1001051,Tagore Nagar No.5 (Vikhroli-E),19.125281,72.928898
+1001052,Tagore Nagar No.3 (Vikhroli-E),19.119726,72.932378
+1001053,Tagore Nagar Post Office (Vikhroli-E),19.115154,72.932455
+1001054,Tagore Nagar Udyan; Vikhroli Bridge,19.113339,72.933576
+1001055,Uday Shree Marg,19.147886,72.944113
+1001056,Vallabh Park,19.077912,72.912279
+1001057,Vikas Vidyalaya,19.117612,72.93714
+1001058,Jogeshwari Vikhroli Link Road (Kanjurmarg-E),19.124921,72.938764
+1001059,Vikhroli Court,19.116103,72.936541
+1001060,Vikhroli Bus Station (E),19.110348,72.928901
+1001061,Vikhroli Station Road (E),19.109535,72.931999
+1001062,Vikhroli Village,19.103617,72.930062
+1001063,Jijamata Bhosle Marg Junction (Chembur),19.069779,72.906
+1001064,Railway Police Colony,19.079069,72.915328
+1001065,Pant Nagar/Shivaji Technical School,19.084751,72.913645
+1001066,R.T.O.(Ghatkopar-E),19.073232,72.911102
+1001067,Sakhar Bhavan,18.926994,72.821157
+1001068,Babulnath Junction,18.96015,72.809393
+1001069,Babulnath,18.957791,72.808997
+1001070,Backbay Depot,18.909745,72.817318
+1001071,Badhwar Park,18.919834,72.82591
+1001072,Birla Krida Kendra,18.954336,72.814801
+1001073,Dava Bazar (Kalbadevi),18.946252,72.829268
+1001074,Cricket Club Of India,18.930437,72.822303
+1001075,Princess Street (Kalbadevi),18.94654,72.827075
+1001076,Charni Road Railway Station,18.950917,72.821099
+1001077,Chira Bazar,18.949664,72.824813
+1001078,Chowpatty Band Stand,18.955686,72.808514
+1001079,Ahilyabai Holkar Chowk (Churchgate),18.933811,72.827788
+1001080,Ahilyabai Holkar Chowk (Churchgate),18.931462,72.828293
+1001081,Dr.Ambedkar Statue (Fort),18.927154,72.82973
+1001082,Cuffe Parade Macchimar Nagar,18.918116,72.824867
+1001083,Cuffe Parade Police Station,18.91195,72.818189
+1001084,Dhobi Ghat; Dr.Ambedkar Nagar (Backbay),18.910875,72.818532
+1001085,Free Press Journal Marg,18.923093,72.823762
+1001086,G.D.Somani School,18.916513,72.818565
+1001087,Balbhavan,18.951285,72.8175
+1001088,Gaiwadi,18.954286,72.819919
+1001089,Gaondevi Police Station,18.959763,72.812081
+1001090,Mangaldas Market,18.948205,72.831498
+1001091,Government Law College,18.935913,72.824036
+1001092,Gymkhana,18.946382,72.821464
+1001093,President Hotel,18.9146,72.82187
+1001094,Hutatma Chowk,18.936252,72.830786
+1001095,Income Tax Office (Marine Lines),18.940044,72.826814
+1001096,K.C.College,18.927948,72.828201
+1001097,Kamala Nehru Park (Malabar Hill),18.955014,72.80447
+1001098,Marine Lines Railway Station (Kala Niketan),18.941498,72.826348
+1001099,Malbar Hill Police Station,18.94968,72.799415
+1001100,Mantralaya,18.929246,72.823453
+1001101,Mantralaya,18.927314,72.825847
+1001102,Jeevan Bima Marg (Churchgate),18.928145,72.825628
+1001103,Marine Drive,18.941451,72.82368
+1001104,Marine Lines Railway Station,18.945445,72.824332
+1001105,Vasudeo Balwant Phadke Chowk (Dhobi Talao),18.942395,72.829651
+1001106,Mumbai Gymkhana,18.938185,72.830433
+1001107,N.C.P.A.,18.925523,72.822848
+1001108,N.C.P.A.,18.926542,72.820275
+1001109,Nirmal Building,18.927166,72.82185
+1001110,Pt.Paluskar Chowk (Opera House),18.955259,72.816177
+1001111,Central Cinema,18.954528,72.818352
+1001112,Parsi Agyari,18.950079,72.801664
+1001113,Petroleum House (Churchgate),18.929165,72.825076
+1001114,Phanaswadi,18.953269,72.825826
+1001115,Rekha Sadan; Jain Mandir (Walkeshwar),18.948585,72.798001
+1001116,S.K.Patil Garden (Charni Road),18.949174,72.821557
+1001117,S.K.Patil Garden (Charni Road),18.950997,72.819732
+1001118,Sahyadri Guest House (Malabar Hill),18.953034,72.803
+1001119,Saifee Hospital,18.952333,72.818117
+1001120,Shital Baug,18.95215,72.804131
+1001121,Irani Bridge,18.959296,72.814579
+1001122,Sukh Sagar,18.957,72.812805
+1001123,Taraporewala Aquarium,18.94845,72.819934
+1001124,Teen Bakda (Walkeshwar),18.953598,72.806836
+1001125,Teen Batti  (Walkeshwar),18.948396,72.798352
+1001126,Thakurdwar (Girgaon),18.952129,72.823216
+1001127,Thakurdwar (Girgaon),18.953329,72.821002
+1001128,Hutatma Chowk,18.929404,72.829614
+1001129,Veej Bhavan,18.921776,72.826497
+1001130,Vidhan Bhavan,18.925326,72.824633
+1001131,Walkeshwar,18.946632,72.796151
+1001132,Wankhede Stadium,18.938768,72.824318
+1001133,White House,18.950432,72.801854
+1001134,World Trade Centre,18.915374,72.818091
+1001135,Yashwantrao Chavan Pratishthan (Mantralaya),18.924478,72.826827
+1001136,Shrimati Motiben Dalvi Hospital,18.958398,72.810468
+1001137,Wilson College,18.956086,72.811135
+1001138,Kumbhar Tukda,18.953776,72.826424
+1001139,Maker Tower,18.916268,72.817587
+1001140,Ahilyabai Holkar Chowk (Churchgate),18.936665,72.827311
+1001141,Pt.Paluskar Chowk,18.954409,72.815656
+1001142,Ahilyabai Holkar Chowk,18.932591,72.827798
+1001143,Ajit Glass Factory,19.146323,72.842932
+1001144,Mehrabad Baug,19.143935,72.839198
+1001145,Anand Nagar (Oshiwara),19.150185,72.836285
+1001146,Ayyapa Mandir (Goregaon),19.165179,72.831948
+1001147,Bangur Hall,19.165703,72.832879
+1001148,Bangur Nagar,19.168867,72.835187
+1001149,Bangur Nagar Police Chowky,19.166274,72.835151
+1001150,Behram Baug,19.146833,72.836449
+1001151,Best Nagar (Goregaon-W),19.153278,72.841958
+1001152,Best Nagar; Oshiwara Staff Quarters,19.153818,72.838935
+1001153,Bhagatsingh Nagar,19.157014,72.83532
+1001154,Bhagatsingh Nagar; Sejal Park,19.155109,72.836918
+1001155,C.C.I.Colony (Goregaon-W),19.163106,72.839432
+1001156,Rajasthani Sammelan Campus; Chinchvali,19.176733,72.845735
+1001157,Dwarkadhish Society,19.166616,72.833097
+1001158,Farookh Vidyalaya,19.131248,72.847648
+1001159,Filmistan (Goregaon-W),19.164248,72.845781
+1001160,Goregaon (W) Bus Station,19.163853,72.849033
+1001161,Goregaon; Oshiwara Depot,19.154448,72.835312
+1001162,Goregaon Police Station,19.15703,72.8459
+1001163,Hari Niketan Society,19.163445,72.833642
+1001164,Inorbit Mall,19.172463,72.836316
+1001165,Inorbit Mall,19.170285,72.835234
+1001166,Jain Mandir (Goregaon-W),19.161973,72.848578
+1001167,Jawahar Nagar (Goregaon-W),19.162189,72.846097
+1001168,Jawahar Nagar (Goregaon-W),19.159776,72.845908
+1001169,Jogeshwari (W) Bus Station,19.13403,72.84757
+1001170,Jogeshwari Tabela,19.137923,72.845933
+1001171,Jogeshwari Telephone Exchange,19.141463,72.843335
+1001172,Kaveri Mahima Society (Goregaon-W),19.167736,72.833496
+1001173,Mahatma Gandhi Vidyalaya (Jogeshwari-W),19.14322,72.836737
+1001174,Madina Manzil (Malad-W),19.171999,72.845215
+1001175,Mitha Nagar (Goregaon-W),19.163222,72.837416
+1001176,Motilal Nagar No.2,19.164313,72.835048
+1001177,Motilal Nagar Post Office,19.159186,72.840851
+1001178,Oshiwara Bridge,19.148599,72.843073
+1001179,Patkar College (Goregaon-W),19.167943,72.845503
+1001180,Ram Mandir (Goregaon-W),19.152097,72.844506
+1001181,Ram Baug (Goregaon-W),19.163244,72.843415
+1001182,Sahara (Goregaon-W),19.153931,72.845199
+1001183,Shastri Nagar (Goregaon-W),19.16023,72.834899
+1001184,Siddharth Nagar (Goregaon-W) No.2,19.155041,72.843573
+1001185,Siddharth Nagar (Goregaon-W),19.159079,72.843399
+1001186,Sindhi Colony (Jogeshwari-W),19.144091,72.841955
+1001187,Lokmanya Tilak Nagar (Goregaon-W),19.163234,72.841704
+1001188,Vivek Vidyalaya,19.158619,72.843703
+1001189,New Siddharth Nagar (Goregaon-W),19.159194,72.839092
+1001190,Shastri Nagar (Goregaon-W),19.159274,72.837457
+1001191,Bandra Colony Bus Station,19.061651,72.850736
+1001192,Bandra (E) Phatak,19.057209,72.841333
+1001193,Bandra Railway Terminus,19.062603,72.841547
+1001194,Technical School (Bandra-E),19.063672,72.846867
+1001195,Bandra (E) Phatak,19.061504,72.862203
+1001196,Bandra Station (E),19.054816,72.841933
+1001197,Bharat Diamond Bourse,19.064053,72.865432
+1001198,Bharat Nagar (Bkc),19.061846,72.859438
+1001199,Bharat Nagar (Bandra-E),19.065176,72.854619
+1001200,Bandra (E) Bus Station,19.055613,72.845476
+1001201,Gandhi Nagar  (Bandra-E); Chetana College,19.060249,72.847725
+1001202,Chetana College,19.060701,72.848579
+1001203,Collector Office (Bandra-E),19.060964,72.849615
+1001204,Citi Bank (Bkc),19.068526,72.867767
+1001205,Community Hall (Bandra-E),19.064351,72.849014
+1001206,Diamond Bourse (Bkc),19.066682,72.86468
+1001207,Kala Nagar (Bandra-E),19.0536,72.848917
+1001208,Gandhi Nagar (Kanjurmarg),19.058586,72.84765
+1001209,G.S Colony (Bandra-E),19.063682,72.847751
+1001210,Kala Nagar (Bandra-E) Mhada Office,19.054593,72.847757
+1001211,Kala Nagar (Bandra-E),19.056463,72.84672
+1001212,Kherwadi (Bandra-E),19.060546,72.846632
+1001213,Kherwadi Police Station,19.064794,72.850192
+1001214,Laxmi Tower (Bkc),19.063817,72.86396
+1001215,Maharashtra Nagar (Bandra-E),19.064732,72.851617
+1001216,Maratha Colony,19.073953,72.847031
+1001217,M.I.G.Colony (Kala Nagar),19.056364,72.84768
+1001218,M.M.R.D.A.; Family Court (Bkc),19.055924,72.851433
+1001219,Patthar Nagar,19.063777,72.855504
+1001220,M.M.R.D.A. Pay & Park (Bkc),19.061928,72.861329
+1001221,Reserve Bank Of India (Bkc),19.057614,72.853284
+1001222,Subhash Nagar (Bandra-E),19.066085,72.847882
+1001223,Tata Colony (Bkc),19.060264,72.85791
+1001224,Tata Colony (Bandra-E),19.061871,72.856655
+1001225,Cardinal Gracias School; Teacher S Colony,19.068189,72.846788
+1001226,Income Tax Office (Bkc),19.058988,72.854794
+1001227,Mumbai Cricket Association East Gate,19.059446,72.866385
+1001228,Hanuman Mandir (Kherwadi),19.061667,72.847648
+1001229,Bandra Bus Station,19.055766,72.844877
+1001230,Bank Of Baroda (Bkc),19.061233,72.86303
+1001231,Bandra (E) Phatak; Gate No.18,19.056225,72.841409
+1001232,R.N.A. Complex,19.060621,72.851116
+1001233,Indian Oil Office (Bkc),19.060159,72.864456
+1001234,C.A.Institute (Bkc),19.061552,72.868721
+1001235,Canara Bank,19.058874,72.860761
+1001236,Bank Of India (Bkc),19.062988,72.86778
+1001237,Kautily Bhavan/Videsh Bhavan,19.062582,72.867913
+1001238,Swavalamban Bhavan,19.059671,72.864409
+1001239,Crescenzo,19.061461,72.867571
+1001240,Kautilya Bhavan/Videsh Bhavan,19.062826,72.867761
+1001241,Hotel Trident,19.06662,72.868376
+1001242,BKC Telephone Exchange,19.068003,72.870266
+1001243,Khar; 14Th Road,19.0723,72.832913
+1001244,16Th Road; Khar,19.073247,72.830765
+1001245,Dr.Ambedkar Colony; 18Th Road Khar,19.073833,72.82913
+1001246,Akshay,19.05228,72.83251
+1001247,Municipal Garden; Band Stand (Bandra-W),19.046968,72.820041
+1001248,Bandra (W) Bus Station,19.054163,72.838903
+1001249,Bandra Police Station,19.055552,72.835738
+1001250,Bandra Reclamation Bus Station,19.048156,72.827127
+1001251,Bandra Talao,19.058878,72.83774
+1001252,Bandra Talao,19.056059,72.836982
+1001253,Bandra Talkies,19.062373,72.835609
+1001254,Bandra Talkies,19.059437,72.835612
+1001255,Bandra Talkies; Shroff Eye Hospital,19.061082,72.837168
+1001256,Telephone Exchange (Bandra-W),19.051289,72.836387
+1001257,Bank Of India (Bandra-W),19.055314,72.83133
+1001258,Municipal Office; Bhabha Hospital (Bandra-W),19.057232,72.833998
+1001259,Chuim Village,19.072105,72.825825
+1001260,Dandpada,19.074816,72.826602
+1001261,D Monte Garden,19.059683,72.826148
+1001262,Dr.Ambedkar Road; Khar,19.070066,72.829266
+1001263,Elco Market,19.055686,72.833173
+1001264,Father Agnel Ashram (Bandra-W),19.045214,72.819272
+1001265,Hill Road Garden; Mehboob Studio,19.052599,72.824216
+1001266,Hill Road Garden,19.05287,72.824054
+1001267,Holy Family Hospital (Bandra-W),19.054715,72.827577
+1001268,Jarimari; Bandra Talao,19.057495,72.836744
+1001269,Kapda Bazar (Mahim),19.035824,72.83941
+1001270,Khar Danda,19.074415,72.822649
+1001271,Khar; Linking Road,19.072852,72.834148
+1001272,Khar Police Station; Sacred Heart School,19.073911,72.837501
+1001273,Khar Station (W),19.069847,72.839718
+1001274,Khar; S.V. Road,19.071309,72.837199
+1001275,Khar Station (W) Road,19.070153,72.837304
+1001276,Khar Telephone Exchange,19.068705,72.833495
+1001277,L.I.C Colony (Khar-W),19.066118,72.829801
+1001278,Sir Aliyawar Jung Institute(Bandra-W),19.052254,72.834258
+1001279,Mahim,19.041074,72.840983
+1001280,Mahim Bus Station,19.043486,72.840487
+1001281,Mahim Koliwada,19.046421,72.838481
+1001282,Mahim Machimar Ngr/Raheja Hospital,19.045818,72.842908
+1001283,Macchimar Nagar; Raheja Hospital (Mahim),19.045556,72.841854
+1001284,Mahim Phatak,19.044482,72.844543
+1001285,Mahim Station (W),19.039199,72.846979
+1001286,Mahim (Paradise),19.040343,72.841402
+1001287,Mahim (Paradise),19.036711,72.842364
+1001288,Mama Hotel,19.072305,72.827402
+1001289,Padmashree Mohammed Rafi Chowk; Bandra (W),19.054632,72.837734
+1001290,Padmashree Mohammed Rafi Chowk; Bandra (W),19.051353,72.838344
+1001291,Moti Mahal (Bandra-W),19.059498,72.832191
+1001292,Mount Mary Steps (Municipal Garden),19.048254,72.825018
+1001293,Mount Carmel Church; Lilavati Hospital,19.050903,72.827448
+1001294,National College (Bandra-W),19.063204,72.834716
+1001295,National College (Bandra-W),19.064316,72.837204
+1001296,Old Khar,19.066801,72.837259
+1001297,Pali Market,19.062053,72.829519
+1001298,Pali Hill Naka (Guru Nanak Road),19.059596,72.830053
+1001299,Parijat,19.050932,72.83025
+1001300,Peri Cross Road,19.059917,72.82402
+1001301,Petit Girl S School (Khar-W),19.070641,72.825855
+1001302,Additional C.P.Office (Bandra-W),19.063638,72.82282
+1001303,Galaxy Apartments,19.054342,72.823036
+1001304,Prarthanalaya,19.050817,72.821709
+1001305,Rizvi College (Bandra-W),19.068715,72.822882
+1001306,Rizvi Complex (Carter Road),19.066204,72.82315
+1001307,Saraswati Vidyamandir (Mahim),19.035269,72.847029
+1001308,Sherley Village,19.070196,72.822653
+1001309,Sisters Bungalow,19.048712,72.82117
+1001310,Shitaladevi Temple (Mahim),19.033974,72.842299
+1001311,Shitaladevi Temple (Mahim),19.036585,72.842288
+1001312,St.Andrew S Church,19.054669,72.825972
+1001313,John Baptist Road,19.047667,72.82555
+1001314,St.Peter S Church (Bandra-W),19.054961,72.829563
+1001315,St.Xaviers Technical Institute (Mahim),19.04532,72.840809
+1001316,Tobacco Company,19.049746,72.826451
+1001317,Unit Trust Of India (Bandra-W),19.049865,72.828132
+1001318,K.F.C. Market (Bandra-W),19.065688,72.834267
+1001319,General Arun Kumar Vaidya Marg Junction (Goregaon-E),19.177057,72.85856
+1001320,General Arun Kumar Vaidya Marg Junction (Goregaon-E),19.174556,72.861243
+1001321,Adarsh Nagar (Aarey Colony),19.149975,72.882684
+1001322,Adarsh Nagar Naka (Aarey Colony),19.150861,72.882209
+1001323,Aarey Pump House,19.154019,72.87522
+1001324,Aarey Unit No.6; Market,19.157768,72.874486
+1001325,Aarey Unit No.8,19.169416,72.862121
+1001326,Adarsh Nagar (Kurar Village),19.187692,72.863289
+1001327,Agari Pada (Aarey Colony),19.158936,72.880741
+1001328,Alika Nagar Junction,19.197869,72.87245
+1001329,Anita Nagar,19.197202,72.875921
+1001330,Appapada,19.189727,72.866644
+1001331,Ashok Hospital,19.180685,72.853015
+1001332,Bandongri,19.19911,72.861057
+1001333,Bimbisar Nagar,19.146295,72.856298
+1001334,Nagri Niwara Building No.16-C,19.175152,72.879906
+1001335,Ordnance Factory (Malad-E),19.192278,72.855984
+1001336,Karim Bungalows,19.152328,72.870449
+1001337,Collector Bungalow (Aarey Colony),19.152481,72.870648
+1001338,Dairy Research Institute,19.152236,72.867312
+1001339,Damu Nagar (Extension),19.204349,72.878456
+1001340,Damu Nagar; Mayur Market,19.200971,72.878886
+1001341,Dhiraj Valley Society,19.168345,72.86929
+1001342,Dindoshi Depot,19.176202,72.865701
+1001343,Dindoshi Bus Station,19.175995,72.86573
+1001344,Dudhsagar Society,19.168231,72.859279
+1001345,Doordarshan Colony,19.169213,72.871172
+1001346,S.K.Patil Arogyadham (Malad-E),19.188627,72.854446
+1001347,Dr.Suchak Chowk,19.187839,72.850814
+1001348,E.S.I.S Colony (Kandivali-E),19.200245,72.855018
+1001349,Durgamata Mandir,19.202896,72.862976
+1001350,E.S.I.S.Hospital (Kandivali- E),19.201872,72.856444
+1001351,Dadasaheb Phalke Chitranagri,19.163258,72.887622
+1001352,Chitranagri Entry Gate,19.165566,72.878161
+1001353,Gautam Nagar (Kandivali-E),19.200194,72.878372
+1001354,Gokuldham Market,19.175545,72.869752
+1001355,Gokuldham,19.174388,72.867566
+1001356,Goregaon Check Naka No.1,19.165114,72.858663
+1001357,Goregaon Check Naka No.1,19.166395,72.856323
+1001358,Goregaon Station (E),19.164324,72.850963
+1001359,Grovel Company,19.201594,72.860457
+1001360,Habalepada,19.163834,72.884446
+1001361,Hanuman Nagar (Goregaon-E),19.172981,72.874203
+1001362,Hanuman Nagar (Kandivali-E),19.201227,72.866143
+1001363,Hanuman Nagar (Malad-E),19.172865,72.875353
+1001364,Hickson & Dadajee,19.167569,72.854212
+1001365,Hira Park,19.1863,72.860485
+1001366,Ishwarbhai Patel Road,19.161226,72.853493
+1001367,Jagat Satguru Industrial Estate,19.170207,72.854305
+1001368,Jijamata Vidyalaya (Malad-E),19.188055,72.865685
+1001369,Kandivali Bus Station (E),19.201798,72.85381
+1001370,Kandivali Station (E),19.202313,72.853277
+1001371,Kokan Vikas (Aarey Colony),19.143411,72.870767
+1001372,Kranti Nagar,19.194427,72.872432
+1001373,Fire Brigade; Krishi Udyog,19.165379,72.864833
+1001374,Kurar Village,19.184691,72.858499
+1001375,Lashyachandi Society,19.172113,72.871199
+1001376,Mahindra Gate No.4,19.200364,72.875434
+1001377,Desai Municipal Hospital,19.178579,72.851115
+1001378,Mahananda Dairy,19.150532,72.856666
+1001379,Main Pump House (Aarey Colony),19.139603,72.880303
+1001380,Malad Post Office,19.179464,72.85023
+1001381,Jitendra Marg; Post Office,19.180232,72.850087
+1001382,Radha Maheshwari Chowk,19.183701,72.850322
+1001383,Malad Phatak,19.188471,72.849853
+1001384,Mayur Nagar (Aarey Colony),19.155659,72.884317
+1001385,Mhada Colony (Kandivali-E),19.195701,72.872422
+1001386,Goregaon Telephone Exchange,19.157542,72.856681
+1001387,Municipal Colony Sector -B (Goregaon-E),19.173471,72.877596
+1001388,Municipal Colony Sector -D (Goregaon-E),19.173237,72.87965
+1001389,Rani Sati Marg (Malad-E) Municipal School,19.18354,72.852062
+1001390,Narsipada,19.201344,72.86486
+1001391,Navapada Unit No.5 (Aarey Colony),19.157715,72.875969
+1001392,Navapada (Vidyavihar-W),19.157787,72.876311
+1001393,Navjeevan Nagar (Goregaon-E),19.15282,72.880411
+1001394,New Zealand Hostel,19.151886,72.871875
+1001395,Nimborpada,19.16424,72.882431
+1001396,Nagri Niwara Vidyalaya,19.174989,72.878138
+1001397,Naagri Niwara 1 & 2,19.172298,72.881305
+1001398,Nagri Niwara Plot No.5,19.176137,72.879886
+1001399,Noorani Masjid (Pathanwadi),19.179272,72.862419
+1001400,N.S.C Compound (Goregaon-E),19.149122,72.855963
+1001401,Aarey Police Station; Chhota Kashmir,19.162672,72.87127
+1001402,Oberoi Woods (Goregaon-E),19.169155,72.864564
+1001403,O.N.G.C.Colony (Dindoshi),19.173846,72.868212
+1001404,Otis Company,19.200418,72.875529
+1001405,Panchavati Housing Society,19.177868,72.855917
+1001406,Pandurang Wadi,19.173583,72.850757
+1001407,Pathanwadi,19.180914,72.858577
+1001408,Pathanwadi,19.178285,72.858274
+1001409,Peru Baug,19.166267,72.852815
+1001410,Malad Station (E); Poddar Park,19.184505,72.850151
+1001411,Prabhu Hotel (Kurar Village Marg Junction),19.179165,72.864378
+1001412,Pravasi Industrial Estate,19.172646,72.85457
+1001413,Pushpa Park (Malad-E),19.187952,72.858582
+1001414,R.B.I Colony (Goregaon-E),19.172202,72.869915
+1001415,Ramesh Hotel(Malad-E),19.187059,72.861892
+1001416,Sir Aliyawar Jung; Rani Sati Marg (Malad-E),19.181537,72.857483
+1001417,Modern Bakery; Reservior,19.144634,72.877791
+1001418,Ryan International School(Goregaon-E),19.171942,72.872207
+1001419,Sai Garden (Kandivali-E),19.199171,72.873162
+1001420,Shree Saibaba Complex (Goregaon-E),19.168669,72.867455
+1001421,Samana Pariwar (Malad-E),19.176144,72.876388
+1001422,Sambhaji Nagar (Kandivali-E),19.200439,72.861931
+1001423,Sangita Talkies,19.189926,72.851687
+1001424,Sankalp Society,19.176371,72.87904
+1001425,Santosh Nagar (Dindoshi),19.169115,72.875507
+1001426,Santosh Nagar (Extension),19.167472,72.876668
+1001427,Satpuda Society,19.169949,72.881411
+1001428,Dindoshi Session Court,19.175634,72.867118
+1001429,Shantaram Talao (Malad-E),19.185712,72.859202
+1001430,Shivshahi Prakalp; Mantri Park,19.167709,72.881459
+1001431,Smallscale Industries,19.160984,72.85704
+1001432,State Bank Colony (Malad-E),19.180542,72.854327
+1001433,Suyash Shopping Centre,19.176036,72.877605
+1001434,Swati Studio,19.163213,72.852675
+1001435,Central Dairy Tabela  (Aarey Colony),19.157022,72.882976
+1001436,Tapovan (Pathanwadi),19.179984,72.859471
+1001437,Tipco Plaza Company,19.183514,72.855333
+1001438,Triveni Nagar,19.181911,72.863986
+1001439,Udyog Bhavan,19.162616,72.851182
+1001440,Aarey Unit No.32,19.164361,72.870043
+1001441,Aarey Unit No.2 & 3,19.164893,72.867485
+1001442,Aarey Unit No.7,19.158384,72.878574
+1001443,Aarey Unit No.10 (Central Dairy),19.157856,72.868906
+1001444,Aarey Unit No.13 (Central Dairy),19.15612,72.865665
+1001445,Aarey Hospital; Municipal School,19.148573,72.87662
+1001446,Aarey Unit No.16,19.146503,72.874825
+1001447,Aarey Unit No.7,19.159217,72.882328
+1001448,Old Pushpa Park,19.18861,72.856338
+1001449,Vanicha Pada,19.150089,72.872903
+1001450,Vanrai; Mhada Colony,19.154579,72.857234
+1001451,Vanrai; Mhada Colony,19.151308,72.856133
+1001452,Vanrai Mhada; Nirlon Industrial Estate,19.154696,72.856616
+1001453,Tractor Gate No.3; Vasa Hospital,19.200733,72.871573
+1001454,Wagheshwari Mandir,19.175727,72.873165
+1001455,Virwani Estate; Sarvodaya Nagar,19.170598,72.859249
+1001456,Om Shivdarshan Society; Hanuman Nagar,19.171961,72.874507
+1001457,Jaibhim Nagar (Goregaon-E),19.170262,72.874831
+1001458,General Arun Kumar Vaidya Marg Junction (Goregaon-E),19.174012,72.858439
+1001459,I.T. Park Main Gate (Malad-E),19.176074,72.881132
+1001460,Maitreyee Society,19.174123,72.881228
+1001461,Dr.Ambedkar Chowk (Goregaon-E),19.173496,72.856861
+1001462,Malad Station (E); Poddar Park,19.186854,72.850187
+1001463,Anand Nagar; Appapada (Malad-E),19.190514,72.869829
+1001464,Goregaon Station (E) Bus Station,19.164314,72.850944
+1001465,Acharya Vidyaniketan (Mahul),19.027701,72.889153
+1001466,Adarsh High School (Anik),19.024353,72.87655
+1001467,Aziz Baug,19.037307,72.894972
+1001468,Anik Depot,19.046551,72.878552
+1001469,Kurla S.T.Depot,19.056681,72.884077
+1001470,Lokshahir Sathe Udyan; Suman Nagar,19.053564,72.883955
+1001471,B.D.Patil Marg; Hpcl,19.01952,72.897924
+1001472,Barkat Ali Dargah,19.018232,72.86637
+1001473,Basant Park,19.049891,72.893438
+1001474,Bhakti Bhavan (Chembur),19.052636,72.890568
+1001475,Bhakti Park Gate (Anik),19.03356,72.878958
+1001476,Bpcl Sports Club,19.027794,72.895784
+1001477,Bharat Petroleum (Mahul),19.014,72.898173
+1001478,Jijamata Nagar (Mahul),19.02827,72.888384
+1001479,Calico Chemicals,19.022356,72.897809
+1001480,Chembur Colony,19.046476,72.893268
+1001481,Chembur Level Crossing; Shell Bridge,19.063615,72.897584
+1001482,Chunabhatti Phatak,19.05298,72.870398
+1001483,Everard Society,19.049333,72.877601
+1001484,Everard Nagar,19.050769,72.875206
+1001485,Everest Society (Kurla-E),19.061336,72.890982
+1001486,Gadkari Quarry,19.019504,72.907717
+1001487,Ganesh Nagar (Wadala),19.017998,72.867786
+1001488,Gawangaon Refineries,19.009989,72.898412
+1001489,H.P. Nagar (Mahul),19.027667,72.892905
+1001490,Highway Apartment (Sion),19.04801,72.868168
+1001491,Lube India Company,19.007163,72.904226
+1001492,Inter State Bus Station,19.042902,72.879419
+1001493,Inter State Bus Station (Anik),19.042549,72.879153
+1001494,Vashi Village,19.031757,72.887309
+1001495,Kamgar Nagar (Kurla-E),19.059419,72.885396
+1001496,Kumbharwada (Chembur),19.054191,72.891954
+1001497,Kurla Bus Station (E),19.064801,72.880529
+1001498,Nehru Nagar  (Kurla-E) Municipal School,19.060817,72.881329
+1001499,Mahul Market,19.01537,72.890403
+1001500,Mahul Village,19.014024,72.890365
+1001501,Marathi Vidnyan Parishad (Chunabhatti),19.053318,72.878787
+1001502,Marawali Church,19.040559,72.894259
+1001503,Mazgaon Dock,19.025046,72.889886
+1001504,M.M.R.D.A Colony; Gadkari Quarry,19.022142,72.906985
+1001505,Naik Nagar (Kurla-E),19.060077,72.883429
+1001506,Navjeevan Society (Chembur),19.048048,72.893315
+1001507,Nehru Nagar  (Kurla-E) Building No.36,19.063509,72.8811
+1001508,Nehru Nagar (Kurla-E),19.061767,72.883571
+1001509,Polichem Limited; Pepsico,19.022115,72.905532
+1001510,Postal Colony (Chembur),19.061346,72.893671
+1001511,Priyadarshini (Chunabhatti),19.052451,72.879766
+1001512,R.C.F. (Chembur),19.033736,72.889607
+1001513,R.C.F.(Chembur) Gate No.1,19.038597,72.891115
+1001514,R.C.F.(Chembur)Office,19.038615,72.891096
+1001515,R.C.F.(Chembur) Hostel,19.039258,72.893271
+1001516,R.C.F.(Chembur)Office,19.035065,72.89199
+1001517,R.C.F. (Chembur),19.034966,72.89199
+1001518,S.G.Barve Marg Naka (Kurla-E),19.057468,72.888
+1001519,Sahakar Nagar (Sclr- Kurla-E),19.063532,72.893537
+1001520,Shell Colony; Samaj Mandir Hall (Chembur),19.062936,72.892796
+1001521,Shankar Mandir (Mahul),19.028951,72.897293
+1001522,Nehru Nagar  (Kurla-E); Shantaram Raut Chowk,19.061395,72.880008
+1001523,Shanti Nagar (Wadala-E),19.020034,72.874918
+1001524,Shivshrushti (Kurla-E),19.055334,72.882804
+1001525,Vashi Naka (Chembur); M.M.R.D.A Colony,19.030949,72.90284
+1001526,Tata Colony (Chunabhatti),19.053018,72.8753
+1001527,Tata Power Centre (Mahul),19.004227,72.90511
+1001528,Thakkar Bappa Colony (Kurla-E),19.057667,72.886651
+1001529,Umarshi Bappa Chowk,19.053809,72.887498
+1001530,Valencia Building,19.0257,72.878658
+1001531,Vashi Naka (Chembur),19.032763,72.896456
+1001532,Vinay High School,19.031048,72.900256
+1001533,Wadala Road (Mahul),19.021251,72.890106
+1001534,Wadala Truck Terminal (Main Gate),19.036379,72.879954
+1001535,Wadala Truck Terminal,19.03457,72.874369
+1001536,Wadala Mono Rail Depot;,19.038879,72.87393
+1001537,Imax Cinema,19.030336,72.880308
+1001538,Bhakti Park Mono Rail Station,19.028482,72.877317
+1001539,A.T.I. (Chunabhatti),19.054087,72.881351
+1001540,R.C.F.Police Station,19.03569,72.895277
+1001541,Vishnu Nagar,19.022656,72.902853
+1001542,Wadala Monorail Station Road,19.03662,72.873475
+1001543,M.M.R.D.A. Colony; Kokari Agar,19.036683,72.871338
+1001544,M.M.R.D.A.Colony (Mahul),19.017222,72.890269
+1001545,Chembur Naka; Swami Vivekanand Chowk,19.054037,72.893123
+1001546,Sindhi Society Gymkhana (Chembur),19.050721,72.890245
+1001547,Vivekanand School (Chembur),19.049085,72.887748
+1001548,Vivekanand College (Chembur),19.049781,72.8894
+1001549,Lal Dongar,19.049482,72.886949
+1001550,Dr.Ambedkar Nagar (Chembur),19.051153,72.887766
+1001551,Pink Corner,19.051687,72.889979
+1001552,Adarsh High School (Anik),19.021787,72.876019
+1001553,Hpcl North Gate (Mahul),19.022231,72.900725
+1001554,Adarsh Nagar,19.145384,72.83107
+1001555,Adarsh Nagar (Jogeshwari-W),19.145999,72.831868
+1001556,Shiv Mandir,19.128788,72.843163
+1001557,Amboli Naka,19.128281,72.841348
+1001558,Amboli Naka,19.126947,72.847043
+1001559,Andheri Station (W),19.11653,72.845976
+1001560,Andheri Station (W),19.119357,72.845252
+1001561,Andheri Market,19.123359,72.843519
+1001562,Andheri Market,19.123695,72.846541
+1001563,Shahajiraje Sports Complex (Andheri-W),19.127736,72.837537
+1001564,Azad Nagar (Andheri),19.130194,72.837678
+1001565,B.S.E.S Sub-Station (Swami Samarth Nagar),19.134702,72.824976
+1001566,Mhada Colony (Four Bungalows),19.13844,72.822121
+1001567,Bhavans College,19.12471,72.838471
+1001568,Kolsite Industries; Juchandra Society,19.131881,72.835291
+1001569,Vesava Market,19.139123,72.806693
+1001570,Dhake Colony,19.127651,72.832471
+1001571,Dnyansagar Vidyalaya,19.14591,72.833322
+1001572,Dnyansagar Vidayalaya,19.146054,72.833303
+1001573,Filmalaya (Amboli),19.128029,72.84363
+1001574,Four Bungalows,19.131116,72.825483
+1001575,Four Bungalows,19.128776,72.825579
+1001576,Four Bungalows Market,19.127926,72.825409
+1001577,Ganga Bhavan,19.135088,72.810404
+1001578,Gokhale Bridge (Andheri-W),19.115213,72.84955
+1001579,Versova View,19.125044,72.82467
+1001580,Versova View (Andheri-W),19.124221,72.824119
+1001581,Green Park,19.152819,72.830285
+1001582,Joe & Helen D Mello Garden,19.130179,72.842459
+1001583,Highland Garden,19.146033,72.828836
+1001584,Indian Oil Nagar (Andheri-W),19.128861,72.831168
+1001585,Jankidevi Vidyalaya,19.139911,72.820856
+1001586,Jeevan Nagar,19.131535,72.831546
+1001587,Zulelal Chowk,19.143356,72.824455
+1001588,Laxmi Industrial Estate (Andheri-W),19.135682,72.831999
+1001589,Aai Tuljabhavani Chowk,19.141869,72.829504
+1001590,Lokhandwala Complex Junction (Jogeshwari-W),19.142503,72.8313
+1001591,Machhalimar (Vesava),19.133282,72.811917
+1001592,Bank Of Maharashtra (Andheri-W),19.141017,72.825731
+1001593,Adv. Paljibhai Boricha Chowk,19.146855,72.828226
+1001594,Telephone Exchange (Andheri-W),19.133898,72.825632
+1001595,Mhadeshwar Mandir,19.136806,72.823491
+1001596,Geetanjali (Andheri-W),19.131263,72.84261
+1001597,Millat Nagar,19.14933,72.828557
+1001598,Monginis (Andheri-W),19.138943,72.831693
+1001599,Navrang Talkies (Andheri-W),19.124776,72.841693
+1001600,Oshiwara Police Station,19.148321,72.831353
+1001601,Picnic Cottage (Versova),19.130881,72.814039
+1001602,Pratap Society (Andheri-W),19.130029,72.822784
+1001603,Rajkumar (Andheri-W),19.12677,72.838745
+1001604,Ramesh Nagar (Andheri-W),19.132049,72.842952
+1001605,Riddhi Siddhi,19.137328,72.810507
+1001606,R.T.O. (Andheri-W); New Vikas Housing Society,19.132471,72.825681
+1001607,Sardar Patel Nagar (Park Street),19.141374,72.819543
+1001608,Seven Bungalows Bus Station,19.130479,72.82036
+1001609,Seven Bungalows Garden,19.128751,72.816521
+1001610,Shantivan Road Junction (Oshiwara),19.150742,72.831541
+1001611,Skylark,19.146482,72.824329
+1001612,Sundervan (Andheri-W),19.136997,72.825535
+1001613,Shree Swami Samarth Nagar,19.139165,72.825571
+1001614,Shree Swami Samarth Nagar (Extension),19.146103,72.825727
+1001615,Shree Swami Samarth Nagar Market,19.144963,72.823551
+1001616,Veera Desai Road,19.134747,72.837665
+1001617,Vesava Village,19.138518,72.806703
+1001618,Yari Road,19.139216,72.809583
+1001619,Nana-Nani Park (Versova),19.127217,72.819032
+1001620,Adarsh High School,19.022031,72.875933
+1001621,Seven Bungalows,19.130615,72.820502
+1001622,Prathamesh Complex,19.137547,72.837416
+1001623,Veera Desai Road (Extension),19.140049,72.837367
+1001624,Sarotapada (Andheri-W),19.133157,72.837647
+1001625,Vesava-Yari Road Bus Station,19.139558,72.808584
+1001626,Adarsh Nagar (Jogeshwari-W),19.145988,72.829358
+1001627,Aksa Beach,19.173128,72.79723
+1001628,Aksa Village,19.176516,72.797626
+1001629,Amira Apartments,19.18113,72.816638
+1001630,Amrapali Society,19.181409,72.815164
+1001631,Bafira Nagar,19.197602,72.82057
+1001632,Bhati Village,19.15898,72.78615
+1001633,Bhumi Complex,19.200702,72.821499
+1001634,Buddhavihar (Malvani),19.195068,72.825916
+1001635,Dharivali Village,19.169721,72.795931
+1001636,Erangal Village,19.161654,72.786375
+1001637,Fire Brigade; Kharodi Colony,19.195318,72.822064
+1001638,Gurudwar (Malad-W),19.182125,72.817255
+1001639,Kendriya Vidyalaya (Malad-W),19.188342,72.798005
+1001640,I.N.S.Hamala (Main Gate) Marve,19.19173,72.798524
+1001641,Hiradevi Mandir,19.157598,72.78657
+1001642,J.J.Hospital Nursing Society (Madh),19.184972,72.797742
+1001643,Jankalyan Nagar,19.19967,72.818847
+1001644,Kala Vidyalaya,19.181697,72.813528
+1001645,Kamal Baug; 14Th Bungalows -(Madh),19.15572,72.788036
+1001646,Kamal Talao,19.196377,72.812878
+1001647,Kharodi Village,19.196354,72.818431
+1001648,Ekta Nagar (Kandivali-W),19.201303,72.828098
+1001649,Ambewadi; Mith Chowky (Malad-W),19.19669,72.833807
+1001650,Libra Society,19.198995,72.821909
+1001651,Madh Beach; Madh Church,19.144213,72.790225
+1001652,Madh Jetty,19.144594,72.801859
+1001653,Madh Market,19.141286,72.789971
+1001654,Madh Sonapur,19.141914,72.795854
+1001655,Madh Temple,19.140654,72.791217
+1001656,Shivajiraje Complex (Kandivali-W) (Extension),19.202157,72.821859
+1001657,Laljipada,19.2025,72.834106
+1001658,Janta Colony; Shiv Mandir,19.200087,72.833899
+1001659,Shivajiraje Complex (Kandivali-W),19.201174,72.824988
+1001660,Malati Cottage,19.16341,72.789872
+1001661,Malvani Akashwani,19.196249,72.810748
+1001662,Malvani Block No.5; Police Station,19.192535,72.82201
+1001663,Malvani Block No.6,19.189815,72.81992
+1001664,Malvani Block No.7,19.186336,72.818839
+1001665,Malvani Village; Malvani Church,19.196355,72.808333
+1001666,Malvani Depot; Gaikwad Nagar,19.183481,72.819117
+1001667,Asmita Jyoti,19.196397,72.826865
+1001668,Marshal Wadi,19.179967,72.797851
+1001669,Marve Beach-Essel World,19.198976,72.798803
+1001670,Marve Village,19.194956,72.799501
+1001671,Shanti Nagar (Madh),19.150131,72.79095
+1001672,Master Wadi,19.151946,72.790616
+1001673,Mhada Colony; Malvani,19.178996,72.813122
+1001674,Mith Chowky; Kavi.V.R.Kant Chowk,19.196736,72.833711
+1001675,N.L.Vidyalaya (Malad-W),19.192968,72.847007
+1001676,Pascalwadi,19.142693,72.797869
+1001677,Rathodi,19.196714,72.816548
+1001678,Rathodi,19.196377,72.812878
+1001679,Ravikiran Society,19.180607,72.816857
+1001680,Retreat Hotel (Madh),19.153896,72.789178
+1001681,Sai Shraddha Shopping Complex (Malvani),19.178655,72.816478
+1001682,Shivaji Nagar (Madh),19.141588,72.794467
+1001683,Sir J.P.Primary School,19.170589,72.796948
+1001684,Township Municipal School (Malvani),19.196287,72.824812
+1001685,Jankalyan Nagar Police Chowky,19.199183,72.820635
+1001686,Vyas Wadi,19.148224,72.7908
+1001687,Yogashram,19.167919,72.79079
+1001688,Zunka Bhakar Kendra (Malvani),19.190388,72.825349
+1001689,Saikrupa Nagar,19.196127,72.80627
+1001690,Marina Enclave,19.202369,72.816448
+1001691,Marina Cnclave,19.202387,72.816467
+1001692,Abhinav Nagar,19.23188,72.868237
+1001693,Abhinav School,19.302818,72.858084
+1001694,Abhyudaya Bank,19.226147,72.857513
+1001695,Ambawadi,19.240512,72.859653
+1001696,Anand Hospital (Dahisar),19.257803,72.859301
+1001697,Anand Nagar (Dahisar),19.258167,72.864665
+1001698,Anand Nagar Market,19.255746,72.864733
+1001699,Aangan,19.208105,72.87291
+1001700,Apna Bazar  (Mira Road),19.275396,72.867557
+1001701,Ashirwad Hospital,19.257047,72.864913
+1001702,Ashish Complex,19.261535,72.861981
+1001703,Ashok Van,19.242404,72.866653
+1001704,Asmita Super Market,19.273154,72.864542
+1001705,Atmaram Nagar (Srushti),19.264548,72.87094
+1001706,Avdhut Nagar,19.256791,72.859187
+1001707,Ayyapa Mandir,19.275853,72.85986
+1001708,Azad Nagar (Mira Road),19.296792,72.857231
+1001709,Mahindra Company Gate (B.H.A.D. Colony),19.205563,72.86538
+1001710,Balaji Nagar,19.310203,72.850486
+1001711,Beverly Park,19.286987,72.867531
+1001712,Bhaidaya Nagar,19.310343,72.857689
+1001713,Bhayander Phatak; Janaki Residency,19.297973,72.852397
+1001714,Bhayander Phatak (Police Chowky),19.298851,72.854956
+1001715,Bhayander Phatak; Janaki Residency,19.295163,72.852247
+1001716,Golden Nest(Bhayander),19.294525,72.857166
+1001717,Bhayander Railway Station (W),19.311839,72.851741
+1001718,Bhayander Station (E),19.309726,72.853255
+1001719,Bhayander Station (E),19.312256,72.853473
+1001720,Bhaji Market,19.307168,72.849755
+1001721,Bhayander Pada,19.283685,72.952358
+1001722,Bishop School,19.295073,72.852389
+1001723,Borivali Phatak (E),19.233781,72.858117
+1001724,Borivali (E) Station,19.231549,72.85769
+1001725,Borivali (E) Station,19.227846,72.857949
+1001726,Jivala Pada,19.214635,72.869883
+1001727,Cocacola Company,19.280647,72.926643
+1001728,Corporation Bank (Dahisar-E),19.259747,72.863
+1001729,Cross Garden,19.302904,72.849872
+1001730,Dahisar Check Naka,19.258622,72.871733
+1001731,Dahisar Station Road (E),19.249412,72.863034
+1001732,Dattani Park,19.211717,72.869304
+1001733,Dattapada Phatak,19.224285,72.856629
+1001734,Daulat Nagar (Dahisar),19.236402,72.859266
+1001735,Devipada,19.224606,72.864466
+1001736,Dharkhadi,19.252688,72.873534
+1001737,Dheeraj Enclave,19.215412,72.869521
+1001738,Dhiraj Enclave,19.215331,72.869521
+1001739,Dhobi Ghat (Borivali-E),19.231933,72.865964
+1001740,Evershine Millenium Paradise,19.21023,72.877093
+1001741,Gaimukh (Ghodbunder Rd),19.2854,72.936384
+1001742,Hemgiri Society; Ganesh Mandir,19.235627,72.864098
+1001743,Ganesh Mandir (Dahisar-E),19.26565,72.870721
+1001744,Ganesh Nagar (Borivali -E),19.246505,72.865024
+1001745,Ganga Complex,19.290496,72.857321
+1001746,Gaurav Residency,19.27458,72.86125
+1001747,Blood Bank,19.2743,72.861393
+1001748,Gartan Pada,19.25227,72.868245
+1001749,Chinchwadi; Garten Pada No.1,19.254186,72.870223
+1001750,Ghodbunder Village,19.291613,72.889402
+1001751,Ghodbunder Village Junction,19.286953,72.893875
+1001752,Goddev Naka,19.30411,72.858644
+1001753,Girishikhar,19.23395,72.870547
+1001754,Gokul Garden (Kandivali-E),19.210702,72.863152
+1001755,Gokul Heaven (Kandivali-E),19.209774,72.86747
+1001756,Ganesh Nagar (Dahisar); Gokul Anand Hotel,19.244029,72.864987
+1001757,Gokulanand Hotel,19.244002,72.865254
+1001758,Golden Chemicals (Dahisar-E),19.262092,72.873614
+1001759,Green Lawn Academy,19.278771,72.878885
+1001760,Hanuman Tekdi (Borivali -E),19.240319,72.869859
+1001761,Hari Bhakti; Dovel Company,19.281902,72.889901
+1001762,Hitco,19.279954,72.877277
+1001763,Jai Maharashtra Nagar (Borivali -E),19.2215,72.868899
+1001764,Jain Mandir (Samata Nagar-Kandivali-E),19.213453,72.872917
+1001765,Jain Mandir (Bhayander-W),19.305542,72.849947
+1001766,Jain Mandir (Mira Road),19.280037,72.862293
+1001767,Jain Mandir (Ghodbunder Rd),19.285238,72.899603
+1001768,Jammu & Kashmir Bank,19.28024,72.870846
+1001769,Kajupada (Ghodbunder Road),19.279093,72.922685
+1001770,Kajupada (Borivali -E),19.233886,72.86953
+1001771,Kashi Village,19.273923,72.885737
+1001772,Borivali Market (E); Carter Road,19.229455,72.860174
+1001773,Kasturi Estate,19.301255,72.857267
+1001774,Ketaki Pada,19.255911,72.869289
+1001775,Khari Gaon,19.30542,72.857854
+1001776,Kokani Pada (Borivali -E),19.247402,72.870531
+1001777,Kokanipada (Extension) (Borivali -E),19.245831,72.8725
+1001778,Shree Koteshwari Mandir,19.214129,72.868827
+1001779,Krishna Vatika (Dahisar-E),19.262845,72.861704
+1001780,Lodha Complex,19.292519,72.856682
+1001781,Magathane Depot,19.220586,72.865771
+1001782,Jai Mahakali Mandir,19.241436,72.864285
+1001783,Mahavishnu Mandir,19.265246,72.875705
+1001784,Mahavishnu; Samrat Hotel,19.265219,72.875325
+1001785,Manav Kalyan Kendra,19.245716,72.861067
+1001786,Mandli Talao,19.299696,72.849294
+1001787,Fish Market,19.24797,72.868799
+1001788,The City Co-Op Bank Ltd,19.234354,72.865373
+1001789,Bhayander Market,19.307722,72.855255
+1001790,Maxus Mall (Bhayander-W),19.295008,72.850411
+1001791,Mira-Bhayander Municipal Head Office,19.301683,72.848408
+1001792,Mercury Building,19.210265,72.874906
+1001793,Magathane Telephone Exchange,19.216106,72.867438
+1001794,Mini Nagar,19.249667,72.867162
+1001795,Mira Road Station (E),19.281552,72.858002
+1001796,Mira Road Market,19.278454,72.85828
+1001797,N.L.Complex Junction (Dahisar-E),19.260182,72.86533
+1001798,N.L.Complex; Riddhi Siddhi Society (Dahisar-E),19.260182,72.865349
+1001799,Nabard Nagar,19.207731,72.866273
+1001800,Nensey Colony,19.237669,72.863688
+1001801,Navghar Naka (Bhayandar),19.30788,72.863105
+1001802,Jama Masjid (Mira Road),19.28466,72.857524
+1001803,New India Bank,19.281761,72.860409
+1001804,Suhasini Pawaskar Marg (Dahisar-E),19.253382,72.871307
+1001805,Novelty Silk Mill (Dahisar-E),19.253497,72.865476
+1001806,Punjab Foundry (Mira Road),19.276053,72.882026
+1001807,Parvat Nagar,19.243168,72.860137
+1001808,Penkarpada,19.263717,72.871749
+1001809,Bhayander Police Station,19.300409,72.846953
+1001810,Srushti Police Chowky,19.270952,72.867721
+1001811,Poonam Sagar Complex (Mira Road),19.273822,72.862744
+1001812,Punjab Dairy (Kashimira),19.27902,72.889902
+1001813,Raj Bucket Factory,19.287981,72.88987
+1001814,Rajashree Cinema,19.250967,72.863671
+1001815,Rajendra Nagar,19.251527,72.864717
+1001816,Rajendra Nagar,19.22118,72.860664
+1001817,Rajendra Nagar,19.220925,72.857773
+1001818,Rajshiv Building,19.243714,72.867299
+1001819,Rawal Pada,19.245568,72.87018
+1001820,Dongre Wadi,19.244835,72.868915
+1001821,Rushivan,19.236463,72.872981
+1001822,Royal College,19.269725,72.870709
+1001823,S.K.Stone (Mira Road),19.285389,72.869749
+1001824,Swatantraveer Savarkar Chowk; Bhayander (E),19.293939,72.859926
+1001825,S.T.Depot (Borivali -E),19.240885,72.86496
+1001826,Shree Sai Hospital,19.213947,72.866754
+1001827,Saibaba Mandir (Samata Nagar),19.205719,72.871552
+1001828,Municipal Market; Saibaba Mandir-(Borivali -E),19.241357,72.868603
+1001829,Salsar Nagar,19.309287,72.859193
+1001830,Samata Nagar (Kandivali),19.205754,72.869089
+1001831,Samata Nagar Bus Station (Kandivali-E),19.206496,72.869944
+1001832,Building No.1 & 2 (Samata Nagar),19.205826,72.868033
+1001833,Samata Nagar; Building No.3&5,19.205943,72.86751
+1001834,Sanskriti Apartment,19.212942,72.863284
+1001835,Saraf Choudhari Nagar,19.209184,72.862734
+1001836,Saraswati Complex (Dahisar),19.264064,72.859982
+1001837,Savarkar Nagar,19.24299,72.865216
+1001838,Save Nagar; Gaondevi Mandir (Dahisar-E),19.255157,72.860834
+1001839,Tera Panth Bhavan,19.278141,72.863855
+1001840,Mira Road Sector 8,19.277346,72.865082
+1001841,Shakti Nagar,19.259701,72.861982
+1001842,Shreekrishna Nagar; Shantivan (Borivali -E),19.233549,72.864128
+1001843,Shirdi Nagar; Ram Nagar (Bhayander-E),19.305982,72.861498
+1001844,Shital Garden (Mira Road),19.283471,72.863747
+1001845,Sheetal Nagar; Mtnl (Mira Road),19.283535,72.866106
+1001846,Sheetal Sarovar (Mira Road),19.282109,72.868152
+1001847,Shivar Garden,19.288485,72.865656
+1001848,Shree Krishna Nagar (Borivali -E),19.233134,72.863548
+1001849,Shreenath Complex,19.292233,72.861925
+1001850,Madhushree Mira Road,19.271051,72.867788
+1001851,Srushti,19.270166,72.868625
+1001852,Siddharth Nagar,19.215404,72.871156
+1001853,Siddharaj Society,19.23508,72.872154
+1001854,Silver Park (Mira Road),19.282193,72.874203
+1001855,Special Steel; Rajendra Nagar,19.221227,72.863174
+1001856,St.Mary School (Dahisar-E),19.25684,72.866958
+1001857,Sudhindra Nagar,19.259149,72.860232
+1001858,Sundar Nagar (Bhayander-E),19.284387,72.871148
+1001859,Suruchi,19.207649,72.864514
+1001860,Surya Shopping Centre,19.274358,72.869451
+1001861,Transport Corporation,19.269322,72.879109
+1001862,Thakur Cinema (Kandivali-E),19.210002,72.873118
+1001863,Thakur College (Kandivali-E),19.206136,72.872769
+1001864,Thakur Complex (Kandivali-E),19.208896,72.863885
+1001865,E.S.I.S Hospital (Thakur Village),19.208197,72.877227
+1001866,V Mall,19.212276,72.867573
+1001867,Vaishali Nagar (Dahisar-E),19.250944,72.873382
+1001868,Venus Apartment,19.308746,72.860906
+1001869,Versova Bridge (Ghodbunder Rd),19.284969,72.904808
+1001870,Vidya Mandir (Dahisar-E),19.254851,72.862546
+1001871,Vitthal Rakhumai Mandir (Dahisar-E),19.257409,72.865446
+1001872,Viceroy Park,19.211719,72.873165
+1001873,Viceroy Park,19.21039,72.871178
+1001874,Dahisar Bus Station,19.259012,72.873768
+1001875,Mira Gaonthan,19.267063,72.877207
+1001876,N.G.Park,19.242985,72.871513
+1001877,Rameshwar Mandir (Borivali -E),19.244285,72.870104
+1001878,Dahisar Stn (E),19.249628,72.86058
+1001879,Building No.5-N.G.Park,19.243137,72.870181
+1001880,Chaitanya Hospital,19.290255,72.86381
+1001881,Dahisar Police Station,19.253316,72.865163
+1001882,St.Lawrence High School (Kandivali-E),19.213149,72.861886
+1001883,Janta Nagar (Kandivali-E),19.213095,72.86083
+1001884,Siddharth Nagar (Kandivali-E),19.214645,72.871433
+1001885,Ganesh Nagar (Dahisar); Gokul Anand Hotel,19.247218,72.865081
+1001886,Imperial Square Society,19.2842,72.947696
+1001887,R.T.O.Camp (Kashimira),19.284314,72.890004
+1001888,Gunchecha Park,19.211992,72.877501
+1001889,Gundecha Park,19.21248,72.877606
+1001890,Pandey Nagar,19.21341,72.877719
+1001891,Sunflower Society,19.214502,72.87401
+1001892,Shri Krishna Nagar Post Office,19.235402,72.8662
+1001893,Municipal English School,19.214431,72.876853
+1001894,Balaji Nagar,19.307285,72.849908
+1001895,Pioneer High School,19.030801,72.854556
+1001896,Maheshwari Udyan (Kings Circle),19.027478,72.856153
+1001897,Jagatdev N.Varma Chowk; Kapole Niwas,19.023347,72.852224
+1001898,Matunga Railway Phatak (E),19.032644,72.854298
+1001899,Lokmanya Tilak Hospital (Sion),19.035465,72.857488
+1001900,Jain Society (Sion),19.039704,72.861732
+1001901,Rani Laxmibai Chowk (Sion),19.041033,72.862652
+1001902,Rani Laxmibai Chowk (Sion),19.046518,72.86567
+1001903,Chunabhatti,19.052075,72.867463
+1001904,Central Labour Institute,19.048831,72.865773
+1001905,Rani Laxmibai Chowk (Sion),19.043455,72.864351
+1001906,Gandhi Market (Kings Circle),19.032701,72.859067
+1001907,Matunga Police Station (Kings Circle Station),19.030586,72.857747
+1001908,Rani Laxmibai Chowk (Sion),19.041287,72.865189
+1001909,Bmc Ward Office,19.031633,72.85445
+1001910,Sion Koliwada,19.039932,72.864705
+1001911,Matunga (W),19.030328,72.84764
+1001912,Shahu Nagar (Dharavi),19.039816,72.8515
+1001913,Dharavi T Junction; Tapase Chowk,19.047604,72.852521
+1001914,Dharavi Koliwada,19.048518,72.855418
+1001915,Dharavi Depot,19.051537,72.858447
+1001916,Maharashtra Nature Park; P.M.G.P Colony (Dharavi),19.051819,72.861763
+1001917,Maharashtra Weight Bridge (Sion),19.05381,72.867984
+1001918,Rani Laxmibai Chowk; Sion Station,19.047348,72.863285
+1001919,Matunga Station (W),19.030436,72.847365
+1001920,Tata Power (Dharavi); Central Railway Station (W),19.031801,72.849273
+1001921,Meghwadi (Dharavi),19.033862,72.850716
+1001922,Shalimar Industries Limited,19.034722,72.853261
+1001923,Labour Camp (Dharavi),19.037378,72.853278
+1001924,Kumbharwada (Dharavi),19.037541,72.854884
+1001925,Matunga Labour Camp,19.038416,72.853221
+1001926,Mahim Phatak,19.046456,72.851107
+1001927,Mahim Phatak,19.043229,72.848848
+1001928,Banwari Compound,19.045713,72.847763
+1001929,Dharavi Flyover,19.046265,72.850204
+1001930,Naik Nagar (Dharavi),19.050908,72.864689
+1001931,Aakashganga Society,19.046931,72.860264
+1001932,Nehru Nagar (Dharavi),19.045494,72.859163
+1001933,Dharavi Police Station,19.043623,72.857625
+1001934,Kamraj Vidyalaya (Dharavi),19.041255,72.855746
+1001935,Estrella Battery,19.03951,72.854711
+1001936,Kalakilla,19.048068,72.859114
+1001937,Lokmanya Tilak Hospital (Sion),19.037698,72.861125
+1001938,Chunabhatti Bus Terminus,19.051858,72.868071
+1001939,Pinky Cinema,19.122015,72.847816
+1001940,Aghadi Nagar,19.127054,72.859218
+1001941,B.S.E.S. (Andheri-E),19.130867,72.880298
+1001942,Bank Of Baroda (Jogeshwari -E),19.136771,72.853452
+1001943,C-Cross Road (Seepz) Junction,19.123555,72.871899
+1001944,Goregaon Check Naka No.2,19.126287,72.879521
+1001945,Datta Tekdi; Shiv Tekdi,19.139431,72.860874
+1001946,Dena Bank (Jogeshwari-E),19.133869,72.849823
+1001947,Domnic School,19.126469,72.863733
+1001948,Durga Nagar (Jogeshwari-E),19.138145,72.872205
+1001949,Filter Pada,19.138669,72.894163
+1001950,Green Fields,19.13967,72.869182
+1001951,Gundavali; Lion S Club,19.121342,72.856133
+1001952,Gurudwar Chowk (Andheri-E),19.125637,72.862688
+1001953,Hema Industrial Estate,19.131997,72.862846
+1001954,Datta Mandir (Income Tax Colony),19.131301,72.862314
+1001955,Holy Spirit Hospital (Andheri-E),19.127148,72.867364
+1001956,I.E.S School; (J.V.L.R),19.128485,72.887504
+1001957,Income Tax Colony (Jogeshwari-E),19.131192,72.860708
+1001958,Ismail Yusuf College,19.135426,72.855021
+1001959,Jaibhim Nagar (Filterpada),19.13624,72.896958
+1001960,Jogeshwari (E) Police Station,19.139446,72.855085
+1001961,Jogeshwari Station-E,19.135288,72.850107
+1001962,John Backer,19.114926,72.888964
+1001963,Kalpataru Estate (Majas),19.139823,72.867737
+1001964,Kamal Amrohi Studio,19.133729,72.874632
+1001965,Kokan Nagar (Jogeshwari-E),19.134383,72.864803
+1001966,L & T Gate No.6 (Powai),19.123871,72.892743
+1001967,E.S.I.S. Local Office Powai,19.117356,72.889524
+1001968,M.H.B.Colony (Jogeshwari-E),19.133768,72.862883
+1001969,Kondivita Caves; Mahakali Caves,19.130421,72.872723
+1001970,Maharaj Bhavan,19.137785,72.856398
+1001971,Mahatma Phule Nagar (Powai),19.138498,72.896216
+1001972,Majas Depot,19.139208,72.865275
+1001973,Majas Depot,19.139097,72.860988
+1001974,Maroshi Naka; Picnic Point,19.13478,72.882055
+1001975,Mhada Colony (Majas),19.134167,72.866324
+1001976,Milind Nagar (Powai),19.1263,72.890537
+1001977,Model Town (Jogeshwari-E),19.132254,72.869652
+1001978,Morarji Nagar (Powai),19.13372,72.896684
+1001979,Namaskar,19.138199,72.870704
+1001980,Nitie (Powai),19.134642,72.899155
+1001981,Chinai College,19.123146,72.850952
+1001982,Orkay Mill,19.121025,72.870608
+1001983,P.M.G.P Colony (Majas),19.133853,72.869993
+1001984,Parsi Panchayat(Andheri-E);  Dhobi Ghat,19.124755,72.851445
+1001985,Parsi Panchayat (Andheri-E),19.1248,72.851483
+1001986,Poonam Nagar (Majas),19.13603,72.870229
+1001987,Post Office Jogeshwari (E),19.131141,72.849929
+1001988,Goregaon Check Naka No.3,19.137205,72.891369
+1001989,Pratap Nagar (Jogeshwari-E),19.140919,72.85633
+1001990,Pump House (Andheri-E),19.125643,72.856577
+1001991,Radha Silk Mill,19.126148,72.855445
+1001992,Ramada Hotel (Powai),19.13625,72.899487
+1001993,Ramwadi (Jogeshwari-E),19.140415,72.858488
+1001994,Seepz Village; Reliance Energy Training Centre,19.129432,72.882399
+1001995,Balasaheb Thackeray Trauma Centre; S.R.P. Camp,19.142572,72.855397
+1001996,Satya Saibaba Mandir (Mahakali Caves Rd),19.129688,72.869967
+1001997,Samarth Nagar (Jogeshwari-E),19.136982,72.859583
+1001998,Sanjay Nagar (Jogeshwari-E),19.136935,72.855686
+1001999,Sariput Nagar,19.132021,72.874794
+1002000,Sarvodaya Nagar (Jogeshwari-E),19.134482,72.863558
+1002001,Sadbhakti Mandir,19.129479,72.849997
+1002002,Seepz Bus Station,19.127938,72.874901
+1002003,Seepz,19.127956,72.874882
+1002004,Seepz Bus Station,19.124603,72.87265
+1002005,Seepz Village,19.129836,72.877323
+1002006,P.W.D.Office (Powai),19.130901,72.897179
+1002007,Shankarwadi (Jogeshwari-E),19.129635,72.855481
+1002008,Shanti Nagar (Andheri-E),19.120208,72.863823
+1002009,Sher-E-Punjab (Andheri-E),19.125862,72.861091
+1002010,Sher-E-Punjab (Andheri-E),19.12431,72.864438
+1002011,Canossa School (Andheri-E),19.125169,72.865264
+1002012,Shyam Nagar (Majas),19.138954,72.863717
+1002013,Sona Udyog Industrial Estate,19.125804,72.853507
+1002014,Takshila,19.129579,72.868189
+1002015,Tapeshwar Mandir (Aarey Colony),19.136653,72.889097
+1002016,Thakur Nagar (Caves Road),19.137867,72.858299
+1002017,Gurunanak Vidyalaya (Andheri-E),19.129892,72.863104
+1002018,Tolani College,19.128547,72.864968
+1002019,Tolani Naka,19.129966,72.86549
+1002020,Tunga Village,19.121314,72.891081
+1002021,Aarey Unit No.22,19.134239,72.885733
+1002022,Vihar Lake,19.139565,72.898031
+1002023,Vikas Nagar Society (Andheri-E),19.129087,72.860567
+1002024,Old Nagardas Road,19.12376,72.85059
+1002025,Aare J.V.L.R. Metro Station,19.129351,72.883873
+1002026,Ajara Bank,19.231005,72.825344
+1002027,Vividh Bharti,19.231418,72.835349
+1002028,Gorai Aakashvani,19.231705,72.832686
+1002029,Atmaram Tower,19.246141,72.845421
+1002030,Babhai Naka,19.228545,72.848486
+1002031,Best Officer Quarters (Gorai),19.225437,72.833946
+1002032,Bhakti Palace (Dahisar),19.2559,72.84958
+1002033,Borivali (W) Bus Station,19.231612,72.856929
+1002034,Borivali Jail (W),19.224447,72.854271
+1002035,Borivali Phatak (W),19.23425,72.857184
+1002036,Borivali (W) Station,19.230031,72.856616
+1002037,Borivali (W)Station (Jaya Talkies),19.227899,72.855619
+1002038,Borivali Telephone Exchange,19.231811,72.856216
+1002039,C.K.P.Colony,19.232094,72.846781
+1002040,Citizen Bank,19.246795,72.850414
+1002041,Dahisar Bridge,19.254956,72.856563
+1002042,Dahisar Bridge (Link Road),19.258387,72.853755
+1002043,Dahisar Market,19.25577,72.858008
+1002044,Dahisar Phatak (W),19.247278,72.859012
+1002045,Dahisar Station (W),19.249871,72.858953
+1002046,Devika Nagar; Eksar Koliwada,19.239556,72.845901
+1002047,Dharamshi Hall,19.226118,72.854935
+1002048,Don Bosco School (Borivali ),19.231087,72.840742
+1002049,Eksar Village,19.237649,72.845398
+1002050,Ekta Vivek Building,19.258124,72.851919
+1002051,Ganpat Patil Nagar,19.255937,72.849913
+1002052,Ganpat Patil Nagar,19.253134,72.847147
+1002053,Gomant Nagar (Dahisar-W),19.24343,72.858805
+1002054,Gorai Bridge,19.226083,72.828002
+1002055,Gorai Depot,19.232101,72.830403
+1002056,Holy Cross Road (Borivali -W),19.248529,72.850061
+1002057,I.C.Colony (Borivali -W),19.247561,72.847978
+1002058,Yogi Nagar; Jayraj Nagar (Borivali -W),19.234556,72.840512
+1002059,Jeevan Bima Nagar (Borivali -W),19.244075,72.850406
+1002060,Kalpana Chawla Chowk (Borivali -W),19.240983,72.846233
+1002061,Kandar Pada (Dahisar Bridge),19.254693,72.85448
+1002062,Karuna Hospital,19.24153,72.853499
+1002063,Lic Office (Borivali -W),19.242595,72.852034
+1002064,Lic Officers Training Centre (Borivali -W),19.243885,72.848713
+1002065,M.H.B.Colony (Borivali -W),19.230499,72.838517
+1002066,M.H.B.Police Station (Borivali -W),19.232777,72.840617
+1002067,Madhuban Society,19.224038,72.836078
+1002068,Vishwa Pragati Mandal Sports Complex,19.259317,72.853259
+1002069,Maharashtra Nagar (Borivali -W),19.228592,72.851367
+1002070,Mary Immaculate School,19.247817,72.853847
+1002071,Mount Poinsur Church,19.244239,72.851747
+1002072,Municipal Garden (Borivali -W),19.238212,72.849792
+1002073,Municipal Hospital (Borivali -W),19.252662,72.858514
+1002074,Nava Gaon (Dahisar-W),19.25125,72.853778
+1002075,Prabhodhankar Thackeray Nagar Bus Station (Charkop),19.221124,72.828748
+1002076,Pai Nagar (Borivali -W),19.234475,72.85512
+1002077,Pepsi Garden,19.229774,72.823339
+1002078,Pragati High School (Gorai),19.227425,72.822199
+1002079,Prasanna Jeevan Society,19.230107,72.847724
+1002080,Rajhans Society (Borivali -W),19.236717,72.857849
+1002081,Ram Mandir (Borivali -W),19.237194,72.855005
+1002082,Rameshwar Bank (Borivali -W),19.2277,72.840944
+1002083,Rameshwar Bank (Borivali -W),19.224682,72.840775
+1002084,Rushi Complex (Dahisar-W),19.251493,72.851295
+1002085,Rushi Complex Extension (Dahisar - W),19.257229,72.851349
+1002086,Dr. Shyamaprasad Mukherjee Chowk(Museum),19.230796,72.850757
+1002087,Sai Amrut Society (Dahisar-W),19.240674,72.858541
+1002088,Saibaba Nagar (Kandarpada),19.261313,72.852345
+1002089,Sardar Vallabhbhai Patel College,19.249936,72.845903
+1002090,Sardar Vallabhbhai Patel College (Borivali -W),19.250179,72.845798
+1002091,Shanti Ashram Junction,19.242455,72.844881
+1002092,Shanti Ashram (Borivali W),19.241833,72.847003
+1002093,Gorai Creek,19.232731,72.826247
+1002094,Shivaji Nagar (Borivali -W),19.245442,72.854191
+1002095,Shivdham (Rushi Complex),19.253831,72.849601
+1002096,Shivneri Building (Borivali -W),19.227101,72.823988
+1002097,St.Lawrence High School (Kandivali-E),19.239547,72.847213
+1002098,Suvidhya School (Gorai),19.229462,72.828541
+1002099,Swami Vivekanand Vidyalaya (Borivali -W),19.225914,72.831179
+1002100,Technical School (Borivali -W),19.242948,72.853964
+1002101,Thakur Pakhadi,19.234768,72.846018
+1002102,Vazira Naka,19.228976,72.844558
+1002103,Shivshakti Society,19.261449,72.85224
+1002104,Kandarpada Bus Station,19.262668,72.851202
+1002105,Pandya Hospital,19.23339,72.853314
+1002106,Govind Nagar,19.234139,72.851421
+1002107,Govind Nagar Junction,19.232901,72.851631
+1002108,Shrimad Gokul,19.235439,72.851277
+1002109,Nildhara Building,19.23758,72.851362
+1002110,Vrundas Hotel,19.229496,72.853535
+1002111,Bhagwati Hospital,19.241015,72.854546
+1002112,S.K.Resort (Borivali  -W),19.239888,72.842838
+1002113,Amulakh High School,19.026188,72.860267
+1002114,Antop Hill Church,19.032696,72.866761
+1002115,Antop Hill Bus Station,19.026336,72.866128
+1002116,Antop Hill,19.02667,72.866413
+1002117,Antop Hill Extension,19.024973,72.869577
+1002118,Antop Hill Police Station,19.031737,72.864054
+1002119,Antop Hill Post Office,19.024465,72.86383
+1002120,Municipal School (Antop Hill),19.025524,72.868788
+1002121,Bharani Naka (Antop Hill),19.025616,72.871116
+1002122,B.P.T. Colony (Barkat Ali Marg),19.017418,72.864271
+1002123,B.P.T. Colony (Barkat Ali Marg),19.014536,72.863086
+1002124,B.P.T. Colony (Wadala),19.01253,72.862479
+1002125,C.G.S.Dispensary,19.029542,72.863666
+1002126,Fire Brigade Junction (Antop Hill),19.025921,72.868266
+1002127,Godrej Foods Company; Veg.Oils (Wadala-E),19.009566,72.861512
+1002128,Guru Teg Bahadur Nagar Station,19.037474,72.863452
+1002129,Indian Hume Pipe Company,19.021674,72.866235
+1002130,I.B.P Company (Sewree),19.00435,72.855836
+1002131,Kane Nagar,19.029697,72.866269
+1002132,Kartvya Nagar,19.007749,72.859196
+1002133,Khalsa College (Matunga-E),19.025021,72.857067
+1002134,Don Bosco; Khalsa College,19.024018,72.857068
+1002135,Korba Mithagar,19.016099,72.864481
+1002136,Maheshwari Udyan (Kings Circle),19.02548,72.854217
+1002137,Maheshwari Udyan (Kings Circle),19.028654,72.858803
+1002138,Pratiksha Nagar Depot,19.044761,72.874706
+1002139,Samaj Mandir Hall (Sion Koliwada); Pratiksha Nagar No.1,19.040566,72.868837
+1002140,Rawli Camp,19.036663,72.869039
+1002141,Sangam Nagar (Wadala-E),19.021649,72.869474
+1002142,Samaj Mandir Hall (Sion Koliwada),19.039156,72.86803
+1002143,Samaj Mandir Hall (Sion Koliwada); Sardar Nagar,19.038279,72.865874
+1002144,Karmaveer Dadasaheb Gaikwad Nagar (Antop Hill),19.037421,72.866587
+1002145,Sardar Nagar No.4 (Gtb Nagar),19.035253,72.867406
+1002146,Sewree Railway Phatak,19.000637,72.855714
+1002147,Sewree Station (E),18.997818,72.8547
+1002148,Lokmanya Tilak Hospital (Sion),19.035051,72.860405
+1002149,Wadala Gate No.4; S.I.W.S School,19.021029,72.85933
+1002150,S.I.W.School (Wadala ),19.020921,72.860081
+1002151,Best Receiving Centre ( Sion),19.043179,72.872921
+1002152,Transit Camp Dispensary,19.041497,72.870433
+1002153,V.J.T.I.College,19.023683,72.854513
+1002154,V.J.T.I.College,19.021922,72.856765
+1002155,Wadala Flyover Bridge,19.018555,72.862419
+1002156,Wadala Church,19.01932,72.856653
+1002157,Wadala Gate No.4,19.022349,72.86083
+1002158,Indian Oil Depot (Wadala-E); Barkat Ali Dargah,19.021014,72.863927
+1002159,Indian Oil Depot (Wadala-E),19.017554,72.865183
+1002160,B.P.T Colony (Dockyard Rd),19.017626,72.864186
+1002161,600 Tenament Gate,19.053295,72.919383
+1002162,Acharya Marathe College,19.058469,72.908094
+1002163,Amar Talkies,19.052444,72.910775
+1002164,Annabhau Sathe Nagar (Mankhurd),19.056206,72.930013
+1002165,Assisi Nagar (Chembur-W),19.060683,72.912312
+1002166,B.M.C.Compost Plant,19.057299,72.927837
+1002167,Bainganwadi,19.058464,72.924797
+1002168,10Th Road; Chembur Church,19.056416,72.900551
+1002169,Chembur Phatak,19.064655,72.899532
+1002170,Chembur Naka; Swami Vivekanand Chowk,19.055691,72.894918
+1002171,Krishna Baug; Fine Arts Society (Chembur),19.059947,72.896712
+1002172,Deonar Municipal Colony,19.054263,72.923449
+1002173,Deonar Police Station,19.058336,72.917814
+1002174,Dr.Ambedkar Udyan; Chembur,19.060057,72.901244
+1002175,Dr.Ambedkar Nagar (Chembur),19.063382,72.902554
+1002176,Dr.Ambedkar Udyan; Chembur Station,19.061918,72.901062
+1002177,Dukes Company (Deonar),19.046571,72.909628
+1002178,Dnyansampada High School,19.060821,72.92111
+1002179,Deonar Fire Brigade Colony,19.055735,72.922185
+1002180,Gautam Nagar; Deonar Abattoir,19.058425,72.913966
+1002181,Govandi Station Road (W),19.055363,72.916076
+1002182,Indian Oil Nagar (Govandi),19.063746,72.91309
+1002183,Jafri English School,19.067669,72.921023
+1002184,Jijamata Bhosle Marg Junction (Chembur),19.070204,72.908461
+1002185,Dadoji Kondev Nagar (Khardev Nagar),19.056003,72.910138
+1002186,Lallubhai Compound Police Chowky,19.052999,72.927126
+1002187,S.R.A Colony Mankhurd (Lallubhai Compound),19.049764,72.926756
+1002188,B.S.E.S.Sub Station-Chembur,19.059081,72.899268
+1002189,Mhada Colony (Shivaji Nagar),19.062699,72.915665
+1002190,Mohite Patil Nagar (Mankhurd),19.053099,72.9358
+1002191,Municipal Ward Office; Dr.Ambedkar Garden (Chembur),19.060381,72.899201
+1002192,Narayan Guru High School (Chembur-W),19.061044,72.908578
+1002193,New Gautam Nagar (Govandi),19.06091,72.91597
+1002194,P.W.D. Ground (Chembur),19.067594,72.910001
+1002195,Railway Sankalp Colony (Mankhurd),19.055222,72.93313
+1002196,Saibaba Mandir (Govandi); Kokan Bank,19.06494,72.919617
+1002197,Samrat Ashok Nagar (Deonar),19.055615,72.91142
+1002198,Sandu Garden (Chembur-E),19.056153,72.898138
+1002199,Dumping Ground; Nirankari Bhavan,19.067146,72.925907
+1002200,Shanti Baug (Chembur),19.056523,72.895791
+1002201,Shivaji Nagar Bus Station,19.066207,72.927893
+1002202,Shivaji Nagar Junction (Govandi),19.062537,72.918373
+1002203,Shivaji Nagar (Govandi) Post Office,19.062429,72.921281
+1002204,Shivaji Nagar (Govandi) Terminus,19.060623,72.925404
+1002205,Shivsena Office (Chembur-W),19.0621,72.905746
+1002206,Subhash Nagar (Chembur-E),19.060175,72.904911
+1002207,Tata Nagar; Sambhaji Nagar,19.052049,72.921169
+1002208,Shatabdi Hospital (Deonar),19.049526,72.910396
+1002209,Lallubhai Compound; Dr.Ambedkar Chowk,19.053748,72.926878
+1002210,Shivaji Nagar (Govandi) Road No.12,19.068211,72.923398
+1002211,Shivaji Nagar (Govandi) Road No.13,19.06823,72.92336
+1002212,M-East Ward Office (Govandi-West),19.056187,72.921073
+1002213,Sahakar Nagar (Chembur-E),19.063831,72.893879
+1002214,Shivaji Nagar Depot,19.066342,72.928482
+1002215,Agarwal Municipal Hospital,19.178548,72.945821
+1002216,Agra Road Naka (Mulund-W),19.178015,72.943559
+1002217,Airoli Sewerage Plant; Premdan,19.154849,72.993184
+1002218,Airoli Sector 16,19.150748,72.992936
+1002219,Airoli Sector 17,19.152238,72.992955
+1002220,Airoli Sector 10,19.149041,72.990093
+1002221,Airoli Sector 5,19.147955,72.998886
+1002222,Amar Nagar,19.168284,72.931866
+1002223,Ambaji Dham,19.178142,72.949815
+1002224,Amrut Angan,19.20894,73.012851
+1002225,Anand Nagar (Ghodbunder Road),19.264479,72.96756
+1002226,Anand Nagar; Kopri,19.178783,72.967413
+1002227,Anand Nagar (Kopri) Police Chowky,19.173489,72.968583
+1002228,Annabhau Sathe Chowk (Thane),19.200781,72.949071
+1002229,Ashok Nagar (Thane); Vilo S Society,19.222252,72.994358
+1002230,Balkum Pada No.1,19.221746,72.991067
+1002231,Bhandup Pumping Centre,19.153858,72.961965
+1002232,Bramhala Talao; Manorpada,19.202641,72.976362
+1002233,Brahmand Azad Nagar,19.241036,72.975824
+1002234,Brahmand Azad Nagar,19.239436,72.980665
+1002235,Brahmand Phase-3,19.241162,72.981436
+1002236,Cadbury Junction (Thane),19.203934,72.968546
+1002237,Chainani Elder S Home,19.166687,72.963648
+1002238,Container Corporation Of India,19.155593,72.952887
+1002239,Dadlani Park (Thane-W),19.22226,72.995965
+1002240,Dhanvantari Hospital,19.176326,72.953256
+1002241,Airoli Sector 9,19.148236,72.993487
+1002242,Diva Village Junction,19.148218,72.99304
+1002243,Diva Village; Sector 8,19.148109,72.994685
+1002244,Dnyansadhana College; Kopari,19.184195,72.96517
+1002245,Dnyan Sarita (Mulund-W),19.17872,72.950604
+1002246,Dnyan Sarita (Thane),19.202669,72.949442
+1002247,Dr.Ambedkar Chowk; Indira Nagar Thane,19.204747,72.949899
+1002248,Duncan Company,19.168104,72.939243
+1002249,Dnyanoday Vidyalaya,19.20705,72.950497
+1002250,E.S.I.S.Hospital (Mulund),19.179027,72.945365
+1002251,Edenwood,19.227847,72.969793
+1002252,Forest Office (Thane),19.189073,72.964609
+1002253,Gandhi Nagar (Thane),19.218316,72.97023
+1002254,Gawanpada (Mulund-E),19.172911,72.961414
+1002255,Gavdevi Mandir (Thane),19.184538,72.972491
+1002256,Ghansoli Village,19.126118,73.004632
+1002257,Gothivali Village; Telephone Exchange,19.137755,73.003085
+1002258,Gothivali Village; Rabale Station,19.137149,73.003114
+1002259,Hanuman Chowk (Mulund-E),19.170174,72.959075
+1002260,Hari Niwas (Thane),19.191783,72.968517
+1002261,Highland Park (Mulund-W),19.169982,72.932217
+1002262,Hindustan Chowk (Mulund-W),19.17712,72.93889
+1002263,Hira Nagar (Mulund-W),19.161654,72.945614
+1002264,Hira Mongi Navneet Hospital,19.17105,72.9505
+1002265,Hiranandani Gate (Thane-W),19.249798,72.979592
+1002266,Nirmal Life Style; Hoechst Company,19.165918,72.938369
+1002267,Indian Bank; Hiranandani (Thane- W),19.253854,72.981647
+1002268,Jay Shastri Nagar,19.171419,72.933919
+1002269,Johnson & Johnson Company,19.174934,72.942085
+1002270,Dr.K.B.Hedgewar Chowk Bhandup Sonapur,19.163632,72.938769
+1002271,Kadam Pada (Mulund-W),19.178647,72.948094
+1002272,Kalidas Natyagruh (Mulund-W),19.173507,72.949739
+1002273,Kalwa Bridge,19.197356,72.983475
+1002274,Kapur Bawdi,19.220727,72.977686
+1002275,Kapur Bawdi,19.217538,72.979883
+1002276,Keva Fragrances; Kelkar Company,19.184456,72.948312
+1002277,Khedekar Wadi,19.166705,72.954474
+1002278,Khindipada (Dargah),19.16625,72.928482
+1002279,Khindipada,19.166729,72.929784
+1002280,Khopat S.T.Terminus,19.200717,72.973186
+1002281,Kisan Nagar Junction,19.193409,72.953893
+1002282,Fortis Hospital,19.162313,72.942334
+1002283,Thane Station (E),19.184971,72.976513
+1002284,L I C Cly,19.164916,72.954436
+1002285,Lokim Company,19.230123,72.976879
+1002286,Ghati Pada,19.186985,72.941846
+1002287,Lokmanya Nagar (Thane),19.208857,72.951505
+1002288,Louiswadi,19.195812,72.962565
+1002289,Maharshi Arvind Chowk (Mulund-W),19.175603,72.951868
+1002290,Madhani Circle,19.257568,72.978213
+1002291,Mulund (W) Mcgm Garden,19.175883,72.94875
+1002292,Maharana Pratap Chowk (Mulund-W); R Mall,19.183671,72.952591
+1002293,Majiwada,19.215632,72.97819
+1002294,Makhamali Talao,19.198441,72.971712
+1002295,Manisha Nagar (Kalwa),19.196894,72.990996
+1002296,Marathon Chowk (Teen Hath Naka),19.187736,72.962831
+1002297,Nahur Village; Mehul Cinema,19.165882,72.949169
+1002298,Merind Company,19.161654,72.94395
+1002299,Mhada Office (Mulund-E),19.166099,72.965502
+1002300,Mithagar,19.16291,72.95493
+1002301,Mithagar (Mulund-E),19.165575,72.964399
+1002302,Model Town (Mulund-W),19.184664,72.944319
+1002303,Powai Chowk (Mulund-W),19.172684,72.935896
+1002304,Maharana Pratap Chowk (Mulund Check Naka-W),19.183147,72.953646
+1002305,Mulund Colony,19.174942,72.936942
+1002306,Mulund Court,19.174501,72.958115
+1002307,Mahatma Jyotiba Phule Chowk (Mulund-W),19.173162,72.934727
+1002308,Mulund Depot,19.175865,72.947999
+1002309,Goregaon-Mulund Link Road (Mulund-W),19.160118,72.946736
+1002310,Mulund Stn - E,19.17161,72.956755
+1002311,Mulund Sonapur,19.17825,72.953798
+1002312,Mulund Railway Station (W),19.17386,72.955976
+1002313,Mulund Station (E),19.171737,72.958153
+1002314,Mulund (E) Toll Naka; Mhada Colony,19.16993,72.967422
+1002315,Municipal School (Mulund-W),19.18115,72.953865
+1002316,Municipal Hospital (Mulund-E),19.171935,72.960054
+1002317,Nahur Railway Station,19.157146,72.946897
+1002318,Nane Pada Junction,19.167174,72.953951
+1002319,Nani Pada Junc,19.167581,72.953456
+1002320,Navghar Road (Mulund-E),19.167897,72.961576
+1002321,Nitin Company Junction,19.198676,72.963354
+1002322,Airoli Octroi Naka,19.153741,72.961728
+1002323,Voltas,19.217376,72.971229
+1002324,Ovale,19.274516,72.960425
+1002325,Post & Telegraphs (Mulund-W),19.171176,72.943607
+1002326,Post & Telegraphs (Mulund-W),19.169803,72.946164
+1002327,Sarvodaya; Parshwanath Nagar (Mulund-W),19.164084,72.947277
+1002328,M.I.D.C; Passport Office,19.191079,72.955338
+1002329,Patli Pada,19.246131,72.975986
+1002330,Pawar Nagar (Thane),19.22847,72.967786
+1002331,Maharashtra Nagar (Thane),19.228497,72.968129
+1002332,Pawar Nagar Bus Station (Thane),19.229003,72.966379
+1002333,Adishakti Nagar (Pipe Line),19.185369,72.946363
+1002334,Pipe Line (Mulund-W),19.185134,72.947741
+1002335,Pipe Line (Mulund-W),19.177581,72.940155
+1002336,R.T.O. (Thane),19.199009,72.981193
+1002337,R.R.Education Vidyalaya,19.167581,72.966614
+1002338,Rabodi Police Station,19.206029,72.981916
+1002339,Ralli Wolf,19.171022,72.940507
+1002340,Urban Co-Operative Bank (Mulund-W),19.168566,72.952068
+1002341,Reti Bunder; Kharigaon (Kalwa),19.210511,73.015638
+1002342,Riddhi Siddhi Society (Mulund -E),19.169415,72.955006
+1002343,Riddhi Siddhi Society,19.169424,72.954959
+1002344,Rutu Tower,19.247928,72.978935
+1002345,Su Pumps (Mulund-West),19.184537,72.943197
+1002346,Sahyadri School,19.198041,72.99382
+1002347,Saidham (Mulund-W),19.167481,72.944681
+1002348,Sainath Nagar (Thane-W),19.266855,72.966628
+1002349,Santoshi Mata Mandir (Mulund-W),19.183192,72.948502
+1002350,Airoli Sector 4; Sai Clinic,19.155553,72.995713
+1002351,Shivaji Chowk (Mulund-W),19.175963,72.937683
+1002352,Shivaji Chowk; Kalwa Naka,19.196343,72.987573
+1002353,Shivram Society,19.17572,72.944395
+1002354,Shrirang Society (Thane),19.206074,72.980319
+1002355,Siddharth Nagar (Thane),19.182505,72.970675
+1002356,Siddhivinayak Tower (Thane),19.209724,72.974594
+1002357,St.Mary School (Mulund-W),19.165015,72.947049
+1002358,St.Pius School (Mulund-W),19.166496,72.945033
+1002359,St.Xaviers High School (Thane),19.240385,72.977517
+1002360,Standard Alkali Company,19.119866,73.006417
+1002361,Stanford Society (Thane),19.2568,72.979364
+1002362,Subhash Nagar (Thane),19.216961,72.97237
+1002363,Sukur Park; Sahyadri Society,19.198953,72.995494
+1002364,Swami Vivekanand Chowk (Thane),19.181755,72.967775
+1002365,Swapna Nagari (Yogi Hill),19.182748,72.942046
+1002366,Swastik Park (Thane),19.243366,72.982939
+1002367,Talavali Naka; Nocil Company,19.130825,73.003578
+1002368,Tatwadnyan Vidyapith,19.223627,72.977648
+1002369,Thane Civil Hospital,19.199064,72.978825
+1002370,Airoli Toll Naka,19.152539,72.96995
+1002371,Airoli Toll Naka,19.153217,72.964855
+1002372,Vaishali Nagar (Mulund-W),19.187365,72.945706
+1002373,Veena Nagar; Govardhan Nagar,19.181981,72.947076
+1002374,Vidyaben Gardi School; Keshavpada,19.170977,72.947267
+1002375,Vrindavan Society (Thane),19.208269,72.982734
+1002376,Wadarpada,19.16768,72.951137
+1002377,Waghbil,19.252563,72.972696
+1002378,Wagle Estate Post Office,19.18573,72.958029
+1002379,Wagle Ward Committee Office,19.187347,72.955243
+1002380,Yashasvi Nagar; Vardhaman Garden,19.218405,72.983905
+1002381,Yogi Hills (Mulund-W),19.18423,72.938585
+1002382,Airoli Sector 4; Corporation Bank,19.153999,72.999496
+1002383,Sahakar Bazar (Airoli),19.150204,72.999704
+1002384,Airoli Bus Station,19.156935,72.998194
+1002385,Mhada Colony Bus Station (Mulund-E),19.168864,72.968231
+1002386,Flower Valley Society,19.207701,72.972559
+1002387,Nahur Bus Station,19.170553,72.943911
+1002388,Bhoomi Acres Thane,19.260982,72.979013
+1002389,Mulund Railway Station,19.171439,72.95473
+1002390,Mulund Vidya Mandir,19.170092,72.953447
+1002391,M.S.E.B Office,19.164337,72.944729
+1002392,Crown Co Op Hsg Society,19.259058,72.979031
+1002393,Crown Co Op Housing Society,19.259094,72.979193
+1002394,Malad Station (W),19.184531,72.848335
+1002395,Orlem Post Office; S.N.D.T.College,19.19133,72.842064
+1002396,Madhur Colony (Malad-W),19.179249,72.839249
+1002397,Municipal School; Chinchvali Bunder,19.178963,72.843138
+1002398,Chinchvali Phatak; Sarvodaya Balika Vidyalaya,19.178413,72.84561
+1002399,Giridhar Park,19.195768,72.831829
+1002400,Orlem Well,19.193181,72.840551
+1002401,Orlem Church; Valnai Village,19.195283,72.837012
+1002402,Adarsh Dairy (Malad-W),19.19264,72.841892
+1002403,Choksi Hospital,19.1919,72.84445
+1002404,Marve Road Naka; Swami Shivanand Chowk,19.191729,72.845506
+1002405,Ijmima,19.184142,72.833712
+1002406,Dholedev Mandir; Vasari Tekdi No.2,19.173829,72.839757
+1002407,State Bank (Goregaon-W),19.173867,72.841382
+1002408,Industrial Estate (Malad-W),19.185882,72.841754
+1002409,Navy Nagar (Malad-W),19.187316,72.838615
+1002410,Krishna Building (Malad-W),19.187236,72.839804
+1002411,Icici Bank (Malad-W),19.187192,72.841554
+1002412,Liberty Garden,19.187581,72.84259
+1002413,Vinay Industry (Subkuch Market),19.174279,72.836733
+1002414,Nirlon Society,19.177333,72.836997
+1002415,Chinchvali Bunder Road,19.180368,72.83612
+1002416,Malad Depot,19.183836,72.83567
+1002417,D Mart Shopping Centre-Malad-W,19.186836,72.835621
+1002418,Kachpada,19.1896,72.835295
+1002419,Evershine Nagar (Malad-W),19.193565,72.834484
+1002420,Movie Time Cinema (Malad-W),19.188985,72.83503
+1002421,Modern Usha Colony,19.190132,72.83422
+1002422,Ushma Nagar,19.19397,72.832563
+1002423,Salasar Hanuman Mandir (Malad-W),19.192569,72.830691
+1002424,Evershine Nagar (Malad-W),19.190835,72.831947
+1002425,National Dairy,19.191451,72.83383
+1002426,Saibaba Park (Evershine Nagar),19.19258,72.833353
+1002427,Mariamman Mandir,19.189186,72.837616
+1002428,Malad Station (W),19.188089,72.846459
+1002429,New Era Talkies,19.182443,72.846824
+1002430,Rani Sati Nagar (Malad-W),19.179715,72.846997
+1002431,Sarvodaya Balika Vidyalaya (Malad-W),19.176643,72.84582
+1002432,Sundar Nagar (Malad-W),19.175215,72.845232
+1002433,Malad Station (W),19.189816,72.848531
+1002434,Sardar Chowk,19.185114,72.842021
+1002435,Lokmanya Tilak Chowk (Malad-W),19.184682,72.844836
+1002436,Technimont I.C.B.House,19.181206,72.833533
+1002437,Paradigm- B,19.179632,72.830834
+1002438,Madina Manzil (Malad-W),19.173798,72.847334
+1002439,Smt K G Mittal College,19.185012,72.838123
+1002440,Bhujale Talao,19.182203,72.838296
+1002441,Rejoice International School,19.181418,72.839171
+2000001,R.T.O Office Thane Old,19.199057,72.981921
+2000002,Kanhoji Angre Chowk,19.19736,72.983214
+2000003,Kalwa Naka,19.196416,72.987594
+2000004,Sahyadri Society,19.198072,72.993812
+2000005,Vastu Anand,19.206551,73.009953
+2000006,Jambhali Naka,19.191758,72.968743
+2000007,Thane Station Satis (West),19.223671,72.977668
+2000008,SVPM School,19.198784,72.995696
+2000009,Datta Wadi,19.200478,72.998632
+2000010,Kharegaon Naka,19.201814,73.001357
+2000011,Shiv Mandir /Parsik Nagar,19.20292,73.004589
+2000012,Raj Park,19.204904,73.007018
+2000013,Vimal Nagar,19.205932,73.008466
+2000014,Parsik Nagar,19.20592,73.00846
+2000015,Sainath Nagar,19.209223,73.013172
+2000016,Retibunder Circle,19.210485,73.016241
+2000017,Datta Wadi,19.198988,72.995552
+2000018,Pakhadi,19.203026,73.001591
+2000019,Kharegaon,19.205376,72.999634
+2000020,Telephone Exchange,19.194534,72.951638
+2000021,Ravi Fisheries,19.194989,72.947166
+2000022,Saibaba Mandir,19.191607,72.945666
+2000023,Shantinagar,19.19311,72.944211
+2000024,Parvatnagar,19.190559,72.946642
+2000025,Shrinagar Police Station,19.190444,72.944039
+2000026,Aayappa Mandir,19.19113,72.943145
+2000027,Shantinagar,19.193014,72.94707
+2000028,Manisha Nagar,19.19689,72.990931
+2000029,Manisha Nagar,19.198075,72.993811
+2000030,Balsara company,19.191367,72.951597
+2000031,Kisan Nagar,19.192027,72.94951
+2000032,Highland Heavan (Balkum),19.21882,72.99312
+2000033,Lodha Crown,19.215081,72.990557
+2000034,Lodha Villa Royal,19.215197,72.987404
+2000035,Irish Society,19.214845,72.985326
+2000036,Thane Station Satis (West),19.225802,72.97425
+2000037,Lodha Gate,19.211495,72.984529
+2000038,Mahagiri Koliwada,19.194227,72.982671
+2000039,Kapurbawdi,19.220758,72.977992
+2000040,Tatvadnyan Vidyapeeth,19.223671,72.977668
+2000041,Hyde Park,19.22581,72.97425
+2000042,Lockim Company,19.230196,72.97687
+2000043,Manpada,19.235115,72.976329
+2000044,Mulla Baug,19.239298,72.975446
+2000045,Azad Nagar Naka,19.240978,72.975857
+2000046,Patlipada,19.247171,72.9754
+2000047,Dongari Pada,19.250751,72.973195
+2000048,Waghbil Naka,19.253026,72.972122
+2000049,Vijay Nagari,19.256235,72.973568
+2000050,Gondhale Wadi,19.263709,72.97756
+2000051,Damyanti Smruti,19.264828,72.979572
+2000052,Waghbil Gaon,19.266252,72.982701
+2000053,Garib Nagar,19.272013,72.963671
+2000054,Waghbil Gaon,19.252548,72.972696
+2000055,Azad Nagar,19.240966,72.975872
+2000056,Gaondevi Mandir,19.184953,72.97334
+2000057,Highway Darshan / Teen Hath Naka,19.187542,72.966983
+2000058,Jupiter Hospital,19.206436,72.970343
+2000059,Panchamrut,19.257085,72.97051
+2000060,D Mart,19.260428,72.969164
+2000061,Muchhala College,19.262795,72.968242
+2000062,Anand Nagar,19.264592,72.967513
+2000063,Sainath Nagar,19.266843,72.966661
+2000064,Kasarvadavali Naka,19.26939,72.965387
+2000065,Garib Nagar,19.274154,72.960356
+2000066,Ovala,19.274162,72.960347
+2000067,Shreeram Hospital,19.275786,72.958831
+2000068,Bhayandarpada,19.283587,72.951916
+2000069,Lodha Splendora,19.28222,72.954225
+2000070,Nagla bunder,19.284161,72.947732
+2000071,Talao Pali,19.190584,72.976113
+2000072,Civil Hospital/Court,19.193871,72.976724
+2000073,Civil Hospital,19.196992,72.978558
+2000074,Vijay Garden,19.26078,72.971269
+2000075,Military School,19.271096,72.966693
+2000076,Cosmos Orchid Lily,19.269342,72.968785
+2000077,Kasarvadavali (Tarangan Sankul),19.275342,72.968879
+2000078,Manorpada,19.202613,72.97635
+2000079,Gaondevi,19.184962,72.973331
+2000080,Swami Vivekanand Chowk,19.18178,72.967815
+2000081,Dnyanasadhana College,19.184615,72.964738
+2000082,Gaimukh,19.285018,72.936253
+2000083,Kajupada,19.278744,72.922637
+2000084,Chena Bridge,19.2757,72.9165
+2000085,Shaskiya Vishramgruh (G.B.Road),19.285313,72.899233
+2000086,Varsova / Fountain Hotel,19.2847,72.9039
+2000087,Jain Mandir Ghodbander,19.285292,72.899271
+2000088,Ghodbunder Gaon,19.286742,72.893337
+2000089,Western Hotel/Laxmi baug,19.27607,72.889087
+2000090,Kashi Gaon,19.2739,72.8858
+2000091,Silver park,19.281659,72.874646
+2000092,Jahangir Complex,19.280137,72.870853
+2000093,Nayanagar,19.282042,72.868002
+2000094,MTNL Mira Road East,19.283345,72.866203
+2000095,Mira Road Station,19.281369,72.8581
+2000096,Shaskiya Vishramgruh (G.B.Road),19.282692,72.906982
+2000097,Shankar mandir,19.285636,72.940952
+2000098,Kasarvadavali,19.269378,72.965384
+2000099,Dharamveer Nagar,19.210409,73.015932
+2000100,Hyde Park,19.206551,73.009953
+2000101,Borivali East,19.231502,72.859498
+2000102,S.T.Stand,19.231691,72.859934
+2000103,Omkareshwar Mandir,19.231549,72.863214
+2000104,Nancy Colony,19.237606,72.863372
+2000105,Gokulanand,19.244343,72.864254
+2000106,Dahisar Toll Naka,19.258437,72.871663
+2000107,Kashimira,19.272303,72.88245
+2000108,Shaskiya Vishramgruh (G.B.Road),19.28023,72.91067
+2000109,Prathamesh Tower,19.26454,72.964494
+2000110,TMC Ground,19.261708,72.96139
+2000111,Borivade Goan (Havre City),19.262435,72.959985
+2000112,Unnati Greens Society,19.26214,72.960277
+2000113,Parkwood Society Corner,19.26084,72.964829
+2000114,Grand Square/Sagar Society,19.263443,72.966106
+2000115,Saint Xaviers,19.240741,72.977338
+2000116,Azad Nagar,19.239574,72.980707
+2000117,Bramhand,19.247881,72.98566
+2000118,Dharmachapada/Brahmand Society,19.247593,72.983111
+2000119,Shiddharth Nagar,19.18256,72.970445
+2000120,Rutu Park,19.20996,72.9821
+2000121,Varsova / Fountain Hotel,19.286735,72.893336
+2000122,National Park,19.230268,72.863497
+2000123,Central Park (Nalasopara),19.425407,72.818639
+2000124,Nalasopara Station East,19.420882,72.819673
+2000125,Bappa Sitaram,19.419592,72.820565
+2000126,Pendhari Nagar,19.418222,72.821722
+2000127,Paras Shopping Center,19.416298,72.823377
+2000128,Chandan Naka,19.415067,72.824551
+2000129,Dwaraka Hotel,19.413499,72.826022
+2000130,Yashwant Park,19.409607,72.826188
+2000131,Oriental Bank,19.40787,72.827361
+2000132,Agarwal Fire Brigade,19.405663,72.828227
+2000133,Vasant Nagari Circle,19.402383,72.834258
+2000134,Vasant Nagari Gate,19.397833,72.835579
+2000135,Ever Shine City Gate,19.399686,72.840336
+2000136,Gokhivare Village,19.400551,72.843009
+2000137,Father Wadi,19.403109,72.846078
+2000138,Range Office,19.194535,72.951638
+2000139,Bhoida Pada,19.405706,72.855122
+2000140,Agarwal Estate,19.406025,72.859782
+2000141,Tirupati Udyog Nagar,19.247171,72.863676
+2000142,Valiv Phata,19.407092,72.865788
+2000143,Laxmi Industries,19.407341,72.867541
+2000144,Sativali Naka,19.406136,72.872577
+2000145,Sativali Gaondevi Mandir,19.404778,72.877443
+2000146,Sativali Highway,19.402654,72.883439
+2000147,Kaman Phata / Chinchoti Bridge,19.382876,72.896977
+2000148,Naigaon Phata / Bapani Bridge,19.365961,72.894182
+2000149,Louis Wadi,19.192955,72.962782
+2000150,Kasarvadavali,19.264555,72.967524
+2000151,Darya Sagar Hotel,19.293772,72.90508
+2000152,Kinara Dhaba,19.302378,72.904079
+2000153,Sasun Navghar /Sairaj Hotel,19.315511,72.899604
+2000154,Royal Garden Resort,19.318564,72.897861
+2000155,Jaivijay / Patharpada,19.321265,72.895558
+2000156,Krishna Resort,19.327892,72.893409
+2000157,Lodha Dham,19.338229,72.893464
+2000158,Diva Vasai Railway Bridge,19.35098,72.89347
+2000159,Naigaon Phata / Bapani Bridge,19.210409,73.015932
+2000160,Kaman Phata / Chinchoti Bridge,19.20895,73.013135
+2000161,Sativali Highway,19.206551,73.009953
+2000162,Sativali Gaondevi Mandir,19.20576,73.008756
+2000163,Sativali Naka,19.205632,73.008486
+2000164,Laxmi Industries,19.204848,73.007304
+2000165,Valiv Phata,19.202935,73.004589
+2000166,Tirupati Udyog Nagar,19.20179,73.001705
+2000167,Agarwal Estate,19.200476,72.999166
+2000168,Bhoida Pada,19.198784,72.995696
+2000169,Range Office,19.1977,72.993536
+2000170,Father Wadi,19.195464,72.987175
+2000171,Gokhivare Village,19.197171,72.98312
+2000172,Ever Shine City Gate,19.198917,72.981083
+2000173,Vasant Nagari Gate,19.19891,72.978889
+2000174,Vasant Nagari Circle,19.194354,72.977033
+2000175,Agarwal Fire Brigade,19.19046,72.976375
+2000176,Oriental Bank,19.187281,72.977198
+2000177,Yashwant Park,19.187556,72.971661
+2000178,Dwaraka Hotel,19.188666,72.967522
+2000179,Chandan Naka,19.190463,72.967682
+2000180,Paras Shopping Center,19.188382,72.963604
+2000181,Pendhari Nagar,19.187771,72.962992
+2000182,Bappa Sitaram,19.186689,72.961377
+2000183,Nalasopara Station East,19.185607,72.957739
+2000184,Central Park (Nalasopara),19.185449,72.956247
+2000185,Khidakali,19.159314,73.068091
+2000186,Khidkaleshwar Mahadev Mandir,19.156678,73.06472
+2000187,Padle Gaon,19.15435,73.06142
+2000188,Mhatre Wadi,19.149729,73.055138
+2000189,Chintamani Hotel,19.146844,73.051256
+2000190,Kalyan Phata,19.143234,73.045995
+2000191,Shil Gaon,19.143574,73.045388
+2000192,Vishal Hotel,19.154257,73.033224
+2000193,Bharat Gears,19.157588,73.031315
+2000194,AVK,19.16159,73.029158
+2000195,Shimla Park,19.163316,73.028485
+2000196,Kausa,19.166479,73.026919
+2000197,Almas Colony,19.16785,73.025887
+2000198,Kismat Colony,19.172024,73.023455
+2000199,Amrut Nagar,19.173974,73.023015
+2000200,Mumbra Shiv Mandir,19.177523,73.022611
+2000201,Sanjay Nagar,19.181128,73.022395
+2000202,Mumbra Police Station,19.183299,73.022343
+2000203,Lalit Clinic,19.185608,73.021246
+2000204,Mumbra Railway Station,19.189946,73.022616
+2000205,Datta Wadi - Mumbra,19.193261,73.022795
+2000206,Retibunder No. 1,19.200309,73.022208
+2000207,Retibunder No. 2,19.202564,73.020406
+2000208,Retibunder No. 3,19.206933,73.017718
+2000209,Parsik Shiv Mandir,19.203476,73.005876
+2000210,Civil Hospital/Court,19.197366,72.984357
+2000211,Vishal Hotel,19.160966,73.034404
+2000212,Kharavli Devi,19.151866,73.034964
+2000213,Shil Gaon,19.15216,73.04608
+2000214,Mahakaleshwar Mandir,19.151386,73.046244
+2000215,Shasakiya Tantra Niketan,19.154907,73.046885
+2000216,Khardi Gaon,19.1669,73.046741
+2000217,National Convent School,19.17857,73.044492
+2000218,Diva Railway Station East,19.18694,73.047778
+2000219,Shilgaon Phata,19.147016,73.040093
+2000220,Retibunder No. 2,19.207355,73.017836
+2000221,Kismat Colony,19.190466,72.976308
+2000222,Fountain Hotel/Versova,19.2847,72.9039
+2000223,Shilphata,19.146753,73.040305
+2000224,Dawale Gaon,19.156865,73.034447
+2000225,Lavha Kausa School,19.165355,73.030922
+2000226,Maulana Azad TMC Krida,19.16926,73.03152
+2000227,Palm Riviera,19.176684,73.0299
+2000228,Mittal ( Green Valley ),19.175929,73.024801
+2000229,Abdul hamit kaman,19.177598,73.022613
+2000230,Datta Wadi,19.193096,73.02291
+2000231,Abdul hamit kaman,19.176516,73.025058
+2000232,Mittal ( Green Valley ),19.177146,73.030051
+2000233,Palm Riviera,19.17088,73.03125
+2000234,Hakim Ajmal Khan Clinic,19.169263,73.031525
+2000235,Maulana Azad TMC Krida,19.16572,73.03225
+2000236,Nice world,19.165355,73.030922
+2000237,Lavha Kausa School,19.16533,73.028182
+2000238,Kausa Petrol Pump / Talao,19.163534,73.028687
+2000239,Simla Park,19.163434,73.028615
+2000240,Dawale Gaon,19.147357,73.040832
+2000241,Raj Park,19.271319,72.882155
+2000242,Teen Hath Naka / Eternity,19.1877,72.9627
+2000243,Kalwa Station (East),19.196353,72.998855
+2000244,Anand Vihar/Kharegoan Fata,19.200954,73.003904
+2000245,Indira Nagar / Sarveshwar,19.203347,73.006945
+2000246,Rameshwar Society,19.204333,73.010067
+2000247,Gholai Nagar,19.204428,73.01301
+2000248,N. G. Regency (Balkum ),19.227096,72.99669
+2000249,Dosti West County (Balkum),19.224579,72.994097
+2000250,Castle Mill,19.272303,72.88245
+2000251,Chhabhaiya Park,19.218201,72.981787
+2000252,Yashaswi Nagar,19.218529,72.98339
+2000253,Vardhaman Garden,19.219151,72.984401
+2000254,Pipeline (TMC Office),19.214055,73.012138
+2000255,Kharegaon Toll Naka,19.212629,73.007483
+2000256,Toll Naka / KMS,19.208233,73.000272
+2000257,Highway Diva,19.230112,73.028024
+2000258,Diva Phata,19.233438,73.032813
+2000259,Mankoli Naka,19.240561,73.040875
+2000260,Mini Punjab Hotel,19.249584,73.053323
+2000261,Ovali Gaon,19.243442,73.044414
+2000262,Pimpalas Phata,19.263276,73.073842
+2000263,Bhoomi World,19.26381,73.073324
+2000264,Rajnoli / Kalyan Bypass,19.26969,73.083832
+2000265,Saibaba Mandir,19.274124,73.079636
+2000266,Siddhivinayak Plaza,19.278808,73.076092
+2000267,Power House,19.288794,73.069326
+2000268,Bhiwandi ST Stand,19.302408,73.065885
+2000269,Vanjar Patti Naka,19.307457,73.064914
+2000270,Chattrapati Shivaji Maharaj Chowk (Bhiwandi),19.30524,73.058487
+2000271,Power House,19.293581,73.054377
+2000272,Mulund Station West,19.173763,72.957182
+2000273,Vandana Hotel,19.1769,72.95253
+2000274,Anjur Phata,19.190466,72.976308
+2000275,Narpoli,19.280999,73.048341
+2000276,Anjur Phata,19.273621,73.042489
+2000277,Rahanal,19.261938,73.030242
+2000278,Laxmi Chirag Nagar Thane West,19.206105,72.970851
+2000279,Kamgar hospital (Mulund),19.179042,72.945486
+2000280,Dnyan Sarita Vidyalaya,19.178714,72.950679
+2000281,Majiwada BMC Office,19.211762,72.981687
+2000282,Kharegaon Phata,19.208233,73.000304
+2000283,Alimghar,19.203762,73.036324
+2000284,Toll Naka / KMS,19.212555,73.00754
+2000285,Diva (Highway),19.230199,73.027816
+2000286,Vehale Panchayat,19.233375,73.041755
+2000287,Shri Ram Nagar,19.229415,73.042511
+2000288,Surai Phata,19.219889,73.042535
+2000289,Anjur Gaon,19.214976,73.038262
+2000290,Hariniwas,19.212212,73.037407
+2000291,Tukaram Niwas,19.209907,73.037039
+2000292,Kalyan Naka,19.296426,73.063428
+2000293,Dhanwantari Hospital,19.176124,72.953396
+2000294,Kannada School,19.181135,72.953843
+2000295,Mulund Check Naka,19.182941,72.953536
+2000296,Teen Hath Naka / Highway Darshan,19.189181,72.963245
+2000297,Saket Phata,19.209271,72.993783
+2000298,Arun Kumar Company,19.245379,73.048031
+2000299,Bhiwandi Municipal Office,19.298551,73.064875
+2000300,Gokul Nagar Bhiwandi,19.309621,73.064679
+2000301,Datta Mandir Balkum Pada,19.22392,72.988907
+2000302,Kapurbawdi,19.217907,72.980073
+2000303,Color Chem Company,19.220026,72.986506
+2000304,Khandagale Estate,19.260578,73.028406
+2000305,Holy Mary School,19.264652,73.032658
+2000306,Narpoli,19.276517,73.044396
+2000307,Narpoli Police Station,19.280968,73.047921
+2000308,Balkum,19.221383,72.989359
+2000309,Velo House/Ashok Nagar,19.22236,72.993937
+2000310,Dadlani Park,19.222516,72.995878
+2000311,Highland Park,19.222391,72.982239
+2000312,Highland School,19.222833,72.985028
+2000313,Mhada Vasahat,19.154165,72.85644
+2000314,Runwal Garden City,19.223049,72.988121
+2000315,Castle Mill,19.194387,72.977462
+2000316,Prabhat Cinema,19.191758,72.968743
+2000317,Big bazar,19.217657,72.981251
+2000318,Abhiruchi Hotel,19.204493,72.978061
+2000319,Kapurbawdi (Big Bazaar),19.217911,72.980077
+2000320,Big bazar,19.272303,72.88245
+2000321,Rutu Park,19.22555,72.97997
+2000322,Dhokali,19.227263,72.980442
+2000323,Neelkanth Valley Tower,19.228317,72.982121
+2000324,Wellman Company,19.229614,72.984201
+2000325,Everest Road Corner,19.230586,72.985469
+2000326,Everest Circle,19.232214,72.984654
+2000327,Everest Gate No 3,19.231732,72.985098
+2000328,Kolshet Gaon,19.239114,72.990808
+2000329,Air Force Station,19.240204,72.991736
+2000330,Kolbad,19.204066,72.977168
+2000331,Ramon & Demn,19.22153,72.979035
+2000332,Siddheshwar Garden,19.228451,72.982263
+2000333,Bayer India,19.23129,72.986245
+2000334,Sandoz Baug,19.23337,72.987707
+2000335,Novartis,19.234962,72.988591
+2000336,Boehringer Knoll,19.237604,72.990023
+2000337,Kolshet,19.239112,72.990808
+2000338,Manorama Nagar,19.1873,72.9772
+2000339,Gaondevi Mandir,19.2296,72.9801
+2000340,Thane Station Satis (West),19.2324,72.9808
+2000341,Ice Factory,19.2272,72.9807
+2000342,Hariniwas,19.2256,72.9809
+2000343,Vandana Cinema,19.2221,72.9824
+2000344,Makhmali Talao,19.2184,72.9839
+2000345,S T Workshop,19.2175,72.9799
+2000346,Manorpada,19.2143,72.978
+2000347,Kolbad,19.2105,72.9774
+2000348,Castle Mill,19.2085,72.9772
+2000349,Gokul Nagar,19.2055,72.9777
+2000350,Muktai Nagar,19.2042,72.9774
+2000351,Majiwada Naka,19.2026,72.9764
+2000352,Kapurbawdi,19.2005,72.9733
+2000353,Yashaswi Nagar,19.1983,72.9719
+2000354,Highland Park,19.194,72.9705
+2000355,Shruti Park,19.1917,72.9687
+2000356,Dhokali,19.1874,72.9686
+2000357,Aban Park,19.1879,72.9739
+2000358,Kolshet Gaon,19.244065,72.996297
+2000359,Shruti Park,19.22557,72.980927
+2000360,Dnyan Sarita Vidyalaya,19.187606,72.971727
+2000361,Yashodhan Nagar,19.192912,72.970176
+2000362,Lokmanya Nagar,19.194274,72.95163
+2000363,Davale Nagar,19.208595,72.953499
+2000364,Agriculture,19.187598,72.971727
+2000365,Santoshi Mata Mandir,19.18327,72.950239
+2000366,AmbajiDham,19.17809,72.94994
+2000367,Mulund Pachrasta,19.175473,72.952895
+2000368,ShivSena Shakha,19.173807,72.951816
+2000369,Mulund Station West,19.194535,72.951638
+2000370,Wagle Agar,19.20256,72.97884
+2000371,Telephone Exchange,19.187139,72.977221
+2000372,Santoshi Mata Mandir,19.19776,72.97613
+2000373,ShivSena Shakha,19.173807,72.954816
+2000374,Forest Office,19.194387,72.964704
+2000375,Johnson Company,19.191758,72.968743
+2000376,Highland Heavan (Balkum),19.21672,72.990937
+2000377,Fire Brigade/ Yashasvi Nagar,19.218302,72.983561
+2000378,Iskcon Temple,19.223273,72.988581
+2000379,Vandana Hotel,19.190466,72.976308
+2000380,Pawar Nagar,19.187631,72.971507
+2000381,Minatai Thakare Garden,19.206307,72.956873
+2000382,Kamgar hospital (Thane),19.191758,72.968743
+2000383,Mahatma Phule Nagar,19.205126,72.953952
+2000384,Runwal Plaza,19.207716,72.957808
+2000385,Kores Company,19.209332,72.961284
+2000386,Palaydevi Mandir,19.223317,72.957473
+2000387,Devi Dayal Company,19.220516,72.961862
+2000388,Lokpuram,19.191453,72.967436
+2000389,Harshid park,19.188998,72.96768
+2000390,Shaskiya Vishramgruh (Kopri),19.182428,72.970545
+2000391,Bhaskar colony,19.186397,72.967217
+2000392,Saraswati School,19.187377,72.96738
+2000393,Automatic,19.210409,73.015932
+2000394,MIDC (Wagle Estate),19.20895,73.013135
+2000395,Road No.16,19.206551,73.009953
+2000396,MTNL Thane,19.20576,73.008756
+2000397,Wagle Circle,19.205632,73.008486
+2000398,Ravi Fisheries,19.204848,73.007304
+2000399,ITI (Dharmaveer Anand Dhighe),19.202935,73.004589
+2000400,Ram Nagar,19.20179,73.001705
+2000401,EMCO,19.200476,72.999166
+2000402,Wagle Agar,19.198784,72.995696
+2000403,EMCO,19.200826,72.943764
+2000404,Ram Nagar,19.198628,72.943483
+2000405,ITI (Dharmaveer Anand Dhighe),19.195491,72.94328
+2000406,MTNL Thane,19.194533,72.95164
+2000407,Majiwada Goan,19.21083,72.98406
+2000408,Majiwada Goan,19.211964,72.980704
+2000409,Lodha Complex,19.214465,72.984139
+2000410,Lodha Iris,19.215156,72.985845
+2000411,Indira Nagar,19.191758,72.968743
+2000412,Dnyanodaya Vidyalaya,19.207059,72.950648
+2000413,Tata Motors,19.199988,72.949306
+2000414,Mulund Station West,19.191453,72.967436
+2000415,Dnyanasadhana College,19.184591,72.961531
+2000416,Forest Office,19.207306,72.977389
+2000417,Eternity Sankul,19.18745,72.963487
+2000418,Parab Wadi,19.183458,72.964337
+2000419,Mental Hospital,19.18332,72.96221
+2000420,Desai Banglaw,19.205588,72.978369
+2000421,Modela Checknaka,19.185535,72.956597
+2000422,Mulund Station West,19.174044,72.954427
+2000423,Gavan Pada,19.173877,72.961924
+2000424,Adverse Society,19.170842,72.96198
+2000425,Sane Guruji Nagar,19.166414,72.960184
+2000426,Kelkar College,19.162738,72.956645
+2000427,Dharmachapada/Brahmand Society,19.247474,72.986142
+2000428,Bramhand,19.241155,72.981238
+2000429,Kadam Pada,19.178706,72.947909
+2000430,Brahmand Phase - 5,19.246483,72.98468
+2000431,Brahmand Phase - 6,19.244907,72.983559
+2000432,Swastik Park,19.243384,72.982932
+2000433,Brahmand Phase - 1,19.241116,72.981586
+2000434,Khewra Circle,19.232054,72.970283
+2000435,Maharashtra Nagar,19.230215,72.970176
+2000436,Maruti Mandir,19.219501,72.966079
+2000437,Shastri Nagar Building No.3,19.212284,72.960248
+2000438,Aai Mata Mandir,19.207012,72.956933
+2000439,Veena Nagar,19.181879,72.947154
+2000440,Vikhroli Station Road,19.1085,72.9325
+2000441,Anandnagar Check naka (kopri),19.1736,72.9683
+2000442,Dombivali Railway Station East,19.217377,73.089391
+2000443,Tilak Chowk,19.215556,73.094434
+2000444,Aajde Gaon (Gharda Circle),19.214674,73.102121
+2000445,Pendharkar Collage,19.213356,73.10573
+2000446,Milap Nagar,19.211976,73.107493
+2000447,Davdi Naka,19.207185,73.109342
+2000448,Shankara Nagar,19.201054,73.103099
+2000449,Sonarpada Naka,19.197352,73.0997
+2000450,Mhatre Pada (Mangaon),19.190347,73.094353
+2000451,Vaze Chowk,19.215548,73.094435
+2000452,Manpada Petrol Pump,19.186828,73.091993
+2000453,Regency Tower (Diva),19.186796,73.090966
+2000454,Sandap Gaon,19.186943,73.089222
+2000455,Usarghar Naka / Phata,19.181237,73.072993
+2000456,Marathon Nest World,19.163484,73.057269
+2000457,Betavade Gaon Phata,19.189671,73.069415
+2000458,Agasan Gaon,19.178822,73.062664
+2000459,Bedekar English School,19.182006,73.059244
+2000460,Ganesh Nagar,19.18193,73.057499
+2000461,Global School / Dativali Phata,19.183471,73.055625
+2000462,Saideep Building,19.183969,73.048478
+2000463,S M G School,19.184291,73.046876
+2000464,Diva Railway Station East,19.188649,73.042828
+2000465,Marathon Nest World,19.160728,73.055552
+2000466,Shivaji Chowk,19.217355,73.088932
+2000467,National School,19.17857,73.044492
+2000468,Shil Gaon,19.14258,73.037801
+2000469,Punjab Puja Hotel Mahape,19.139738,73.036326
+2000470,CIDCO Water Supply,19.127285,73.034982
+2000471,Khadichi Machine (Mahape),19.12082,73.035296
+2000472,Bajrang Hotel,19.112066,73.033175
+2000473,Larson Tubro,19.110866,73.02966
+2000474,Lipi Computer,19.11215,73.025755
+2000475,Mahape Circle,19.112821,73.021602
+2000476,Nelco,19.107374,73.023028
+2000477,Ramnath Solar,19.103341,73.024622
+2000478,Pawan Industries (Pawne),19.09737,73.026328
+2000479,Krishna Steel (Pawne),19.092353,73.027176
+2000480,Hayco (Pawne),19.089655,73.027637
+2000481,Shalimaar,19.085614,73.028066
+2000482,Sunravi Printers,19.080202,73.027017
+2000483,Bagade Engineers,19.075044,73.027554
+2000484,Indira Nagar,19.071412,73.0279
+2000485,Pfizer Company,19.070772,73.025106
+2000486,Turbhe Naka,19.070271,73.020005
+2000487,Datta Mandir Balkum Pada,19.066359,73.01595
+2000488,Turbhe Gaon,19.067182,73.013719
+2000489,Sanpada Railway Station,19.067018,73.009249
+2000490,MAFCO Market,19.07041,73.009029
+2000491,A.P.M.C. Market,19.073454,73.008399
+2000492,Kanda Batata Market,19.073675,73.005745
+2000493,Saint Lawrence High school,19.07406,73.001184
+2000494,Vashi Depot,19.07585,72.998153
+2000495,Navratna Hotel,19.072818,72.997804
+2000496,Apna Bazar (Vashi Sector - 17),19.070141,72.997509
+2000497,Centre One Mall,19.06854,72.99677
+2000498,Vashi Railway Station,19.063844,72.997287
+2000499,Rameshwar Nagar,19.204262,73.009654
+2000500,Indira Nagar / Rameshwar Nagar,19.203301,73.006916
+2000501,Anand Vihar/Kharegoan Fata,19.201824,73.001357
+2000502,Kalwa Station Phata,19.201345,73.000203
+2000503,Kanhoji Angre Chowk,19.194387,72.983212
+2000504,Manisha Nagar,19.191758,72.968743
+2000505,Krishiutpanna Bajar Samiti (APMC),19.084455,73.006283
+2000506,Mahape Lokmat,19.111125,73.009472
+2000507,Airoli Railway Station,19.160336,72.999894
+2000508,Vitava Naka (Kaman),19.187407,72.99032
+2000509,Parsik Nagar,19.21048,73.016241
+2000510,Sahakar Vidya Mandir,19.197692,72.993543
+2000511,Kalwa Aagar / Chh. Shivaji Maharaj Hospital,19.19183,72.987839
+2000512,Ganpati Pada,19.184959,72.993125
+2000513,Mukund Company,19.182007,72.995657
+2000514,Ambedkar Nagar / Ganesh Nagar,19.180297,72.996379
+2000515,Digha Gaon,19.175233,72.998174
+2000516,Reliance Plaza,19.168332,72.999356
+2000517,Airoli Naka,19.166229,72.999664
+2000518,Mind Space,19.163351,73.000042
+2000519,Bharat Bijlee,19.156479,73.000355
+2000520,Siemens Company,19.150547,73.000777
+2000521,Rabale Police Station,19.146043,73.000995
+2000522,Rabale Naka,19.142652,73.002417
+2000523,Rabale Railway Station (Gothavali Gaon),19.137819,73.003156
+2000524,Talavali Naka,19.130802,73.003557
+2000525,Ghansoli Naka,19.126149,73.004744
+2000526,Standard Alkali,19.11985,73.006409
+2000527,Ghansoli Railway Station,19.116327,73.00811
+2000528,Mahape Naka,19.11378,73.008887
+2000529,Dhirubhai Ambani Knowledge City,19.106248,73.011324
+2000530,Koparkhairane Railway Station,19.1031,73.012349
+2000531,Koparkhairane Gaon,19.097924,73.014975
+2000532,Reliance Silicon,19.095733,73.016662
+2000533,Shwan Niyantran Kaksha,19.091118,73.011595
+2000534,Kopari,19.087996,73.009806
+2000535,Krishiutpanna Bajar Samiti (APMC),19.075603,73.009754
+2000536,Modern College,19.076714,73.002908
+2000537,Ganesh Tower (Sector 17),19.070768,72.997605
+2000538,Kalwa Depot,19.1913,72.9881
+2000539,Rabale Railway Station,19.1378,73.0033
+2000540,Nausil Talawali Naka,19.1309,73.0037
+2000541,Helen Keller Institute,19.1131,73.0124
+2000542,R-mall,19.20256,72.97884
+2000543,R-mall,19.2302,72.9769
+2000544,Majiwada Naka,19.194387,72.978
+2000545,Post Office/Civil,19.199,72.9799
+2000546,Kalwa Naka,19.191758,72.968743
+2000547,Helen Keller Institute,19.191453,72.967436
+2000548,Millennium Business Park,19.1143,73.0171
+2000549,Neelkanth Green Society,19.2414,72.9721
+2000550,Lockim Company,19.191453,72.967436
+2000551,Mulla Baug,19.188998,72.96768
+2000552,Patlipada,19.187631,72.971507
+2000553,Vihang Valley,19.267614,72.961426
+2000554,Vihang Valley Phase 2,19.267085,72.962072
+2000555,Rosa Gardenia  Arogya Kendra,19.266691,72.96262
+2000556,Bhakti Park,19.264086,72.967532
+2000557,Waghbil Naka,19.194387,72.972323
+2000558,Mulla Baug,19.191758,72.968743
+2000559,Navnit Motors,19.210536,72.977354
+2000560,Kharegaon,19.20179,73.001705
+2000561,New Passport Office,19.201166,72.947622
+2000562,Tata Motors,19.197676,72.949391
+2000563,Durdhwani kendra,19.194275,72.951629
+2000564,Sachinam Society,19.224579,72.994097
+2000565,Ashapura Mandir,19.218968,72.985053
+2000566,Majiwada Naka,19.218312,72.98356
+2000567,Muktai Nagar,19.21775,72.9819
+2000568,Gokul Nagar,19.220794,72.978003
+2000569,Castle Mill,19.214303,72.978002
+2000570,K Villa,19.21057,72.977289
+2000571,Police Line,19.208532,72.977107
+2000572,Civil Hospital,19.207306,72.977389
+2000573,Tembhi Naka,19.207306,72.977389
+2000574,Namdev Wadi,19.214303,72.978002
+2000575,Ramchandra Nagar,19.21057,72.977289
+2000576,Dnyaneshwar Nagar,19.208532,72.977107
+2000577,Kamgar hospital (Thane),19.218214,72.981886
+2000578,Savarkar Nagar,19.207306,72.977389
+2000579,Lokmanya Nagar,19.18728,72.977198
+2000580,Nitin Company,19.194387,72.96331
+2000581,ST Stand (Swarg),19.187206,72.977018
+2000582,Wagle Agar,19.20161,72.94594
+2000583,Sathe Nagar,19.200869,72.948967
+2000584,Jost Colony,19.202384,72.949391
+2000585,Indira Nagar,19.204769,72.949893
+2000586,Dnyaneshwar Nagar,19.20199,72.957969
+2000587,Vaiti Wadi,19.201917,72.958956
+2000588,Ramchandra Nagar,19.200085,72.962644
+2000589,Nitin Company,19.199239,72.964744
+2000590,Namdev Wadi,19.198264,72.966822
+2000591,TMC Office,19.197056,72.967522
+2000592,Parmarth Niketan,19.194504,72.966822
+2000593,Pradeep Society/Panch Pakhadi,19.193548,72.967381
+2000594,Gaondevi Mandir,19.187866,72.973926
+2000595,Aradhana Cinema,19.192624,72.968335
+2000596,Pradeep Society,19.1935,72.967154
+2000597,Lodha/Tata Motors,19.197801,72.949107
+2000598,School No. 7,19.201798,72.977744
+2000599,Uthalsar,19.202942,72.977995
+2000600,Gokul Nagar,19.209484,72.977036
+2000601,Muktai Nagar,19.211047,72.977111
+2000602,Oswal Park,19.214712,72.975961
+2000603,Glaxo Company,19.219075,72.967235
+2000604,Kokanipada(Pokharan 2),19.221302,72.959634
+2000605,Gavandbaug,19.221233,72.959083
+2000606,Shivai Nagar/Cosmos,19.216892,72.95866
+2000607,Balkum Pada No.3,19.216718,72.990922
+2000608,Rabodi Phata,19.204795,72.985084
+2000609,Chendani Koliwada,19.188523,72.979311
+2000610,Daddoji Konndev Stadium,19.191553,72.980536
+2000611,Saket,19.2062,72.9921
+2000612,Mahalaxmi Mandir(Saket),19.206272,72.992162
+2000613,Jalaram Bappa Mandir,19.217005,72.990721
+2000614,Balkum Pada No.2,19.219974,72.989862
+2000615,Balkum Naka,19.221491,72.989548
+2000616,Rigency Society,19.226,72.9968
+2000617,Datta Mandir Balkum Pada,19.228252,72.999785
+2000618,Chamunda Kms,19.231702,73.007403
+2000619,Kasheli,19.236223,73.014764
+2000620,Durgesh Saj,19.23889,73.015786
+2000621,Hanuman Complex,19.241589,73.0167
+2000622,Durgesh Park,19.244358,73.01741
+2000623,Kalher,19.248144,73.017745
+2000624,Pipe Line (Kalher Gram Panchayat),19.251349,73.017988
+2000625,Kopar,19.25276,73.02132
+2000626,Purna,19.258301,73.0264
+2000627,Saraswati School,19.202274,72.98544
+2000628,Panchganga Society,19.205039,72.985189
+2000629,Godavari Society,19.206666,72.987301
+2000630,Rustomjee Acura,19.207942,72.987395
+2000631,Rustomjee Aziano,19.208764,72.988568
+2000632,Rustomjee Urbania,19.209661,72.98821
+2000633,Rabodi Phata,19.209245,72.993778
+2000634,Tulsi Dham,19.20895,73.013135
+2000635,Tulsi Dham,19.222352,72.973292
+2000636,Dharamveer Nagar,19.222485,72.97183
+2000637,K Villa,19.202421,72.978918
+2000638,Anand Nagar Agar,19.264861,72.969713
+2000639,Swastik Society,19.263752,72.971313
+2000640,Hotel Shambhuji,19.260297,72.971715
+2000641,Cosmos Park,19.25949,72.972419
+2000642,Anunagar / Vijay Nagari Annex,19.257532,72.974073
+2000643,Siddhivinayak Tower,19.209729,72.974609
+2000644,Flower Valley,19.207676,72.972515
+2000645,Jupiter Hospital,19.209003,72.973314
+2000646,Hyde Park,19.225441,72.977167
+2000647,Poushmata Mandir,19.281082,72.955071
+2000648,Kalsekar College,19.159251,73.030396
+2000649,Vrindavan Society,19.20841,72.982756
+2000650,Amrut Aangan,19.208824,73.012975
+2000651,Subhash Tower,19.20768,73.011544
+2000652,Sukur Park,19.198781,72.995693
+2000653,Rabodi,19.205996,72.982151
+2000654,Dr. Ambedkar Road,19.194354,72.977032
+2000655,Shrirang Society,19.206156,72.98011
+2000656,ITI (Dharmaveer Anand Dhighe),19.208532,72.977107
+2000657,Ram Nagar,19.218214,72.981886
+2000658,K Villa,19.204669,72.978188
+2000659,Emco company gate,19.207306,72.977389
+2000660,Pioneer,19.201992,72.943969
+2000661,Emco company gate,19.200826,72.943764
+2000662,Ram Nagar,19.19776,72.97613
+2000663,ITI (Dharmaveer Anand Dhighe),19.224579,72.994097
+2000664,Ravi Fisheries,19.194361,72.976971
+2000665,Sukur Park,19.197706,72.993536
+2000666,Police Line,19.201198,72.979511
+2000667,Mumbra Petrol Pump,19.19502,73.023026
+2000668,Civil Hospital/Court,19.197046,72.978538
+2000669,Talao Pali,19.194361,72.976963
+2000670,Parsik Bank,19.2034,73.0017
+2000671,Prabhat Cinema,19.190466,72.976308
+2000672,Thane Station Satis (West),19.187131,72.977212
+2000673,Mahalaxmi Mandir,19.206272,72.992162
+2000674,Rabodi Chowk,19.203213,72.980864
+2000675,Tembhi Naka,19.198908,72.978883
+2000676,Jambhali Naka,19.19436,72.977028
+2000677,A K Joshi School,19.187563,72.971663
+2000678,Hiranandani Estate / Gold Craft,19.2572,72.9837
+2000679,Ice Factory,19.187196,72.968798
+2000680,Hiranandani Circle,19.2545,72.9818
+2000681,Hiranandani (Indian Bank),19.2504,72.9795
+2000682,Leona,19.2525,72.981
+2000683,Shree Ma Baal Niketan,19.25,72.9794
+2000684,Aayukta Bunglow,19.2483,72.9779
+2000685,Atria Society,19.2455,72.9822
+2000686,Brahmand (Dharmacha Pada),19.2477,72.9832
+2000687,Azad Nagar Naka,19.2396,72.9807
+2000688,Shahu Market,19.188666,72.967521
+2000689,Hariniwas,19.190464,72.967672
+2000690,Mithagar,19.1655,72.964
+2000691,Airoli Bridge Signal,19.1555,72.9572
+2000692,Bhandup Pumping,19.1514,72.9542
+2000693,Bhandup Gaon,19.1442,72.9501
+2000694,Kanjur Goan,19.1303,72.9415
+2000695,Vikhroli Police Station,19.1204,72.9369
+2000696,Kannamwar Nagar,19.1165,72.9353
+2000697,Forest Office,19.188927,72.964704
+2000698,Vikhroli Gaon,19.1037,72.93
+2000699,godrej Boyce,19.1014,72.9291
+2000700,Godrej Soap,19.0932,72.9257
+2000701,Ghatkopar Crossing,19.0838,72.9206
+2000702,Ramabai Nagar,19.0787,72.9161
+2000703,Nalanda,19.075,72.9127
+2000704,R.T.O / Kamraj Nagar,19.0733,72.9105
+2000705,Chedda Nagar,19.0694,72.9047
+2000706,Sahakar Nagar,19.0654,72.8943
+2000707,Kapadia Nagar,19.0755,72.8728
+2000708,Teen Hath Naka,19.18777,72.962993
+2000709,BKC Telephone Exchange,19.0711,72.8716
+2000710,City Bank,19.0688,72.8678
+2000711,Diamond Market,19.0671,72.8649
+2000712,ICICI Bank (BKC),19.0649,72.8615
+2000713,Bharat Nagar,19.0617,72.8591
+2000714,Tata Colony,19.06,72.8565
+2000715,Reserve Bank India (BKC),19.0579,72.8531
+2000716,Johnson Company,19.186689,72.961377
+2000717,Retibunder No. 3,19.209265,73.017239
+2000718,Kashish Park,19.185608,72.957735
+2000719,Mulund Check Naka,19.185453,72.95625
+2000720,Automatic,19.187429,72.955155
+2000721,MIDC (Wagle Estate),19.191099,72.955251
+2000722,Road No.16,19.193359,72.953792
+2000723,Girikunj Society,19.281207,72.952172
+2000724,Vihang Hills,19.279702,72.952829
+2000725,Vihang Vermont,19.278706,72.953519
+2000726,JVM COURT,19.279215,72.955073
+2000727,Godrej Emerald,19.280893,72.950969
+2000728,JVM COURT,19.281207,72.952172
+2000729,Wagle Circle,19.194772,72.949908
+2000730,Girikunj Society,19.279215,72.955073
+2000731,Bradma Company,19.196093,72.954941
+2000732,Muktai Nagar,19.2066,73.01
+2000733,Majiwada Naka,19.2058,73.0088
+2000734,Kapurbawdi,19.2056,73.0085
+2000735,Tatvadnyan Vidyapeeth,19.2048,73.0073
+2000736,Lockim Company,19.2029,73.0046
+2000737,Manpada,19.2018,73.0017
+2000738,Sahyog Society,19.2005,72.9992
+2000739,Dharamveer Nagar,19.1988,72.9957
+2000740,Happy Vally Tower,19.1977,72.9935
+2000741,Garden Estate,19.1955,72.9872
+2000742,Ambika Nagar,19.197731,72.955528
+2000743,Kokanipada,19.1972,72.9831
+2000744,Hill Garden,19.1989,72.9811
+2000745,Kokanipada/Tikujini wadi,19.1989,72.9789
+2000746,Kokanipada/Tikujini wadi,19.2368,72.967
+2000747,Hill Garden,19.2352,72.9664
+2000748,Kokanipada,19.2336,72.9659
+2000749,Garden Estate,19.2334,72.967
+2000750,Happy Vally Tower,19.2329,72.9697
+2000751,Dharamveer Nagar,19.2366,72.9707
+2000752,Sahyog Society,19.2364,72.9726
+2000753,Agriculture,19.200192,72.953854
+2000754,Jai Bhavani Nagar,19.202561,72.95368
+2000755,Kamgar hospital (Thane),19.203677,72.954017
+2000756,Savarkar Nagar,19.205981,72.954176
+2000757,Yashodhan Nagar,19.208033,72.954649
+2000758,Lokmanya Nagar,19.209404,72.952264
+2000759,Siddhanchal Club House,19.225834,72.965277
+2000760,Jiddh School/HDFC bank,19.223118,72.964383
+2000761,Amrapali Arcade,19.222577,72.966486
+2000762,Panchavati Society,19.222118,72.966412
+2000763,Asian Cable,19.219538,72.964837
+2000764,Bethany Hospital,19.220362,72.961519
+2000765,Laxminarayan Complex,19.220218,72.960216
+2000766,Cosmos,19.216697,72.958741
+2000767,Devdaya Nagar,19.215039,72.95834
+2000768,Shastri Nagar,19.21358,72.959328
+2000769,Building No. 3,19.212283,72.960239
+2000770,Vartak nagar,19.209627,72.96245
+2000771,Raymond Company,19.20742,72.965183
+2000772,Cadbury Company,19.205594,72.967178
+2000773,Cadbury Junction,19.204017,72.968689
+2000774,Siddheshwar Talao,19.202592,72.967199
+2000775,Louis Wadi,19.19561,72.962633
+2000776,R.T.O Office Thane New,19.192939,72.962937
+2000777,Highway Darshan / Teen Hath Naka,19.189181,72.963245
+2000778,Sambhaji Nagar,19.200944,72.964474
+2000779,Neelkanth Terminus,19.221198,72.95995
+2000780,Malhar Cinema,19.18743,72.966986
+2000781,Aaykar Bhavan,19.188039,72.964625
+2000782,Murphy Company,19.19006,72.96309
+2000783,J. K. Gram,19.207916,72.964212
+2000784,Shastri Nagar Naka,19.214121,72.958555
+2000785,Civil Hospital/Court,19.199298,72.977355
+2000786,Shishu Dnyan Mandir,19.199931,72.977267
+2000787,New Shakti Mill,19.200647,72.975583
+2000788,Khopat,19.202898,72.972117
+2000789,Punjani Estate,19.204058,72.969832
+2000790,Shastri Nagar Thane,19.213433,72.959045
+2000791,Shivai Nagar,19.215732,72.956288
+2000792,Upvan,19.221358,72.954587
+2000793,Teen Petrol Pump Junction,19.192912,72.970176
+2000794,Vandana Cinema,19.194509,72.970496
+2000795,Makhmali Talao,19.198134,72.971685
+2000796,S T Workshop,19.20077,72.973218
+2000797,Shivai Nagar/Cosmos,19.215736,72.956283
+2000798,Khandelwal Estate,19.217244,72.954236
+2000799,Bhukendra,19.218596,72.952714
+2000800,Upvan,19.223316,72.957472
+2000801,Gavand Baug (Upavan),19.221233,72.959083
+2000802,Castle Mill,19.205346,72.977436
+2000803,Subhash Tower,19.216235,72.973884
+2000804,Voltas Company,19.216905,72.971833
+2000805,Gandhi Nagar,19.218122,72.970174
+2000806,Jawahar Nagar,19.22025,72.970206
+2000807,Vasant Vihar,19.221493,72.969774
+2000808,Lokpuram,19.224772,72.969732
+2000809,Eden Wood,19.227844,72.969631
+2000810,Harshid park,19.228555,72.96703
+2000811,Pawar Nagar,19.228868,72.966001
+2000812,Ambika Yog Kutir,19.207388,72.977438
+2000813,Civil Hospital,19.199233,72.977654
+2000814,Central Maidan,19.199081,72.978824
+2000815,Aaykar Bhavan,19.194387,72.9646
+2000816,Murphy Company,19.191758,72.968743
+2000817,Vartaknagar Police Station,19.2132,72.9628
+2000818,Bhim Nagar,19.2149,72.9637
+2000819,Murphy Company,19.192872,72.963084
+2000820,Cadbury Company,19.194387,72.967108
+2000821,Shastri Nagar Thane,19.191758,72.968743
+2000822,Air Force Yeoor,19.224491,72.949582
+2000823,Yeoor Village,19.22521,72.949603
+2000824,Gau Shala,19.229341,72.94832
+2000825,Parmarth Niketan,19.233767,72.946124
+2000826,Parsik Shiv Mandir,19.23658,72.94464
+2000827,Yeoor Patonapada,19.240221,72.943157
+2000828,Vartak nagar,19.188998,72.96768
+2000829,Cadbury Company,19.187631,72.971507
+2000830,Thane East Kopri,19.18516,72.974332
+2000831,Gurukul Society,19.195625,72.964862
+2000832,Payal Hotel,19.196504,72.960907
+2000833,Kajuwadi,19.197543,72.960407
+2000834,Automatic,19.194387,72.955155
+2000835,Neptune Element,19.192336,72.949515
+2000836,MIDC (Wagle Estate),19.191758,72.968743
+2000837,Thane Station Satis (West),19.194387,72.977198
+2000838,Forest Office,19.191758,72.968743
+2000839,Automatic,19.191453,72.967436
+2000840,Johnson Company,19.188998,72.96768
+2000841,Forest Office,19.187631,72.971507
+2000842,Holy Cross School,19.203396,72.978706
+2000843,Majiwada Naka,19.214488,72.977337
+2000844,Ashapura Mandir,19.216265,72.977707
+2000845,Majiwada Gaon Corner,19.214696,72.979441
+2000846,Sachinam Society,19.21472,72.979812
+2000847,Majiwada Goan,19.215085,72.97817
+2000848,Tembhi Naka,19.1978,72.9761
+2000849,Laxmi Park,19.212,72.9553
+2000850,S T Old bus stop,19.2136,72.9593
+4000001,Chakki Naka,19.2241,73.12676
+4000002,Gove,19.25639,73.09533
+4000003,Samarth Engineering,19.25017,73.1029
+4000004,Pimpalghar,19.26034,73.09162
+4000005,Satnam Industries,19.26378,73.08764
+4000006,Ranjnoli,19.26909,73.08363
+4000007,Pipeline  40,19.17174,73.08248
+4000008,Chetna High School,19.21965,73.12841
+4000009,Mamta Hospital/ Aims Hospital,19.20799,73.10362
+4000010,Model College,19.20352,73.1036
+4000011,Niwasi Vibhag,19.20458,73.10178
+4000012,Nekni Pada,19.20473,73.10684
+4000013,Pimpaleshwar,19.19251,73.09604
+4000014,Manpada,19.18672,73.09189
+4000015,Premier Colony,19.18031,73.08863
+4000016,Kolegaon Fata,19.17676,73.08675
+4000017,Nandivali,19.21204,73.13226
+4000018,Vaibhav Nagari,19.17433,73.08502
+4000019,Katai Naka,19.16911,73.07983
+4000020,Namskar Dhaba,19.20704,73.13426
+4000021,Dwarli,19.20162,73.13651
+4000022,Bhal,19.18948,73.13865
+4000023,Waylenagar,19.25316,73.13443
+4000024,Tanaji Nagar,19.25282,73.13129
+4000025,Gaykar Pada,19.25248,73.12898
+4000026,Wadeghar,19.25027,73.12266
+4000027,Durgadi Chowk,19.2469,73.12051
+4000028,Telavane Hospital,19.24488,73.12812
+4000029,Shahad Bridge,19.24311,73.15554
+4000030,Ganesh Kot Office,19.24657,73.1568
+4000031,Umbarli,19.17735,73.11676
+4000032,Shahad Gaon,19.2493,73.15841
+4000033,Idi Gate,19.25175,73.16013
+4000034,Shivsrishti,19.26222,73.16955
+4000035,Mohana Gate,19.26536,73.17268
+4000036,Fule Nagar,19.26289,73.17877
+4000037,R.S.,19.26136,73.17996
+4000038,Tare Market,19.26052,73.18131
+4000039,Khoni Shiv Mandir,19.16612,73.11593
+4000040,Mohana Colony (H.N.),19.26044,73.18408
+4000041,Vadavalli Fatak,19.2582,73.16553
+4000042,Dsk / Smashan Bhumi,19.23728,73.12534
+4000043,Pagdyacha Pada,19.15555,73.11825
+4000044,Usatane,19.12075,73.12509
+4000045,Nagzari,19.10384,73.12529
+4000046,Aadharwadi Chowk,19.25211,73.12611
+4000047,Igpl,19.08996,73.12988
+4000048,Bail Bazar,19.23755,73.12558
+4000049,Khadi Machine,19.13467,73.16238
+4000050,Netivali,19.22731,73.12399
+4000051,New Power House,19.20693,73.10258
+4000052,Bombay Beer,19.07715,73.13818
+4000053,Shelar Naka,19.21606,73.09909
+4000054,Manjunath College/Rbt Highschool,19.21535,73.09721
+4000055,Bajiprabhu Chowk (Dombivali),19.21775,73.08882
+4000056,Tondhare Phata,19.0818,73.13518
+4000057,Kalyan Station,19.23673,73.13028
+4000058,Dena Bank,19.06042,73.11603
+4000059,Milapnagar Coner,19.21164,73.10727
+4000060,Pendharkar,19.21321,73.10563
+4000061,Char Rasta,19.21425,73.09106
+4000062,Udyog Nagar,19.20646,73.09531
+4000063,Hindalco,19.06581,73.1261
+4000064,Star Colony,19.20342,73.09543
+4000065,Sagaon,19.19885,73.09434
+4000066,Anand Chemical/ D Mart,19.19229,73.09255
+4000067,Nawada Gaon,19.04959,73.10135
+4000068,Kalamboli Colony,19.02615,73.10571
+4000069,Aasudgaon Depot,19.0147,73.10707
+4000070,Khanda Colony,19.00581,73.10767
+4000071,Vijya Bank,19.20856,73.09423
+4000072,Pendhar Phata,19.05729,73.10867
+4000073,Aashish,19.11195,73.12577
+4000074,Abstcl,19.05648,73.10596
+4000075,Anmol Garden,19.21432,73.13115
+4000076,Khedukpada,19.04012,73.10445
+4000077,Brahman Sabha,19.21756,73.09166
+4000078,Chandrash Lodha School,19.15943,73.07595
+4000079,Chirad,19.14536,73.12096
+4000080,Road Pali,19.04307,73.10408
+4000081,Deepak Fertilizer,19.0699,73.13388
+4000082,Devadi Petrol Pump,19.20567,73.10782
+4000083,Kalamboli Highway,19.01913,73.10669
+4000084,Khoni Phata (Palava Lakeshore),19.17986,73.13322
+4000085,Milapnagar,19.20948,73.1051
+4000086,Nilje Station,19.1557,73.0789
+4000087,Thana Naka/Garden Hotel,18.99859,73.1094
+4000088,Gaon Devi Chouk,19.15564,73.07626
+4000089,Palava,19.16501,73.07561
+4000090,Dwarlipada,19.20041,73.137
+4000091,Panvel St Stand,18.9906,73.1157
+4000092,Gurukul,19.19423,73.13868
+4000093,Mangrul,19.17103,73.15292
+4000094,New Panvel Bridge,18.99477,73.11421
+4000095,Narhen Phata,19.12777,73.12418
+4000096,Panvel Station,18.9892,73.12065
+4000097,Shani Mandir/Bablu Dhaba,19.13846,73.12268
+4000098,Rambagh,19.24361,73.13043
+4000099,Varunraj Hotel,19.17835,73.1223
+4000100,Khoni Kaman,19.17774,73.11836
+4000101,Sector 3 Palava,19.17666,73.11436
+4000102,Sector 4 Palava,19.1604,73.117
+4000103,Nsc Bose Chowk/Baicha Putla,19.24227,73.13659
+4000104,Sakal Boc,19.08379,73.13386
+4000105,Vakhar Mahamand,19.07983,73.13639
+4000106,Bel Naka,19.0718,73.13752
+4000107,Netrajyoj Hospital,19.00962,73.10761
+4000108,Nawade Fata,19.05296,73.1001
+4000109,Crown Company,19.05826,73.11201
+4000110,Ramkishan,19.06299,73.12081
+4000111,Patripul,19.2313,73.12004
+4000112,Suchak Naka,19.22379,73.12249
+4000113,Sahjanand Chowk,19.24376,73.129
+4000114,Tata Power,19.22014,73.12069
+4000115,Khadakpada,19.2532,73.13655
+4000116,Panyachi Taki,19.06691,73.12824
+4000117,Nitlaj Phata,19.09694,73.12811
+4000118,Ful Market,19.23486,73.12183
+4000119,Deshmukh Hause,19.21823,73.11914
+4000120,Pandurang Wadi,19.21549,73.11694
+4000121,Gaon Devi,19.21099,73.09292
+4000122,Sai Baba Mandir,19.20255,73.09522
+4000123,Sanghvi Estate,19.19597,73.09348
+4000124,Sai Baba Mandir,19.16285,73.0753
+4000125,Kaldubai Chowk,19.16073,73.07576
+4000126,Chh. Shivaji Maharaj Chowk (Bhiwandi),19.15749,73.07604
+4000127,Golavali,19.21277,73.11474
+4000128,State Bank,19.24226,73.13976
+4000129,Bhavani Chowk,19.24309,73.15077
+4000130,Prem Auto,19.24265,73.14969
+4000131,Viko Naka,19.20968,73.11166
+4000132,Syndicate,19.24213,73.14367
+4000133,Ganesh Mandir D,19.20475,73.1048
+4000134,Temghar Fata,19.26621,73.07843
+4000135,Pournima,19.24219,73.14739
+4000136,Pimpalas Fata,19.26321,73.07387
+4000137,Pimpalghar,19.2574,73.06519
+4000138,Hp Petrol Pump,19.25007,73.05358
+4000139,Indian Oil,19.24325,73.0446
+4000140,Mankoli,19.24044,73.04122
+4000141,Ganesh Ghat Depot,19.24196,73.14905
+4000142,Pipeline  40,19.18152,73.14137
+4000143,Raheja,19.2337,73.12035
+4000144,Indiranagar,19.24436,73.14902
+4000145,Shivpremi Udyan/Bilweshar Mandir,19.15304,73.07514
+4000146,Birla College,19.24663,73.14659
+4000147,Casa Rio Gate No.2,19.15166,73.07661
+4000148,Sahyadrinagar Fata,19.24764,73.14513
+4000149,Bhoirwadi,19.24922,73.14255
+4000150,Chikanghar,19.25059,73.14069
+4000151,Kasturigram,19.25185,73.13903
+4000152,Runwal City Gate,19.18329,73.08998
+4000153,Gavdevi Mandir,19.23006,73.11224
+4000154,Kachore Mohne Srishti,19.23112,73.1177
+4000155,Kachore Koliwada,19.23097,73.11473
+4000156,Mhasoba Chowk/Thakurli Station,19.22666,73.1012
+4000157,Metro Mall,19.22869,73.12276
+4000158,Icici Bank,19.22747,73.10412
+4000159,Sarvodaya Mangal Society,19.2293,73.10964
+4000160,Vasant Park Sosa/Balaji Angan,19.22432,73.10195
+4000161,Omkar School,19.22086,73.10346
+4000162,Bandish Hotel Chowk,19.21799,73.10332
+4000163,Chhatrapati Shivaji Maharaj Chowk (Ajdegaon),19.21469,73.10203
+4000164,Parasmani,19.21554,73.09409
+4000165,Newali,19.17749,73.14869
+4000166,Newali Pada,19.17573,73.15032
+4000167,Kakadval,19.16375,73.15533
+4000168,Kharad,19.15648,73.16019
+4000169,Aambe,19.15043,73.16267
+4000170,Kushivali,19.13948,73.16264
+4000171,Malangad,19.12268,73.16299
+4000172,Gurudev Hotel,19.23931,73.1283
+4000173,Lokgram,19.22668,73.12605
+4000174,Chatrapati Shivaji Maharaj Chowk (Kalyan),19.24072,73.12942
+4000175,Sahajanand Chowk,19.24348,73.12968
+4000176,Ganesh Tower,19.24619,73.12621
+4000177,Lal Chowki,19.24645,73.12363
+4000178,Ram Tempale,19.24567,73.1133
+4000179,Kon Gaon,19.24704,73.10808
+4000180,Panyachi Taki,19.24857,73.10553
+5000001,Range Office,19.405225,72.849354
+5000002,Shiv Mandir (Sriprastha),19.419121,72.803207
+5000003,Mandvi Forest Check Post,19.476111,72.90139
+5000004,Chandeep Nagar,19.475493,72.911096
+5000005,Chandeep School,19.473827,72.91559
+5000006,Shivansai,19.473175,72.91716
+5000007,Desai Wadi,19.470144,72.924385
+5000008,Usgaon Phata,19.468468,72.928711
+5000009,Parol Phata,19.461702,72.941483
+5000010,Parol Gaon,19.460199,72.945053
+5000011,Shiravali,19.460157,72.954536
+5000012,Prank Pada,19.461857,72.960281
+5000013,Ghateghar,19.471285,72.966545
+5000014,Medhe Phata,19.481869,72.97599
+5000015,Saivan,19.482428,72.977008
+5000016,Chalisgaon,19.482876,72.990746
+5000017,Usgaon Dhar,19.485518,72.999321
+5000018,Bhowali,19.488476,73.004471
+5000019,Ganeshpuri,19.489027,73.013611
+5000020,Kanya Vidyalaya,19.48826,73.019913
+5000021,Vajreshwari Mandir,19.487167,73.026535
+5000022,Akaloli,19.483694,73.040192
+5000023,Mahalunge Phata,19.479572,73.049362
+5000024,Swarali Colony,19.475468,73.061165
+5000025,Swarali Gaon,19.474388,73.063934
+5000026,Zedke,19.470552,73.078201
+5000027,Ambadi,19.468216,73.082085
+5000028,Zedke,19.469063,73.080719
+5000029,Swarali Gaon,19.472912,73.067497
+5000030,Mahalunge Phata,19.477772,73.051727
+5000031,Akaloli,19.483318,73.042641
+5000032,Kanya Vidyalaya,19.488195,73.022507
+5000033,Ganeshpuri,19.488468,73.015999
+5000034,Bhowali,19.482302,72.98381
+5000035,Chalisgaon,19.482504,72.986145
+5000036,Saivan,19.48263,72.987564
+5000037,Polhar Highway Rasta/Vasai Phata,19.429988,72.8716
+5000038,Navjeevan,19.426646,72.86726
+5000039,Samta Nagar,19.383158,72.825316
+5000040,Meena Nagar,19.382272,72.823927
+5000041,D. G. Nagar,19.381522,72.822945
+5000042,St. Francis High School,19.383085,72.820949
+5000043,Suncity Police Chowky,19.384474,72.817965
+5000044,Suncity Rickshaw Stand,19.384609,72.816521
+5000045,Balaji Mandir,19.383434,72.81559
+5000046,Veena Velocity,19.381662,72.81562
+5000047,Dhumal Nagar,19.4238,72.865925
+5000048,Hotel Bagicha,19.33997,72.808334
+5000049,Chanebori,19.352188,72.816727
+5000050,Kerekodi Phata,19.3489,72.821243
+5000051,Kirwali,19.348141,72.821663
+5000052,Father Wadi Naka,19.402889,72.846302
+5000053,Vithal Mandir,19.420962,72.86442
+5000054,Savewadi,19.345793,72.823334
+5000055,Kochiwade,19.342695,72.82592
+5000056,Pali Church,19.341312,72.831322
+5000057,Rose Nagar,19.342695,72.835335
+5000058,Naigaon Fish Market,19.342968,72.837662
+5000059,Panju Jetty,19.343796,72.840332
+5000060,Amol Nagar,19.345127,72.844025
+5000061,Dias & Pereira Nagar,19.34671,72.845711
+5000062,Naigaon Railway Station (W),19.350239,72.846153
+5000063,Valiv Naka,19.417138,72.861621
+5000064,Kirwali,19.346418,72.808517
+5000065,Kerekodi Phata,19.346418,72.808517
+5000066,Golani Naka,19.41392,72.858252
+5000067,Chanebori,19.346418,72.808517
+5000068,Pan Phoi,19.453882,72.803602
+5000069,Old Viva College,19.458008,72.804319
+5000070,D Mart,19.459534,72.804499
+5000071,Pantaloons,19.463808,72.805138
+5000072,Agarwal Circle,19.467899,72.800789
+5000073,K Avenue,19.470928,72.805481
+5000074,I Avenue,19.473656,72.804298
+5000075,Ganpati Mandir,19.475748,72.80648
+5000076,Varun Industries Limited,19.412923,72.856771
+5000077,Chinchpada Naka,19.410232,72.854872
+5000078,Gauripada,19.407995,72.851589
+5000079,Bhuigoan,19.386084,72.775826
+5000080,Vasai S. T.,19.37945,72.828346
+5000081,Stella Apartment,19.371933,72.821732
+5000082,Bhabola Naka,19.366322,72.815538
+5000083,Kalbhat Wadi,19.360676,72.794624
+5000084,Samaj Manid,19.357445,72.789627
+5000085,Punadi Naka,19.360056,72.787102
+5000086,Yeshu Church,19.361216,72.785217
+5000087,Devde Talav,19.365021,72.782532
+5000088,Rangaon,19.367027,72.781143
+5000089,Manikpur,19.375694,72.825653
+5000090,Gokhivare Talav Vasai,19.400296,72.843066
+5000091,Mhada No. 10,19.441195,72.807449
+5000092,Mhada No. 3,19.443106,72.805183
+5000093,Fire Bridge,19.444693,72.804436
+5000094,Hp Gas Office,19.448507,72.802994
+5000095,Jakat Naka,19.450048,72.805061
+5000096,Dev Talav,19.442867,72.77626
+5000097,Vatar,19.440199,72.776405
+5000098,Khelar Stop,19.436701,72.777603
+5000099,Satpala,19.433838,72.778526
+5000100,Virat Nagar,19.449446,72.809696
+5000101,Hegdewad Ch,19.415329,72.799934
+5000102,Karari Rice,19.411053,72.800004
+5000103,Sargoti,19.403903,72.796153
+5000104,Ghas Talav,19.402528,72.794352
+5000105,Ghas Naka,19.401451,72.792754
+5000106,Navjeevan Naka,19.42655,72.866805
+5000107,Jarimari Mandir,19.419403,72.804541
+5000108,Lodha Shopp,19.419637,72.807789
+5000109,Vasai Phata,19.430989,72.872076
+5000110,Nalasopara Phata,19.440224,72.878319
+5000111,Ekta Industries,19.440197,72.875875
+5000112,Avdhut Bhagwan Ram Seva Kendra,19.439404,72.872459
+5000113,Sitaram Industries,19.43761,72.869698
+5000114,Evershine City Gate,19.399486,72.840588
+5000115,Shalimar Industries,19.437128,72.868062
+5000116,Renuka Krus,19.436458,72.864137
+5000117,Dhaniv,19.43612,72.861883
+5000118,Dhaniv Baag,19.433974,72.855084
+5000119,Lodha Shop,19.419596,72.808376
+5000120,Shree Narsingh Dubey Charitable Trust,19.432521,72.851761
+5000121,Ganesh Mandir,19.400342,72.780463
+5000122,Nirmal Vidyalaya,19.396703,72.780994
+5000123,Pushu Rugna,19.394207,72.781515
+5000124,Gujarati College,19.341767,72.805316
+5000125,Sai Ram Mandir,19.43081,72.849032
+5000126,Jai Nagar,19.418585,72.86301
+5000127,Apple Industries Hub,19.443653,72.880398
+5000128,Charo Dham Mandir,19.444925,72.8812
+5000129,Pelhal Umbr,19.446671,72.882334
+5000130,Pelhal,19.448649,72.883061
+5000131,Vishwakarma Temple,19.454433,72.884073
+5000132,Sheshnag Mahadev Mandir,19.462151,72.886552
+5000133,Bilalpada,19.429233,72.846631
+5000134,Vasai,19.382202,72.830206
+5000135,Vasai Court Tehsil,19.335515,72.807908
+5000136,Sarthak Bank,19.428329,72.844903
+5000137,Gorai Pada,19.427386,72.841351
+5000138,Santosh Bhawan Naka,19.425756,72.83786
+5000139,Aachola Gaon,19.39768,72.83568
+5000140,Narwade High School,19.425107,72.83573
+5000141,Rana Pratap,19.424388,72.833284
+5000142,Post Office,19.425002,72.827276
+5000143,Apex Boot Bazar,19.422655,72.825029
+5000144,Narayan Nagar,19.422223,72.823856
+5000145,R.J. Hotel,19.45467,72.818613
+5000146,Devkrupa Society,19.45398,72.818684
+5000147,Central Park,19.424225,72.821236
+5000148,Durdhaya Nagar,19.453168,72.81992
+5000149,Gulmohar Society,19.453609,72.820896
+5000150,Bhalchandra,19.452669,72.821838
+5000151,Gurudatt Nagar,19.451703,72.822072
+5000152,Durudatt Nagar,19.453383,72.82124
+5000153,Swaminarayan Mandir,19.423695,72.818726
+5000154,Nalasopara Railway Station (E),19.420878,72.819691
+5000155,Nalasopara Flyover,19.421527,72.821451
+5000156,Mithagar,19.393413,72.83064
+5000157,Tulinj Naka,19.421928,72.822607
+5000158,Indian Oil Corporation Limited,19.391008,72.829666
+5000159,Saley Vidhiyakarita,19.389964,72.829919
+5000160,Mseb Office,19.388311,72.830344
+5000161,Vasai Station (E),19.385746,72.830873
+5000162,D Mart,19.439924,72.810671
+5000163,Mhada No.7,19.443208,72.80717
+5000164,Vasai Station (W),19.382144,72.830045
+5000165,Panchal Nagar,19.379613,72.82845
+5000166,Manickpur,19.375486,72.825661
+5000167,Hanuman Mandir (Manickpur),19.3759,72.825936
+5000168,Mary Villa,19.373691,72.823617
+5000169,Petrol Pump,19.37203,72.821677
+5000170,Saint Augustine High School,19.370154,72.819622
+5000171,Shree Krishna Society,19.368662,72.817911
+5000172,Kaul City,19.367283,72.816307
+5000173,Bhabola,19.366352,72.815537
+5000174,Bhabola Talav,19.365923,72.812714
+5000175,Shanti Steel,19.365221,72.809547
+5000176,Cardinal Gracias Hospital,19.36442,72.805321
+5000177,Bangli Naka,19.363029,72.803528
+5000178,Acton,19.362658,72.802345
+5000179,Acton Cross,19.362049,72.800011
+5000180,Bhandar Ali,19.361976,72.800027
+5000181,Dev Talav,19.362722,72.797722
+5000182,Gunnaka,19.366631,72.796219
+5000183,Badami Pada,19.368139,72.794899
+5000184,Narali Bag,19.373711,72.789719
+5000185,Giriz Gaon,19.37608,72.789848
+5000186,Datta Nagar,19.378439,72.788841
+5000187,Bhui Gaon Daongari,19.382875,72.786171
+5000188,Ambedkar Nagar,19.385883,72.783745
+5000189,Gospel Church,19.387698,72.783148
+5000190,Bhuigoan Police Station,19.391333,72.782089
+5000191,Govind Baug,19.388348,72.777878
+5000192,Evershine City,19.399683,72.840333
+5000193,Parvati Cross,19.378099,72.827184
+5000194,Ambdai Road Junction,19.380931,72.829193
+5000195,Gokhivare,19.400568,72.843
+5000196,Fulpada Dam,19.455772,72.830421
+5000197,Vikas Nagar,19.455242,72.827682
+5000198,I.P. Gala,19.454895,72.827026
+5000199,Mahatma Gandhi Chowk,19.454679,72.825592
+5000200,Dwarka Nagari,19.454617,72.824928
+5000201,R.J. Nagar,19.454827,72.818475
+5000202,Ice Factory,19.455653,72.816517
+5000203,Chorage Tower,19.455977,72.815283
+5000204,Solanki Naka / Vartak Chowk,19.456316,72.814205
+5000205,Virar (E),19.455654,72.812503
+5000206,Pydhonie,19.407171,72.869649
+5000207,Dwarka Nagari,19.454861,72.820518
+5000208,Gandhi Chowk,19.454666,72.824936
+5000209,Riddhi Vinayak Multispeciality Hospital,19.435734,72.812169
+5000210,Yashwant Gaurav Complex,19.434539,72.812269
+5000211,Shree Sai Enclave,19.432228,72.810466
+5000212,Niswaarth Hospital,19.431037,72.811543
+5000213,Deep Heights,19.429757,72.811305
+5000214,Sai Abhyuday Complex,19.428147,72.810956
+5000215,Poonam Palash,19.425814,72.811196
+5000216,Fun Fiesta Multiplex,19.424048,72.811361
+5000217,V.V.M.C.Office / Vrundavan Garden,19.421844,72.81151
+5000218,Shani Mandir,19.34656,72.802254
+5000219,Milgiri Cross,19.348009,72.800629
+5000220,Remedy Church,19.348524,72.800499
+5000221,Holi Main Street,19.350378,72.799568
+5000222,Holi Bazar,19.352295,72.798943
+5000223,Saint Elizabeth School,19.354008,72.799065
+5000224,Tarkhad Naka,19.357754,72.79882
+5000225,Tarkhad,19.358671,72.798943
+5000226,Vasalai Naka,19.361759,72.796295
+5000227,Saint Thomas School,19.362366,72.797117
+5000228,Laxmi Industry (Pydhonie),19.407352,72.869442
+5000229,Sativali Gaavdevi Mandir,19.40478,72.877443
+5000230,Nalasopara Bus Depot,19.417836,72.816789
+5000231,Laxmi Industry,19.407131,72.86753
+5000232,Panchmukhi Mandir,19.420046,72.815475
+5000233,Satyam Complex,19.419874,72.813243
+5000234,Patankar Park,19.419792,72.811892
+5000235,Chheda Complex,19.419689,72.808594
+5000236,Nalasopara Police Station,19.419419,72.806297
+5000237,Girivihar,19.449391,72.816881
+5000238,Sai Shyam,19.448971,72.817413
+5000239,Baroda Bank Manvel Pada,19.448277,72.818131
+5000240,Vijay Anand Park,19.447321,72.818733
+5000241,Don Bosco Church,19.446184,72.819809
+5000242,Avdhut Nagar,19.445423,72.820618
+5000243,Manvel Pada,19.444265,72.821678
+5000244,Shiv Mandir (Shurparak Nagar),19.419367,72.804626
+5000245,Jagannath Hospital,19.440006,72.823135
+5000246,Morgaon Talav,19.437168,72.823013
+5000247,Mahila Vastu,19.434968,72.822567
+5000248,Moregaon Naka,19.434019,72.822805
+5000249,Moregaon,19.435867,72.822786
+5000250,Hanuman Mandir,19.433121,72.82338
+5000251,Nageshwar Mandir,19.429831,72.822824
+5000252,Sopara English School,19.418852,72.802607
+5000253,Laxmi Nagar,19.429344,72.822586
+5000254,Vijay Nagar,19.428253,72.822235
+5000255,Datta Nagar,19.426901,72.821655
+5000256,Saint Francis De Sales School,19.425844,72.82019
+5000257,Central Park,19.425543,72.818741
+5000258,Samel Pada,19.417318,72.801219
+5000259,Nutan Vidyalaya,19.43128,72.823097
+5000260,Moreshwar Vidyalaya,19.432636,72.823456
+5000261,Laxmi Narayan Mandir,19.416231,72.800978
+5000262,Narayan Chandra Trust,19.436529,72.822868
+5000263,Holy Spirit School,19.44088,72.823074
+5000264,Kargil Nagar,19.441748,72.82296
+5000265,Manvel Pada Talav,19.443249,72.822601
+5000266,Manvel Pada Naka,19.44429,72.821754
+5000267,Sant Nagar,19.44738,72.818832
+5000268,Nala Phata,19.416252,72.800224
+5000269,Vidya Sadan,19.447968,72.818352
+5000270,Bhuvan Hospital,19.449527,72.816744
+5000271,Waliv Phata,19.406848,72.865728
+5000272,Bhandar Pali Naka,19.414289,72.799342
+5000273,Prabhat Chowk,19.445278,72.791061
+5000274,Government Hospital,19.413918,72.798077
+5000275,Highway Phata,19.450191,72.804868
+5000276,Virar (W),19.452477,72.810171
+5000277,Sopara Stupa Buddhist,19.414842,72.794864
+5000278,Vanda,19.41415,72.792007
+5000279,Navpur,19.445173,72.759186
+5000280,Moda Mahal,19.445911,72.761597
+5000281,Datta Mandir,19.447102,72.765579
+5000282,Ludki,19.41294,72.788494
+5000283,Khandan Wada,19.44865,72.769295
+5000284,Raut Ali,19.447109,72.773636
+5000285,Umbargothan Naka,19.446686,72.778229
+5000286,Kopharad,19.445415,72.781464
+5000287,Nandakhal,19.443161,72.78286
+5000288,Jp Nagar,19.443771,72.789368
+5000289,Fernand Ali,19.413249,72.787453
+5000290,Nala,19.424749,72.782172
+5000291,Fish Market,19.426962,72.782043
+5000292,Patil Nagar,19.426071,72.785294
+5000293,Walunge Wadi,19.425664,72.787146
+5000294,Sidi Wadi,19.42458,72.787525
+5000295,Wagholi Naka,19.41382,72.784524
+5000296,Karoti Bus Naka,19.420873,72.791113
+5000297,Guraade,19.418603,72.795095
+5000298,Swaminarayan Mandir,19.4207,72.819252
+5000299,Wagholi School,19.411439,72.782823
+5000300,S.P. Office,19.403462,72.831015
+5000301,Fire Brigade,19.405596,72.828029
+5000302,Achole Talav,19.411547,72.826959
+5000303,Alkapuri Nagar,19.411723,72.826781
+5000304,Jaya Palace,19.412267,72.826379
+5000305,Dwarka Hotel,19.413382,72.825927
+5000306,Pulare,19.409981,72.781817
+5000307,Pudhari Nagar,19.418056,72.821683
+5000308,Bappa Sitaram Market,19.419476,72.820464
+5000309,Achole Road,19.420341,72.819727
+5000310,Mali Ali,19.407896,72.780565
+5000311,Don Lane,19.417989,72.821914
+5000312,Paras Apartment,19.411026,72.827684
+5000313,Yashwant Pada,19.409599,72.826185
+5000314,Tirupati Udyog Nagar,19.406286,72.863871
+5000315,Navale More,19.405824,72.780526
+5000316,Fire Brigade Station,19.405657,72.828225
+5000317,Shirsad Phata,19.474523,72.893702
+5000318,K.T. Hill Resort,19.470989,72.891826
+5000319,Virar Phata,19.467963,72.887694
+5000320,Tata Engineering Workshop,19.468913,72.88459
+5000321,Kaner Phata,19.47,72.880875
+5000322,Pir Kund Dargah,19.468595,72.875218
+5000323,Nirmal Naka,19.402782,72.779272
+5000324,Hazrat Baba,19.468126,72.869352
+5000325,Raipada,19.469001,72.858511
+5000326,Gokulwadi,19.470252,72.852986
+5000327,Gadasa Pada,19.469894,72.850148
+5000328,Mutta Pawan,19.46976,72.846994
+5000329,Bhatpada,19.46973,72.844572
+5000330,R.T.O. Office,19.469537,72.841951
+5000331,Ghanicha Talav,19.469849,72.83896
+5000332,J.K. Marble,19.470089,72.837838
+5000333,Check Post,19.402016,72.777721
+5000334,Hdil Industrial Estate,19.470495,72.836904
+5000335,Bharat Estate,19.471299,72.834872
+5000336,Katkari Pada,19.472684,72.832048
+5000337,Chandansar,19.474104,72.829209
+5000338,Bhoida Pada,19.474215,72.828633
+5000339,Tandul Bazar,19.473738,72.825789
+5000340,Kopri Naka,19.473202,72.823679
+5000341,Sainath Nagar,19.471761,72.82025
+5000342,H.P. Petrol Pump,19.470712,72.818836
+5000343,Panchpayari,19.469608,72.817666
+5000344,Kalamb Bridge,19.402756,72.771662
+5000345,Post Office,19.468544,72.816769
+5000346,Ganesh Mandir,19.466769,72.815813
+5000347,Ambedkar Nagar,19.464867,72.81474
+5000348,Makwana Complex,19.46395,72.814816
+5000349,Gopchar Pada,19.462757,72.814571
+5000350,Jivdani Cross Road,19.459847,72.813736
+5000351,Panchjanya,19.45957,72.814407
+5000352,Parmarth Niketan,19.458327,72.814822
+5000353,Vartak Chowk,19.457586,72.814778
+5000354,Shiv Mandir (Kalamb),19.403411,72.767124
+5000355,Shankar mandir,19.458351,72.812004
+5000356,Thane District Central Co-Op Bank,19.461175,72.814267
+5000357,Bhindi Pada,19.405439,72.766891
+5000358,Sainath Nagar,19.47314,72.822734
+5000359,Durga Devi Mandir,19.473429,72.824025
+5000360,Sai Baba Mandir,19.472311,72.833152
+5000361,Bhuva Nagar,19.408096,72.766575
+5000362,K.D. Farm House,19.409762,72.766532
+5000363,Khadi Gram Udyog,19.470697,72.878937
+5000364,Killa Bunder,19.328498,72.814483
+5000365,Chimaji Appa,19.330668,72.815132
+5000366,Vasai Police Station,19.332385,72.810033
+5000367,Kurhad Wadi,19.411686,72.766663
+5000368,Vasai Depot,19.344957,72.806313
+5000369,Sagershet,19.34657,72.808436
+5000370,Tam Talav,19.348006,72.811456
+5000371,Papdy Church,19.351334,72.812303
+5000372,Papdy,19.354128,72.812711
+5000373,Umela Phata,19.357538,72.81201
+5000374,Dattani Mall,19.360006,72.812807
+5000375,Uttankar Wadi,19.413463,72.766419
+5000376,Philips Complex,19.361767,72.813502
+5000377,D Mart,19.364246,72.81438
+5000378,Dattani Square Mall,19.359921,72.813008
+5000379,Agarwal Naka,19.405814,72.859671
+5000380,Z.P. School,19.417119,72.765655
+5000381,Vasai Gaon,19.345022,72.80641
+5000382,Government College,19.342476,72.807495
+5000383,Pricess Park,19.341068,72.807892
+5000384,Tehsil Office,19.335396,72.808197
+5000385,Hanuman Mandir (Sandor),19.345485,72.798452
+5000386,Gavankar Chowk,19.344303,72.79969
+5000387,Ashirwad Complex,19.344303,72.79969
+5000388,Budhaji Nagar,19.419885,72.765144
+5000389,Sagar Darshan,19.342808,72.800692
+5000390,Vasudev Society,19.342397,72.801632
+5000391,Parnaka,19.343641,72.804331
+5000392,Machhi Market,19.329643,72.804741
+5000393,Kalam Rajodi Junction,19.422083,72.764856
+5000394,Koliwada Sons,19.335693,72.803177
+5000395,Saint John Bosco High School,19.338087,72.80723
+5000396,Vasai Tehsil Office,19.335514,72.807906
+5000397,Zenda Bazar,19.339792,72.806317
+5000398,Municipal Hospital,19.341865,72.805077
+5000399,60 Feet Road,19.384366,72.827207
+5000400,Manav Mandir,19.38527,72.826826
+5000401,Manikpur Police Station,19.385305,72.826824
+5000402,Panchvati,19.388554,72.826456
+5000403,100 Feet Road,19.386759,72.826929
+5000404,Ratnakar Bank,19.455297,72.812592
+5000405,Virar Subway,19.454775,72.812553
+5000406,Reliance Fresh,19.452467,72.813026
+5000407,Tarwadi,19.451059,72.813034
+5000408,Nagindas,19.43215,72.823334
+5000409,Nirav Industrial Estate,19.403347,72.882619
+5000410,Tungareshwar Phata,19.410188,72.878051
+5000411,Unico Industry,19.410917,72.879464
+5000412,Shanidham Mandir,19.411562,72.883722
+5000413,Tungareshwar,19.411556,72.884562
+5000414,Sadguru Kripa,19.425108,72.842842
+5000415,Jeevan Nagar,19.422789,72.844269
+5000416,Bhoir Nagar,19.4217,72.844978
+5000417,Shiv Mandir,19.420778,72.84523
+5000418,Satya Narayan Mandir,19.419724,72.845482
+5000419,Industrial,19.411856,72.851044
+5000420,Hanuman Mandir,19.416994,72.846916
+5000421,Gavaraipada,19.41563,72.848717
+5000422,Valiv Police Station,19.409702,72.851128
+5000423,Gauripada Naka,19.407991,72.85083
+5000424,Sai Mandir,19.405668,72.857522
+5000425,Bhoidapada Naka,19.405448,72.855529

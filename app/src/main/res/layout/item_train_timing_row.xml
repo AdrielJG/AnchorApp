@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- A single row in the "Next trains from X" table -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:gravity="center_vertical"
+    android:paddingVertical="7dp"
+    android:paddingHorizontal="4dp">
+
+    <!-- DEPARTS -->
+    <TextView
+        android:id="@+id/tvDep"
+        android:layout_width="64dp"
+        android:layout_height="wrap_content"
+        android:textSize="13sp"
+        android:textStyle="bold"
+        android:textColor="@color/text_primary"/>
+
+    <!-- Arrow -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" → "
+        android:textColor="@color/text_muted"
+        android:textSize="11sp"/>
+
+    <!-- ARRIVES -->
+    <TextView
+        android:id="@+id/tvArr"
+        android:layout_width="64dp"
+        android:layout_height="wrap_content"
+        android:textSize="13sp"
+        android:textColor="@color/text_primary"/>
+
+    <!-- JOURNEY -->
+    <TextView
+        android:id="@+id/tvJourney"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textSize="11sp"
+        android:textColor="@color/text_muted"
+        android:gravity="center"/>
+
+    <!-- TYPE -->
+    <TextView
+        android:id="@+id/tvType"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textSize="11sp"
+        android:textColor="@color/text_muted"
+        android:gravity="center"/>
+
+    <!-- WAIT pill -->
+    <TextView
+        android:id="@+id/tvWait"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingHorizontal="10dp"
+        android:paddingVertical="3dp"
+        android:textSize="11sp"
+        android:textStyle="bold"
+        android:textColor="@color/accent_blue"
+        android:background="@drawable/pill_outline_bg"/>
+
+</LinearLayout>

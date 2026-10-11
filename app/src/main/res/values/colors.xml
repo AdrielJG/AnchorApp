@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_primary">#EAF1FE</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="border">#E2E0DA</color>
+    <color name="text_primary">#181A20</color>
+    <color name="text_muted">#9AA0AC</color>
+    <color name="text_hint">#9AA0AC</color>
+    <color name="accent_blue">#2B6BF0</color>
+    <color name="accent_blue_bg">#EFF4FF</color>
+    <color name="accent_blue_soft">#DCEAFE</color>
+    <color name="green">#0A7C42</color>
+    <color name="amber">#B45309</color>
+    <color name="red">#9B1C1C</color>
+    <color name="purple">#6D28D9</color>
+    <color name="colorPrimary">#1A56DB</color>
+    <color name="colorPrimaryDark">#1240A8</color>
+    <color name="colorAccent">#1A56DB</color>
+    <color name="chip_border">#E3E7EE</color>
+    <color name="panel_fill">#DEE9FC</color>
+    <!-- Live tracking -->
+    <color name="live_green">#0A7C42</color>
+    <color name="live_green_bg">#E7F4EC</color>
+    <color name="live_red_bg">#FBECEC</color>
+    <color name="live_amber_bg">#FDF3E6</color>
+    <color name="live_grey_bg">#EDEBE6</color>
+</resources>

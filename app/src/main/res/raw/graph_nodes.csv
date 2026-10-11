@@ -1,0 +1,254 @@
+stop_name,line,mode,seq_on_line,node_id,canonical,is_interchange,node_type
+CSMT,Central Railway Main,CR_Train,1,N0001,CSMT / Mumbai CSMT,True,interchange
+Masjid,Central Railway Main,CR_Train,1,N0002,Masjid,True,interchange
+Byculla,Central Railway Main,CR_Train,1,N0003,Byculla,False,stop
+Parel,Central Railway Main,CR_Train,1,N0004,Parel / Lower Parel,True,interchange
+Dadar,Central Railway Main,CR_Train,1,N0005,Dadar,True,interchange
+Kurla,Central Railway Main,CR_Train,1,N0006,Kurla,True,interchange
+Vidyavihar,Central Railway Main,CR_Train,1,N0007,Vidyavihar,False,stop
+Ghatkopar,Central Railway Main,CR_Train,1,N0008,Ghatkopar,True,interchange
+Thane,Central Railway Main,CR_Train,1,N0009,Thane,True,interchange
+Dombivli,Central Railway Main,CR_Train,1,N0010,Dombivli,False,stop
+Kalyan,Central Railway Main,CR_Train,1,N0011,Kalyan,False,stop
+Ambernath,Central Railway Main,CR_Train,1,N0012,Ambernath,False,stop
+Titwala,Central Railway Main,CR_Train,1,N0013,Titwala,False,stop
+Asangaon,Central Railway Main,CR_Train,1,N0014,Asangaon,False,stop
+Khardi,Central Railway Main,CR_Train,1,N0015,Khardi,False,stop
+Kasara,Central Railway Main,CR_Train,1,N0016,Kasara,False,stop
+Badlapur,Central Railway Main,CR_Train,1,N0017,Badlapur,False,stop
+Neral,Central Railway Main,CR_Train,1,N0018,Neral,False,stop
+Karjat,Central Railway Main,CR_Train,1,N0019,Karjat,False,stop
+Palasdhari,Central Railway Main,CR_Train,1,N0020,Palasdhari,False,stop
+Khopoli,Central Railway Main,CR_Train,1,N0021,Khopoli,False,stop
+Sandhurst Road,Central Railway Main,CR_Train,2,N0022,Sandhurst Road,True,interchange
+Matunga,Central Railway Main,CR_Train,2,N0023,Matunga,False,stop
+Sion,Central Railway Main,CR_Train,2,N0024,Sion,False,stop
+Mulund,Central Railway Main,CR_Train,2,N0025,Mulund,False,stop
+Kalva,Central Railway Main,CR_Train,2,N0026,Kalva,False,stop
+Kopar,Central Railway Main,CR_Train,2,N0027,Kopar,False,stop
+Thakurli,Central Railway Main,CR_Train,2,N0028,Thakurli,False,stop
+Ulhas Nagar,Central Railway Main,CR_Train,2,N0029,Ulhas Nagar,False,stop
+Shahad,Central Railway Main,CR_Train,2,N0030,Shahad,False,stop
+Ambivli,Central Railway Main,CR_Train,2,N0031,Ambivli,False,stop
+Vasind,Central Railway Main,CR_Train,2,N0032,Vasind,False,stop
+Shelu,Central Railway Main,CR_Train,2,N0033,Shelu,False,stop
+Bhivpuri Road,Central Railway Main,CR_Train,2,N0034,Bhivpuri Road,False,stop
+Kelavli,Central Railway Main,CR_Train,2,N0035,Kelavli,False,stop
+Lowjee,Central Railway Main,CR_Train,2,N0036,Lowjee,False,stop
+Vikhroli,Central Railway Main,CR_Train,3,N0037,Vikhroli,False,stop
+Bhandup,Central Railway Main,CR_Train,3,N0038,Bhandup,False,stop
+Nahur,Central Railway Main,CR_Train,3,N0039,Nahur,False,stop
+Mumbra,Central Railway Main,CR_Train,3,N0040,Mumbra,False,stop
+Diva,Central Railway Main,CR_Train,3,N0041,Diva,False,stop
+Vithalwadi,Central Railway Main,CR_Train,3,N0042,Vithalwadi,False,stop
+Khadavli,Central Railway Main,CR_Train,3,N0043,Khadavli,False,stop
+Atgaon,Central Railway Main,CR_Train,3,N0044,Atgaon,False,stop
+Vangani,Central Railway Main,CR_Train,3,N0045,Vangani,False,stop
+Dolavli,Central Railway Main,CR_Train,3,N0046,Dolavli,False,stop
+Chinchpokli,Central Railway Main,CR_Train,4,N0047,Chinchpokli,False,stop
+Kanjur Marg,Central Railway Main,CR_Train,4,N0048,Kanjur Marg,False,stop
+Currey Road,Central Railway Main,CR_Train,5,N0049,Currey Road,False,stop
+Mumbai CSMT,Harbour Line CSMT,CR_Train,1,N0050,CSMT / Mumbai CSMT,True,interchange
+Masjid,Harbour Line CSMT,CR_Train,1,N0051,Masjid,True,interchange
+Sewri,Harbour Line CSMT,CR_Train,1,N0052,Sewri,False,stop
+Vadala Road,Harbour Line CSMT,CR_Train,1,N0053,Vadala Road,False,stop
+Chembur,Harbour Line CSMT,CR_Train,1,N0054,Chembur,False,stop
+Mankhurd,Harbour Line CSMT,CR_Train,1,N0055,Mankhurd,False,stop
+Vashi,Harbour Line CSMT,CR_Train,1,N0056,Vashi,True,interchange
+Juinagar,Harbour Line CSMT,CR_Train,1,N0057,Juinagar,False,stop
+Belapur CBD,Harbour Line CSMT,CR_Train,1,N0058,Belapur CBD,True,interchange
+Panvel,Harbour Line CSMT,CR_Train,1,N0059,Panvel,True,interchange
+Bandra,Harbour Line CSMT,CR_Train,1,N0060,Bandra,True,interchange
+Goregaon,Harbour Line CSMT,CR_Train,1,N0061,Goregaon,True,interchange
+Cotton Green,Harbour Line CSMT,CR_Train,2,N0062,Cotton Green,False,stop
+GTB Nagar,Harbour Line CSMT,CR_Train,2,N0063,GTB Nagar,False,stop
+Chunabhatti,Harbour Line CSMT,CR_Train,2,N0064,Chunabhatti,False,stop
+Tilaknagar,Harbour Line CSMT,CR_Train,2,N0065,Tilaknagar,False,stop
+Govandi,Harbour Line CSMT,CR_Train,2,N0066,Govandi,False,stop
+Sanpada,Harbour Line CSMT,CR_Train,2,N0067,Sanpada,False,stop
+Nerul,Harbour Line CSMT,CR_Train,2,N0068,Nerul,True,interchange
+Seawoods-Darave,Harbour Line CSMT,CR_Train,2,N0069,Seawoods-Darave,False,stop
+Khandeshwar,Harbour Line CSMT,CR_Train,2,N0070,Khandeshwar,False,stop
+King's Circle,Harbour Line CSMT,CR_Train,2,N0071,King's Circle,False,stop
+Mahim Jn,Harbour Line CSMT,CR_Train,2,N0072,Mahim Jn,False,stop
+Ramnagar,Harbour Line CSMT,CR_Train,2,N0073,Ramnagar,False,stop
+Sandhurst Road,Harbour Line CSMT,CR_Train,3,N0074,Sandhurst Road,True,interchange
+Reay Road,Harbour Line CSMT,CR_Train,3,N0075,Reay Road,False,stop
+Kurla,Harbour Line CSMT,CR_Train,3,N0076,Kurla,True,interchange
+Mansarovar,Harbour Line CSMT,CR_Train,3,N0077,Mansarovar,False,stop
+Jogeshwari,Harbour Line CSMT,CR_Train,3,N0078,Jogeshwari,True,interchange
+Dockyard Road,Harbour Line CSMT,CR_Train,4,N0079,Dockyard Road,False,stop
+Kharghar,Harbour Line CSMT,CR_Train,4,N0080,Kharghar,False,stop
+Andheri,Harbour Line CSMT,CR_Train,4,N0081,Andheri,True,interchange
+Khar Road,Harbour Line CSMT,CR_Train,5,N0082,Khar Road,True,interchange
+Vileparle,Harbour Line CSMT,CR_Train,5,N0083,Vileparle,False,stop
+Santacruz,Harbour Line CSMT,CR_Train,6,N0084,Santacruz,True,interchange
+Versova,Metro Line 1 (Blue),Metro,1,N0085,Versova,False,stop
+Ghatkopar,Metro Line 1 (Blue),Metro,1,N0086,Ghatkopar,True,interchange
+D.N. Nagar,Metro Line 1 (Blue),Metro,2,N0087,D.N. Nagar,True,interchange
+Jagruti Nagar,Metro Line 1 (Blue),Metro,2,N0088,Jagruti Nagar,False,stop
+Azad Nagar,Metro Line 1 (Blue),Metro,3,N0089,Azad Nagar,False,stop
+Asalpha,Metro Line 1 (Blue),Metro,3,N0090,Asalpha,False,stop
+Andheri,Metro Line 1 (Blue),Metro,4,N0091,Andheri,True,interchange
+Saki Naka,Metro Line 1 (Blue),Metro,4,N0092,Saki Naka,False,stop
+Western Express Highway,Metro Line 1 (Blue),Metro,5,N0093,Western Express Highway,False,stop
+Marol Naka,Metro Line 1 (Blue),Metro,5,N0094,Marol Naka,True,interchange
+Chakala (J.B. Nagar),Metro Line 1 (Blue),Metro,6,N0095,Chakala (J.B. Nagar),False,stop
+Airport Road,Metro Line 1 (Blue),Metro,6,N0096,Airport Road,False,stop
+Dahisar East,Metro Line 2A (Yellow),Metro,1,N0097,Dahisar East,True,interchange
+D.N. Nagar,Metro Line 2A (Yellow),Metro,1,N0098,D.N. Nagar,True,interchange
+Ovaripada,Metro Line 2A (Yellow),Metro,2,N0099,Ovaripada,True,interchange
+Lower Juhu,Metro Line 2A (Yellow),Metro,2,N0100,Lower Juhu,False,stop
+Eksar (Shimpoli),Metro Line 2A (Yellow),Metro,3,N0101,Eksar (Shimpoli),False,stop
+Andheri West,Metro Line 2A (Yellow),Metro,3,N0102,Andheri,True,interchange
+Kandarpada,Metro Line 2A (Yellow),Metro,4,N0103,Kandarpada,False,stop
+Lower Oshiwara,Metro Line 2A (Yellow),Metro,4,N0104,Lower Oshiwara,False,stop
+IC Colony (Mandapeshwar),Metro Line 2A (Yellow),Metro,5,N0105,IC Colony (Mandapeshwar),False,stop
+Oshiwara,Metro Line 2A (Yellow),Metro,5,N0106,Oshiwara,False,stop
+Borivali West,Metro Line 2A (Yellow),Metro,6,N0107,Borivali,True,interchange
+Goregaon West (Bangur Nagar),Metro Line 2A (Yellow),Metro,6,N0108,Goregaon,True,interchange
+Pahadi Eksar (Bangur Nagar),Metro Line 2A (Yellow),Metro,7,N0109,Pahadi Eksar (Bangur Nagar),False,stop
+Lower Malad,Metro Line 2A (Yellow),Metro,7,N0110,Lower Malad,False,stop
+Kandivali West,Metro Line 2A (Yellow),Metro,8,N0111,Kandivali West,False,stop
+Malad West,Metro Line 2A (Yellow),Metro,8,N0112,Malad West,False,stop
+Dahanukarwadi (Kamraj Nagar),Metro Line 2A (Yellow),Metro,9,N0113,Dahanukarwadi (Kamraj Nagar),False,stop
+Aarey JVLR,Metro Line 3 (Aqua),Metro,1,N0114,Aarey JVLR,True,interchange
+Cuffe Parade,Metro Line 3 (Aqua),Metro,1,N0115,Cuffe Parade,False,stop
+SEEPZ,Metro Line 3 (Aqua),Metro,2,N0116,SEEPZ,False,stop
+Vidhan Bhavan,Metro Line 3 (Aqua),Metro,2,N0117,Vidhan Bhavan,False,stop
+MIDC (Andheri),Metro Line 3 (Aqua),Metro,3,N0118,Andheri,True,interchange
+Churchgate Metro,Metro Line 3 (Aqua),Metro,3,N0119,Churchgate,True,interchange
+Marol Naka,Metro Line 3 (Aqua),Metro,4,N0120,Marol Naka,True,interchange
+Hutatma Chowk,Metro Line 3 (Aqua),Metro,4,N0121,Hutatma Chowk,False,stop
+CSIA T2 (Int'l Airport),Metro Line 3 (Aqua),Metro,5,N0122,CSIA T2 (Int'l Airport),False,stop
+CSMT Metro,Metro Line 3 (Aqua),Metro,5,N0123,CSMT / Mumbai CSMT,True,interchange
+Sahar Road,Metro Line 3 (Aqua),Metro,6,N0124,Sahar Road,False,stop
+Kalbadevi,Metro Line 3 (Aqua),Metro,6,N0125,Kalbadevi,False,stop
+CSIA T1 (Dom. Airport),Metro Line 3 (Aqua),Metro,7,N0126,CSIA T1 (Dom. Airport),False,stop
+Girgaon,Metro Line 3 (Aqua),Metro,7,N0127,Girgaon,False,stop
+Santacruz Metro,Metro Line 3 (Aqua),Metro,8,N0128,Santacruz,True,interchange
+Grant Road Metro,Metro Line 3 (Aqua),Metro,8,N0129,Grant Road,True,interchange
+Bandra Colony,Metro Line 3 (Aqua),Metro,9,N0130,Bandra,True,interchange
+Mumbai Central Metro,Metro Line 3 (Aqua),Metro,9,N0131,Mumbai Central,True,interchange
+Bandra Kurla Complex,Metro Line 3 (Aqua),Metro,10,N0132,Bandra Kurla Complex,False,stop
+Mahalaxmi,Metro Line 3 (Aqua),Metro,10,N0133,Mahalaxmi,True,interchange
+Dharavi,Metro Line 3 (Aqua),Metro,11,N0134,Dharavi,False,stop
+Nehru Science Centre,Metro Line 3 (Aqua),Metro,11,N0135,Nehru Science Centre,False,stop
+Shitala Devi Mandir,Metro Line 3 (Aqua),Metro,12,N0136,Shitala Devi Mandir,False,stop
+Acharya Atre Chowk,Metro Line 3 (Aqua),Metro,12,N0137,Acharya Atre Chowk,False,stop
+Dadar Metro,Metro Line 3 (Aqua),Metro,13,N0138,Dadar,True,interchange
+Worli,Metro Line 3 (Aqua),Metro,13,N0139,Worli,False,stop
+Siddhivinayak,Metro Line 3 (Aqua),Metro,14,N0140,Siddhivinayak,False,stop
+Dahisar East,Metro Line 7 (Red),Metro,1,N0141,Dahisar East,True,interchange
+Gundavali (Andheri East),Metro Line 7 (Red),Metro,1,N0142,Gundavali (Andheri East),False,stop
+Ovaripada,Metro Line 7 (Red),Metro,2,N0143,Ovaripada,True,interchange
+Jogeshwari East (JVLR),Metro Line 7 (Red),Metro,2,N0144,Jogeshwari,True,interchange
+Rashtriya Udyan (National Park),Metro Line 7 (Red),Metro,3,N0145,Rashtriya Udyan (National Park),False,stop
+Goregaon East,Metro Line 7 (Red),Metro,3,N0146,Goregaon,True,interchange
+Devipada,Metro Line 7 (Red),Metro,4,N0147,Devipada,False,stop
+Aarey (JVLR),Metro Line 7 (Red),Metro,4,N0148,Aarey JVLR,True,interchange
+Magathane,Metro Line 7 (Red),Metro,5,N0149,Magathane,False,stop
+Dindoshi,Metro Line 7 (Red),Metro,5,N0150,Dindoshi,False,stop
+Poisar,Metro Line 7 (Red),Metro,6,N0151,Poisar,False,stop
+Kurar,Metro Line 7 (Red),Metro,6,N0152,Kurar,False,stop
+Akurli,Metro Line 7 (Red),Metro,7,N0153,Akurli,False,stop
+Digha Gaon,Trans-Harbour Line,CR_Train,1,N0154,Digha Gaon,False,stop
+Nerul,Trans-Harbour Line,CR_Train,1,N0155,Nerul,True,interchange
+Khandeshwar,Trans-Harbour Line,CR_Train,1,N0156,Khandeshwar,False,stop
+Vashi,Trans-Harbour Line,CR_Train,1,N0157,Vashi,True,interchange
+AIROLI,Trans-Harbour Line,CR_Train,2,N0158,AIROLI,False,stop
+Juinagar,Trans-Harbour Line,CR_Train,2,N0159,Juinagar,False,stop
+Mansarovar,Trans-Harbour Line,CR_Train,2,N0160,Mansarovar,False,stop
+Sanpada,Trans-Harbour Line,CR_Train,2,N0161,Sanpada,False,stop
+RABALE,Trans-Harbour Line,CR_Train,3,N0162,RABALE,False,stop
+TURBHE,Trans-Harbour Line,CR_Train,3,N0163,TURBHE,False,stop
+Kharghar,Trans-Harbour Line,CR_Train,3,N0164,Kharghar,False,stop
+GHANSOLI,Trans-Harbour Line,CR_Train,4,N0165,GHANSOLI,False,stop
+KOPAR KHAIRANE,Trans-Harbour Line,CR_Train,4,N0166,KOPAR KHAIRANE,False,stop
+Belapur CBD,Trans-Harbour Line,CR_Train,4,N0167,Belapur CBD,True,interchange
+Seawoods-Darave,Trans-Harbour Line,CR_Train,5,N0168,Seawoods-Darave,False,stop
+THANE,Trans-Harbour Line,CR_Train,9,N0169,Thane,True,interchange
+Panvel,Trans-Harbour Line,CR_Train,14,N0170,Panvel,True,interchange
+Charni Road,Western Railway,WR_Train,1,N0171,Charni Road,False,stop
+Mumbai Central,Western Railway,WR_Train,1,N0172,Mumbai Central,True,interchange
+Mahalakshmi,Western Railway,WR_Train,1,N0173,Mahalaxmi,True,interchange
+Lower Parel,Western Railway,WR_Train,1,N0174,Parel / Lower Parel,True,interchange
+DADAR,Western Railway,WR_Train,1,N0175,Dadar,True,interchange
+BANDRA,Western Railway,WR_Train,1,N0176,Bandra,True,interchange
+Khar Road,Western Railway,WR_Train,1,N0177,Khar Road,True,interchange
+ANDHERI,Western Railway,WR_Train,1,N0178,Andheri,True,interchange
+Goregaon,Western Railway,WR_Train,1,N0179,Goregaon,True,interchange
+Malad,Western Railway,WR_Train,1,N0180,Malad,False,stop
+BORIVALI,Western Railway,WR_Train,1,N0181,Borivali,True,interchange
+Bhayandar,Western Railway,WR_Train,1,N0182,Bhayandar,False,stop
+Vasai Road,Western Railway,WR_Train,1,N0183,Vasai Road,False,stop
+VIRAR,Western Railway,WR_Train,1,N0184,VIRAR,False,stop
+Grant Road,Western Railway,WR_Train,2,N0185,Grant Road,True,interchange
+Prabhadevi,Western Railway,WR_Train,2,N0186,Prabhadevi,False,stop
+Mahim Jn.,Western Railway,WR_Train,2,N0187,Mahim Jn.,False,stop
+Santa Cruz,Western Railway,WR_Train,2,N0188,Santacruz,True,interchange
+Vile Parle,Western Railway,WR_Train,2,N0189,Vile Parle,False,stop
+Jogeshwari,Western Railway,WR_Train,2,N0190,Jogeshwari,True,interchange
+Ram Mandir,Western Railway,WR_Train,2,N0191,Ram Mandir,False,stop
+Kandivli,Western Railway,WR_Train,2,N0192,Kandivli,False,stop
+Dahisar,Western Railway,WR_Train,2,N0193,Dahisar,False,stop
+Mira Road,Western Railway,WR_Train,2,N0194,Mira Road,False,stop
+Naigaon,Western Railway,WR_Train,2,N0195,Naigaon,False,stop
+Matunga Road,Western Railway,WR_Train,3,N0196,Matunga Road,False,stop
+Nalla Sopara,Western Railway,WR_Train,5,N0197,Nalla Sopara,False,stop
+CHURCHGATE,Western Railway,WR_Train,6,N0198,Churchgate,True,interchange
+Marine Lines,Western Railway,WR_Train,8,N0199,Marine Lines,False,stop
+Backbay Depot,A-13E,BEST_Bus,1,B0200,Backbay Depot,False,stop
+Dahisar Bus Station,A-13E,BEST_Bus,1,B0201,Dahisar East,True,interchange
+Hiranandani Estate,A-13E,BEST_Bus,1,B0202,Hiranandani Estate,False,stop
+Lodha Paradise,A-13E,BEST_Bus,1,B0203,Lodha Paradise,False,stop
+Mithagar (Mulund),A-13E,BEST_Bus,1,B0204,Mulund,True,interchange
+Anik Depot,AS-1,BEST_Bus,1,B0205,Dadar,True,interchange
+Thane,AS-1,BEST_Bus,1,B0206,Thane,True,interchange
+Cadbury Junction,AS-1,BEST_Bus,1,B0207,Cadbury Junction,False,stop
+Magathane Depot,AS-2,BEST_Bus,1,B0208,Magathane Depot,False,stop
+National Park Borivali,AS-2,BEST_Bus,1,B0209,Borivali,True,interchange
+NSCI (Worli),AS-2,BEST_Bus,1,B0210,Worli,True,interchange
+National Park (Borivali),AS-2,BEST_Bus,1,B0211,National Park (Borivali),False,stop
+Ashtvinayak Chowk,AS-302,BEST_Bus,1,B0212,Ashtvinayak Chowk,False,stop
+Dharavi Depot,AS-302,BEST_Bus,1,B0213,Dharavi,True,interchange
+Ghatkopar Depot,AS-388,BEST_Bus,1,B0214,Ghatkopar,True,interchange
+Poisar Depot,AS-388,BEST_Bus,1,B0215,Poisar Depot,False,stop
+Oshiwara Depot,AS-4,BEST_Bus,1,B0216,Oshiwara,True,interchange
+Agarkar Chowk,AS-422,BEST_Bus,1,B0217,Agarkar Chowk,False,stop
+Mulund Bus Station,AS-422,BEST_Bus,1,B0218,Mulund,True,interchange
+Borivali Station (East),AS-440,BEST_Bus,1,B0219,Borivali,True,interchange
+Wadala Depot,AS-440,BEST_Bus,1,B0220,Wadala Depot,False,stop
+Gorai Depot,AS-458,BEST_Bus,1,B0221,Gorai Depot,False,stop
+Majas Depot,AS-461,BEST_Bus,1,B0222,Majas Depot,False,stop
+Borivali Station (West),AS-461,BEST_Bus,1,B0223,Borivali,True,interchange
+SEEPZ,AS-461,BEST_Bus,1,B0224,SEEPZ,True,interchange
+Kurla Tel.Stores,AS-5,BEST_Bus,1,B0225,Kurla,True,interchange
+Kurla Telephone Stores (BKC),AS-5,BEST_Bus,1,B0226,Kurla,True,interchange
+Kalamboli,AS-503,BEST_Bus,1,B0227,Panvel,False,stop
+C.B.D.Belapur,AS-505,BEST_Bus,1,B0228,Belapur CBD,True,interchange
+CBD Belapur,AS-505,BEST_Bus,1,B0229,Belapur CBD,True,interchange
+Santacruz Depot,AS-505,BEST_Bus,1,B0230,Santacruz,True,interchange
+Kurla Tele Stores,AS-505E,BEST_Bus,1,B0231,Kurla,True,interchange
+APMC Sector-19 Vashi,AS-524,BEST_Bus,1,B0232,Vashi,True,interchange
+Omkareshwar Mandir,AS-524,BEST_Bus,1,B0233,Omkareshwar Mandir,False,stop
+(MHAPE),AS-525,BEST_Bus,1,B0234,(MHAPE),False,stop
+L & T Infotech,AS-525,BEST_Bus,1,B0235,L & T Infotech,False,stop
+Marol Depot,AS-551,BEST_Bus,1,B0236,Marol Naka,True,interchange
+Nerul Railway Station,AS-551,BEST_Bus,1,B0237,Nerul,True,interchange
+SEEPZ Village,AS-551,BEST_Bus,1,B0238,SEEPZ,True,interchange
+Deonar Depot,AS-592,BEST_Bus,1,B0239,Deonar Depot,False,stop
+Extension,AS-592,BEST_Bus,1,B0240,Extension,False,stop
+Kopar Khairane,AS-592,BEST_Bus,1,B0241,KOPAR KHAIRANE,True,interchange
+Kopar Khairane Ext,AS-592,BEST_Bus,1,B0242,KOPAR KHAIRANE,True,interchange
+V.Naik Chowk,AS-592,BEST_Bus,1,B0243,V.Naik Chowk,False,stop
+K'Khairane,AS-592,BEST_Bus,1,B0244,K'Khairane,False,stop
+Kopari - Thane (East),AS-700,BEST_Bus,1,B0245,Kopari - Thane (East),False,stop
+Marathon Chowk,AS-700,BEST_Bus,1,B0246,Marathon Chowk,False,stop
+(Mira Road),AS-707,BEST_Bus,1,B0247,Mira Road,True,interchange
+Golden Nest,AS-707,BEST_Bus,1,B0248,Golden Nest,False,stop
+S'Cruz Depot,AS-707,BEST_Bus,1,B0249,S'Cruz Depot,False,stop
+Colaba Depot,AS-9,BEST_Bus,1,B0250,Colaba Depot,False,stop
+Ghatkopar Stn (E),AS-9,BEST_Bus,1,B0251,Ghatkopar,True,interchange
+Mira Road Station,Unknown/Special,BEST_Bus,1,B0252,Mira Road,True,interchange
+Hiranandani (Powai),Unknown/Special,BEST_Bus,1,B0253,Hiranandani (Powai),False,stop
